@@ -267,7 +267,7 @@
     {
       "title": "indem · dadurch, dass – 방법 말하기",
       "term": "Modalsätze mit indem / dadurch, dass",
-      "explain": "indem은 '~함으로써'라는 뜻의 종속접속사예요. 주절에서 말한 일이 어떤 방법으로 이루어지는지 설명해요. dadurch, dass …도 같은 뜻인데, dadurch가 주절에 남고 dass 절이 내용을 채우는 구조예요. 두 경우 모두 종속절이므로 동사는 끝에 와요.",
+      "explain": "indem은 '~함으로써'라는 뜻의 종속접속사로, 주절에서 말한 일이 어떤 방법으로 이루어지는지 설명해요. dadurch, dass …도 같은 뜻이에요. 여기서 dadurch는 주절에 속하는 상관어이고, dass 절이 그 내용을 채워요. 그래서 'Dadurch, dass …'처럼 함께 문장 맨 앞에 오기도 하고, 'Das Gegenüber fühlt sich dadurch weniger angegriffen, dass …'처럼 떨어지기도 해요. indem 절과 dass 절은 종속절이므로 동사가 끝에 와요.",
       "pattern": "주절, indem + … + 동사(끝) · Dadurch, dass + … + 동사(끝), 동사 + 주어 …",
       "examples": [
         {
@@ -305,11 +305,16 @@
           "ko": "상대를 판단하지 않고 자기가 느낀 것을 설명하면 상대방은 공격받았다는 느낌을 덜 받아요.",
           "mark": [
             "Dadurch, dass",
-            "beurteilt,"
+            "beschreibt",
+            "beurteilt"
           ],
           "parts": [
             [
-              "Dadurch, dass man die eigene Wahrnehmung beschreibt und den anderen nicht beurteilt,",
+              "Dadurch,",
+              "부사어(방법)"
+            ],
+            [
+              "dass man die eigene Wahrnehmung beschreibt und den anderen nicht beurteilt,",
               "종속절"
             ],
             [
@@ -343,7 +348,7 @@
           ]
         }
       ],
-      "tip": "indem 절은 수단과 방법만 나타내요. '~하는 동안'이라는 시간의 뜻으로는 쓰지 않으니 während와 혼동하지 마세요."
+      "tip": "indem은 수단과 방법을 나타내요. '~하는 동안'이라는 시간의 뜻은 예스러운 용법이라 오늘날에는 거의 쓰지 않으니, 시간을 말할 때는 während를 쓰세요. 또 한 단어인 indem(접속사)과 띄어 쓴 in dem(전치사 + 관계대명사: das Haus, in dem ich wohne)을 구별하세요."
     },
     {
       "title": "sodass · so … dass – 결과 말하기",
@@ -361,7 +366,7 @@
           "parts": [
             [
               "Wer monatelang schweigt,",
-              "종속절"
+              "주어"
             ],
             [
               "staut",
@@ -390,8 +395,8 @@
           ]
         },
         {
-          "de": "fühlen sich die anderen so angegriffen, dass das Gespräch nach zwei Minuten beendet ist",
-          "ko": "다른 사람들은 심하게 공격받았다고 느껴서 대화는 2분 만에 끝나 버려요",
+          "de": "Als sie das Thema beim Frühstück anspricht, fühlen sich die anderen so angegriffen, dass das Gespräch nach zwei Minuten beendet ist.",
+          "ko": "그녀가 아침 식사 자리에서 이 이야기를 꺼내자 다른 사람들은 심하게 공격받았다고 느껴서 대화는 2분 만에 끝나 버려요.",
           "mark": [
             "so angegriffen",
             "dass"
@@ -403,8 +408,8 @@
     {
       "title": "ohne dass · anstatt dass · außer wenn",
       "term": "ohne dass / (an)statt dass / außer wenn",
-      "explain": "ohne dass는 '~하지 않은 채'라는 뜻으로, 기대할 만한 일이 일어나지 않았음을 말해요. anstatt dass(= statt dass)는 '~하는 대신에'라는 뜻으로, 하지 않은 일과 실제로 일어난 일을 대비시켜요. außer wenn은 '~할 때는 예외로'라는 뜻이에요. 세 표현 모두 종속절을 이끌어 동사가 끝에 와요.",
-      "pattern": "주절, ohne dass + … + 동사(끝) · Anstatt dass + …, 동사 + 주어 … · 주절, außer wenn + … + 동사(끝)",
+      "explain": "ohne dass는 '~하지 않은 채'라는 뜻으로, 기대할 만한 일이 일어나지 않음을 말해요. anstatt dass(= statt dass)는 '~하는 대신에'라는 뜻으로, 하지 않은 일과 실제로 일어난 일을 대비시켜요. außer wenn은 '~할 때는 예외로'라는 뜻이에요. 세 표현 모두 종속절을 이끌어 동사가 끝에 와요.",
+      "pattern": "주절, ohne dass + … + 동사(끝) · Anstatt dass + … + 동사(끝), 동사 + 주어 … · 주절, außer wenn + … + 동사(끝)",
       "examples": [
         {
           "de": "Anstatt dass die WG eine gemeinsame Kasse einrichtet, bleibt Sofia auf den Kosten sitzen.",
@@ -453,7 +458,7 @@
           ]
         }
       ],
-      "tip": "주절과 종속절의 주어가 같으면 ohne … zu / anstatt … zu 부정사구로 줄일 수 있어요. 주어가 다르면 ohne dass / anstatt dass를 써야 해요."
+      "tip": "주절과 종속절의 주어가 같으면 ohne … zu / anstatt … zu 부정사구로 줄일 수 있어요. 주어가 다르면 ohne dass / anstatt dass를 써야 해요. ohne dass에 이미 '~하지 않고'라는 뜻이 있으므로 절 안에 nicht를 넣지 않아요."
     },
     {
       "title": "es geht um · es geht darum, dass",

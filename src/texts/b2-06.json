@@ -245,7 +245,7 @@
     {
       "title": "wenn 없는 조건문 (동사가 맨 앞)",
       "term": "Uneingeleiteter Konditionalsatz (Verberststellung)",
-      "explain": "조건절에서 wenn을 빼고 동사를 문장 맨 앞에 두면 'wenn …'과 같은 뜻이 돼요. 이런 조건절은 항상 주절 앞에 오고, 주절은 바로 동사로 시작하거나 so/dann으로 이어져요. 문어체 논설문에서 자주 쓰이는 형식이에요.",
+      "explain": "조건절에서 wenn을 빼고 인칭변화한 동사를 절의 맨 앞에 두면 'wenn …'과 같은 뜻이 돼요. 과거분사나 분리동사의 전철은 그대로 절 끝에 남아요(Wird … verbannt, fällt … weg). 이런 조건절은 보통 주절 앞에 오고, 주절은 바로 동사로 시작하거나 so/dann 뒤에 동사가 와요. 문어체 논설문에서 자주 쓰이는 형식이에요.",
       "pattern": "동사 + 주어 …, (so/dann) 동사 + 주어 …",
       "examples": [
         {
@@ -253,6 +253,7 @@
           "ko": "통과 차량을 도심에서 몰아내면 미세먼지와 질소산화물로 인한 오염 부담이 눈에 띄게 줄어듭니다.",
           "mark": [
             "Wird",
+            "verbannt",
             "sinkt"
           ],
           "parts": [
@@ -313,7 +314,7 @@
           ]
         }
       ],
-      "tip": "wenn을 뺀 조건절은 반드시 주절 앞에 와야 해요. 'Die Belastung sinkt, wird der Verkehr verbannt'처럼 뒤에 둘 수는 없어요."
+      "tip": "wenn을 뺀 조건절은 보통 주절 앞에 와요. 'Die Belastung sinkt, wird der Verkehr verbannt'처럼 현재형 조건절을 주절 뒤에 두면 어색해요. 주절 뒤에 오는 것은 주로 sollte나 접속법 2식으로 시작하는 조건절이에요(Rufen Sie mich an, sollten Sie Fragen haben)."
     },
     {
       "title": "sofern · vorausgesetzt, dass – 조건 달기",
@@ -378,14 +379,14 @@
     {
       "title": "논증 연결어",
       "term": "Argumentationskonnektoren (zum einen … zum anderen, darüber hinaus, demgegenüber, einerseits … andererseits)",
-      "explain": "논설문에서는 근거를 나열하고 대립시키는 연결어가 글의 뼈대를 만들어요. zum einen … zum anderen과 einerseits … andererseits는 두 가지를 짝지어 제시하고, darüber hinaus와 zudem은 근거를 하나 더 보태요. 같은 역할을 'Hinzu kommt …'라는 문장으로 하기도 해요. demgegenüber는 '그에 반해'라는 뜻으로 반대 입장을 시작할 때 써요. 이 연결어들은 1번 자리를 차지하는 접속부사라서 바로 뒤에 동사가 와요.",
-      "pattern": "접속부사 + 동사 + 주어 …",
+      "explain": "논설문에서는 근거를 나열하고 대립시키는 연결어가 글의 뼈대를 만들어요. zum einen … zum anderen과 einerseits … andererseits는 두 가지를 짝지어 제시하고, darüber hinaus와 außerdem은 근거를 하나 더 보태요. 같은 역할을 'Hinzu kommt …'라는 문장으로 하기도 해요. demgegenüber는 '그에 반해'라는 뜻으로 반대 입장을 시작할 때 써요. 이 연결어들은 접속부사로 쓰여요. 1번 자리에 오면 바로 뒤에 동사가 오고(Demgegenüber stehen …), 동사 뒤 문장 가운데에 올 수도 있어요(Der Einzelhandel befürchtet außerdem …).",
+      "pattern": "접속부사 + 동사 + 주어 … · 주어 + 동사 + 접속부사 …",
       "examples": [
         {
           "de": "Demgegenüber stehen gewichtige Einwände.",
           "ko": "이에 맞서는 무게 있는 반론들도 있습니다.",
           "mark": [
-            "Demgegenüber"
+            "Demgegenüber stehen"
           ],
           "parts": [
             [
@@ -406,15 +407,15 @@
           "de": "Einerseits sind die Vorteile für Umwelt und Gesundheit kaum zu bestreiten; andererseits darf eine Verkehrswende nicht zulasten derjenigen gehen, die ohne Auto nicht mobil sind.",
           "ko": "한편으로 환경과 건강에 주는 이점은 부정하기 어렵습니다. 다른 한편으로 교통 전환은 자동차 없이는 이동할 수 없는 사람들에게 손해를 끼쳐서는 안 됩니다.",
           "mark": [
-            "Einerseits",
-            "andererseits"
+            "Einerseits sind",
+            "andererseits darf"
           ]
         },
         {
           "de": "Darüber hinaus gewinnen die Städte Platz: Wo heute Autos parken, könnten Bäume gepflanzt, Bänke aufgestellt und Radwege verbreitert werden.",
           "ko": "그 밖에도 도시는 공간을 얻게 됩니다. 지금 자동차가 주차된 자리에 나무를 심고 벤치를 놓고 자전거 도로를 넓힐 수 있을 것입니다.",
           "mark": [
-            "Darüber hinaus"
+            "Darüber hinaus gewinnen"
           ]
         }
       ],
@@ -423,8 +424,8 @@
     {
       "title": "접속법 2식으로 조심스럽게 판단하기",
       "term": "Konjunktiv II (wäre, könnte, würde, dürfte) zur vorsichtigen Einschätzung",
-      "explain": "논설문에서는 단정하는 대신 접속법 2식으로 가능성이나 평가를 조심스럽게 표현해요. könnte(n)는 '~할 수 있을 것이다', würde + 동사원형은 '~하게 될 것이다', wäre는 '~일 것이다'라는 뜻이에요. dürfte(n) + 동사원형은 '아마 ~일 것이다'라는 꽤 확실한 추측을 나타내요.",
-      "pattern": "könnte / würde / dürfte + … + 동사원형(끝) · wäre + 보어",
+      "explain": "논설문에서는 단정하는 대신 접속법 2식으로 가능성이나 평가를 조심스럽게 표현해요. könnte(n) + 동사원형은 '~할 수 있을 것이다', wäre는 '~일 것이다'라는 뜻이에요. dürfte(n) + 동사원형은 '아마 ~일 것이다'라는 꽤 확실한 추측을 나타내요. würde는 보통 würde + 동사원형으로 쓰지만, 'der Weg … würde wieder zum Vergnügen'에서는 werden(~이 되다) 자체의 접속법 2식이라서 '~이 될 것이다'라는 뜻이에요. 'Cafés ihre Tische auf die Straße stellen'에서는 앞의 könnten이 생략되었어요.",
+      "pattern": "könnte / dürfte + … + 동사원형(끝) · wäre + 보어 · würde … zu + 3격(~이 될 것이다)",
       "examples": [
         {
           "de": "Ein Verbot über Nacht wäre deshalb der falsche Weg.",

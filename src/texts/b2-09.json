@@ -8,10 +8,10 @@
   "typeKo": "단편소설",
   "intro": "시골 정류장에서 오지 않는 버스를 기다리는 여성과 한 노인의 짧은 이야기예요.",
   "focus": [
-    "추측의 화법조동사 (muss · dürfte · könnte · soll · will)",
-    "미래 2식으로 과거 추측하기",
+    "추측·전언의 화법조동사",
+    "미래완료로 과거 추측하기",
     "과거형 서술",
-    "내적 독백"
+    "인물의 생각 전하기"
   ],
   "paragraphs": [
     {
@@ -249,21 +249,21 @@
   "grammar": [
     {
       "title": "추측과 전언을 나타내는 화법조동사",
-      "term": "Modalverben in subjektiver Bedeutung (muss / dürfte / könnte / soll / will)",
-      "explain": "화법조동사는 '~해야 한다, ~할 수 있다' 같은 본래 뜻 외에 말하는 사람의 판단을 나타내기도 해요. muss는 거의 확실한 추측(틀림없이 ~일 것이다), dürfte는 꽤 확실한 추측(아마 ~일 것이다), könnte는 가능성(~일 수도 있다)이에요. soll은 남에게 들은 말(~라고 한다), will은 본인의 주장(~라고 우긴다, 본인은 ~라고 한다)이에요. 과거 일에 대한 추측은 화법조동사 + 과거분사 + haben/sein으로 써요.",
-      "pattern": "muss / dürfte / könnte / soll / will + … + 과거분사 + haben/sein",
+      "term": "Modalverben in subjektiver Bedeutung (muss / kann nicht / dürfte / soll / will)",
+      "explain": "화법조동사는 '~해야 한다, ~할 수 있다' 같은 본래 뜻 외에 말하는 사람의 판단을 나타내기도 해요. muss는 거의 확실한 추측(틀림없이 ~일 것이다), dürfte는 꽤 확실한 추측(아마 ~일 것이다), könnte는 약한 추측(~일 수도 있다)이고, kann nicht는 '~일 리가 없다'라는 뜻이에요(Das kann nicht stimmen). soll은 남에게 들은 말(~라고 한다), will은 본인의 주장(~라고 우긴다, 본인은 ~라고 한다)이에요. 과거의 일에 대해 말할 때는 화법조동사 + 과거분사 + haben/sein으로 써요.",
+      "pattern": "화법조동사 + … + 동사원형 (지금의 일) · 화법조동사 + … + 과거분사 + haben/sein (지난 일)",
       "examples": [
         {
           "de": "„Auf den um 19.32 Uhr. Er muss sich verspätet haben.“",
-          "ko": "“19시 32분 버스요. 늦어지는 게 분명해요.”",
+          "ko": "“19시 32분 버스요. 늦어진 게 분명해요.”",
           "mark": [
             "muss",
             "verspätet haben"
           ]
         },
         {
-          "de": "Der Mann sah auf die Straße hinaus. „Der soll seit Wochen nicht mehr fahren“, sagte er.",
-          "ko": "노인은 길 쪽을 내다봤어요. “그 버스는 몇 주 전부터 안 다닌다던데요”라고 말했어요.",
+          "de": "„Der soll seit Wochen nicht mehr fahren“, sagte er.",
+          "ko": "“그 버스는 몇 주 전부터 안 다닌다던데요”라고 그가 말했어요.",
           "mark": [
             "soll",
             "fahren"
@@ -312,12 +312,12 @@
           ]
         }
       ],
-      "tip": "'Er muss sich verspätet haben'(틀림없이 늦은 거예요)은 추측이고, 'Er musste sich verspäten'(어쩔 수 없이 늦어야 했어요)은 본래 뜻이에요. 추측의 화법조동사는 현재형으로 두고 뒤의 동사를 완료형으로 만들어요."
+      "tip": "'Er muss sich verspätet haben'(틀림없이 늦은 거예요)은 추측이고, 'Er musste sich verspäten'(어쩔 수 없이 늦어야 했어요)은 본래 뜻이에요. 지난 일을 추측할 때는 화법조동사를 과거형으로 바꾸지 않고(muss, dürfte 그대로), 뒤의 동사를 완료형(과거분사 + haben/sein)으로 만들어요. 'Sie könnte zurückgehen'의 könnte는 추측이 아니라 '그렇게 할 수 있다'는 본래 뜻이에요."
     },
     {
-      "title": "미래 2식으로 지난 일 추측하기",
+      "title": "미래완료로 지난 일 추측하기",
       "term": "Futur II als Vermutung über Vergangenes",
-      "explain": "werden + 과거분사 + haben/sein은 미래 2식이에요. 미래에 끝나 있을 일을 말할 때도 쓰지만, 일상에서는 이미 일어난 일에 대한 추측을 나타내는 경우가 더 많아요. '아마 ~했을 것이다'라는 뜻이고, wohl·sicher·vermutlich 같은 부사와 자주 함께 써요. werden + 동사원형(미래 1식)도 같은 방식으로 현재 일을 추측할 수 있어요.",
+      "explain": "werden + 과거분사 + haben/sein은 미래완료예요. 미래에 끝나 있을 일을 말할 때도 쓰지만, 실제로는 이미 일어난 일에 대한 추측을 나타내는 경우가 더 많아요. '아마 ~했을 것이다'라는 뜻이고, wohl·sicher·vermutlich 같은 부사와 자주 함께 써요. werden + 동사원형(미래)도 같은 방식으로 현재 일을 추측할 수 있어요.",
       "pattern": "werden + … + 과거분사 + haben/sein",
       "examples": [
         {
@@ -372,7 +372,7 @@
     {
       "title": "과거형으로 이야기 서술하기",
       "term": "Präteritum als Erzähltempus",
-      "explain": "소설이나 이야기는 과거형(Präteritum)으로 서술해요. 불규칙 동사의 과거형(stand, zog, sah, kam, blieb, ging)이 많이 나와요. 이야기보다 더 앞서 일어난 일은 과거완료(war geblieben, hatte gelesen)로 써서 시간 순서를 구별해요. 반면 등장인물의 대화는 현재형이나 현재완료로 써요.",
+      "explain": "소설이나 이야기는 보통 과거형(Präteritum)으로 서술해요. 불규칙 동사의 과거형(stand, zog, sah, kam, blieb, ging)이 많이 나와요. 이야기 속 시점보다 더 앞서 일어난 일은 과거완료(war geblieben, hatte gelesen)로 써서 시간 순서를 구별해요. 반면 등장인물의 대화는 현재형이나 현재완료로 써요.",
       "pattern": "서술: 과거형 · 더 앞선 일: hatte/war + 과거분사 · 대화: 현재형/현재완료",
       "examples": [
         {
@@ -421,7 +421,7 @@
             "hervor",
             "warf",
             "steckte",
-            "ein"
+            "ein."
           ]
         }
       ],
@@ -430,7 +430,7 @@
     {
       "title": "인물의 생각 전하기",
       "term": "Gedankenwiedergabe (dachte sie / überlegte sie, erlebte Rede)",
-      "explain": "소설에서는 인물의 생각을 따옴표 없이 문장 안에 넣고 'dachte sie', 'überlegte sie' 같은 짧은 삽입구로 표시해요. 생각 부분은 인물이 실제로 머릿속으로 말하는 그대로 쓰기 때문에 현재형과 eben, wohl 같은 화법 불변화사가 들어가요. 마지막 문단처럼 삽입구 없이 인물의 시선과 생각을 그대로 옮기기도 해요.",
+      "explain": "소설에서는 인물의 생각을 따옴표 없이 문장 안에 넣고 'dachte sie', 'überlegte sie' 같은 짧은 삽입구로 표시해요. 생각 부분은 인물이 머릿속으로 말하는 그대로 쓰기 때문에, 서술이 과거형이어도 현재형이나 werden을 쓴 추측 표현이 오고 eben, wohl 같은 화법 불변화사가 들어가요. 마지막 문단처럼 삽입구 없이 서술자의 과거형 문장 속에 인물이 보고 느끼는 것을 그대로 담기도 해요. 이것을 체험 화법(erlebte Rede)이라고 해요.",
       "examples": [
         {
           "de": "Nun gut, dachte sie, der Bus wird eben ein paar Minuten Verspätung haben.",
@@ -457,7 +457,7 @@
             ],
             [
               "eben",
-              "부사어"
+              "기타"
             ],
             [
               "ein paar Minuten Verspätung",

@@ -225,37 +225,14 @@
     {
       "title": "was · wo(r)- · wer … der 관계절",
       "term": "Relativsätze mit was, wo(r)- und wer … der",
-      "explain": "관계대명사 was는 alles, nichts, etwas, das 같은 말이나 문장 전체를 받아요. 이런 선행사 뒤에서 관계대명사가 전치사와 함께 쓰여야 하면 wo(r)- + 전치사 형태(womit, wovon, wofür)를 써요. 'Wer …, der …'는 '~하는 사람은 누구나'라는 뜻으로, wer 절이 앞에 오고 주절은 der로 다시 받아요. 세 경우 모두 관계절의 동사는 끝에 와요.",
+      "explain": "관계대명사 was는 alles, nichts, etwas, das 같은 말이나 문장 전체를 받고, 선행사 없이 '~하는 것'이라는 뜻으로도 써요(Was Clara zurückgelassen hat, …). was를 쓰는 관계절에서 전치사가 필요하면 '전치사 + was' 대신 wo(r)- + 전치사 형태(womit, wovon, wofür)를 써요. 'Wer …, der …'는 '~하는 사람은 누구나'라는 뜻으로, wer 절이 앞에 오고 주절은 der로 다시 받아요. 두 절에서 격이 같으면 der는 생략할 수도 있어요. 세 경우 모두 관계절의 동사는 끝에 와요.",
       "pattern": "alles / nichts / das, was … · das, wovon … · Wer …, der …",
       "examples": [
         {
-          "de": "Wer hier arbeitet, der braucht kein Fitnessstudio mehr",
-          "ko": "여기서 일하는 사람은 헬스장이 더는 필요 없어요",
+          "de": "Das Schneiden der Reben im Winter, das Binden im Frühjahr, das Ausbrechen überflüssiger Triebe im Sommer – alles, was im Weinberg anfällt, geschieht von Hand.",
+          "ko": "겨울의 가지치기, 봄의 가지 묶기, 여름의 불필요한 순 제거까지, 포도밭에서 생기는 모든 일이 손으로 이루어집니다.",
           "mark": [
-            "Wer",
-            "der"
-          ],
-          "parts": [
-            [
-              "Wer hier arbeitet,",
-              "종속절"
-            ],
-            [
-              "der",
-              "주어"
-            ],
-            [
-              "braucht",
-              "동사"
-            ],
-            [
-              "kein Fitnessstudio",
-              "4격 목적어"
-            ],
-            [
-              "mehr",
-              "부사어"
-            ]
+            "alles, was"
           ]
         },
         {
@@ -284,20 +261,42 @@
           ]
         },
         {
-          "de": "Dafür hat sie etwas gewonnen, wofür es in ihrem alten Leben kein Wort gab.",
-          "ko": "대신 그녀는 예전 삶에는 가리킬 말조차 없던 무언가를 얻었습니다.",
+          "de": "Wer hier arbeitet, der braucht kein Fitnessstudio mehr",
+          "ko": "여기서 일하는 사람은 헬스장이 더는 필요 없어요",
           "mark": [
-            "etwas",
-            "wofür"
+            "Wer",
+            "der"
+          ],
+          "parts": [
+            [
+              "Wer hier arbeitet,",
+              "관계절"
+            ],
+            [
+              "der",
+              "주어"
+            ],
+            [
+              "braucht",
+              "동사"
+            ],
+            [
+              "kein Fitnessstudio",
+              "4격 목적어"
+            ],
+            [
+              "mehr",
+              "부사어"
+            ]
           ]
         }
       ],
-      "tip": "선행사가 구체적인 명사이면 der/die/das를 써요(ein Gehalt, von dem …). alles·nichts·etwas 뒤에는 das가 아니라 was가 와요."
+      "tip": "선행사가 구체적인 명사이면 der/die/das를 써요(ein Gehalt, von dem …). alles, nichts, das 뒤에는 was가 와요. etwas 뒤에는 보통 was를 쓰지만 das도 쓸 수 있어요."
     },
     {
       "title": "현재형으로 서술하고 과거로 되돌아보기",
       "term": "Präsens als Erzähltempus mit Rückblenden im Präteritum/Perfekt",
-      "explain": "르포는 독자가 현장에 함께 있는 느낌을 주려고 현재형으로 장면을 묘사해요. 과거 이야기로 돌아갈 때는 damals, vor drei Jahren 같은 시간 표현과 함께 과거형이나 현재완료로 바꾸고, heute, inzwischen과 함께 다시 현재형으로 돌아와요. 이렇게 시제가 바뀌는 지점이 글의 시간 이동을 알려 줘요.",
+      "explain": "르포는 독자가 현장에 함께 있는 느낌을 주려고 현재형으로 장면을 묘사해요. 과거 이야기로 돌아갈 때는 damals, vor drei Jahren 같은 시간 표현과 함께 과거형이나 현재완료로 바꾸고, heute 같은 말과 함께 다시 현재형으로 돌아와요. 이렇게 시제가 바뀌는 지점이 글의 시간 이동을 알려 줘요.",
       "examples": [
         {
           "de": "Rund zwei Hektar bewirtschaftet sie heute, fast alles in Steillage.",
@@ -327,12 +326,12 @@
           ]
         }
       ],
-      "tip": "회상 부분에서 완결된 사건은 과거형(saß, flog), 지금까지 이어지는 결과는 현재완료(hat überschrieben, hat bewirtschaftet)로 쓰는 경향이 있어요."
+      "tip": "지난 일을 이야기처럼 차례로 들려줄 때는 과거형(saß, beriet, flog)을 쓰고, 지금 상황과 연결된 지난 일은 현재완료로 쓰는 경우가 많아요. 예를 들어 'Inzwischen hat der Großvater ihr den Betrieb überschrieben'은 지난 일이지만, 그 결과로 지금 클라라가 농장의 주인이라는 점이 중요해요."
     },
     {
       "title": "분사구·명사구를 문장 앞에 두기",
       "term": "Partizipial- und Nominalgruppen im Vorfeld",
-      "explain": "'Die Schere in der Hand'처럼 동사 없는 명사구나 'Auf einen Stock gestützt'처럼 과거분사가 이끄는 분사구를 1번 자리에 두면 장면이 압축되어 생생해져요. 이 구는 주절의 주어를 설명하고, 쉼표 뒤에 바로 동사가 와요. 'Verändert hat sich …'처럼 과거분사 자체를 맨 앞에 두어 강조할 수도 있어요.",
+      "explain": "'Die Schere in der Hand'처럼 동사 없는 명사구나 'Auf einen Stock gestützt'처럼 과거분사가 이끄는 분사구를 1번 자리에 두면 장면이 압축되어 생생해져요. 이 구는 주절의 주어를 설명하고, 쉼표 뒤에 바로 동사가 와요. 'Verändert hat sich auch der Kalender'는 이와 달리 현재완료(hat sich verändert)의 과거분사만 1번 자리로 옮겨 강조한 문장이에요.",
       "pattern": "명사구 / 과거분사구, + 동사 + 주어 …",
       "examples": [
         {
@@ -344,7 +343,7 @@
           "parts": [
             [
               "Die Schere in der Hand,",
-              "기타"
+              "부사어(방법)"
             ],
             [
               "arbeitet",
@@ -379,11 +378,12 @@
           "de": "Verändert hat sich auch der Kalender.",
           "ko": "달력도 달라졌습니다.",
           "mark": [
-            "Verändert"
+            "Verändert",
+            "hat"
           ]
         }
       ],
-      "tip": "이런 구는 문어체·기사체 표현이에요. 말할 때는 'Sie hat die Schere in der Hand und arbeitet sich nach oben'처럼 두 문장으로 풀어 써요."
+      "tip": "이런 구는 문어체·기사체 표현이에요. 일상적인 말에서는 'Sie hat die Schere in der Hand und arbeitet sich nach oben'처럼 두 주절을 und로 이어서 풀어 말해요."
     },
     {
       "title": "동격 – 이름 뒤에 정보 끼워 넣기",
