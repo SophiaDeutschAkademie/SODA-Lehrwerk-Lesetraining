@@ -1,0 +1,311 @@
+{
+  "id": "b2-10",
+  "level": "B2",
+  "no": 10,
+  "title": "Wie wohnen Studierende?",
+  "titleKo": "대학생들은 어떻게 살고 있을까",
+  "type": "Bericht über eine Umfrage",
+  "typeKo": "설문조사 보고 기사",
+  "intro": "한 대학교의 설문조사 결과를 바탕으로 대학생의 주거 형태, 월세, 통학 시간을 정리한 기사예요.",
+  "focus": ["2격 지배 전치사", "수량·비교 표현", "명사 문체", "형용사·분사의 명사화"],
+  "paragraphs": [
+    {
+      "de": "Die Wohngemeinschaft bleibt die beliebteste Wohnform – doch das Wohnen wird teurer, und immer mehr Studierende nehmen lange Fahrtwege auf sich. Das zeigt eine Umfrage der Hochschule Rheinfeld, an der sich im Sommersemester 1.400 Studierende beteiligt haben. Durchgeführt wurde die Befragung vom Studierendenwerk gemeinsam mit dem Institut für Sozialforschung der Hochschule.",
+      "ko": "셰어하우스(WG)는 여전히 가장 인기 있는 주거 형태입니다. 하지만 주거비는 비싸지고, 점점 더 많은 대학생이 긴 통학 거리를 감수하고 있습니다. 라인펠트 대학교의 설문조사가 이를 보여 줍니다. 이 조사에는 여름 학기에 대학생 1,400명이 참여했습니다. 조사는 학생복지회가 대학교 사회연구소와 공동으로 실시했습니다."
+    },
+    {
+      "de": "Mit 38 Prozent lebt mehr als ein Drittel der Befragten in einer WG. An zweiter Stelle folgt das Elternhaus: 22 Prozent wohnen noch bei den Eltern, meist aufgrund der hohen Mieten. Knapp ein Fünftel (19 Prozent) hat eine eigene Wohnung, 14 Prozent leben im Wohnheim, und 7 Prozent wohnen mit Partnerin oder Partner zusammen – halb so viele wie im Wohnheim. Innerhalb der letzten vier Jahre hat sich an dieser Rangfolge wenig geändert; lediglich der Anteil derjenigen, die bei den Eltern wohnen, ist um drei Prozentpunkte gestiegen.",
+      "ko": "응답자의 38%, 즉 3분의 1이 넘는 사람이 WG에서 삽니다. 2위는 부모 집입니다. 22%가 아직 부모와 함께 살고 있는데, 대부분 높은 월세 때문입니다. 5분의 1에 조금 못 미치는 19%는 자기 집에서 혼자 살고, 14%는 기숙사에서, 7%는 파트너와 함께 삽니다. 파트너와 사는 비율은 기숙사에 사는 비율의 절반입니다. 지난 4년 동안 이 순위에는 거의 변화가 없었습니다. 다만 부모 집에 사는 사람의 비율만 3%포인트 올랐습니다."
+    },
+    {
+      "de": "Spürbar gestiegen sind dagegen die Mieten. Ein WG-Zimmer kostet im Schnitt 420 Euro warm; bei der letzten Befragung vor vier Jahren waren es 350 Euro. Das entspricht einem Anstieg um 70 Euro oder 20 Prozent. Am günstigsten wohnt, wer einen Wohnheimplatz hat: Hier liegt die Miete bei 310 Euro und damit um 110 Euro unter dem Preis eines WG-Zimmers. Alleinlebende zahlen am meisten: Eine eigene Wohnung kostet mit 560 Euro ein Drittel mehr als ein WG-Zimmer. Infolge dieser Entwicklung wendet mehr als die Hälfte derjenigen, die zur Miete wohnen (53 Prozent), über 40 Prozent des monatlichen Budgets fürs Wohnen auf; vor vier Jahren traf das auf 41 Prozent zu.",
+      "ko": "반면 월세는 눈에 띄게 올랐습니다. WG 방 하나는 관리비 포함 평균 420유로입니다. 4년 전 지난 조사 때는 350유로였습니다. 70유로, 즉 20%가 오른 것입니다. 가장 저렴하게 사는 사람은 기숙사 자리를 얻은 사람입니다. 기숙사 월세는 310유로로 WG 방 값보다 110유로 낮습니다. 혼자 사는 사람이 가장 많이 냅니다. 자기 집 하나는 560유로로 WG 방보다 3분의 1 더 비쌉니다. 이런 변화의 결과로 월세를 내는 응답자 가운데 절반이 넘는 53%가 월 예산의 40% 이상을 주거비로 씁니다. 4년 전에는 이 비율이 41%였습니다."
+    },
+    {
+      "de": "Auch die Wege zur Hochschule werden länger. Zwar erreichen 61 Prozent der Befragten den Campus innerhalb einer halben Stunde, doch 28 Prozent sind zwischen 30 und 60 Minuten unterwegs, und gut jeder Zehnte (11 Prozent) braucht länger als eine Stunde – pro Strecke. Besonders betroffen sind diejenigen, die im Elternhaus wohnen: Unter ihnen ist fast jeder Dritte länger als eine Stunde unterwegs. Angesichts dieser Zahlen überrascht es nicht, dass lange Fahrtzeiten im Vergleich zur letzten Befragung deutlich häufiger als Problem genannt werden.",
+      "ko": "대학교까지 가는 길도 길어지고 있습니다. 응답자의 61%는 30분 안에 캠퍼스에 도착하지만, 28%는 30분에서 60분이 걸리고, 10명 중 1명이 조금 넘는 11%는 편도로 한 시간 넘게 걸립니다. 특히 부모 집에 사는 사람들이 영향을 많이 받습니다. 이들 가운데 거의 3분의 1이 한 시간 넘게 길에서 보냅니다. 이런 수치를 고려하면, 지난 조사에 비해 긴 통학 시간이 문제로 훨씬 자주 언급되는 것도 놀랍지 않습니다."
+    },
+    {
+      "de": "Hinsichtlich der Wünsche sind sich die Befragten weitgehend einig: Fast drei Viertel (72 Prozent) fordern mehr Wohnheimplätze, knapp die Hälfte (45 Prozent) wünscht sich eine höhere finanzielle Unterstützung, und knapp ein Drittel (31 Prozent) spricht sich für bessere Busverbindungen aus dem Umland aus; Mehrfachnennungen waren möglich. Wie groß der Bedarf an Wohnheimplätzen ist, zeigt ein Blick auf die Warteliste des Studierendenwerks: Dort stehen derzeit mehr als 600 Namen, obwohl erst vor zwei Jahren ein neues Wohnheim mit 180 Plätzen eröffnet wurde.",
+      "ko": "바라는 점에 관해서는 응답자들의 의견이 대체로 일치합니다. 4분의 3에 가까운 72%는 기숙사 자리를 늘려 달라고 요구하고, 절반에 조금 못 미치는 45%는 더 많은 재정 지원을 바라며, 3분의 1에 조금 못 미치는 31%는 외곽 지역에서 오는 버스 노선을 개선해 달라고 합니다. 복수 응답이 가능했습니다. 기숙사 자리가 얼마나 부족한지는 학생복지회의 대기자 명단을 보면 알 수 있습니다. 불과 2년 전에 180실 규모의 새 기숙사가 문을 열었는데도 현재 600명 넘는 이름이 명단에 올라 있습니다."
+    },
+    {
+      "de": "Mithilfe der Ergebnisse will das Studierendenwerk nun den Bau eines weiteren Wohnheims begründen; Gespräche mit der Stadt laufen bereits. Bis dahin, so die Leiterin der Befragung, Prof. Dr. Annette Kurz, bleibe vielen Studierenden nur die Wahl zwischen einem teuren Zimmer in der Stadt und einem langen Weg vom Land.",
+      "ko": "학생복지회는 이제 이 결과를 근거로 기숙사를 하나 더 지어야 한다는 주장을 뒷받침하려 합니다. 시와의 협의는 이미 진행 중입니다. 조사 책임자인 아네테 쿠르츠 교수는 그때까지 많은 대학생에게는 도시의 비싼 방과 시골에서의 긴 통학길 사이의 선택만 남는다고 말합니다."
+    }
+  ],
+  "questions": [
+    {
+      "type": "rfn",
+      "kind": "detail",
+      "q": "Fast vier von zehn Befragten teilen sich eine Wohnung mit anderen Studierenden.",
+      "answer": 0,
+      "evidence": "Mit 38 Prozent lebt mehr als ein Drittel der Befragten in einer WG.",
+      "pairs": [["38 Prozent", "Fast vier von zehn"], ["in einer WG", "teilen sich eine Wohnung mit anderen"]],
+      "explain": "응답자의 38%가 WG에서 산다고 해요. 38%는 '10명 중 거의 4명'이고, WG는 다른 사람들과 집을 나눠 쓰는 주거 형태예요. 그래서 Ja예요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Wie viele Befragte leben in einem Wohnheim?",
+      "options": [
+        "knapp ein Fünftel",
+        "gut jeder Zehnte",
+        "doppelt so viele wie die, die mit ihrem Partner oder ihrer Partnerin leben"
+      ],
+      "answer": 2,
+      "evidence": "14 Prozent leben im Wohnheim, und 7 Prozent wohnen mit Partnerin oder Partner zusammen – halb so viele wie im Wohnheim.",
+      "pairs": [["14 Prozent", "doppelt so viele"], ["halb so viele wie im Wohnheim", "doppelt so viele wie die, die mit ihrem Partner oder ihrer Partnerin leben"]],
+      "explain": "기숙사 거주자는 14%, 파트너와 사는 사람은 7%예요. 본문은 파트너와 사는 사람이 기숙사의 절반이라고 했으니, 반대로 말하면 기숙사 거주자가 두 배예요. '5분의 1에 조금 못 미치는'은 혼자 사는 사람(19%), '10명 중 1명 남짓'은 통학 시간이 한 시간 넘는 사람(11%)에 대한 표현이에요."
+    },
+    {
+      "type": "rfn",
+      "kind": "detail",
+      "q": "Der Anteil der Studierenden, die noch zu Hause bei der Familie leben, ist in den letzten vier Jahren zurückgegangen.",
+      "answer": 1,
+      "evidence": "lediglich der Anteil derjenigen, die bei den Eltern wohnen, ist um drei Prozentpunkte gestiegen.",
+      "pairs": [["ist um drei Prozentpunkte gestiegen", "zurückgegangen"], ["bei den Eltern wohnen", "zu Hause bei der Familie leben"]],
+      "explain": "본문은 부모 집에 사는 사람의 비율이 3%포인트 올랐다고 해요. 문제는 '줄었다(zurückgegangen)'고 하므로 반대예요. 'in den letzten vier Jahren'은 본문의 'Innerhalb der letzten vier Jahre'를 그대로 가져온 함정이에요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Was sagt der Text über die Miete für ein WG-Zimmer?",
+      "options": [
+        "Sie ist in den letzten vier Jahren um 20 Euro gestiegen.",
+        "Sie ist heute ein Fünftel höher als bei der letzten Umfrage.",
+        "Sie liegt 110 Euro über dem Preis einer eigenen Wohnung."
+      ],
+      "answer": 1,
+      "evidence": "Das entspricht einem Anstieg um 70 Euro oder 20 Prozent.",
+      "pairs": [["20 Prozent", "ein Fünftel"], ["bei der letzten Befragung vor vier Jahren", "bei der letzten Umfrage"]],
+      "explain": "WG 방값은 350유로에서 420유로로 70유로, 즉 20% 올랐어요. 20%는 5분의 1이에요. '20 Euro'는 '20 Prozent'와 숫자만 같은 함정이고, 110유로 차이는 자기 집이 아니라 기숙사와 비교한 수치예요."
+    },
+    {
+      "type": "mc",
+      "kind": "paraphrase",
+      "q": "Was bedeutet der Satz „Am günstigsten wohnt, wer einen Wohnheimplatz hat“?",
+      "options": [
+        "Wohnheimplätze sind leichter zu bekommen als andere Wohnungen.",
+        "Wer im Wohnheim lebt, zahlt im Durchschnitt die niedrigste Miete.",
+        "Wer günstig wohnen möchte, sollte sich um einen Wohnheimplatz bewerben."
+      ],
+      "answer": 1,
+      "evidence": "Hier liegt die Miete bei 310 Euro und damit um 110 Euro unter dem Preis eines WG-Zimmers.",
+      "pairs": [["Am günstigsten wohnt", "zahlt im Durchschnitt die niedrigste Miete"], ["wer einen Wohnheimplatz hat", "Wer im Wohnheim lebt"]],
+      "explain": "여기서 günstig는 '편리한'이 아니라 '값이 싼'이라는 뜻이에요. 바로 뒤에 기숙사 월세가 310유로로 가장 낮다는 설명이 이어져요. 자리를 구하기 쉽다거나 신청하라는 권고는 문장에 들어 있지 않아요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Welche Gruppe hat laut Umfrage besonders häufig lange Fahrtwege?",
+      "options": [
+        "Studierende, die in einer WG außerhalb der Stadt leben",
+        "Studierende, die aus Kostengründen allein wohnen",
+        "Studierende, die noch nicht von zu Hause ausgezogen sind"
+      ],
+      "answer": 2,
+      "evidence": "Besonders betroffen sind diejenigen, die im Elternhaus wohnen: Unter ihnen ist fast jeder Dritte länger als eine Stunde unterwegs.",
+      "pairs": [["die im Elternhaus wohnen", "die noch nicht von zu Hause ausgezogen sind"], ["Besonders betroffen", "besonders häufig lange Fahrtwege"]],
+      "explain": "본문은 부모 집에 사는 사람들이 특히 영향을 받고, 그중 거의 3분의 1이 한 시간 넘게 길에서 보낸다고 해요. '부모 집에 산다'를 '아직 집에서 독립하지 않았다'로 바꿔 말했어요."
+    },
+    {
+      "type": "mc",
+      "kind": "meaning",
+      "q": "Was bedeutet „Mehrfachnennungen waren möglich“ im Text?",
+      "options": [
+        "Die Befragten durften mehr als einen Wunsch ankreuzen.",
+        "Die Umfrage wurde mehrmals wiederholt.",
+        "Viele Befragte nannten dieselben Wünsche."
+      ],
+      "answer": 0,
+      "evidence": "Mehrfachnennungen waren möglich",
+      "pairs": [["Mehrfachnennungen", "mehr als einen Wunsch ankreuzen"]],
+      "explain": "Mehrfachnennung은 설문에서 한 사람이 여러 항목을 고를 수 있다는 뜻이에요. 그래서 72%, 45%, 31%를 더하면 100%가 넘어요. 조사를 여러 번 했다는 뜻이 아니에요."
+    },
+    {
+      "type": "rfn",
+      "kind": "detail",
+      "q": "Die meisten Studierenden, die im Wohnheim leben, sind mit ihrer Wohnsituation zufrieden.",
+      "answer": 2,
+      "evidence": null,
+      "pairs": [["14 Prozent leben im Wohnheim", "Studierenden, die im Wohnheim leben"]],
+      "explain": "기숙사는 가장 저렴하고 수요가 많다고 나오지만, 기숙사 거주자들이 만족하는지 어떤지는 본문 어디에도 나오지 않아요. 그래서 '본문에 언급 없음'이에요."
+    },
+    {
+      "type": "mc",
+      "kind": "paraphrase",
+      "q": "Was ist mit dem Satz „Bis dahin, so die Leiterin der Befragung, Prof. Dr. Annette Kurz, bleibe vielen Studierenden nur die Wahl zwischen einem teuren Zimmer in der Stadt und einem langen Weg vom Land.“ gemeint?",
+      "options": [
+        "Viele Studierende ziehen aufs Land, weil sie sich die Zimmer in der Stadt nicht mehr leisten können.",
+        "Solange kein weiteres Wohnheim steht, müssen viele entweder hohe Mieten oder lange Pendelzeiten hinnehmen.",
+        "Studierende sollten sich vor der Zimmersuche entscheiden, ob sie lieber in der Stadt oder auf dem Land leben wollen."
+      ],
+      "answer": 1,
+      "evidence": "Bis dahin, so die Leiterin der Befragung, Prof. Dr. Annette Kurz, bleibe vielen Studierenden nur die Wahl zwischen einem teuren Zimmer in der Stadt und einem langen Weg vom Land.",
+      "pairs": [["Bis dahin", "Solange kein weiteres Wohnheim steht"], ["einem teuren Zimmer in der Stadt", "hohe Mieten"], ["einem langen Weg vom Land", "lange Pendelzeiten"]],
+      "explain": "'Bis dahin'은 앞 문장의 새 기숙사 건설이 이루어질 때까지를 가리켜요. '선택만 남는다'는 것은 둘 중 하나의 불이익을 받아들일 수밖에 없다는 뜻이에요. 시골로 이사 간다거나 미리 결정하라는 권고는 문장에 없어요."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "2격 지배 전치사",
+      "term": "Präpositionen mit Genitiv (aufgrund, angesichts, infolge, hinsichtlich, innerhalb, mithilfe)",
+      "explain": "보고서나 기사에서는 2격을 지배하는 전치사가 자주 나와요. aufgrund(~ 때문에)와 infolge(~의 결과로)는 원인을, angesichts(~을 고려하면)는 상황을, hinsichtlich(~에 관해서)는 관점을, innerhalb(~ 안에)는 시간이나 공간의 범위를, mithilfe(~의 도움으로)는 수단을 나타내요. 뒤에 오는 명사구는 2격이에요. 정관사 der/des, 지시대명사 dieser/dieses 같은 2격 형태에 주의하세요.",
+      "pattern": "aufgrund / angesichts / infolge / hinsichtlich / innerhalb / mithilfe + 2격 명사구",
+      "examples": [
+        {
+          "de": "Innerhalb der letzten vier Jahre hat sich an dieser Rangfolge wenig geändert",
+          "ko": "지난 4년 동안 이 순위에는 거의 변화가 없었습니다",
+          "mark": ["Innerhalb der letzten vier Jahre"],
+          "parts": [["Innerhalb der letzten vier Jahre", "부사어(시간)"], ["hat", "동사"], ["sich", "재귀대명사"], ["an dieser Rangfolge", "전치사 목적어"], ["wenig", "주어"], ["geändert", "동사(끝)"]]
+        },
+        {
+          "de": "Angesichts dieser Zahlen überrascht es nicht, dass lange Fahrtzeiten im Vergleich zur letzten Befragung deutlich häufiger als Problem genannt werden.",
+          "ko": "이런 수치를 고려하면, 지난 조사에 비해 긴 통학 시간이 문제로 훨씬 자주 언급되는 것도 놀랍지 않습니다.",
+          "mark": ["Angesichts dieser Zahlen"]
+        },
+        {
+          "de": "Hinsichtlich der Wünsche sind sich die Befragten weitgehend einig",
+          "ko": "바라는 점에 관해서는 응답자들의 의견이 대체로 일치합니다",
+          "mark": ["Hinsichtlich der Wünsche"]
+        }
+      ],
+      "tip": "관사 없는 복수 명사 앞에서는 2격을 표시할 수 없어서 innerhalb von vier Jahren처럼 von + 3격을 써요. 일상 대화에서는 wegen 뒤에 3격을 쓰는 사람도 많지만, 글에서는 2격이 표준이에요."
+    },
+    {
+      "title": "수량과 비교를 나타내는 표현",
+      "term": "Zahlen- und Vergleichsausdrücke (mehr als ein Drittel, knapp ein Fünftel, liegt bei, um … gestiegen, im Vergleich zu)",
+      "explain": "숫자를 말로 풀어 쓰는 표현을 알아 두면 같은 수치를 여러 방식으로 말할 수 있어요. ein Drittel(3분의 1), ein Viertel(4분의 1), ein Fünftel(5분의 1) 앞에 knapp(조금 못 미치는), gut(조금 넘는), fast(거의), mehr als(~ 이상)를 붙여요. jeder Zehnte는 '10명 중 1명'이에요. 'liegt bei + 3격'은 수치가 어느 수준인지 말하고, 'ist um + 4격 gestiegen'은 얼마나 올랐는지, 'im Vergleich zu + 3격'은 비교 대상을 나타내요.",
+      "pattern": "knapp / gut / fast / mehr als + ein Drittel · liegt bei … · ist um … gestiegen · im Vergleich zu …",
+      "examples": [
+        {
+          "de": "Mit 38 Prozent lebt mehr als ein Drittel der Befragten in einer WG.",
+          "ko": "응답자의 38%, 즉 3분의 1이 넘는 사람이 WG에서 삽니다.",
+          "mark": ["Mit 38 Prozent", "mehr als ein Drittel"],
+          "parts": [["Mit 38 Prozent", "부사어"], ["lebt", "동사"], ["mehr als ein Drittel der Befragten", "주어"], ["in einer WG.", "부사어(장소)"]]
+        },
+        {
+          "de": "Hier liegt die Miete bei 310 Euro und damit um 110 Euro unter dem Preis eines WG-Zimmers.",
+          "ko": "기숙사 월세는 310유로로 WG 방 값보다 110유로 낮습니다.",
+          "mark": ["liegt", "bei 310 Euro", "um 110 Euro unter"],
+          "parts": [["Hier", "부사어(장소)"], ["liegt", "동사"], ["die Miete", "주어"], ["bei 310 Euro", "전치사 목적어"], ["und damit um 110 Euro unter dem Preis eines WG-Zimmers.", "부사어"]]
+        },
+        {
+          "de": "und gut jeder Zehnte (11 Prozent) braucht länger als eine Stunde – pro Strecke.",
+          "ko": "10명 중 1명이 조금 넘는 11%는 편도로 한 시간 넘게 걸립니다.",
+          "mark": ["gut jeder Zehnte"]
+        }
+      ],
+      "tip": "Prozent와 Prozentpunkt를 구별하세요. 19%에서 22%로 오르면 '3 Prozentpunkte' 오른 것이고, 350유로에서 420유로로 오르면 '20 Prozent' 오른 거예요."
+    },
+    {
+      "title": "명사 문체",
+      "term": "Nominalstil (Nominalisierungen mit Genitivattribut)",
+      "explain": "보고서는 동사 대신 동사에서 만든 명사를 많이 써요. steigen → der Anstieg, bauen → der Bau, befragen → die Befragung, entwickeln → die Entwicklung처럼요. 이런 명사 뒤에는 2격 명사구(der Bau eines weiteren Wohnheims)나 전치사구(ein Anstieg um 70 Euro, der Bedarf an Wohnheimplätzen)가 붙어서 원래 동사의 목적어나 부사어 역할을 대신해요. 명사 문체는 정보를 압축하지만, 읽을 때는 명사를 다시 동사로 풀어서 이해하면 쉬워요.",
+      "pattern": "동사 → 명사 + 2격 명사구 / 전치사구",
+      "examples": [
+        {
+          "de": "Das entspricht einem Anstieg um 70 Euro oder 20 Prozent.",
+          "ko": "70유로, 즉 20%가 오른 것입니다.",
+          "mark": ["einem Anstieg um 70 Euro"],
+          "parts": [["Das", "주어"], ["entspricht", "동사"], ["einem Anstieg um 70 Euro oder 20 Prozent.", "3격 목적어"]]
+        },
+        {
+          "de": "Mithilfe der Ergebnisse will das Studierendenwerk nun den Bau eines weiteren Wohnheims begründen",
+          "ko": "학생복지회는 이제 이 결과를 근거로 기숙사를 하나 더 지어야 한다는 주장을 뒷받침하려 합니다",
+          "mark": ["den Bau eines weiteren Wohnheims"]
+        },
+        {
+          "de": "Wie groß der Bedarf an Wohnheimplätzen ist, zeigt ein Blick auf die Warteliste des Studierendenwerks",
+          "ko": "기숙사 자리가 얼마나 부족한지는 학생복지회의 대기자 명단을 보면 알 수 있습니다",
+          "mark": ["der Bedarf an Wohnheimplätzen", "ein Blick auf die Warteliste"]
+        }
+      ],
+      "tip": "'Das entspricht einem Anstieg um 70 Euro'는 'Die Miete ist um 70 Euro gestiegen'과 같은 내용이에요. 글을 쓸 때 두 문체를 바꿔 쓰는 연습을 해 보세요."
+    },
+    {
+      "title": "형용사·분사의 명사화",
+      "term": "Substantivierte Adjektive und Partizipien (die Befragten, Studierende, Alleinlebende, diejenigen)",
+      "explain": "형용사나 분사를 대문자로 써서 사람을 가리키는 명사로 만들 수 있어요. befragt(질문받은) → die Befragten(응답자들), studierend → Studierende(대학생들), alleinlebend → Alleinlebende(혼자 사는 사람들)처럼요. 이 명사들은 형용사 어미변화를 그대로 따라요. 정관사 뒤에서는 die Befragten, 관사 없이 복수로 쓰면 Studierende, 2격 복수는 der Befragten이에요. diejenigen, die …는 '~하는 사람들'이라는 뜻으로, 관계절과 함께 써요.",
+      "pattern": "der/die Befragte · die Befragten · ein Befragter · 38 Prozent der Befragten · diejenigen, die …",
+      "examples": [
+        {
+          "de": "Alleinlebende zahlen am meisten: Eine eigene Wohnung kostet mit 560 Euro ein Drittel mehr als ein WG-Zimmer.",
+          "ko": "혼자 사는 사람이 가장 많이 냅니다. 자기 집 하나는 560유로로 WG 방보다 3분의 1 더 비쌉니다.",
+          "mark": ["Alleinlebende"]
+        },
+        {
+          "de": "Besonders betroffen sind diejenigen, die im Elternhaus wohnen: Unter ihnen ist fast jeder Dritte länger als eine Stunde unterwegs.",
+          "ko": "특히 부모 집에 사는 사람들이 영향을 많이 받습니다. 이들 가운데 거의 3분의 1이 한 시간 넘게 길에서 보냅니다.",
+          "mark": ["diejenigen, die"]
+        },
+        {
+          "de": "Das zeigt eine Umfrage der Hochschule Rheinfeld, an der sich im Sommersemester 1.400 Studierende beteiligt haben.",
+          "ko": "라인펠트 대학교의 설문조사가 이를 보여 줍니다. 이 조사에는 여름 학기에 대학생 1,400명이 참여했습니다.",
+          "mark": ["Studierende"],
+          "parts": [["Das", "주어"], ["zeigt", "동사"], ["eine Umfrage der Hochschule Rheinfeld,", "4격 목적어"], ["an der sich im Sommersemester 1.400 Studierende beteiligt haben.", "관계절"]]
+        }
+      ],
+      "tip": "Studierende는 Studenten과 달리 성별을 드러내지 않아서 공식 문서에서 널리 써요. 단수는 der/die Studierende, 관사 없이는 ein Studierender / eine Studierende예요."
+    }
+  ],
+  "vocab": [
+    { "de": "die Umfrage, -n", "ko": "설문조사" },
+    { "de": "der/die Befragte, -n", "ko": "응답자, 설문에 답한 사람" },
+    { "de": "die Wohnform, -en", "ko": "주거 형태" },
+    { "de": "das Wohnheim, -e", "ko": "기숙사" },
+    { "de": "der Anteil, -e", "ko": "비율, 몫" },
+    { "de": "die Rangfolge, -n", "ko": "순위" },
+    { "de": "der Prozentpunkt, -e", "ko": "퍼센트포인트" },
+    { "de": "der Anstieg, -e", "ko": "상승, 증가" },
+    { "de": "entsprechen (entspricht, entsprach, hat entsprochen) + Dat.", "ko": "~에 해당하다, ~과 같다" },
+    { "de": "auf|wenden (wendete auf, hat aufgewendet) für + Akk.", "ko": "(돈·시간을) ~에 쓰다, 들이다" },
+    { "de": "zu|treffen (trifft zu, traf zu, hat zugetroffen) auf + Akk.", "ko": "~에 해당되다, 들어맞다" },
+    { "de": "der Fahrtweg, -e", "ko": "통학·통근 거리, 이동 경로" },
+    { "de": "die Strecke, -n", "ko": "구간, 거리" },
+    { "de": "betroffen", "ko": "영향을 받은, 해당되는" },
+    { "de": "die Mehrfachnennung, -en", "ko": "복수 응답" },
+    { "de": "die Warteliste, -n", "ko": "대기자 명단" },
+    { "de": "der Bedarf (Sg.) an + Dat.", "ko": "~에 대한 수요, 필요" },
+    { "de": "begründen", "ko": "근거를 대다, 정당화하다" }
+  ],
+  "phrases": [
+    {
+      "de": "etwas auf sich nehmen",
+      "ko": "(힘든 일을) 감수하다, 떠맡다",
+      "ex": "immer mehr Studierende nehmen lange Fahrtwege auf sich",
+      "exko": "점점 더 많은 대학생이 긴 통학 거리를 감수하고 있습니다"
+    },
+    {
+      "de": "an zweiter Stelle folgen",
+      "ko": "2위를 차지하다, 그다음에 오다",
+      "ex": "An zweiter Stelle folgt das Elternhaus",
+      "exko": "2위는 부모 집입니다"
+    },
+    {
+      "de": "im Schnitt",
+      "ko": "평균적으로",
+      "ex": "Ein WG-Zimmer kostet im Schnitt 420 Euro warm",
+      "exko": "WG 방 하나는 관리비 포함 평균 420유로입니다"
+    },
+    {
+      "de": "sich (Dat.) einig sein",
+      "ko": "의견이 일치하다",
+      "ex": "Hinsichtlich der Wünsche sind sich die Befragten weitgehend einig",
+      "exko": "바라는 점에 관해서는 응답자들의 의견이 대체로 일치합니다"
+    },
+    {
+      "de": "sich für etwas (Akk.) aussprechen",
+      "ko": "~에 찬성 의견을 밝히다, ~을 지지하다",
+      "ex": "knapp ein Drittel (31 Prozent) spricht sich für bessere Busverbindungen aus dem Umland aus",
+      "exko": "3분의 1에 조금 못 미치는 31%는 외곽 지역에서 오는 버스 노선을 개선해 달라고 합니다"
+    },
+    {
+      "de": "die Wahl haben zwischen + Dat.",
+      "ko": "~ 사이에서 선택할 수 있다",
+      "ex": "bleibe vielen Studierenden nur die Wahl zwischen einem teuren Zimmer in der Stadt und einem langen Weg vom Land",
+      "exko": "많은 대학생에게는 도시의 비싼 방과 시골에서의 긴 통학길 사이의 선택만 남는다고 말합니다"
+    }
+  ]
+}

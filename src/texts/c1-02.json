@@ -138,13 +138,19 @@
       "explain": "자연보호단체는 무리가 흩어지면 남은 늑대들이 떠돌다가 오히려 주거지에 더 가까이 온다고 주장해요. verbliebene Tiere를 übrige Tiere로, Siedlungen을 Menschen으로 바꿨어요. 연구가 사살의 효과를 '명백히 반박했다'는 말은 없고, 양쪽 다 연구를 근거로 든다고 되어 있어요."
     },
     {
-      "type": "rfn",
-      "kind": "detail",
-      "q": "Dem Text zufolge ist in der Fachwelt inzwischen weitgehend unstrittig, dass der Wolf dauerhaft in Deutschland leben wird.",
-      "answer": 0,
+      "type": "mc",
+      "kind": "paraphrase",
+      "q": "Was bedeutet der Satz „Dass der Wolf bleibt, bezweifelt heute kaum noch jemand.“?",
+      "options": [
+        "Fast niemand glaubt mehr daran, dass der Wolf in Deutschland eine Zukunft hat.",
+        "Es gilt inzwischen als nahezu sicher, dass der Wolf dauerhaft in Deutschland leben wird.",
+        "Nur wenige Menschen wissen überhaupt, dass der Wolf zurückgekehrt ist.",
+        "Die meisten Menschen wünschen sich, dass der Wolf im Land bleibt."
+      ],
+      "answer": 1,
       "evidence": "Dass der Wolf bleibt, bezweifelt heute kaum noch jemand.",
-      "pairs": [["bezweifelt heute kaum noch jemand", "inzwischen weitgehend unstrittig"], ["Dass der Wolf bleibt", "dauerhaft in Deutschland leben wird"]],
-      "explain": "'늑대가 머물 것이라는 사실을 의심하는 사람은 거의 없다'는 문장을 '거의 논쟁의 여지가 없다'는 명사 표현으로 바꿨어요. kaum noch jemand bezweifelt(거의 아무도 의심하지 않는다)는 이중 부정에 가까워서 긍정으로 읽어야 해요."
+      "pairs": [["bezweifelt heute kaum noch jemand", "gilt inzwischen als nahezu sicher"], ["Dass der Wolf bleibt", "dauerhaft in Deutschland leben wird"]],
+      "explain": "'의심하는 사람이 거의 없다'는 것은 곧 '거의 확실하게 여겨진다'는 뜻이에요. kaum noch jemand bezweifelt는 부정어 두 개가 겹쳐 긍정이 되므로, 첫 번째 선택지처럼 '거의 아무도 믿지 않는다'로 읽으면 정반대가 돼요. 머물기를 바라는지 어떤지는 이 문장이 말하지 않아요."
     },
     {
       "type": "mc",

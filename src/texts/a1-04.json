@@ -27,7 +27,7 @@
     },
     {
       "de": "Ist der Beruf nicht anstrengend? „Doch, aber ich liebe meine Arbeit“, sagt Sabine. „Morgens ist die Stadt noch ganz leise. Und meine Kunden kenne ich seit vielen Jahren.“",
-      "ko": "이 직업은 힘들지 않을까요? 자비네 씨는 이렇게 말해요. \"힘들죠. 그래도 저는 제 일을 사랑해요. 아침에는 도시가 아직 아주 조용해요. 그리고 제 손님들은 오래전부터 알고 지낸 분들이에요.\""
+      "ko": "이 직업은 힘들지 않을까요? 자비네 씨는 이렇게 말해요. “힘들죠. 그래도 저는 제 일을 사랑해요. 아침에는 도시가 아직 아주 조용해요. 그리고 제 손님들은 오래전부터 알고 지낸 분들이에요.”"
     }
   ],
   "questions": [
@@ -38,7 +38,7 @@
       "answer": 1,
       "evidence": "Um drei Uhr fängt sie in der Backstube an.",
       "pairs": [["Um halb drei steht sie auf", "um 2.30 Uhr"], ["fängt sie in der Backstube an", "beginnt um 2.30 Uhr mit der Arbeit"]],
-      "explain": "2시 반(halb drei)은 자비네 씨가 일어나는 시간이에요. 일은 3시에 빵 작업실에서 시작해요. 두 시간을 섞어 놓은 함정이에요."
+      "explain": "2시 반(halb drei)은 자비네 씨가 일어나는 시간이에요. 일은 3시에 빵 작업실에서 시작해요. 'anfangen(시작하다)'을 'beginnen'으로 바꾸고 두 시간을 섞어 놓은 함정이에요."
     },
     {
       "type": "mc",
@@ -93,7 +93,7 @@
     {
       "title": "분리동사",
       "term": "Trennbare Verben",
-      "explain": "aufstehen, anfangen, aufmachen, einkaufen, abholen, fernsehen은 분리동사예요. 분리동사는 앞부분(auf-, an-, ein-, ab-, fern-)과 동사 부분으로 나뉘어요. 현재형 문장에서는 동사 부분이 2번 자리에 오고, 앞부분은 문장 끝으로 가요. 두 부분이 문장을 감싸는 틀 구조가 생겨요. 사전에는 한 단어로 나와요: aufstehen → Sie steht auf.",
+      "explain": "aufstehen, anfangen, aufmachen, einkaufen, abholen, fernsehen은 분리동사예요. 분리동사는 앞부분(auf-, an-, ein-, ab-, fern-)과 동사 부분으로 나뉘어요. 현재형 문장에서는 동사 부분이 2번 자리에 오고, 앞부분은 문장 끝으로 가요. 두 부분이 문장을 감싸는 틀 구조가 생겨요. 사전에는 한 단어로 나와요: aufstehen → Sie steht auf. 목적어나 장소 표현은 모두 두 부분 사이에 들어가요: Sie holt ihre Enkelin vom Kindergarten ab.",
       "pattern": "주어/시간 표현 + 동사 부분 + … + 앞부분(문장 끝)",
       "examples": [
         {

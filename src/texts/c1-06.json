@@ -11,12 +11,12 @@
   "paragraphs": [
     {
       "de": "Mehr als zehn Millionen Tonnen Lebensmittel landen in Deutschland Jahr für Jahr im Müll – eine Menge, die sich kaum noch anschaulich machen lässt. Ein erheblicher Teil davon hätte vermieden werden können. Wer verstehen will, warum Essbares weggeworfen wird, muss den Weg der Lebensmittel vom Acker bis zum Teller verfolgen, denn auf jeder Stufe der Wertschöpfungskette entstehen Verluste, und zwar aus jeweils anderen Gründen.",
-      "ko": "독일에서는 해마다 천만 톤이 넘는 식품이 쓰레기로 버려집니다. 이제는 실감하기조차 어려운 양입니다. 그중 상당 부분은 피할 수 있었을 것입니다. 먹을 수 있는 것이 왜 버려지는지 이해하려면 밭에서 식탁까지 식품이 거치는 길을 따라가 보아야 합니다. 가치 사슬의 모든 단계에서 손실이 생기는데, 그 이유는 단계마다 다르기 때문입니다."
+      "ko": "독일에서는 해마다 천만 톤이 넘는 식품이 쓰레기로 버려집니다. 이제는 실감하기조차 어려운 양입니다. 그중 상당 부분은 피할 수 있었을 것입니다. 먹을 수 있는 것이 왜 버려지는지 이해하려면 밭에서 식탁까지 식품이 거치는 길을 따라가 보아야 합니다. 가치 사슬의 모든 단계에서, 그것도 단계마다 다른 이유로 손실이 생기기 때문입니다."
     },
     {
       "style": "h",
       "de": "Landwirtschaft: Die Norm entscheidet",
-      "ko": "농업: 규격이 결정하는 단계"
+      "ko": "농업: 규격이 결정합니다"
     },
     {
       "de": "Am Anfang der Kette steht der Acker. Ein Teil der Ernte bleibt dort liegen oder wird untergepflügt, weil Obst und Gemüse den vom Handel festgelegten Normen nicht entsprechen. Zu krumme Gurken, zu kleine Äpfel oder Möhren mit zwei Beinen lassen sich kaum verkaufen, obwohl ihr Geschmack dem der makellosen Ware in nichts nachsteht. Eine nicht zu unterschätzende Rolle spielen auch Preisschwankungen: Fällt der Marktpreis unter die Erntekosten, lohnt sich die Ernte nicht mehr, und das Feld wird gar nicht erst abgeerntet.",
@@ -25,7 +25,7 @@
     {
       "style": "h",
       "de": "Verarbeitung und Handel: Zu viel von allem",
-      "ko": "가공과 유통: 모든 것이 너무 많은 단계"
+      "ko": "가공과 유통: 모든 것이 너무 많습니다"
     },
     {
       "de": "In der Verarbeitung entstehen Verluste, die technisch bedingt sind: die beim Zuschneiden anfallenden Reste, fehlerhafte Chargen, beschädigte Verpackungen. Weit folgenreicher ist jedoch das Prinzip des Überangebots, nach dem der Handel arbeitet. Volle Regale bis zum Ladenschluss gelten als Verkaufsargument; was abends übrig bleibt, muss nicht selten entsorgt werden. Dass die zu entsorgenden Waren häufig noch einwandfrei sind, ändert daran nichts. Hinzu kommt das auf nahezu jeder Verpackung angegebene Mindesthaltbarkeitsdatum, das von vielen Kundinnen und Kunden als Verfallsdatum missverstanden wird.",
@@ -154,7 +154,7 @@
     {
       "type": "mc",
       "kind": "detail",
-      "q": "Was lässt sich aus dem Text über die Lage in Deutschland schließen?",
+      "q": "Was sagt der Text über die Lage in Deutschland?",
       "options": [
         "Supermärkte müssen seit 2016 unverkaufte Ware an die Tafeln abgeben.",
         "Das Vernichten genießbarer Lebensmittel ist verboten, wird aber kaum kontrolliert.",
@@ -179,7 +179,7 @@
       "answer": 0,
       "evidence": "Der wirksamste Hebel liegt jedoch dort, wo der größte Anteil anfällt – in den Haushalten.",
       "pairs": [["Hebel", "Mittel, mit dem sich am meisten bewirken lässt"]],
-      "explain": "Hebel는 원래 '지렛대'인데, 여기서는 비유적으로 '가장 큰 효과를 낼 수 있는 수단, 공략 지점'이라는 뜻이에요. 가정에서 가장 많이 버려지므로 그곳을 바꾸는 것이 가장 효과적이라는 말이에요."
+      "explain": "Hebel은 원래 '지렛대'인데, 여기서는 비유적으로 '가장 큰 효과를 낼 수 있는 수단, 공략 지점'이라는 뜻이에요. 가정에서 가장 많이 버려지므로 그곳을 바꾸는 것이 가장 효과적이라는 말이에요."
     },
     {
       "type": "mc",
@@ -238,7 +238,7 @@
         },
         {
           "de": "Eine nicht zu unterschätzende Rolle spielen auch Preisschwankungen",
-          "ko": "가격 변동도 결코 과소평가할 수 없는 역할을 합니다.",
+          "ko": "가격 변동 역시 결코 과소평가할 수 없는 역할을 합니다.",
           "mark": ["nicht zu unterschätzende"],
           "parts": [["Eine nicht zu unterschätzende Rolle", "4격 목적어"], ["spielen", "동사"], ["auch", "부사어"], ["Preisschwankungen", "주어"]]
         },
@@ -329,7 +329,7 @@
       "de": "eine Rolle spielen",
       "ko": "역할을 하다, 중요하다",
       "ex": "Eine nicht zu unterschätzende Rolle spielen auch Preisschwankungen",
-      "exko": "가격 변동도 결코 과소평가할 수 없는 역할을 합니다."
+      "exko": "가격 변동 역시 결코 과소평가할 수 없는 역할을 합니다."
     },
     {
       "de": "gar nicht erst",

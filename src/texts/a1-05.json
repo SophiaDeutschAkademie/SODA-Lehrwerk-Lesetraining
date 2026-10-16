@@ -74,11 +74,11 @@
     {
       "type": "rf",
       "kind": "detail",
-      "q": "Die Familie in Anzeige B wohnt weit weg vom Supermarkt.",
+      "q": "Der Babysitter in Anzeige B braucht ein Auto, denn die Wohnung ist weit weg.",
       "answer": 1,
-      "evidence": "ich wohne direkt neben dem Supermarkt",
-      "pairs": [["direkt neben dem Supermarkt", "weit weg vom Supermarkt"]],
-      "explain": "광고 B를 낸 사람은 슈퍼마켓 바로 옆(direkt neben)에 산다고 해요. 그래서 베이비시터에게 차가 필요 없어요. 문제는 슈퍼마켓에서 멀리(weit weg) 산다고 했으니 틀려요."
+      "evidence": "Sie brauchen kein Auto – ich wohne direkt neben dem Supermarkt.",
+      "pairs": [["brauchen kein Auto", "braucht ein Auto"], ["direkt neben dem Supermarkt", "weit weg"]],
+      "explain": "광고 B를 낸 사람은 슈퍼마켓 바로 옆(direkt neben)에 살기 때문에 베이비시터에게 차가 필요 없다(kein Auto)고 해요. 문제는 차가 필요하고 집이 멀다고 했으니 두 가지 모두 반대예요. 'Auto'라는 단어는 광고 B와 C에 모두 나와서 혼동하기 쉬워요."
     },
     {
       "type": "rf",
@@ -115,7 +115,7 @@
     {
       "title": "kein과 nicht",
       "term": "Negation: kein vs. nicht",
-      "explain": "명사를 부정할 때는 kein을 써요. 부정관사가 있는 명사나 관사가 없는 명사 앞에 kein이 와요: ein Auto → kein Auto, einen Kratzer → keinen Kratzer. kein은 부정관사처럼 어미가 변해요. 동사, 형용사, 부사어, 정관사가 있는 명사를 부정할 때는 nicht를 써요: nicht neu, nicht am Wochenende.",
+      "explain": "명사를 부정할 때는 kein을 써요. 부정관사가 있는 명사나 관사가 없는 명사 앞에 kein이 와요: ein Auto → kein Auto, einen Kratzer → keinen Kratzer, Aufzug → kein Aufzug. kein은 부정관사처럼 어미가 변해요. 동사, 형용사, 부사어, 정관사가 있는 명사를 부정할 때는 nicht를 써요. 'nicht neu'에서는 형용사를, 'nicht am Wochenende'에서는 부사어를 부정해요.",
       "pattern": "kein + 명사 (ein Auto → kein Auto) · nicht + 동사/형용사/부사어",
       "examples": [
         {
@@ -142,7 +142,7 @@
     {
       "title": "숫자와 가격",
       "term": "Zahlen und Preise",
-      "explain": "가격은 '숫자 + Euro'로 말해요: 60 Euro, 15 Euro. 'pro Stunde'는 '한 시간에', 'kostenlos'는 '무료'라는 뜻이에요. 범위는 'von … bis …'로 말해요: von 4 bis 7 Jahren, von 15 bis 18 Uhr. 'ab 18 Uhr'는 '18시부터'예요. 전화번호는 숫자를 하나씩 또는 두 개씩 끊어서 읽어요.",
+      "explain": "가격은 '숫자 + Euro'로 말해요: 60 Euro, 15 Euro. Euro는 복수에서도 모양이 같아요. 'pro Stunde'는 '한 시간에', 'kostenlos'는 '무료'라는 뜻이에요. 범위는 'von … bis …'로 말해요: von 4 bis 7 Jahren, von 15 bis 18 Uhr. 'ab 18 Uhr'는 '18시부터'예요. 전화번호는 숫자를 하나씩 또는 두 개씩 끊어서 읽어요.",
       "pattern": "60 Euro · 12 Euro pro Stunde · von 15 bis 18 Uhr · ab 18 Uhr",
       "examples": [
         {

@@ -42,7 +42,7 @@
     {
       "style": "meta",
       "de": "Herzliche Grüße aus Daejeon",
-      "ko": "대전에서 마음을 담아"
+      "ko": "대전에서 안부를 전하며"
     },
     {
       "style": "meta",
@@ -67,7 +67,7 @@
       "options": [
         "Er fliegt direkt nach Lübeck und fährt dann mit dem Taxi weiter.",
         "Er landet in einer anderen Stadt und fährt dann mit der Bahn weiter.",
-        "Er fährt mit dem Zug von Hamburg nach Lübeck, wo die Hoffmanns ihn abholen."
+        "Er fährt mit dem Zug von Hamburg nach Lübeck, und die Hoffmanns holen ihn ab."
       ],
       "answer": 1,
       "evidence": "Mein Flugzeug landet morgens in Hamburg, von dort nehme ich den Zug.",
@@ -186,7 +186,7 @@
     {
       "title": "공손한 부탁 – Können Sie …? / Könnten Sie …? / würde gern",
       "term": "Höfliche Bitten mit Modalverb und Konjunktiv II",
-      "explain": "모르는 사람이나 어른에게 부탁할 때는 'Können Sie mir sagen, …?'처럼 화법조동사 können을 써요. 접속법 2식 könnten이나 würde를 쓰면 더 공손해져요: Könnten Sie mir schreiben, …? / Ich würde gern wissen, …. 두 경우 모두 화법조동사나 würde가 2번 자리에 오고 동사원형이 끝에 와요. 상대방의 이름을 부르고 Sie로 부르는 것도 공손한 편지의 기본이에요.",
+      "explain": "모르는 사람이나 어른에게 부탁할 때는 'Können Sie mir sagen, …?'처럼 화법조동사 können을 써요. 접속법 2식 könnten이나 würde를 쓰면 더 공손해져요: Könnten Sie mir schreiben, …? / Ich würde gern wissen, …. 두 경우 모두 könnten이나 würde가 2번 자리에 오고 동사원형이 문장 끝에 와요. 상대방을 Sie로 부르는 것도 공손한 편지의 기본이에요.",
       "pattern": "Können / Könnten Sie + … + 동사원형? · Ich würde gern + 동사원형",
       "examples": [
         {

@@ -151,7 +151,7 @@
     {
       "title": "접속법 1식 – 간접화법",
       "term": "Konjunktiv I in der indirekten Rede",
-      "explain": "신문 기사에서는 다른 사람의 말을 전할 때 접속법 1식을 써요. 접속법 1식은 동사 어간에 -e를 붙여 만들고, 3인칭 단수에서 habe, sei, gebe, könne, werde처럼 나타나요. 이 형태는 '이것은 기자의 생각이 아니라 그 사람의 말'이라는 거리를 표시해요. 과거의 일은 habe/sei + 과거분사로, 앞으로의 일은 werde + 동사원형으로 전해요.",
+      "explain": "신문 기사에서는 다른 사람의 말을 전할 때 접속법 1식을 써요. 접속법 1식은 동사 어간에 -e를 붙여 만들고, 3인칭 단수에서 habe, gebe, könne, werde처럼 나타나요. sein만 불규칙해서 sei(복수 seien)예요. 이 형태는 '이것은 기자의 생각이 아니라 그 사람의 말'이라는 거리를 표시해요. 과거의 일은 habe/sei + 과거분사로, 앞으로의 일은 werde + 동사원형으로 전해요.",
       "pattern": "주어 + 접속법 1식 동사 (habe · sei · gebe · könne · werde …)",
       "examples": [
         {
@@ -283,7 +283,7 @@
       "de": "es kommt zu + Dat.",
       "ko": "~이 발생하다, ~한 사태가 생기다",
       "ex": "dass es an einzelnen Tagen zu Engpässen bei der Terminvergabe gekommen sei.",
-      "exko": "일부 날짜에 예약 배정에서 병목 현상이 생겼다는 것."
+      "exko": "일부 날짜에 예약 배정에서 병목 현상이 생겼다고 해요."
     },
     {
       "de": "hinter etwas (Dat.) stehen",
@@ -292,7 +292,7 @@
       "exko": "직원 협의회도 이 프로젝트를 지지해요."
     },
     {
-      "de": "sich freinehmen",
+      "de": "sich (Dat.) freinehmen",
       "ko": "휴가를 내다, 하루 쉬다",
       "ex": "er könne jetzt nach der Arbeit ins Bürgerbüro gehen, ohne sich freinehmen zu müssen.",
       "exko": "이제 휴가를 내지 않고도 퇴근 후에 민원실에 갈 수 있다고 해요."
