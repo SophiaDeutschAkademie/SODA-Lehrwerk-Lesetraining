@@ -145,7 +145,7 @@
     {
       "title": "als – 과거에 한 번 있었던 일",
       "term": "Temporalsatz mit als",
-      "explain": "als는 '~했을 때'라는 뜻의 종속접속사예요. 과거에 한 번 있었던 일이나 한 시기를 말할 때 써요. als절에서는 동사가 절의 끝에 와요. als절이 문장 앞에 오면 주절은 동사로 시작해요: Als er fast nichts mehr fühlte, hielt endlich ein Wagen. 주절이 앞에 올 수도 있어요: Es war schon nach Mitternacht, als Herr Kowalski nach Hause kam.",
+      "explain": "als는 '~했을 때'라는 뜻의 종속접속사예요. 과거에 한 번 있었던 일이나 한 시기를 말할 때 써요. als절에서는 동사가 절의 끝에 와요. als절이 문장 앞에 오면 주절은 동사로 시작해요: Als er seine Finger fast nicht mehr fühlte, hielt endlich ein Wagen. 주절이 앞에 올 수도 있어요: Es war schon nach Mitternacht, als Herr Kowalski nach Hause kam.",
       "pattern": "Als + 주어 + … + 동사(끝), + 동사 + 주어 … / 주절, als + … + 동사(끝)",
       "examples": [
         {

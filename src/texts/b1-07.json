@@ -7,7 +7,12 @@
   "type": "FAQ-Seite",
   "typeKo": "자주 묻는 질문 페이지",
   "intro": "가상의 카셰어링 업체 KlickCar의 홈페이지에 있는 자주 묻는 질문 페이지예요.",
-  "focus": ["짝을 이루는 접속사 sowohl … als auch · weder … noch", "entweder … oder", "nicht nur … sondern auch", "zwar … aber"],
+  "focus": [
+    "짝을 이루는 접속사 sowohl … als auch · weder … noch",
+    "entweder … oder",
+    "nicht nur … sondern auch",
+    "zwar … aber"
+  ],
   "paragraphs": [
     {
       "de": "Hier finden Sie Antworten auf die häufigsten Fragen. Falls Ihre Frage nicht dabei ist, hilft Ihnen unser Kundenbüro gern weiter.",
@@ -42,8 +47,8 @@
     },
     {
       "style": "h",
-      "de": "Muss ich das Auto selbst tanken oder laden?",
-      "ko": "연료나 충전은 직접 해야 하나요?"
+      "de": "Muss ich für das Tanken oder Laden extra bezahlen?",
+      "ko": "주유나 충전에 추가 비용을 내야 하나요?"
     },
     {
       "de": "Nein. Kraftstoff und Strom sind im Preis inklusive. Wenn der Tank oder der Akku fast leer ist, nutzen Sie bitte die Tank- und Ladekarte im Handschuhfach. Die Kosten übernehmen wir.",
@@ -84,7 +89,16 @@
       "q": "Man kann sich bei KlickCar auch persönlich vor Ort registrieren.",
       "answer": 0,
       "evidence": "Die Anmeldung ist sowohl in der KlickCar-App als auch in unserem Kundenbüro am Hauptbahnhof möglich.",
-      "pairs": [["in unserem Kundenbüro am Hauptbahnhof", "persönlich vor Ort"], ["Die Anmeldung", "registrieren"]],
+      "pairs": [
+        [
+          "in unserem Kundenbüro am Hauptbahnhof",
+          "persönlich vor Ort"
+        ],
+        [
+          "Die Anmeldung",
+          "registrieren"
+        ]
+      ],
       "explain": "'가입은 앱에서도 중앙역 고객 사무실에서도 가능하다'고 해요. 고객 사무실에 가는 것이 바로 '현장에서 직접' 등록하는 거예요. Anmeldung(가입)을 registrieren(등록하다)으로 바꿔 말했어요."
     },
     {
@@ -98,7 +112,16 @@
       ],
       "answer": 1,
       "evidence": "Fahranfänger, deren Führerschein noch kein Jahr alt ist, können wir leider nicht aufnehmen.",
-      "pairs": [["deren Führerschein noch kein Jahr alt ist", "erst seit einigen Monaten einen Führerschein haben"], ["seit mindestens einem Jahr besitzen", "vor zwei Jahren gemacht haben"]],
+      "pairs": [
+        [
+          "deren Führerschein noch kein Jahr alt ist",
+          "erst seit einigen Monaten einen Führerschein haben"
+        ],
+        [
+          "seit mindestens einem Jahr besitzen",
+          "vor zwei Jahren gemacht haben"
+        ]
+      ],
       "explain": "면허를 취득한 지 최소 1년이 되어야 해요. 그러니 몇 달 전에 면허를 딴 사람은 이용할 수 없어요. 2년 전에 면허를 딴 사람은 조건을 충족해요. 나이 조건은 21세 이상이니 22세인 사람은 이용할 수 있어요."
     },
     {
@@ -112,7 +135,16 @@
       ],
       "answer": 1,
       "evidence": "Am Ende der Fahrt rechnet die App automatisch den niedrigeren Preis ab.",
-      "pairs": [["je nachdem, was für Sie günstiger ist", "die am wenigsten kostet"], ["entweder pro Minute oder pro Stunde", "Abrechnungsart"]],
+      "pairs": [
+        [
+          "je nachdem, was für Sie günstiger ist",
+          "die am wenigsten kostet"
+        ],
+        [
+          "entweder pro Minute oder pro Stunde",
+          "Abrechnungsart"
+        ]
+      ],
       "explain": "'둘 중 더 저렴한 쪽으로 낸다'는 말이에요. 다음 문장에서 앱이 자동으로 더 낮은 가격으로 정산한다고 하니, 고객이 미리 고를 필요가 없어요. 시간대에 따라 가격이 다르다는 말은 본문에 없어요."
     },
     {
@@ -121,7 +153,12 @@
       "q": "Im Basistarif muss man eine monatliche Gebühr und eine Kaution bezahlen.",
       "answer": 1,
       "evidence": "Im Basistarif gibt es weder eine monatliche Grundgebühr noch eine Kaution.",
-      "pairs": [["weder eine monatliche Grundgebühr noch eine Kaution", "eine monatliche Gebühr und eine Kaution"]],
+      "pairs": [
+        [
+          "weder eine monatliche Grundgebühr noch eine Kaution",
+          "eine monatliche Gebühr und eine Kaution"
+        ]
+      ],
       "explain": "weder … noch는 '~도 ~도 아니다'라는 뜻이에요. 기본 요금제에는 월 기본료도 보증금도 없다고 했으니 문장은 틀려요. 월 9유로는 다빈도 요금제의 요금이에요."
     },
     {
@@ -135,7 +172,16 @@
       ],
       "answer": 0,
       "evidence": "Wer häufig fährt, spart mit dem Vielfahrertarif: Er kostet zwar 9 Euro im Monat, aber dafür ist jede Minute deutlich billiger.",
-      "pairs": [["Wer häufig fährt, spart", "lohnt sich für Leute, die das Auto oft brauchen"], ["kostet zwar 9 Euro im Monat", "kostenlos"]],
+      "pairs": [
+        [
+          "Wer häufig fährt, spart",
+          "lohnt sich für Leute, die das Auto oft brauchen"
+        ],
+        [
+          "kostet zwar 9 Euro im Monat",
+          "kostenlos"
+        ]
+      ],
       "explain": "'자주 운전하는 사람은 다빈도 요금제로 절약한다'를 '차가 자주 필요한 사람에게 유리하다'로 바꿔 말했어요. 이 요금제는 월 9유로가 들기 때문에 무료가 아니에요. 보증금 이야기는 기본 요금제에 나오고, 거기에도 보증금은 없어요."
     },
     {
@@ -144,7 +190,16 @@
       "q": "Wenn der Akku fast leer ist, muss die Kundin oder der Kunde das Laden selbst bezahlen.",
       "answer": 1,
       "evidence": "Kraftstoff und Strom sind im Preis inklusive.",
-      "pairs": [["Strom sind im Preis inklusive", "das Laden selbst bezahlen"], ["Die Kosten übernehmen wir", "selbst bezahlen"]],
+      "pairs": [
+        [
+          "Strom sind im Preis inklusive",
+          "das Laden selbst bezahlen"
+        ],
+        [
+          "Die Kosten übernehmen wir",
+          "selbst bezahlen"
+        ]
+      ],
       "explain": "연료비와 전기 요금은 가격에 포함되어 있고, 비용은 회사가 부담한다고 해요. 배터리가 거의 비면 글러브 박스의 카드를 쓰면 되니까 고객이 직접 돈을 내지 않아요."
     },
     {
@@ -158,7 +213,16 @@
       ],
       "answer": 1,
       "evidence": "Außerhalb einer Zone können Sie die Fahrt nicht beenden.",
-      "pairs": [["die Fahrt nicht beenden", "Die Fahrt lässt sich nur abschließen"], ["Außerhalb einer Zone", "in einem der markierten Gebiete"]],
+      "pairs": [
+        [
+          "die Fahrt nicht beenden",
+          "Die Fahrt lässt sich nur abschließen"
+        ],
+        [
+          "Außerhalb einer Zone",
+          "in einem der markierten Gebiete"
+        ]
+      ],
       "explain": "구역 밖에서는 운행을 종료할 수 없다는 말은, 앱에 표시된 구역 안에 차를 세워야만 운행을 끝낼 수 있다는 뜻이에요. 구역 밖으로 나가면 안 된다거나 차가 멈춘다는 뜻은 아니에요. 공항까지 가는 운행도 가능하다고 했어요."
     },
     {
@@ -172,7 +236,16 @@
       ],
       "answer": 2,
       "evidence": "Schäden, die nicht gemeldet werden, müssen wir der Person in Rechnung stellen, die das Auto zuletzt benutzt hat.",
-      "pairs": [["in Rechnung stellen", "muss für den Schaden zahlen"], ["die das Auto zuletzt benutzt hat", "die zuletzt gefahren ist"]],
+      "pairs": [
+        [
+          "in Rechnung stellen",
+          "muss für den Schaden zahlen"
+        ],
+        [
+          "die das Auto zuletzt benutzt hat",
+          "die zuletzt gefahren ist"
+        ]
+      ],
       "explain": "'jemandem etwas in Rechnung stellen'은 '~에게 비용을 청구하다'라는 뜻이에요. 신고되지 않은 파손은 마지막으로 차를 이용한 사람에게 청구해요. 작은 긁힘도 신고해야 한다고 했으니 작아서 무료라는 말은 틀려요."
     }
   ],
@@ -186,14 +259,54 @@
         {
           "de": "Die Anmeldung ist sowohl in der KlickCar-App als auch in unserem Kundenbüro am Hauptbahnhof möglich.",
           "ko": "가입은 KlickCar 앱에서도, 중앙역에 있는 저희 고객 사무실에서도 할 수 있습니다.",
-          "mark": ["sowohl", "als auch"],
-          "parts": [["Die Anmeldung", "주어"], ["ist", "동사"], ["sowohl in der KlickCar-App als auch in unserem Kundenbüro am Hauptbahnhof", "부사어(장소)"], ["möglich.", "보어"]]
+          "mark": [
+            "sowohl",
+            "als auch"
+          ],
+          "parts": [
+            [
+              "Die Anmeldung",
+              "주어"
+            ],
+            [
+              "ist",
+              "동사"
+            ],
+            [
+              "sowohl in der KlickCar-App als auch in unserem Kundenbüro am Hauptbahnhof",
+              "부사어(장소)"
+            ],
+            [
+              "möglich.",
+              "보어"
+            ]
+          ]
         },
         {
           "de": "Im Basistarif gibt es weder eine monatliche Grundgebühr noch eine Kaution.",
           "ko": "기본 요금제에는 월 기본료도 보증금도 없습니다.",
-          "mark": ["weder", "noch"],
-          "parts": [["Im Basistarif", "부사어"], ["gibt", "동사"], ["es", "주어"], ["weder eine monatliche Grundgebühr noch eine Kaution.", "4격 목적어"]]
+          "mark": [
+            "weder",
+            "noch"
+          ],
+          "parts": [
+            [
+              "Im Basistarif",
+              "부사어"
+            ],
+            [
+              "gibt",
+              "동사"
+            ],
+            [
+              "es",
+              "주어"
+            ],
+            [
+              "weder eine monatliche Grundgebühr noch eine Kaution.",
+              "4격 목적어"
+            ]
+          ]
         }
       ],
       "tip": "weder … noch가 있는 문장에 nicht를 또 쓰면 틀려요. 'Es gibt weder eine Gebühr noch eine Kaution.'가 맞고, 'Es gibt nicht weder …'는 틀린 문장이에요. 연결되는 두 명사는 격이 같아요. 여기서는 둘 다 4격이에요."
@@ -207,13 +320,36 @@
         {
           "de": "Sie bezahlen entweder pro Minute oder pro Stunde – je nachdem, was für Sie günstiger ist.",
           "ko": "분 단위나 시간 단위 중에서 더 저렴한 쪽으로 요금을 내게 됩니다.",
-          "mark": ["entweder", "oder"],
-          "parts": [["Sie", "주어"], ["bezahlen", "동사"], ["entweder pro Minute oder pro Stunde", "부사어(방법)"], ["– je nachdem, was für Sie günstiger ist.", "기타"]]
+          "mark": [
+            "entweder",
+            "oder"
+          ],
+          "parts": [
+            [
+              "Sie",
+              "주어"
+            ],
+            [
+              "bezahlen",
+              "동사"
+            ],
+            [
+              "entweder pro Minute oder pro Stunde",
+              "부사어(방법)"
+            ],
+            [
+              "– je nachdem, was für Sie günstiger ist.",
+              "기타"
+            ]
+          ]
         },
         {
           "de": "Melden Sie uns jeden Schaden sofort, entweder über die App oder telefonisch – auch kleine Kratzer.",
           "ko": "파손이 있으면 작은 긁힘이라도 앱이나 전화로 즉시 저희에게 신고해 주십시오.",
-          "mark": ["entweder", "oder"]
+          "mark": [
+            "entweder",
+            "oder"
+          ]
         }
       ],
       "tip": "entweder가 문장 맨 앞에 오면 1번 자리를 차지해서 동사가 바로 뒤에 와요: Entweder bezahlen Sie pro Minute, oder Sie bezahlen pro Stunde. 이때 oder 뒤에는 보통 어순(주어 + 동사)이 이어져요."
@@ -227,14 +363,62 @@
         {
           "de": "In der App laden Sie nicht nur Ihren Führerschein, sondern auch Ihren Personalausweis hoch.",
           "ko": "앱에서는 운전면허증뿐 아니라 신분증도 올립니다.",
-          "mark": ["nicht nur", "sondern auch"],
-          "parts": [["In der App", "부사어(장소)"], ["laden", "동사"], ["Sie", "주어"], ["nicht nur Ihren Führerschein,", "4격 목적어"], ["sondern auch Ihren Personalausweis", "4격 목적어"], ["hoch.", "동사(끝)"]]
+          "mark": [
+            "nicht nur",
+            "sondern auch"
+          ],
+          "parts": [
+            [
+              "In der App",
+              "부사어(장소)"
+            ],
+            [
+              "laden",
+              "동사"
+            ],
+            [
+              "Sie",
+              "주어"
+            ],
+            [
+              "nicht nur Ihren Führerschein,",
+              "4격 목적어"
+            ],
+            [
+              "sondern auch Ihren Personalausweis",
+              "4격 목적어"
+            ],
+            [
+              "hoch.",
+              "동사(끝)"
+            ]
+          ]
         },
         {
           "de": "Unsere Autos stehen nicht nur in der Innenstadt, sondern auch am Flughafen und an allen S-Bahnhöfen.",
           "ko": "저희 차량은 도심뿐 아니라 공항과 모든 S반 역에도 있습니다.",
-          "mark": ["nicht nur", "sondern auch"],
-          "parts": [["Unsere Autos", "주어"], ["stehen", "동사"], ["nicht nur in der Innenstadt,", "부사어(장소)"], ["sondern auch am Flughafen und an allen S-Bahnhöfen.", "부사어(장소)"]]
+          "mark": [
+            "nicht nur",
+            "sondern auch"
+          ],
+          "parts": [
+            [
+              "Unsere Autos",
+              "주어"
+            ],
+            [
+              "stehen",
+              "동사"
+            ],
+            [
+              "nicht nur in der Innenstadt,",
+              "부사어(장소)"
+            ],
+            [
+              "sondern auch am Flughafen und an allen S-Bahnhöfen.",
+              "부사어(장소)"
+            ]
+          ]
         }
       ],
       "tip": "분리동사 hochladen의 hoch는 두 목적어를 모두 지나 문장 끝에 와요. 틀 구조 안에 nicht nur … sondern auch 전체가 들어가는 거예요."
@@ -248,35 +432,130 @@
         {
           "de": "Er kostet zwar 9 Euro im Monat, aber dafür ist jede Minute deutlich billiger.",
           "ko": "이 요금제는 월 9유로가 들지만, 대신 분당 요금이 훨씬 저렴합니다.",
-          "mark": ["zwar", "aber"],
-          "parts": [["Er", "주어"], ["kostet", "동사"], ["zwar", "부사어"], ["9 Euro", "4격 목적어"], ["im Monat,", "부사어(시간)"], ["aber", "접속사"], ["dafür", "부사어"], ["ist", "동사"], ["jede Minute", "주어"], ["deutlich billiger.", "보어"]]
+          "mark": [
+            "zwar",
+            "aber"
+          ],
+          "parts": [
+            [
+              "Er",
+              "주어"
+            ],
+            [
+              "kostet",
+              "동사"
+            ],
+            [
+              "zwar",
+              "부사어"
+            ],
+            [
+              "9 Euro",
+              "4격 목적어"
+            ],
+            [
+              "im Monat,",
+              "부사어(시간)"
+            ],
+            [
+              "aber",
+              "접속사"
+            ],
+            [
+              "dafür",
+              "부사어"
+            ],
+            [
+              "ist",
+              "동사"
+            ],
+            [
+              "jede Minute",
+              "주어"
+            ],
+            [
+              "deutlich billiger.",
+              "보어"
+            ]
+          ]
         },
         {
           "de": "Fahrten zum Flughafen sind zwar aus jeder Zone möglich, aber dort müssen Sie das Auto auf dem KlickCar-Parkplatz vor Terminal 2 abstellen.",
           "ko": "어느 구역에서든 공항까지 운행할 수는 있지만, 공항에서는 2터미널 앞 KlickCar 주차장에 차를 세워야 합니다.",
-          "mark": ["zwar", "aber"]
+          "mark": [
+            "zwar",
+            "aber"
+          ]
         }
       ],
       "tip": "zwar … aber는 obwohl과 뜻이 비슷해요. 'Obwohl er 9 Euro kostet, ist jede Minute billiger.'와 같은 뜻이지만, zwar … aber는 두 개의 주절로 이루어지고 동사가 끝으로 가지 않아요."
     }
   ],
   "vocab": [
-    { "de": "die Anmeldung, -en", "ko": "가입, 등록" },
-    { "de": "das Kundenbüro, -s", "ko": "고객 사무실" },
-    { "de": "hoch|laden (lädt hoch, lud hoch, hat hochgeladen)", "ko": "(파일을) 올리다, 업로드하다" },
-    { "de": "der Führerschein, -e", "ko": "운전면허증" },
-    { "de": "die Bestätigung, -en", "ko": "확인(서)" },
-    { "de": "der Fahranfänger, -", "ko": "초보 운전자" },
-    { "de": "das Fahrzeug, -e", "ko": "차량" },
-    { "de": "der Tarif, -e", "ko": "요금제" },
-    { "de": "die Grundgebühr, -en", "ko": "기본료" },
-    { "de": "die Kaution, -en", "ko": "보증금" },
-    { "de": "ab|rechnen", "ko": "정산하다" },
-    { "de": "der Kraftstoff, -e", "ko": "연료" },
-    { "de": "das Handschuhfach, -¨er", "ko": "(자동차의) 글러브 박스" },
-    { "de": "der Schaden, -¨", "ko": "손상, 파손" },
-    { "de": "der Kratzer, -", "ko": "긁힌 자국" },
-    { "de": "ab|stellen", "ko": "(차를) 세우다, 주차하다" }
+    {
+      "de": "die Anmeldung, -en",
+      "ko": "가입, 등록"
+    },
+    {
+      "de": "das Kundenbüro, -s",
+      "ko": "고객 사무실"
+    },
+    {
+      "de": "hoch|laden (lädt hoch, lud hoch, hat hochgeladen)",
+      "ko": "(파일을) 올리다, 업로드하다"
+    },
+    {
+      "de": "der Führerschein, -e",
+      "ko": "운전면허증"
+    },
+    {
+      "de": "die Bestätigung, -en",
+      "ko": "확인(서)"
+    },
+    {
+      "de": "der Fahranfänger, -",
+      "ko": "초보 운전자"
+    },
+    {
+      "de": "das Fahrzeug, -e",
+      "ko": "차량"
+    },
+    {
+      "de": "der Tarif, -e",
+      "ko": "요금제"
+    },
+    {
+      "de": "die Grundgebühr, -en",
+      "ko": "기본료"
+    },
+    {
+      "de": "die Kaution, -en",
+      "ko": "보증금"
+    },
+    {
+      "de": "ab|rechnen",
+      "ko": "정산하다"
+    },
+    {
+      "de": "der Kraftstoff, -e",
+      "ko": "연료"
+    },
+    {
+      "de": "das Handschuhfach, -¨er",
+      "ko": "(자동차의) 글러브 박스"
+    },
+    {
+      "de": "der Schaden, -¨",
+      "ko": "손상, 파손"
+    },
+    {
+      "de": "der Kratzer, -",
+      "ko": "긁힌 자국"
+    },
+    {
+      "de": "ab|stellen",
+      "ko": "(차를) 세우다, 주차하다"
+    }
   ],
   "phrases": [
     {

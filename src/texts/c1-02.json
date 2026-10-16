@@ -18,7 +18,7 @@
       "ko": "생태학적 관점에서 이 대형 포식자의 귀환은 이득입니다. 늑대는 주로 노루, 붉은사슴, 멧돼지를 먹이로 삼으며, 그중에서도 병들었거나 늙었거나 경험이 부족한 개체를 우선적으로 사냥합니다. 이로 인해 야생동물 개체군에 생기는 압력은 어린 나무가 덜 뜯어 먹히기 때문에 숲의 재생에 도움이 될 수 있습니다. 그러나 연구자들은 지나친 기대를 경계합니다. 북미에서 관찰된 경관 전체의 변화는 인구가 조밀하고 집약적으로 이용되는 중부 유럽의 문화 경관에 그대로 옮겨 적용할 수 없습니다."
     },
     {
-      "de": "Die Kehrseite der Rückkehr zeigt sich auf den Weiden. Ungeachtet des reichen Wildangebots reißen Wölfe immer wieder Schafe, Ziegen und gelegentlich auch Kälber oder Fohlen, denn ungeschützte Nutztiere sind leichter zu erbeuten als ein flüchtendes Reh. Für die betroffenen Betriebe bedeutet jeder Riss nicht nur einen finanziellen Verlust, sondern auch eine erhebliche emotionale Belastung, zumal infolge eines einzigen Angriffs oft mehrere Tiere sterben. Besonders Schäfereien, deren wirtschaftliche Lage ohnehin angespannt ist, geraten dadurch in Gefahr, ihren Betrieb aufgeben zu müssen. Wer heute eine Herde auf einer offenen Weide hält, muss die Möglichkeit eines Angriffs in Kauf nehmen – oder erhebliche Vorkehrungen treffen.",
+      "de": "Die Kehrseite der Rückkehr zeigt sich auf den Weiden. Ungeachtet des reichen Wildangebots reißen Wölfe immer wieder Schafe, Ziegen und gelegentlich auch Kälber oder Fohlen, denn ungeschützte Nutztiere sind leichter zu erbeuten als ein flüchtendes Reh. Für die betroffenen Betriebe bedeutet jeder Riss nicht nur einen finanziellen Verlust, sondern auch eine erhebliche emotionale Belastung, zumal infolge eines einzigen Angriffs oft mehrere Tiere sterben. Besonders Schäfereien, deren wirtschaftliche Lage ohnehin angespannt ist, geraten dadurch in Gefahr, ihren Betrieb aufgeben zu müssen. Wer heute eine Herde auf einer offenen Weide hält, muss die Möglichkeit eines Angriffs in Kauf nehmen – oder umfangreiche Vorkehrungen treffen.",
       "ko": "귀환의 이면은 목초지에서 드러납니다. 야생 먹잇감이 풍부함에도 불구하고 늑대는 양과 염소, 때로는 송아지나 망아지까지 거듭 물어 죽입니다. 보호받지 못하는 가축은 달아나는 노루보다 사냥하기 쉽기 때문입니다. 피해를 입은 농가에게 늑대의 공격은 매번 금전적 손실일 뿐 아니라 상당한 정신적 부담이기도 합니다. 더구나 공격 한 번으로 여러 마리가 죽는 일도 흔합니다. 특히 경영 상황이 안 그래도 어려운 양 목장은 이 때문에 사업을 접어야 할 위기에 처하기도 합니다. 오늘날 탁 트인 목초지에서 가축을 기르는 사람은 공격당할 가능성을 감수하거나, 아니면 상당한 예방 조치를 취해야 합니다."
     },
     {
@@ -197,10 +197,10 @@
       "pattern": "(전치사 +) 명사 + 기능동사  →  하나의 동사 뜻",
       "examples": [
         {
-          "de": "Wer heute eine Herde auf einer offenen Weide hält, muss die Möglichkeit eines Angriffs in Kauf nehmen – oder erhebliche Vorkehrungen treffen.",
+          "de": "Wer heute eine Herde auf einer offenen Weide hält, muss die Möglichkeit eines Angriffs in Kauf nehmen – oder umfangreiche Vorkehrungen treffen.",
           "ko": "오늘날 탁 트인 목초지에서 가축을 기르는 사람은 공격당할 가능성을 감수하거나, 아니면 상당한 예방 조치를 취해야 합니다.",
           "mark": ["in Kauf nehmen", "Vorkehrungen treffen"],
-          "parts": [["Wer heute eine Herde auf einer offenen Weide hält,", "관계절"], ["muss", "동사"], ["die Möglichkeit eines Angriffs", "4격 목적어"], ["in Kauf", "기타"], ["nehmen", "동사(끝)"], ["–", "기타"], ["oder", "접속사"], ["erhebliche Vorkehrungen", "4격 목적어"], ["treffen.", "동사(끝)"]]
+          "parts": [["Wer heute eine Herde auf einer offenen Weide hält,", "관계절"], ["muss", "동사"], ["die Möglichkeit eines Angriffs", "4격 목적어"], ["in Kauf", "기타"], ["nehmen", "동사(끝)"], ["–", "기타"], ["oder", "접속사"], ["umfangreiche Vorkehrungen", "4격 목적어"], ["treffen.", "동사(끝)"]]
         },
         {
           "de": "Viele Tierhalter kritisieren deshalb, dass der zusätzliche Arbeitsaufwand in der Debatte um die Förderung bislang kaum zur Sprache kommt.",
