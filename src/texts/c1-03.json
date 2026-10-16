@@ -20,7 +20,7 @@
     },
     {
       "de": "Gewiss, Museen kosten Geld, und zwar viel. Klimatisierte Depots, Versicherungen, Restaurierungswerkstätten, Aufsichtspersonal – nichts davon ist umsonst zu haben. Doch der Anteil der Eintrittsgelder an den Gesamteinnahmen ist bei den meisten öffentlichen Häusern erstaunlich gering; den weitaus größten Teil tragen ohnehin Bund, Länder und Kommunen, also wir alle. Fiele der Eintritt weg, entstünde eine Lücke, die sich schließen ließe, vorausgesetzt, die öffentliche Hand wäre bereit, den Kulturauftrag, den sie den Museen erteilt hat, auch vollständig zu finanzieren. Das ist keine Frage der Möglichkeit, sondern des Willens.",
-      "ko": "물론 박물관은 돈이 듭니다. 그것도 많이 듭니다. 항온항습 수장고, 보험, 복원 작업실, 전시실 감시 인력, 어느 것 하나 공짜로 얻을 수 없습니다. 그러나 대부분의 공공 박물관에서 전체 수입 가운데 입장료가 차지하는 비중은 놀라울 만큼 작습니다. 훨씬 큰 몫은 어차피 연방과 주와 지자체, 즉 우리 모두가 부담합니다. 입장료가 없어지면 구멍이 생기겠지만, 그 구멍은 메울 수 있습니다. 공공 부문이 박물관에 부여한 문화적 책무를 끝까지 재정적으로 책임질 뜻만 있다면 말입니다. 이것은 가능성의 문제가 아니라 의지의 문제입니다."
+      "ko": "물론 박물관은 돈이 듭니다. 그것도 많이 듭니다. 항온항습 수장고, 보험, 복원 작업실, 전시실 감시 인력, 어느 것 하나 공짜로 얻을 수 없습니다. 그러나 대부분의 공공 박물관에서 전체 수입 가운데 입장료가 차지하는 비중은 놀라울 만큼 작습니다. 훨씬 큰 몫은 어차피 연방과 주와 지자체, 즉 우리 모두가 부담합니다. 입장료가 없어지면 재정에 구멍이 생기겠지만, 그 구멍은 메울 수 있습니다. 공공 부문이 박물관에 부여한 문화적 책무를 끝까지 재정적으로 책임질 뜻만 있다면 말입니다. 이것은 가능성의 문제가 아니라 의지의 문제입니다."
     },
     {
       "de": "Ein zweiter Einwand lautet, freier Eintritt führe zu überfüllten Sälen und damit zu einem schlechteren Erlebnis für alle. Das mag für einige wenige Publikumsmagneten zutreffen, vorausgesetzt, man besucht sie an einem Sonntag im Juli. Für die große Mehrheit der Häuser gilt eher das Gegenteil: Sie wären froh über jeden zusätzlichen Besucher. Und würde es irgendwo tatsächlich eng, ließe sich der Andrang über Zeitfenster und kostenlose Online-Tickets steuern – mit Instrumenten also, die längst erprobt sind. Überfüllung ist ein Luxusproblem, von dem die meisten Museumsleitungen nur träumen können.",
@@ -125,7 +125,7 @@
       "answer": 1,
       "evidence": "Wer zahlt, erwartet eine Gegenleistung, plant den Besuch wie einen Theaterabend und kommt entsprechend selten.",
       "pairs": [["unsichtbare Schwelle", "innere Hürde"], ["plant den Besuch wie einen Theaterabend und kommt entsprechend selten", "spontane Besuche verhindert"]],
-      "explain": "Schwelle는 원래 문지방이지만 여기서는 비유예요. 돈을 내면 방문을 연극 관람처럼 계획하게 되어 자주 오지 않게 된다는, 심리적인 문턱을 뜻해요. 가족의 비용 부담은 바로 앞에서 다룬 '보이는' 장벽이고, 글쓴이는 보이지 않는 문턱이 '더 무겁다'고 해요."
+      "explain": "Schwelle는 원래 문지방이지만 여기서는 비유예요. 돈을 내면 방문을 연극 관람처럼 계획하게 되어 자주 오지 않게 된다는 심리적인 문턱, 즉 즉흥적인 방문을 막는 마음속 장벽을 뜻해요. 가족의 비용 부담은 바로 앞에서 다룬 '보이는' 장벽이고, 글쓴이는 보이지 않는 문턱이 '더 무겁다'고 해요."
     },
     {
       "type": "mc",
@@ -176,7 +176,7 @@
       "examples": [
         {
           "de": "Fiele der Eintritt weg, entstünde eine Lücke, die sich schließen ließe, vorausgesetzt, die öffentliche Hand wäre bereit, den Kulturauftrag, den sie den Museen erteilt hat, auch vollständig zu finanzieren.",
-          "ko": "입장료가 없어지면 구멍이 생기겠지만, 그 구멍은 메울 수 있습니다. 공공 부문이 박물관에 부여한 문화적 책무를 끝까지 재정적으로 책임질 뜻만 있다면 말입니다.",
+          "ko": "입장료가 없어지면 재정에 구멍이 생기겠지만, 그 구멍은 메울 수 있습니다. 공공 부문이 박물관에 부여한 문화적 책무를 끝까지 재정적으로 책임질 뜻만 있다면 말입니다.",
           "mark": ["Fiele der Eintritt weg", "entstünde"],
           "parts": [["Fiele der Eintritt weg,", "종속절"], ["entstünde", "동사"], ["eine Lücke,", "주어"], ["die sich schließen ließe,", "관계절"], ["vorausgesetzt, die öffentliche Hand wäre bereit, den Kulturauftrag, den sie den Museen erteilt hat, auch vollständig zu finanzieren.", "종속절"]]
         },
@@ -217,7 +217,7 @@
           "mark": ["vorausgesetzt, man besucht sie"]
         }
       ],
-      "tip": "es sei denn은 wenn … nicht로 바꿔 쓸 수 있어요. '… es sei denn, wir nähmen es in Kauf' = '… wenn wir es nicht in Kauf nähmen'. 접속법 2식(nähmen)은 그 예외가 비현실적이라는 뉘앙스를 더해요."
+      "tip": "es sei denn은 wenn … nicht로 바꿔 쓸 수 있어요. 'es sei denn, wir nähmen es in Kauf'는 'wenn wir es nicht in Kauf nähmen'과 같은 뜻이에요. 접속법 2식(nähmen)은 그 예외가 비현실적이라는 뉘앙스를 더해요."
     },
     {
       "title": "논증에서의 접속법 2식",

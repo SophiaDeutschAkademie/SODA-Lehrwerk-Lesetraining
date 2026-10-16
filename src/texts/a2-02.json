@@ -89,7 +89,7 @@
         { "de": "Ich fahre mit der Straßenbahn, deshalb habe ich jeden Morgen eine halbe Stunde für mich.",
           "ko": "저는 트램을 타고 다녀요. 그래서 매일 아침 저만을 위한 30분이 있어요.",
           "mark": ["deshalb", "habe ich"],
-          "parts": [["Ich", "주어"], ["fahre", "동사"], ["mit der Straßenbahn,", "부사어(방법)"], ["deshalb", "접속부사"], ["habe", "동사"], ["ich", "주어"], ["jeden Morgen", "부사어(시간)"], ["eine halbe Stunde", "4격 목적어"], ["für mich.", "부사어"]] }
+          "parts": [["Ich", "주어"], ["fahre", "동사"], ["mit der Straßenbahn,", "부사어(방법)"], ["deshalb", "접속부사"], ["habe", "동사"], ["ich", "주어"], ["jeden Morgen", "부사어(시간)"], ["eine halbe Stunde für mich.", "4격 목적어"]] }
       ],
       "tip": "weil과 denn 뒤에는 이유가 오지만, deshalb 뒤에는 결과가 와요. 'Ich fahre Rad, deshalb bin ich wach.'(자전거를 타요. 그래서 잠이 깨요.)와 'Ich fahre Rad, weil ich dabei wach werde.'(타면서 잠이 깨기 때문에 자전거를 타요.)의 차이를 비교해 보세요." },
     { "title": "비교급 + als / genauso … wie",
@@ -111,7 +111,7 @@
       "tip": "als와 wie를 바꿔 쓰지 않도록 주의하세요. 비교급 뒤에는 항상 als, so/genauso 뒤에는 항상 wie가 와요. 비교급을 강조하려면 viel을 앞에 붙여요: viel nervöser." },
     { "title": "교통수단과 목적지 말하기: mit dem … / zu Fuß / zur … / ins …",
       "term": "Präpositionen: mit + Dativ, zu Fuß, zu / in + Ziel",
-      "explain": "교통수단은 mit + 3격으로 말해요: mit dem Fahrrad, mit dem Bus, mit der Straßenbahn, mit dem Auto. 걸어서 간다고 할 때만 전치사가 달라서 zu Fuß라고 해요. 목적지는 zu + 3격이나 in + 4격으로 말해요: zur Arbeit(zu der Arbeit), ins Krankenhaus(in das Krankenhaus). 건물 안으로 들어가는 느낌이 강할 때 in을 쓰고, 그 밖에는 보통 zu를 써요.",
+      "explain": "교통수단은 mit + 3격으로 말해요: mit dem Fahrrad, mit dem Bus, mit der Straßenbahn, mit dem Auto. 걸어서 간다고 할 때만 전치사가 달라서 zu Fuß라고 해요. 목적지는 zu + 3격이나 in + 4격으로 말해요: zur Arbeit(zu der Arbeit), ins Krankenhaus(in das Krankenhaus). 건물 안으로 들어간다는 뜻이 강할 때 in을 쓰고, 그 밖에는 보통 zu를 써요.",
       "pattern": "mit + dem/der + 교통수단 / zu Fuß / zur + 여성 명사 · zum + 남성·중성 명사 / ins + 중성 명사",
       "examples": [
         { "de": "Ich fahre jeden Tag mit dem Fahrrad ins Krankenhaus, auch im Winter.",
