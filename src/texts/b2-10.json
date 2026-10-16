@@ -61,7 +61,7 @@
       "options": [
         "ebenso viele wie diejenigen, die eine eigene Wohnung haben – knapp ein Fünftel",
         "halb so viele wie diejenigen, die mit Partner oder Partnerin zusammenleben",
-        "doppelt so viele wie diejenigen, die mit Partner oder Partnerin zusammenleben"
+        "doppelt so viele wie diejenigen, die gemeinsam mit Partner oder Partnerin wohnen"
       ],
       "answer": 2,
       "evidence": "14 Prozent leben im Wohnheim, und 7 Prozent wohnen mit Partnerin oder Partner zusammen – halb so viele wie im Wohnheim.",
@@ -72,7 +72,7 @@
         ],
         [
           "7 Prozent wohnen mit Partnerin oder Partner zusammen",
-          "die mit Partner oder Partnerin zusammenleben"
+          "die gemeinsam mit Partner oder Partnerin wohnen"
         ]
       ],
       "explain": "기숙사 거주자는 14%, 파트너와 사는 사람은 7%예요. 본문은 파트너와 사는 사람이 기숙사 거주자의 '절반(halb so viele)'이라고 하므로, 거꾸로 말하면 기숙사 거주자가 '두 배(doppelt so viele)'예요. '절반'은 관계를 뒤집은 함정이고, '5분의 1에 조금 못 미치는(knapp ein Fünftel)'은 혼자 사는 사람(19%)의 비율이라서 기숙사(14%)와 같지 않아요."
@@ -101,7 +101,7 @@
       "q": "Was sagt der Text über die Miete für ein WG-Zimmer?",
       "options": [
         "Sie ist in den vergangenen vier Jahren um 20 Euro gestiegen.",
-        "Sie ist heute ein Fünftel höher als bei der letzten Umfrage.",
+        "Sie liegt heute um ein Fünftel höher als bei der letzten Umfrage.",
         "Sie liegt heute 110 Euro über dem Preis einer eigenen Wohnung."
       ],
       "answer": 1,

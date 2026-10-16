@@ -65,7 +65,7 @@
       "kind": "detail",
       "q": "Was passiert laut Text, wenn das Fenster den ganzen Tag gekippt bleibt?",
       "options": [
-        "Die Luft wird ständig erneuert, aber dadurch wird es zu kalt im Zimmer.",
+        "Die Luft wird ständig erneuert, aber dadurch wird es zu kalt im Raum.",
         "Die Luft bleibt fast gleich, aber die Wände am Fenster verlieren Wärme.",
         "Die Wände um das Fenster trocknen aus, weil zu viel Luft hereinkommt."
       ],

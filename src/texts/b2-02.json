@@ -47,14 +47,14 @@
       "options": [
         "völlig durcheinandergeraten",
         "nur noch schwer auszusprechen",
-        "plötzlich ganz verschwunden"
+        "plötzlich spurlos verschwunden"
       ],
       "answer": 2,
       "evidence": "Die gestern noch sicher beherrschten Vokabeln sind heute wie weggeblasen.",
       "pairs": [
         [
           "wie weggeblasen",
-          "plötzlich ganz verschwunden"
+          "plötzlich spurlos verschwunden"
         ]
       ],
       "explain": "wie weggeblasen은 '바람에 날아간 것처럼'이라는 뜻으로, 어제까지 알던 단어가 오늘은 흔적도 없이 사라졌다는 말이에요. 단어가 뒤섞였다거나 발음하기 어렵다는 뜻이 아니에요."
@@ -79,7 +79,7 @@
       "q": "Warum verwendete Ebbinghaus sinnlose Silben?",
       "options": [
         "Weil sich sinnlose Silben leichter merken lassen als echte Wörter.",
-        "Weil so keine Vorkenntnisse die Ergebnisse beeinflussen konnten.",
+        "Weil dadurch keine Vorkenntnisse die Ergebnisse beeinflussen konnten.",
         "Weil er die Abstände der Wiederholungen genau festlegen wollte."
       ],
       "answer": 1,

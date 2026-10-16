@@ -58,7 +58,7 @@
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Wer gute Leute gewinnen will, muss heute mehr bieten als ein sicheres Gehalt“?",
       "options": [
-        "Qualifizierte Bewerber erwarten bessere Arbeitsbedingungen, nicht nur einen festen Lohn.",
+        "Qualifizierte Bewerber wollen heute bessere Arbeitsbedingungen, nicht nur einen festen Lohn.",
         "Die Stadt muss ihren Beschäftigten höhere Gehälter zahlen, damit diese nicht kündigen.",
         "Gute Mitarbeiter wechseln heute öfter den Arbeitgeber, wenn ihnen mehr Geld geboten wird."
       ],
@@ -138,7 +138,7 @@
       "q": "Welche Absicht verfolgt der Bericht?",
       "options": [
         "Er will die Leserinnen und Leser von den Vorteilen der Vier-Tage-Woche überzeugen.",
-        "Er will die bisherigen Erfahrungen aus mehreren Blickwinkeln ausgewogen schildern.",
+        "Er will die bisherigen Erfahrungen aus mehreren Blickwinkeln ausgewogen darstellen.",
         "Er will die Bürgermeisterin wegen der Probleme bei der Terminvergabe kritisieren."
       ],
       "answer": 1,

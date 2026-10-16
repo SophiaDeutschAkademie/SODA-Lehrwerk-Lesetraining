@@ -88,7 +88,7 @@
       "q": "Was vermutet Marta, als der Bus auch um Viertel vor acht noch nicht da ist?",
       "options": [
         "dass die Linie wegen zu weniger Fahrgäste ersatzlos eingestellt wurde",
-        "dass der Bus technische Probleme hat oder der Fahrer ausgefallen ist",
+        "dass der Bus technische Probleme hat oder der Busfahrer ausgefallen ist",
         "dass sie den Bus wegen des langen Besuchs bei der Tante verpasst hat"
       ],
       "answer": 1,
@@ -133,7 +133,7 @@
       "kind": "detail",
       "q": "Was erfährt Marta von dem alten Mann über den Bus?",
       "options": [
-        "dass er heute ausnahmsweise ausfällt, weil der Fahrer krank ist",
+        "dass er heute einmalig ausfällt, weil der Fahrer krank ist",
         "dass er seit Wochen jeden Abend erst gegen Mitternacht kommt",
         "dass er angeblich schon seit einiger Zeit nicht mehr verkehrt"
       ],

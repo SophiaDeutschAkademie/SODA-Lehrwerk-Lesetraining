@@ -131,7 +131,7 @@
       "q": "Was bedeutet der Satz „Dass die zu entsorgenden Waren häufig noch einwandfrei sind, ändert daran nichts.“?",
       "options": [
         "Der Handel wirft Waren vor allem weg, weil ihre Qualität nicht mehr einwandfrei ist.",
-        "Obwohl die Waren häufig noch genießbar sind, landen sie nach Ladenschluss im Abfall.",
+        "Obwohl die Waren häufig noch genießbar sind, landen sie nach Geschäftsschluss im Abfall.",
         "Was abends übrig bleibt, bietet der Handel grundsätzlich am nächsten Tag wieder an.",
         "Beschädigte Waren dürfen nicht entsorgt werden, sondern müssen weiter verkauft werden."
       ],
@@ -140,7 +140,7 @@
       "pairs": [
         [
           "zu entsorgenden Waren",
-          "landen sie nach Ladenschluss im Abfall"
+          "landen sie nach Geschäftsschluss im Abfall"
         ],
         [
           "häufig noch einwandfrei",
@@ -238,7 +238,7 @@
       "options": [
         "das Mittel, mit dem man am meisten bewirken kann",
         "das größte Hindernis auf dem Weg zu diesem Ziel",
-        "die Stelle, an der alle Abfälle gesammelt werden",
+        "die Stelle, an der alle Abfälle abgeholt werden",
         "das Gesetz, das die Haushalte zum Sparen zwingt"
       ],
       "answer": 0,

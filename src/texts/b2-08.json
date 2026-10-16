@@ -143,7 +143,7 @@
       "q": "Was bedeutet „bleibt Sofia auf den Kosten sitzen“ im Text?",
       "options": [
         "Sofia bleibt beim Frühstück sitzen, um über die Kosten zu sprechen.",
-        "Sofia muss die Ausgaben allein tragen, da niemand sie ihr erstattet.",
+        "Sofia muss die Ausgaben allein tragen, weil niemand sie ihr erstattet.",
         "Sofia weigert sich, weiterhin Spülmittel und Müllbeutel einzukaufen."
       ],
       "answer": 1,
@@ -199,7 +199,7 @@
       "q": "Was rät die Mediatorin als Erstes?",
       "options": [
         "Unstimmigkeiten zur Sprache bringen, bevor sie größer werden",
-        "mit einem Gespräch warten, bis sich alle wieder beruhigt haben",
+        "mit einem Gespräch warten, bis sich alle beruhigt haben",
         "sich über Kleinigkeiten im WG-Alltag gar nicht erst ärgern"
       ],
       "answer": 0,

@@ -158,7 +158,7 @@
       "kind": "detail",
       "q": "Was sagt der Redner über die Teilnehmer des Austauschs mit Busan?",
       "options": [
-        "Etwa gleich viele Jugendliche aus beiden Ländern nahmen am Austausch teil.",
+        "Ungefähr gleich viele Jugendliche aus beiden Ländern nahmen am Austausch teil.",
         "Nur die deutschen Schülerinnen und Schüler sind bisher nach Busan gereist.",
         "Die koreanischen Gäste wohnten während ihres Aufenthalts im Schulgebäude.",
         "Mehr als dreihundert ehemalige Austauschschüler sind heute im Saal anwesend."
@@ -168,7 +168,7 @@
       "pairs": [
         [
           "ebenso viele koreanische Jugendliche",
-          "Etwa gleich viele Jugendliche aus beiden Ländern"
+          "Ungefähr gleich viele Jugendliche aus beiden Ländern"
         ],
         [
           "in unseren Familien gewohnt",
@@ -220,7 +220,7 @@
       "kind": "intent",
       "q": "Welche Haltung drückt der Redner mit dem Wunsch aus, das Telefon möge „einmal nicht die Schulbehörde sein, sondern eine Freundin aus Busan“?",
       "options": [
-        "Er kritisiert, dass die Schulbehörde Frau Engel ständig mit Anrufen belästigt hat.",
+        "Er kritisiert, dass die Schulbehörde Frau Engel ständig mit Anrufen belästigte.",
         "Er hofft, dass Frau Engel die Partnerschaft mit Busan im Ruhestand weiterführt.",
         "Er wünscht ihr, dass an die Stelle dienstlicher Pflichten private Freuden treten.",
         "Er bedauert, dass Frau Engel in Deutschland kaum Freunde hat und oft allein ist."

@@ -114,7 +114,7 @@
       "options": [
         "weil sie schwere Einkäufe nicht mit dem Fahrrad nach Hause bringen können",
         "weil sie für ihre Arbeit Werkzeug und Waren im Auto transportieren müssen",
-        "weil Busse und Bahnen außerhalb der Stadt nur einmal pro Stunde fahren"
+        "weil die Busse und Bahnen außerhalb der Stadt nur einmal pro Stunde fahren"
       ],
       "answer": 2,
       "evidence": "solange der Nahverkehr dort lediglich im Stundentakt fährt",
@@ -176,7 +176,7 @@
       "kind": "gist",
       "q": "Was empfiehlt der Text am Ende?",
       "options": [
-        "Sperrungen allmählich auszuweiten und zugleich Alternativen zum Auto anzubieten",
+        "Sperrungen allmählich auszuweiten und gleichzeitig Alternativen zum Auto anzubieten",
         "die gesamte Innenstadt sofort zu sperren und über Ausnahmen später zu entscheiden",
         "auf jede Sperrung zu verzichten, solange sich Händler und Anwohner dagegen wehren"
       ],

@@ -111,7 +111,7 @@
       "q": "Wann rechnen die Gastgeber einer Party laut Text tatsächlich mit ihren Gästen, wenn auf der Einladung acht Uhr steht?",
       "options": [
         "kurz vor der angegebenen Zeit, wie es das Sprichwort verlangt",
-        "pünktlich zur angegebenen Zeit, weil Verspätung als unhöflich gilt",
+        "pünktlich zur angegebenen Zeit, weil Verspätung unhöflich wirkt",
         "ungefähr eine Stunde später, als auf der Einladung angegeben ist",
         "spätestens eine halbe Stunde nach der Zeit auf der Einladung"
       ],
@@ -168,7 +168,7 @@
       "options": [
         "wird mittlerweile von höflichen Menschen bewusst vermieden",
         "gilt heute als Zeichen eines guten musikalischen Geschmacks",
-        "gilt mittlerweile als sozial üblich, ja geradezu erwartet",
+        "gilt mittlerweile als sozial üblich und wird geradezu erwartet",
         "ist nur noch in gebildeten Kreisen üblich und gilt als fein"
       ],
       "answer": 2,
@@ -180,7 +180,7 @@
         ],
         [
           "ungefähr so wie das Wetter zu beklagen",
-          "ja geradezu erwartet"
+          "wird geradezu erwartet"
         ]
       ],
       "explain": "zum guten Ton gehören은 '예의상 으레 하는 일이다, 사회적으로 당연하게 여겨진다'는 뜻이에요. 날씨 불평처럼 누구나 하는 일이라는 비교가 힌트예요. Ton을 '음악 소리'로 읽으면 함정에 빠져요."

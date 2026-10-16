@@ -74,7 +74,7 @@
       "kind": "detail",
       "q": "Wie findet die Restauratorin heraus, ob der Firnis ohne Risiko entfernt werden kann?",
       "options": [
-        "Sie untersucht das Bild zunächst unter Infrarotlicht auf Risse im Firnis.",
+        "Sie untersucht das Bild zuerst unter Infrarotlicht auf Risse im Firnis.",
         "Sie testet das Lösungsmittel an einer kleinen Stelle am Rand des Bildes.",
         "Sie vergleicht die Farben des Kragens und des Himmels mit dem Original."
       ],
@@ -127,7 +127,7 @@
       "options": [
         "Dass der Firnis an manchen Stellen dicker ist als an anderen.",
         "Dass das Bild von einem anderen Künstler stammt als angenommen.",
-        "Dass der Maler sein Bild beim Malen noch einmal verändert hat."
+        "Dass der Maler sein Gemälde beim Malen noch einmal verändert hat."
       ],
       "answer": 2,
       "evidence": "Oft stellt sich dabei heraus, dass der Künstler seine Komposition während der Arbeit geändert hat: Ein Arm lag ursprünglich anders, eine Figur wurde übermalt.",

@@ -191,10 +191,10 @@
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Der Genitiv wird seit Jahrhunderten totgesagt und ist trotzdem noch da.“?",
       "options": [
-        "Der Genitiv ist vor Jahrhunderten ausgestorben und kommt heute nur noch in alten Texten vor.",
-        "Der Genitiv wird seit Jahrhunderten nur noch in der Schriftsprache verwendet.",
+        "Der Genitiv ist vor Jahrzehnten ausgestorben und kommt heute nur noch in alten Texten vor.",
+        "Der Genitiv wird seit Jahrhunderten nur noch in der geschriebenen Sprache verwendet.",
         "Obwohl man sein Verschwinden immer wieder vorhergesagt hat, existiert der Genitiv weiterhin.",
-        "Man sollte den Genitiv endlich für tot erklären, weil er kaum noch gebraucht wird."
+        "Man sollte den Genitiv endgültig für tot erklären, weil er kaum noch gebraucht wird."
       ],
       "answer": 2,
       "evidence": "Der Genitiv wird seit Jahrhunderten totgesagt und ist trotzdem noch da.",

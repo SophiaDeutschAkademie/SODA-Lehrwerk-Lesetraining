@@ -61,7 +61,7 @@
       "options": [
         "Er hat die Wartezeit nicht so genutzt, wie er es im Nachhinein gern getan hätte.",
         "Er ist zu spät an der Haltestelle angekommen und hat deshalb den Bus verpasst.",
-        "Er hatte an der Haltestelle einen guten Einfall, den er inzwischen vergessen hat."
+        "Er hatte an der Haltestelle einen guten Einfall, den er später vergessen hat."
       ],
       "answer": 0,
       "evidence": "Mir ist das alles leider zu spät eingefallen.",
@@ -92,12 +92,12 @@
       "q": "Wie verhält sich laut Text jemand, der ohne Handy warten muss?",
       "options": [
         "Er studiert den Fahrplan und zählt die Wolken am Himmel.",
-        "Er wirkt unsicher und sieht sich um, als suche er etwas.",
+        "Er wirkt unsicher und sieht sich um, als vermisse er etwas.",
         "Er hält es keine zwei Minuten aus und geht unruhig umher."
       ],
       "answer": 1,
       "evidence": "Und wer ausnahmsweise ohne Handy dasteht, blickt verlegen umher, als wenn er etwas verloren hätte.",
-      "pairs": [["blickt verlegen umher", "wirkt unsicher und sieht sich um"], ["als wenn er etwas verloren hätte", "als suche er etwas"]],
+      "pairs": [["blickt verlegen umher", "wirkt unsicher und sieht sich um"], ["als wenn er etwas verloren hätte", "als vermisse er etwas"]],
       "explain": "휴대폰 없이 서 있는 사람은 마치 무언가를 잃어버린 듯 어색하게 주위를 두리번거린다고 해요. verlegen(어색한, 당황한)을 unsicher로, umherblicken을 sich umsehen으로 바꿔 말했어요. 시간표를 살펴보는 것은 '예전 같았으면' 했을 행동이에요."
     },
     {

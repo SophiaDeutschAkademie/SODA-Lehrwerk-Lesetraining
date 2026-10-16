@@ -49,10 +49,10 @@
       "kind": "detail",
       "q": "Was erfährt man über das Verhältnis der Erzählerin zur Wohnung ihrer Großmutter?",
       "options": [
-        "Sie hat dort als Kind mehrere Jahre bei ihrer Großmutter gewohnt.",
+        "Sie hat dort als Kind mehrere Jahre bei der Großmutter gewohnt.",
         "Sie hatte die Wohnung seit ihrer Kindheit nicht wieder betreten.",
         "Sie kennt die Wohnung seit Jahrzehnten durch regelmäßige Besuche.",
-        "Sie kam früher oft, um ihrer Großmutter beim Aufräumen zu helfen."
+        "Sie kam früher oft, um der Großmutter beim Aufräumen zu helfen."
       ],
       "answer": 2,
       "evidence": "Dreißig Jahre lang war ich durch diese Tür gegangen, um jemanden zu besuchen.",
@@ -67,7 +67,7 @@
         ],
         [
           "Nun ging ich hindurch, um aufzuräumen.",
-          "um ihrer Großmutter beim Aufräumen zu helfen"
+          "um der Großmutter beim Aufräumen zu helfen"
         ]
       ],
       "explain": "30년 동안 누군가를 만나러 이 문을 지나다녔다는 문장을 '수십 년 전부터 정기적인 방문으로 집을 안다'로 바꿔 말했어요. 열쇠 다루는 법을 어릴 때 배웠다는 것은 어릴 때부터 드나들었다는 뜻이지, 거기 살았다는 뜻은 아니에요. 예전에는 사람을 만나러 왔고 이제는 정리하러 왔다고 대비하므로(Nun ging ich hindurch, um aufzuräumen), 정리를 도우러 왔다는 선택지도 틀려요."
@@ -207,7 +207,7 @@
       "options": [
         "Die Großmutter habe den Koffer so gründlich versteckt, dass ihn niemand mehr finden sollte.",
         "Die Großmutter habe den Koffer im Lauf der Jahre vergessen, weil er so weit oben stand.",
-        "Die Großmutter habe den Koffer womöglich bewusst so aufbewahrt, dass man ihn finden konnte.",
+        "Die Großmutter habe den Koffer womöglich bewusst so aufbewahrt, dass jemand ihn finden konnte.",
         "Der Großvater habe den Koffer einst selbst dort oben abgestellt, ohne jemals hineinzusehen."
       ],
       "answer": 2,
@@ -215,7 +215,7 @@
       "pairs": [
         [
           "dass irgendwann jemand die Leiter holte",
-          "dass man ihn finden konnte"
+          "dass jemand ihn finden konnte"
         ],
         [
           "Vielleicht hatte sie gewollt",

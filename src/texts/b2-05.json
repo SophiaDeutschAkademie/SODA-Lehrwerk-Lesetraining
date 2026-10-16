@@ -100,7 +100,7 @@
       "kind": "paraphrase",
       "q": "Was ist mit der Formulierung „lässt Reling die Dinge sprechen“ gemeint?",
       "options": [
-        "Die Autorin zeigt Gefühle an Dingen und Geräuschen, statt die Figuren zu erklären.",
+        "Die Autorin zeigt Gefühle an Dingen und Geräuschen, anstatt die Figuren zu erklären.",
         "Die Autorin lässt die Gegenstände in ihrem Roman wie Menschen miteinander sprechen.",
         "Die Autorin verzichtet weitgehend auf Dialoge und lässt die Figuren oft schweigen."
       ],
@@ -124,7 +124,7 @@
       "q": "Was kritisiert die Rezension am Mittelteil des Romans?",
       "options": [
         "Dass das Tempo dort zu hoch ist und viele wichtige Szenen fehlen.",
-        "Dass die Geschichte kaum vorankommt und sich Szenen wiederholen.",
+        "Dass die Geschichte kaum voranschreitet und sich Szenen wiederholen.",
         "Dass Hanna dort zu vielen neuen Figuren aus dem Dorf begegnet."
       ],
       "answer": 1,
@@ -132,7 +132,7 @@
       "pairs": [
         [
           "zieht sich die Handlung",
-          "die Geschichte kaum vorankommt"
+          "die Geschichte kaum voranschreitet"
         ],
         [
           "diese Wiederholung",

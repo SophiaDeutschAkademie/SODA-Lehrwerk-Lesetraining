@@ -46,7 +46,7 @@
       "q": "Woher stammten die Wölfe, deren Nachwuchs im Jahr 2000 in der Lausitz zur Welt kam?",
       "options": [
         "Sie waren von Naturschützern aus Nordamerika angesiedelt worden.",
-        "Sie waren aus dem Nachbarland im Osten über die Grenze gekommen.",
+        "Sie waren aus dem Nachbarland im Osten über die Grenze zugewandert.",
         "Sie stammten aus einem Zuchtprogramm im Norden Niedersachsens.",
         "Sie waren die letzten Überlebenden der deutschen Wolfspopulation."
       ],
@@ -55,7 +55,7 @@
       "pairs": [
         [
           "aus Polen eingewandert",
-          "aus dem Nachbarland im Osten über die Grenze gekommen"
+          "aus dem Nachbarland im Osten über die Grenze zugewandert"
         ],
         [
           "Welpen",
@@ -158,7 +158,7 @@
       "q": "Was bedeutet „in Kauf nehmen“ im Text?",
       "options": [
         "sich gegen einen möglichen Schaden versichern",
-        "etwas zu einem günstigen Preis im Laden erwerben",
+        "etwas zu einem günstigen Preis im Laden kaufen",
         "einen finanziellen Verlust erstattet bekommen",
         "ein Risiko oder einen Nachteil bewusst hinnehmen"
       ],
