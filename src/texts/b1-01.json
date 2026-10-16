@@ -7,7 +7,7 @@
   "type": "Zeitungsbericht",
   "typeKo": "신문 보도 기사",
   "intro": "오덴발트의 작은 마을 주민들이 문 닫은 슈퍼마켓 대신 직접 가게를 운영하는 이야기예요.",
-  "focus": ["수동태 현재형·과거형 (werden + 과거분사)", "von + 3격 (행위자)", "2격 지배 전치사 (wegen, trotz, während, innerhalb)", "화법조동사 + 수동태"],
+  "focus": ["수동태 현재형·과거형", "행위자 von + 3격", "화법조동사 + 수동태", "2격 지배 전치사"],
   "paragraphs": [
     {
       "de": "Lindenau im Odenwald hat wieder einen Lebensmittelladen. Vor zwei Jahren wurde der letzte Supermarkt des Dorfes geschlossen. Seit dem Frühjahr werden in demselben Gebäude wieder Brot, Milch und Gemüse verkauft – in einem Laden, der den Bürgerinnen und Bürgern selbst gehört. Dafür wurde eine Genossenschaft gegründet, die inzwischen rund 300 Mitglieder hat.",
@@ -26,12 +26,12 @@
       "ko": "개축 공사 중에 가게 한쪽 구석에 작은 카페가 마련되었습니다. 탁자 네 개와 오래된 커피 머신이 있는 이 카페는 어느새 마을의 만남의 장소가 되었습니다. 오전에는 은퇴한 어르신들이 여기서 커피를 마시고, 오후에는 학교에 다니는 아이들이 숙제를 하며, 한 달에 한 번은 보드게임 모임이 열립니다."
     },
     {
-      "de": "Trotz des Erfolgs gibt es auch Sorgen. Wegen der gestiegenen Energiepreise ist die Stromrechnung im letzten Jahr deutlich höher geworden, und auch die Löhne mussten erhöht werden. Die Miete für das Gebäude muss trotzdem jeden Monat bezahlt werden. Große Gewinne wurden von Anfang an nicht erwartet, aber Verluste kann sich die Genossenschaft nicht lange leisten. Deshalb wird jetzt über längere Öffnungszeiten nachgedacht.",
-      "ko": "성공에도 불구하고 걱정도 있습니다. 에너지 가격이 올라서 지난해 전기 요금이 눈에 띄게 늘었고, 임금도 올려야 했습니다. 그래도 건물 임대료는 매달 내야 합니다. 큰 이익은 처음부터 기대하지 않았지만, 손실을 오래 감당할 수는 없습니다. 그래서 지금은 영업시간을 늘리는 방안을 검토하고 있습니다."
+      "de": "Trotz des Erfolgs gibt es auch Sorgen. Wegen der gestiegenen Energiepreise ist die Stromrechnung im letzten Jahr deutlich höher geworden, und auch die Löhne mussten erhöht werden. Außerdem muss jeden Monat die Miete für das Gebäude bezahlt werden. Große Gewinne wurden von Anfang an nicht erwartet, aber Verluste kann sich die Genossenschaft nicht lange leisten. Deshalb wird jetzt über längere Öffnungszeiten nachgedacht.",
+      "ko": "성공에도 불구하고 걱정도 있습니다. 에너지 가격이 올라서 지난해 전기 요금이 눈에 띄게 늘었고, 임금도 올려야 했습니다. 게다가 건물 임대료도 매달 내야 합니다. 큰 이익은 처음부터 기대하지 않았지만, 손실을 오래 감당할 수는 없습니다. 그래서 지금은 영업시간을 늘리는 방안을 검토하고 있습니다."
     },
     {
-      "de": "Trotz aller Probleme bleibt Karin Vogel optimistisch. „Der Laden wird nicht nur zum Einkaufen gebraucht“, sagt sie. „Hier trifft man Nachbarn, hier bekommt man Hilfe, hier wird geredet. Das kann kein Supermarkt an der Autobahn ersetzen.“ Innerhalb der nächsten Monate soll außerdem ein Lieferdienst für Menschen starten, die nicht mehr gut aus dem Haus kommen.",
-      "ko": "여러 문제에도 카린 포겔 씨는 낙관적입니다. “이 가게는 장을 보는 데만 필요한 게 아니에요. 여기서 이웃을 만나고, 도움을 받고, 이야기를 나누죠. 고속도로 옆 슈퍼마켓은 그걸 대신할 수 없어요.” 그 밖에도 몇 달 안에 거동이 불편한 사람들을 위한 배달 서비스를 시작할 예정입니다."
+      "de": "Karin Vogel bleibt trotz aller Probleme optimistisch. „Der Laden wird nicht nur zum Einkaufen gebraucht“, sagt sie. „Hier trifft man Nachbarn, hier bekommt man Hilfe, hier wird geredet. Das kann kein Supermarkt an der Autobahn ersetzen.“ Innerhalb der nächsten Monate soll zusätzlich ein Lieferdienst für Menschen starten, die nicht mehr gut aus dem Haus kommen.",
+      "ko": "카린 포겔 씨는 여러 문제에도 낙관적입니다. “이 가게는 장을 보는 데만 필요한 게 아니에요. 여기서 이웃을 만나고, 도움을 받고, 이야기를 나누죠. 고속도로 옆 슈퍼마켓은 그걸 대신할 수 없어요.” 거기에 더해 몇 달 안에 집 밖으로 나가기 어려운 사람들을 위한 배달 서비스도 시작할 예정입니다."
     }
   ],
   "questions": [
@@ -193,10 +193,10 @@
       "pattern": "주어 + 화법조동사 + … + 과거분사 + werden(문장 끝)",
       "examples": [
         {
-          "de": "Die Miete für das Gebäude muss trotzdem jeden Monat bezahlt werden.",
-          "ko": "그래도 건물 임대료는 매달 내야 합니다.",
+          "de": "Außerdem muss jeden Monat die Miete für das Gebäude bezahlt werden.",
+          "ko": "게다가 건물 임대료도 매달 내야 합니다.",
           "mark": ["muss", "bezahlt werden"],
-          "parts": [["Die Miete für das Gebäude", "주어"], ["muss", "동사"], ["trotzdem", "부사어"], ["jeden Monat", "부사어(시간)"], ["bezahlt werden.", "동사(끝)"]]
+          "parts": [["Außerdem", "접속부사"], ["muss", "동사"], ["jeden Monat", "부사어(시간)"], ["die Miete für das Gebäude", "주어"], ["bezahlt werden.", "동사(끝)"]]
         },
         {
           "de": "auch die Löhne mussten erhöht werden.",

@@ -7,11 +7,11 @@
   "type": "FAQ-Seite",
   "typeKo": "자주 묻는 질문 페이지",
   "intro": "가상의 카셰어링 업체 KlickCar의 홈페이지에 있는 자주 묻는 질문 페이지예요.",
-  "focus": ["짝을 이루는 접속사 (sowohl … als auch, weder … noch)", "entweder … oder / nicht nur … sondern auch", "zwar … aber", "짝 접속사와 동사의 자리"],
+  "focus": ["짝을 이루는 접속사 sowohl … als auch · weder … noch", "entweder … oder", "nicht nur … sondern auch", "zwar … aber"],
   "paragraphs": [
     {
-      "de": "Sie haben Fragen zu KlickCar? Hier finden Sie die Antworten auf die häufigsten Fragen unserer Kundinnen und Kunden. Falls Ihre Frage nicht dabei ist, hilft Ihnen unser Kundenbüro gern weiter.",
-      "ko": "KlickCar에 대해 궁금한 점이 있으신가요? 여기에서 고객들이 가장 자주 묻는 질문에 대한 답을 보실 수 있습니다. 질문이 여기에 없으면 저희 고객 사무실에서 기꺼이 도와드립니다."
+      "de": "Hier finden Sie Antworten auf die häufigsten Fragen. Falls Ihre Frage nicht dabei ist, hilft Ihnen unser Kundenbüro gern weiter.",
+      "ko": "여기에서 가장 자주 묻는 질문에 대한 답을 보실 수 있습니다. 질문이 여기에 없으면 저희 고객 사무실에서 기꺼이 도와드립니다."
     },
     {
       "style": "h",
@@ -19,8 +19,8 @@
       "ko": "어떻게 가입하나요?"
     },
     {
-      "de": "Die Anmeldung ist sowohl in der KlickCar-App als auch in unserem Kundenbüro am Hauptbahnhof möglich. In der App laden Sie ein Foto Ihres Führerscheins und Ihres Personalausweises hoch. Nach der Prüfung erhalten Sie innerhalb von 24 Stunden eine Bestätigung per E-Mail.",
-      "ko": "가입은 KlickCar 앱에서도, 중앙역에 있는 저희 고객 사무실에서도 할 수 있습니다. 앱에서는 운전면허증과 신분증 사진을 올립니다. 확인이 끝나면 24시간 안에 이메일로 확인서를 받습니다."
+      "de": "Die Anmeldung ist sowohl in der KlickCar-App als auch in unserem Kundenbüro am Hauptbahnhof möglich. In der App laden Sie nicht nur Ihren Führerschein, sondern auch Ihren Personalausweis hoch. Innerhalb von 24 Stunden erhalten Sie eine Bestätigung per E-Mail.",
+      "ko": "가입은 KlickCar 앱에서도, 중앙역에 있는 저희 고객 사무실에서도 할 수 있습니다. 앱에서는 운전면허증뿐 아니라 신분증도 올립니다. 24시간 안에 이메일로 확인 안내를 받게 됩니다."
     },
     {
       "style": "h",
@@ -28,8 +28,8 @@
       "ko": "누가 KlickCar를 이용할 수 있나요?"
     },
     {
-      "de": "Alle Personen ab 21 Jahren, die ihren Führerschein seit mindestens einem Jahr besitzen. Fahranfänger mit einem jüngeren Führerschein können wir leider noch nicht aufnehmen. Nur die angemeldete Person darf das Fahrzeug fahren – nicht ihre Freunde oder Familienmitglieder.",
-      "ko": "운전면허를 취득한 지 최소 1년이 된 21세 이상이면 누구나 가능합니다. 면허를 취득한 지 1년이 안 된 초보 운전자는 아쉽게도 아직 받을 수 없습니다. 차량은 가입한 본인만 운전할 수 있고, 친구나 가족은 운전할 수 없습니다."
+      "de": "Alle Personen ab 21 Jahren, die ihren Führerschein seit mindestens einem Jahr besitzen. Fahranfänger, deren Führerschein noch kein Jahr alt ist, können wir leider nicht aufnehmen. Nur die angemeldete Person darf das Fahrzeug fahren – nicht ihre Freunde oder Familienmitglieder.",
+      "ko": "운전면허를 취득한 지 최소 1년이 된 21세 이상이면 누구나 가능합니다. 면허를 딴 지 1년이 안 된 초보 운전자는 아쉽게도 받을 수 없습니다. 차량은 가입한 본인만 운전할 수 있고, 친구나 가족은 운전할 수 없습니다."
     },
     {
       "style": "h",
@@ -37,8 +37,8 @@
       "ko": "이용 요금은 얼마인가요?"
     },
     {
-      "de": "Sie bezahlen entweder pro Minute oder pro Stunde – je nachdem, was für Sie günstiger ist. Die App rechnet am Ende der Fahrt automatisch den besseren Preis ab. Im Basistarif gibt es weder eine monatliche Grundgebühr noch eine Kaution. Wer häufig fährt, spart mit dem Vieltarif: Er kostet zwar 9 Euro im Monat, aber dafür ist jede Minute deutlich billiger.",
-      "ko": "분 단위나 시간 단위 중에서 더 저렴한 쪽으로 요금을 내게 됩니다. 운행이 끝나면 앱이 자동으로 더 유리한 가격으로 정산합니다. 기본 요금제에는 월 기본료도 보증금도 없습니다. 자주 이용하는 분은 다량 이용 요금제로 절약할 수 있습니다. 이 요금제는 월 9유로가 들지만, 대신 분당 요금이 훨씬 저렴합니다."
+      "de": "Sie bezahlen entweder pro Minute oder pro Stunde – je nachdem, was für Sie günstiger ist. Am Ende der Fahrt rechnet die App automatisch den niedrigeren Preis ab. Im Basistarif gibt es weder eine monatliche Grundgebühr noch eine Kaution. Wer häufig fährt, spart mit dem Vielfahrertarif: Er kostet zwar 9 Euro im Monat, aber dafür ist jede Minute deutlich billiger.",
+      "ko": "분 단위나 시간 단위 중에서 더 저렴한 쪽으로 요금을 내게 됩니다. 운행이 끝나면 앱이 자동으로 더 낮은 가격으로 정산합니다. 기본 요금제에는 월 기본료도 보증금도 없습니다. 자주 이용하는 분은 다빈도 요금제로 절약할 수 있습니다. 이 요금제는 월 9유로가 들지만, 대신 분당 요금이 훨씬 저렴합니다."
     },
     {
       "style": "h",
@@ -46,8 +46,8 @@
       "ko": "연료나 충전은 직접 해야 하나요?"
     },
     {
-      "de": "Nein. Kraftstoff und Strom sind im Preis inklusive. Wenn der Tank oder der Akku fast leer ist, nutzen Sie bitte die Tankkarte im Handschuhfach. Die Kosten übernehmen wir.",
-      "ko": "아니요. 연료비와 전기 요금은 가격에 포함되어 있습니다. 연료나 배터리가 거의 비었으면 글러브 박스에 있는 주유 카드를 사용해 주십시오. 비용은 저희가 부담합니다."
+      "de": "Nein. Kraftstoff und Strom sind im Preis inklusive. Wenn der Tank oder der Akku fast leer ist, nutzen Sie bitte die Tank- und Ladekarte im Handschuhfach. Die Kosten übernehmen wir.",
+      "ko": "아니요. 연료비와 전기 요금은 가격에 포함되어 있습니다. 연료나 배터리가 거의 비었으면 글러브 박스에 있는 주유·충전 카드를 사용해 주십시오. 비용은 저희가 부담합니다."
     },
     {
       "style": "h",
@@ -55,8 +55,8 @@
       "ko": "차는 어디에 반납하나요?"
     },
     {
-      "de": "Das Fahrzeug muss am Ende der Fahrt in derselben Zone stehen, in der Sie es abgeholt haben. Die Zonen sehen Sie auf der Karte in der App. Außerhalb einer Zone können Sie die Fahrt nicht beenden.",
-      "ko": "운행이 끝나면 차량은 차를 가져간 바로 그 구역 안에 세워 두어야 합니다. 구역은 앱의 지도에서 볼 수 있습니다. 구역 밖에서는 운행을 종료할 수 없습니다."
+      "de": "Das Fahrzeug muss am Ende der Fahrt in derselben Zone stehen, in der Sie es abgeholt haben. Einzige Ausnahme ist der Flughafen. Die Zonen sehen Sie in der App. Außerhalb einer Zone können Sie die Fahrt nicht beenden.",
+      "ko": "운행이 끝나면 차량은 차를 가져간 바로 그 구역 안에 세워 두어야 합니다. 유일한 예외는 공항입니다. 구역은 앱에서 볼 수 있습니다. 구역 밖에서는 운행을 종료할 수 없습니다."
     },
     {
       "style": "h",
@@ -64,8 +64,8 @@
       "ko": "차가 파손되면 어떻게 하나요?"
     },
     {
-      "de": "Prüfen Sie das Auto bitte vor jeder Fahrt kurz von außen. Melden Sie uns alle Schäden sofort über die App, auch kleine Kratzer. Schäden, die nicht gemeldet werden, müssen wir der Person in Rechnung stellen, die das Auto zuletzt benutzt hat.",
-      "ko": "운행 전에 매번 차 외부를 간단히 확인해 주십시오. 작은 긁힘이라도 모든 파손은 앱을 통해 즉시 저희에게 신고해 주십시오. 신고되지 않은 파손은 마지막으로 차를 이용한 사람에게 청구할 수밖에 없습니다."
+      "de": "Prüfen Sie das Auto bitte vor jeder Fahrt kurz. Melden Sie uns jeden Schaden sofort, entweder über die App oder telefonisch – auch kleine Kratzer. Schäden, die nicht gemeldet werden, müssen wir der Person in Rechnung stellen, die das Auto zuletzt benutzt hat.",
+      "ko": "운행 전에 매번 차를 간단히 확인해 주십시오. 파손이 있으면 작은 긁힘이라도 앱이나 전화로 즉시 저희에게 신고해 주십시오. 신고되지 않은 파손은 마지막으로 차를 이용한 사람에게 청구할 수밖에 없습니다."
     },
     {
       "style": "h",
@@ -73,8 +73,8 @@
       "ko": "KlickCar는 어디에 있나요?"
     },
     {
-      "de": "Unsere Autos stehen nicht nur in der Innenstadt, sondern auch am Flughafen und an allen S-Bahnhöfen. Fahrten zum Flughafen sind zwar möglich, aber dort müssen Sie das Auto auf dem KlickCar-Parkplatz vor Terminal 2 abstellen. Noch Fragen? Rufen Sie uns an oder schreiben Sie uns!",
-      "ko": "저희 차량은 도심뿐 아니라 공항과 모든 S반 역에도 있습니다. 공항까지 운행할 수는 있지만, 공항에서는 2터미널 앞 KlickCar 주차장에 차를 세워야 합니다. 더 궁금한 점이 있으신가요? 전화나 메시지로 문의해 주십시오."
+      "de": "Unsere Autos stehen nicht nur in der Innenstadt, sondern auch am Flughafen und an allen S-Bahnhöfen. Fahrten zum Flughafen sind zwar aus jeder Zone möglich, aber dort müssen Sie das Auto auf dem KlickCar-Parkplatz vor Terminal 2 abstellen. Noch Fragen? Rufen Sie uns an!",
+      "ko": "저희 차량은 도심뿐 아니라 공항과 모든 S반 역에도 있습니다. 어느 구역에서든 공항까지 운행할 수는 있지만, 공항에서는 2터미널 앞 KlickCar 주차장에 차를 세워야 합니다. 더 궁금한 점이 있으신가요? 전화로 문의해 주십시오."
     }
   ],
   "questions": [
@@ -94,12 +94,12 @@
       "options": [
         "Personen, die ihren Führerschein vor zwei Jahren gemacht haben",
         "Personen, die erst seit einigen Monaten einen Führerschein haben",
-        "Personen, die jünger als 24 Jahre sind"
+        "Personen, die erst 22 Jahre alt sind"
       ],
       "answer": 1,
-      "evidence": "Fahranfänger mit einem jüngeren Führerschein können wir leider noch nicht aufnehmen.",
-      "pairs": [["Fahranfänger mit einem jüngeren Führerschein", "erst seit einigen Monaten einen Führerschein haben"], ["seit mindestens einem Jahr besitzen", "vor zwei Jahren gemacht haben"]],
-      "explain": "면허를 취득한 지 최소 1년이 되어야 해요. 그러니 몇 달 전에 면허를 딴 사람은 이용할 수 없어요. 2년 전에 면허를 딴 사람은 조건을 충족해요. 나이 조건은 21세 이상이지, 24세가 아니에요."
+      "evidence": "Fahranfänger, deren Führerschein noch kein Jahr alt ist, können wir leider nicht aufnehmen.",
+      "pairs": [["deren Führerschein noch kein Jahr alt ist", "erst seit einigen Monaten einen Führerschein haben"], ["seit mindestens einem Jahr besitzen", "vor zwei Jahren gemacht haben"]],
+      "explain": "면허를 취득한 지 최소 1년이 되어야 해요. 그러니 몇 달 전에 면허를 딴 사람은 이용할 수 없어요. 2년 전에 면허를 딴 사람은 조건을 충족해요. 나이 조건은 21세 이상이니 22세인 사람은 이용할 수 있어요."
     },
     {
       "type": "mc",
@@ -108,12 +108,12 @@
       "options": [
         "Die Kundin oder der Kunde muss vor der Fahrt wählen, ob sie oder er nach Minuten oder nach Stunden bezahlen will.",
         "Für jede Fahrt gilt die Abrechnungsart, die am wenigsten kostet.",
-        "Lange Fahrten werden pro Stunde abgerechnet, kurze Fahrten pro Minute."
+        "Der Preis pro Minute ist je nach Tageszeit unterschiedlich."
       ],
       "answer": 1,
-      "evidence": "Die App rechnet am Ende der Fahrt automatisch den besseren Preis ab.",
+      "evidence": "Am Ende der Fahrt rechnet die App automatisch den niedrigeren Preis ab.",
       "pairs": [["je nachdem, was für Sie günstiger ist", "die am wenigsten kostet"], ["entweder pro Minute oder pro Stunde", "Abrechnungsart"]],
-      "explain": "'둘 중 더 저렴한 쪽으로 낸다'는 말이에요. 다음 문장에서 앱이 자동으로 더 유리한 가격으로 정산한다고 하니, 고객이 미리 고를 필요가 없어요. 운행 시간의 길이에 따라 자동으로 정해진다는 말도 본문에 없어요."
+      "explain": "'둘 중 더 저렴한 쪽으로 낸다'는 말이에요. 다음 문장에서 앱이 자동으로 더 낮은 가격으로 정산한다고 하니, 고객이 미리 고를 필요가 없어요. 시간대에 따라 가격이 다르다는 말은 본문에 없어요."
     },
     {
       "type": "rf",
@@ -122,21 +122,21 @@
       "answer": 1,
       "evidence": "Im Basistarif gibt es weder eine monatliche Grundgebühr noch eine Kaution.",
       "pairs": [["weder eine monatliche Grundgebühr noch eine Kaution", "eine monatliche Gebühr und eine Kaution"]],
-      "explain": "weder … noch는 '~도 ~도 아니다'라는 뜻이에요. 기본 요금제에는 월 기본료도 보증금도 없다고 했으니 문장은 틀려요. 월 9유로는 다량 이용 요금제의 요금이에요."
+      "explain": "weder … noch는 '~도 ~도 아니다'라는 뜻이에요. 기본 요금제에는 월 기본료도 보증금도 없다고 했으니 문장은 틀려요. 월 9유로는 다빈도 요금제의 요금이에요."
     },
     {
       "type": "mc",
       "kind": "detail",
-      "q": "Was erfährt man über den Vieltarif?",
+      "q": "Was erfährt man über den Vielfahrertarif?",
       "options": [
         "Er lohnt sich für Leute, die das Auto oft brauchen.",
         "Er ist kostenlos, wenn man mehr als 9 Stunden im Monat fährt.",
         "Er enthält eine Kaution, die man am Ende zurückbekommt."
       ],
       "answer": 0,
-      "evidence": "Wer häufig fährt, spart mit dem Vieltarif: Er kostet zwar 9 Euro im Monat, aber dafür ist jede Minute deutlich billiger.",
+      "evidence": "Wer häufig fährt, spart mit dem Vielfahrertarif: Er kostet zwar 9 Euro im Monat, aber dafür ist jede Minute deutlich billiger.",
       "pairs": [["Wer häufig fährt, spart", "lohnt sich für Leute, die das Auto oft brauchen"], ["kostet zwar 9 Euro im Monat", "kostenlos"]],
-      "explain": "'자주 운전하는 사람은 다량 이용 요금제로 절약한다'를 '차가 자주 필요한 사람에게 유리하다'로 바꿔 말했어요. 이 요금제는 월 9유로가 들기 때문에 무료가 아니에요. 보증금 이야기는 기본 요금제에 나오고, 거기에도 보증금은 없어요."
+      "explain": "'자주 운전하는 사람은 다빈도 요금제로 절약한다'를 '차가 자주 필요한 사람에게 유리하다'로 바꿔 말했어요. 이 요금제는 월 9유로가 들기 때문에 무료가 아니에요. 보증금 이야기는 기본 요금제에 나오고, 거기에도 보증금은 없어요."
     },
     {
       "type": "rf",
@@ -159,7 +159,7 @@
       "answer": 1,
       "evidence": "Außerhalb einer Zone können Sie die Fahrt nicht beenden.",
       "pairs": [["die Fahrt nicht beenden", "Die Fahrt lässt sich nur abschließen"], ["Außerhalb einer Zone", "in einem der markierten Gebiete"]],
-      "explain": "구역 밖에서는 운행을 종료할 수 없다는 말은, 앱의 지도에 표시된 구역 안에 차를 세워야만 운행을 끝낼 수 있다는 뜻이에요. 구역 밖으로 나가면 안 된다거나 차가 멈춘다는 뜻은 아니에요. 공항까지 가는 운행도 가능하다고 했어요."
+      "explain": "구역 밖에서는 운행을 종료할 수 없다는 말은, 앱에 표시된 구역 안에 차를 세워야만 운행을 끝낼 수 있다는 뜻이에요. 구역 밖으로 나가면 안 된다거나 차가 멈춘다는 뜻은 아니에요. 공항까지 가는 운행도 가능하다고 했어요."
     },
     {
       "type": "mc",
@@ -179,8 +179,8 @@
   "grammar": [
     {
       "title": "sowohl … als auch / weder … noch",
-      "term": "Zweiteilige Konnektoren (1)",
-      "explain": "sowohl A als auch B는 'A도 B도 둘 다'라는 뜻이에요. weder A noch B는 반대로 'A도 B도 아니다'라는 뜻이에요. weder … noch 자체에 부정의 뜻이 들어 있어서 nicht나 kein을 따로 쓰지 않아요. 두 표현 모두 같은 종류의 문장 성분(명사, 전치사구 등)을 연결해요.",
+      "term": "Zweiteilige Konnektoren (1): sowohl … als auch, weder … noch",
+      "explain": "sowohl A als auch B는 'A도 B도 둘 다'라는 뜻이에요. weder A noch B는 반대로 'A도 B도 아니다'라는 뜻이에요. weder … noch 자체에 부정의 뜻이 들어 있어서 nicht나 kein을 따로 쓰지 않아요. 두 표현 모두 같은 종류의 문장 성분(명사와 명사, 전치사구와 전치사구)을 연결하고, 동사는 평소처럼 2번 자리에 있어요.",
       "pattern": "sowohl A als auch B  ·  weder A noch B (nicht/kein 없이)",
       "examples": [
         {
@@ -196,13 +196,13 @@
           "parts": [["Im Basistarif", "부사어"], ["gibt", "동사"], ["es", "주어"], ["weder eine monatliche Grundgebühr noch eine Kaution.", "4격 목적어"]]
         }
       ],
-      "tip": "weder … noch가 있는 문장에 nicht를 또 쓰면 틀려요. 'Es gibt weder eine Gebühr noch eine Kaution.'가 맞고, 'Es gibt nicht weder …'는 틀린 문장이에요."
+      "tip": "weder … noch가 있는 문장에 nicht를 또 쓰면 틀려요. 'Es gibt weder eine Gebühr noch eine Kaution.'가 맞고, 'Es gibt nicht weder …'는 틀린 문장이에요. 연결되는 두 명사는 격이 같아요. 여기서는 둘 다 4격이에요."
     },
     {
-      "title": "entweder … oder / nicht nur … sondern auch",
-      "term": "Zweiteilige Konnektoren (2)",
-      "explain": "entweder A oder B는 'A 아니면 B, 둘 중 하나'라는 뜻이에요. nicht nur A, sondern auch B는 'A뿐만 아니라 B도'라는 뜻으로, B를 강조해요. sondern 앞에는 쉼표를 찍어요. 두 표현 모두 명사, 전치사구, 그리고 문장 전체를 연결할 수 있어요.",
-      "pattern": "entweder A oder B  ·  nicht nur A, sondern auch B",
+      "title": "entweder … oder",
+      "term": "Zweiteilige Konnektoren (2): entweder … oder",
+      "explain": "entweder A oder B는 'A 아니면 B, 둘 중 하나'라는 뜻이에요. entweder는 보통 첫 번째 선택지 바로 앞에 오고, oder는 두 번째 선택지 앞에 와요. 명사, 전치사구, 부사뿐 아니라 문장 전체도 연결할 수 있어요.",
+      "pattern": "entweder A oder B",
       "examples": [
         {
           "de": "Sie bezahlen entweder pro Minute oder pro Stunde – je nachdem, was für Sie günstiger ist.",
@@ -211,54 +211,53 @@
           "parts": [["Sie", "주어"], ["bezahlen", "동사"], ["entweder pro Minute oder pro Stunde", "부사어(방법)"], ["– je nachdem, was für Sie günstiger ist.", "기타"]]
         },
         {
+          "de": "Melden Sie uns jeden Schaden sofort, entweder über die App oder telefonisch – auch kleine Kratzer.",
+          "ko": "파손이 있으면 작은 긁힘이라도 앱이나 전화로 즉시 저희에게 신고해 주십시오.",
+          "mark": ["entweder", "oder"]
+        }
+      ],
+      "tip": "entweder가 문장 맨 앞에 오면 1번 자리를 차지해서 동사가 바로 뒤에 와요: Entweder bezahlen Sie pro Minute, oder Sie bezahlen pro Stunde. 이때 oder 뒤에는 보통 어순(주어 + 동사)이 이어져요."
+    },
+    {
+      "title": "nicht nur … sondern auch",
+      "term": "Zweiteilige Konnektoren (3): nicht nur … sondern auch",
+      "explain": "nicht nur A, sondern auch B는 'A뿐만 아니라 B도'라는 뜻이에요. 앞의 A는 이미 알고 있는 내용이고, 뒤의 B가 새로 더해지는 중요한 내용이에요. sondern 앞에는 항상 쉼표를 찍어요. 연결되는 두 부분은 형태가 같아야 해요. 예를 들어 4격 목적어와 4격 목적어, 장소 부사어와 장소 부사어를 연결해요.",
+      "pattern": "nicht nur A, sondern auch B",
+      "examples": [
+        {
+          "de": "In der App laden Sie nicht nur Ihren Führerschein, sondern auch Ihren Personalausweis hoch.",
+          "ko": "앱에서는 운전면허증뿐 아니라 신분증도 올립니다.",
+          "mark": ["nicht nur", "sondern auch"],
+          "parts": [["In der App", "부사어(장소)"], ["laden", "동사"], ["Sie", "주어"], ["nicht nur Ihren Führerschein,", "4격 목적어"], ["sondern auch Ihren Personalausweis", "4격 목적어"], ["hoch.", "동사(끝)"]]
+        },
+        {
           "de": "Unsere Autos stehen nicht nur in der Innenstadt, sondern auch am Flughafen und an allen S-Bahnhöfen.",
           "ko": "저희 차량은 도심뿐 아니라 공항과 모든 S반 역에도 있습니다.",
           "mark": ["nicht nur", "sondern auch"],
           "parts": [["Unsere Autos", "주어"], ["stehen", "동사"], ["nicht nur in der Innenstadt,", "부사어(장소)"], ["sondern auch am Flughafen und an allen S-Bahnhöfen.", "부사어(장소)"]]
         }
       ],
-      "tip": "entweder가 문장 맨 앞에 오면 1번 자리를 차지해서 동사가 바로 뒤에 와요: Entweder bezahlen Sie pro Minute oder pro Stunde."
+      "tip": "분리동사 hochladen의 hoch는 두 목적어를 모두 지나 문장 끝에 와요. 틀 구조 안에 nicht nur … sondern auch 전체가 들어가는 거예요."
     },
     {
       "title": "zwar … aber",
-      "term": "Zweiteilige Konnektoren (3): zwar … aber",
-      "explain": "zwar A, aber B는 'A이기는 하지만 B'라는 뜻이에요. 먼저 zwar로 어떤 사실을 인정하고, 그다음 aber로 더 중요한 내용을 말해요. zwar는 문장 중간에 올 때가 많고, aber는 두 번째 문장의 맨 앞(0번 자리)에 와요. 그래서 aber 뒤에는 보통 어순(주어 + 동사 또는 부사어 + 동사 + 주어)이 그대로 이어져요.",
+      "term": "Zweiteilige Konnektoren (4): zwar … aber",
+      "explain": "zwar A, aber B는 'A이기는 하지만 B'라는 뜻이에요. 먼저 zwar로 어떤 사실을 인정하고, 그다음 aber로 더 중요한 내용을 말해요. zwar는 첫 번째 문장의 동사 뒤에 올 때가 많고, aber는 두 번째 문장의 맨 앞(0번 자리)에 와요. 그래서 aber 뒤에는 보통 어순이 그대로 이어져요.",
       "pattern": "주어 + 동사 + zwar …, aber + 주어 + 동사 …",
       "examples": [
         {
           "de": "Er kostet zwar 9 Euro im Monat, aber dafür ist jede Minute deutlich billiger.",
           "ko": "이 요금제는 월 9유로가 들지만, 대신 분당 요금이 훨씬 저렴합니다.",
           "mark": ["zwar", "aber"],
-          "parts": [["Er", "주어"], ["kostet", "동사"], ["zwar", "접속부사"], ["9 Euro", "4격 목적어"], ["im Monat,", "부사어(시간)"], ["aber", "접속사"], ["dafür", "부사어"], ["ist", "동사"], ["jede Minute", "주어"], ["deutlich billiger.", "보어"]]
+          "parts": [["Er", "주어"], ["kostet", "동사"], ["zwar", "부사어"], ["9 Euro", "4격 목적어"], ["im Monat,", "부사어(시간)"], ["aber", "접속사"], ["dafür", "부사어"], ["ist", "동사"], ["jede Minute", "주어"], ["deutlich billiger.", "보어"]]
         },
         {
-          "de": "Fahrten zum Flughafen sind zwar möglich, aber dort müssen Sie das Auto auf dem KlickCar-Parkplatz vor Terminal 2 abstellen.",
-          "ko": "공항까지 운행할 수는 있지만, 공항에서는 2터미널 앞 KlickCar 주차장에 차를 세워야 합니다.",
+          "de": "Fahrten zum Flughafen sind zwar aus jeder Zone möglich, aber dort müssen Sie das Auto auf dem KlickCar-Parkplatz vor Terminal 2 abstellen.",
+          "ko": "어느 구역에서든 공항까지 운행할 수는 있지만, 공항에서는 2터미널 앞 KlickCar 주차장에 차를 세워야 합니다.",
           "mark": ["zwar", "aber"]
         }
       ],
       "tip": "zwar … aber는 obwohl과 뜻이 비슷해요. 'Obwohl er 9 Euro kostet, ist jede Minute billiger.'와 같은 뜻이지만, zwar … aber는 두 개의 주절로 이루어지고 동사가 끝으로 가지 않아요."
-    },
-    {
-      "title": "짝 접속사가 연결하는 것과 동사의 자리",
-      "term": "Zweiteilige Konnektoren: Satzbau",
-      "explain": "sowohl … als auch, weder … noch, entweder … oder, nicht nur … sondern auch는 문장 안에서 같은 종류의 성분을 연결해요. 이때 동사는 평소처럼 2번 자리에 있고, 연결된 성분은 한 덩어리로 봐요. 예를 들어 'in der App'과 'im Kundenbüro'처럼 전치사구 두 개를 연결하면 그 전체가 하나의 장소 부사어가 돼요. 연결되는 두 부분은 형태가 같아야 자연스러워요: 명사와 명사, 전치사구와 전치사구.",
-      "pattern": "주어 + 동사(2번 자리) + [sowohl A als auch B] …",
-      "examples": [
-        {
-          "de": "Im Basistarif gibt es weder eine monatliche Grundgebühr noch eine Kaution.",
-          "ko": "기본 요금제에는 월 기본료도 보증금도 없습니다.",
-          "mark": ["weder eine monatliche Grundgebühr noch eine Kaution"],
-          "parts": [["Im Basistarif", "부사어"], ["gibt", "동사"], ["es", "주어"], ["weder eine monatliche Grundgebühr", "4격 목적어"], ["noch eine Kaution.", "4격 목적어"]]
-        },
-        {
-          "de": "Nur die angemeldete Person darf das Fahrzeug fahren – nicht ihre Freunde oder Familienmitglieder.",
-          "ko": "차량은 가입한 본인만 운전할 수 있고, 친구나 가족은 운전할 수 없습니다.",
-          "mark": ["Nur", "nicht"],
-          "parts": [["Nur die angemeldete Person", "주어"], ["darf", "동사"], ["das Fahrzeug", "4격 목적어"], ["fahren", "동사(끝)"], ["– nicht ihre Freunde oder Familienmitglieder.", "기타"]]
-        }
-      ],
-      "tip": "weder eine Grundgebühr noch eine Kaution처럼 두 명사가 모두 같은 격(여기서는 4격)이에요. 연결되는 두 부분의 격과 형태를 맞추는 것이 중요해요."
     }
   ],
   "vocab": [

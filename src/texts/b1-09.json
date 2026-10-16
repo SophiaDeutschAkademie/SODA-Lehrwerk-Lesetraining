@@ -1,0 +1,292 @@
+{
+  "id": "b1-09",
+  "level": "B1",
+  "no": 9,
+  "title": "Warum ist Gähnen ansteckend?",
+  "titleKo": "하품은 왜 전염될까요?",
+  "type": "Populärwissenschaftlicher Artikel",
+  "typeKo": "대중 과학 기사",
+  "intro": "사람들이 왜 하품을 하고, 왜 남의 하품이 옮는지 설명하는 과학 기사예요.",
+  "focus": ["je … desto / umso", "so … dass / sodass (결과)", "추측 표현 (vermutlich, wahrscheinlich, es könnte sein, dass)", "일반적인 wir"],
+  "paragraphs": [
+    {
+      "de": "Ein Kollege gähnt in der Besprechung, und wenige Sekunden später gähnen wir selbst – obwohl wir gar nicht müde sind. Fast jeder kennt das. Aber warum gähnen wir überhaupt, und warum steckt uns das Gähnen anderer so leicht an?",
+      "ko": "회의 중에 동료 한 사람이 하품을 하면, 몇 초 뒤에 우리도 하품을 해요. 전혀 피곤하지 않은데도요. 거의 모두가 이런 경험이 있어요. 그런데 우리는 왜 하품을 하고, 다른 사람의 하품은 왜 이렇게 쉽게 옮을까요?"
+    },
+    {
+      "style": "h",
+      "de": "Wer gähnt eigentlich?",
+      "ko": "누가 하품을 할까요?"
+    },
+    {
+      "de": "Alle Menschen gähnen – sogar Babys im Mutterleib, wie man auf Ultraschallbildern sehen kann. Auch viele Tiere tun es. Gähnen ist also etwas ganz Natürliches und so alt wie der Mensch selbst.",
+      "ko": "모든 사람이 하품을 해요. 초음파 사진에서 볼 수 있듯이 엄마 배 속의 아기도 하품을 해요. 많은 동물도 하품을 해요. 그러니까 하품은 아주 자연스러운 것이고, 인류만큼이나 오래된 거예요."
+    },
+    {
+      "style": "h",
+      "de": "Fehlt uns Sauerstoff?",
+      "ko": "산소가 부족해서일까요?"
+    },
+    {
+      "de": "Lange Zeit glaubte man, dass wir gähnen, weil dem Körper Sauerstoff fehlt. Durch den tiefen Atemzug sollte das Gehirn mehr Sauerstoff bekommen. Diese Erklärung klingt logisch, aber Studien konnten sie nicht bestätigen. Heute vermutet man unter anderem, dass Gähnen das Gehirn kühlt. Wahrscheinlich arbeitet unser Gehirn bei einer etwas niedrigeren Temperatur besser. Sicher ist das jedoch nicht, und vermutlich gibt es nicht nur einen Grund. Je genauer man hinsieht, desto mehr offene Fragen gibt es.",
+      "ko": "오랫동안 사람들은 몸에 산소가 부족해서 하품을 한다고 믿었어요. 깊은 숨을 쉬면 뇌가 산소를 더 많이 받는다고 생각한 거예요. 이 설명은 논리적으로 들리지만, 연구들은 이를 확인하지 못했어요. 오늘날에는 여러 가설 가운데 하나로, 하품이 뇌를 식혀 준다고 추측해요. 우리 뇌는 온도가 조금 낮을 때 더 잘 작동하는 것 같아요. 하지만 이것도 확실하지는 않고, 아마 이유가 하나만은 아닐 거예요. 자세히 들여다볼수록 풀리지 않은 질문이 더 많아져요."
+    },
+    {
+      "style": "h",
+      "de": "Warum gähnen wir mit?",
+      "ko": "우리는 왜 따라서 하품을 할까요?"
+    },
+    {
+      "de": "Noch rätselhafter ist das ansteckende Gähnen. Es genügt, jemanden gähnen zu sehen oder zu hören. Manche Menschen reagieren so stark auf das Thema, dass sie schon beim Lesen dieses Textes gähnen müssen. Es könnte sein, dass ansteckendes Gähnen mit Mitgefühl zu tun hat. Dafür spricht eine interessante Beobachtung: Je enger die Beziehung zu einer Person ist, desto eher gähnen wir mit. Bei Familienmitgliedern und engen Freunden passiert es häufiger als bei Fremden.",
+      "ko": "더 수수께끼 같은 것은 전염되는 하품이에요. 누군가 하품하는 것을 보거나 듣기만 해도 충분해요. 어떤 사람들은 이 주제에 아주 강하게 반응해서 이 글을 읽는 것만으로도 하품이 나와요. 전염되는 하품은 공감 능력과 관계가 있을 수도 있어요. 흥미로운 관찰 결과가 이를 뒷받침해요. 어떤 사람과의 관계가 가까울수록 우리는 더 쉽게 따라서 하품을 해요. 가족이나 친한 친구가 하품할 때는 모르는 사람이 하품할 때보다 더 자주 그렇게 돼요."
+    },
+    {
+      "style": "h",
+      "de": "Kinder und Hunde",
+      "ko": "아이들과 개"
+    },
+    {
+      "de": "Kleine Kinder lassen sich dagegen kaum anstecken. Die Fähigkeit entwickelt sich offenbar erst im Laufe der Kindheit, sodass die Kleinsten meistens ruhig bleiben, wenn jemand neben ihnen gähnt. Je älter die Kinder werden, umso häufiger gähnen sie mit. Und noch etwas ist bemerkenswert: Auch Hunde gähnen manchmal mit, wenn ihre Besitzerinnen und Besitzer gähnen. Ob das wirklich Mitgefühl ist, weiß niemand genau. Ganz gelöst ist das Rätsel also noch nicht. Eines aber ist ziemlich sicher: Je länger Sie diesen Text lesen, desto größer wird die Gefahr, dass Sie selbst gähnen müssen.",
+      "ko": "반면에 어린아이들은 거의 전염되지 않아요. 이 능력은 아무래도 어린 시절을 거치면서 비로소 발달하는 것 같아요. 그래서 가장 어린 아이들은 옆에서 누가 하품을 해도 대부분 가만히 있어요. 아이들은 나이가 들수록 더 자주 따라서 하품을 해요. 그리고 또 하나 눈여겨볼 점이 있어요. 개도 주인이 하품을 하면 가끔 따라서 하품을 해요. 그것이 정말 공감인지는 아무도 정확히 몰라요. 그러니까 수수께끼가 완전히 풀린 것은 아직 아니에요. 하지만 한 가지는 꽤 확실해요. 이 글을 오래 읽을수록 여러분도 하품을 하게 될 위험이 커져요."
+    }
+  ],
+  "questions": [
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Menschen gähnen schon vor ihrer Geburt.",
+      "answer": 0,
+      "evidence": "Alle Menschen gähnen – sogar Babys im Mutterleib, wie man auf Ultraschallbildern sehen kann.",
+      "pairs": [["Babys im Mutterleib", "schon vor ihrer Geburt"]],
+      "explain": "'엄마 배 속의 아기'도 하품을 한다는 말은 사람이 태어나기 전부터 하품을 한다는 뜻이에요. 'im Mutterleib'(엄마 배 속에서)를 'vor der Geburt'(태어나기 전에)로 바꿔 말했어요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Was sagt der Text über die Erklärung mit dem Sauerstoff?",
+      "options": [
+        "Sie wurde durch Untersuchungen bestätigt.",
+        "Sie gilt heute als die wichtigste Erklärung für das Gähnen.",
+        "Sie ließ sich in Experimenten nicht nachweisen."
+      ],
+      "answer": 2,
+      "evidence": "Diese Erklärung klingt logisch, aber Studien konnten sie nicht bestätigen.",
+      "pairs": [["Studien konnten sie nicht bestätigen", "ließ sich in Experimenten nicht nachweisen"], ["Lange Zeit glaubte man", "gilt heute als die wichtigste Erklärung"]],
+      "explain": "'연구들이 확인하지 못했다(konnten nicht bestätigen)'를 '실험에서 입증되지 않았다(ließ sich nicht nachweisen)'로 바꿔 말했어요. 산소 부족 설명은 예전에 믿던 것이고, 오늘날에는 뇌를 식힌다는 추측이 더 많이 이야기돼요. bestätigen이라는 단어가 본문에 있어서 첫 번째 선택지가 함정이에요."
+    },
+    {
+      "type": "mc",
+      "kind": "paraphrase",
+      "q": "Was will der Text mit dem Satz „Sicher ist das jedoch nicht, und vermutlich gibt es nicht nur einen Grund.“ sagen?",
+      "options": [
+        "Die Kühlung des Gehirns ist inzwischen bewiesen, aber es gibt noch weitere Gründe.",
+        "Die Kühlungs-Erklärung ist eine Vermutung, und wahrscheinlich spielen mehrere Ursachen zusammen.",
+        "Niemand weiß, warum wir gähnen, deshalb gibt es keine Erklärung."
+      ],
+      "answer": 1,
+      "evidence": "Sicher ist das jedoch nicht, und vermutlich gibt es nicht nur einen Grund.",
+      "pairs": [["Sicher ist das jedoch nicht", "ist eine Vermutung"], ["nicht nur einen Grund", "mehrere Ursachen"]],
+      "explain": "'확실하지 않다'는 말은 뇌를 식힌다는 설명이 아직 추측이라는 뜻이에요. '이유가 하나만은 아니다'를 '여러 원인이 함께 작용한다'로 바꿔 말했어요. 증명되었다는 말이나 설명이 전혀 없다는 말은 본문과 달라요."
+    },
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Um sich anstecken zu lassen, muss man die gähnende Person direkt vor sich sehen.",
+      "answer": 1,
+      "evidence": "Es genügt, jemanden gähnen zu sehen oder zu hören.",
+      "pairs": [["zu sehen oder zu hören", "direkt vor sich sehen"], ["schon beim Lesen dieses Textes", "muss man die gähnende Person"]],
+      "explain": "보거나 듣기만 해도 충분하다고 했고, 어떤 사람들은 글을 읽기만 해도 하품을 한다고 해요. 그러니 반드시 눈앞에서 봐야 한다는 말은 틀려요. sehen이라는 단어가 본문에 나오지만 '반드시'라는 조건이 틀렸어요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Bei wem gähnen wir am ehesten mit?",
+      "options": [
+        "bei Menschen, die uns nahestehen",
+        "bei Fremden, die wir zum ersten Mal sehen",
+        "bei Personen, die besonders müde sind"
+      ],
+      "answer": 0,
+      "evidence": "Je enger die Beziehung zu einer Person ist, desto eher gähnen wir mit.",
+      "pairs": [["Je enger die Beziehung zu einer Person ist", "Menschen, die uns nahestehen"], ["bei Fremden", "bei Fremden, die wir zum ersten Mal sehen"]],
+      "explain": "'관계가 가까울수록 더 쉽게 따라 한다'를 '우리와 가까운 사람'으로 바꿔 말했어요. 모르는 사람보다 가족과 친한 친구에게서 더 자주 옮는다고 했으니 Fremde는 반대예요. 피곤한 사람 이야기는 본문에 없어요."
+    },
+    {
+      "type": "mc",
+      "kind": "paraphrase",
+      "q": "Was bedeutet der Satz „Kleine Kinder lassen sich dagegen kaum anstecken.“?",
+      "options": [
+        "Kleine Kinder gähnen fast nie mit, wenn andere gähnen.",
+        "Kleine Kinder wehren sich dagegen, wenn andere gähnen.",
+        "Kleine Kinder gähnen seltener als Erwachsene, weil sie weniger müde sind."
+      ],
+      "answer": 0,
+      "evidence": "Kleine Kinder lassen sich dagegen kaum anstecken.",
+      "pairs": [["lassen sich dagegen kaum anstecken", "gähnen fast nie mit"], ["dagegen", "wehren sich dagegen"]],
+      "explain": "'sich anstecken lassen'은 여기서 '(하품이) 옮다'라는 뜻이고, kaum은 '거의 ~않다'예요. 그래서 어린아이들은 남이 하품해도 거의 따라 하지 않는다는 뜻이에요. dagegen은 여기서 '반면에'라는 뜻이지, 무언가에 저항한다는 뜻이 아니에요. 피곤함에 대한 내용도 없어요."
+    },
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Mit zunehmendem Alter reagieren Kinder immer öfter auf das Gähnen anderer.",
+      "answer": 0,
+      "evidence": "Je älter die Kinder werden, umso häufiger gähnen sie mit.",
+      "pairs": [["Je älter die Kinder werden", "Mit zunehmendem Alter"], ["umso häufiger gähnen sie mit", "immer öfter auf das Gähnen anderer"]],
+      "explain": "'아이들은 나이가 들수록 더 자주 따라서 하품한다'를 '나이가 들면서 점점 더 자주 반응한다'로 바꿔 말했어요. je … umso 구문을 'mit zunehmendem Alter … immer öfter'로 다르게 표현한 거예요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Was steht im Text über Hunde?",
+      "options": [
+        "Sie gähnen aus Mitgefühl mit ihren Besitzerinnen und Besitzern.",
+        "Sie gähnen gelegentlich, wenn ihre Halterinnen oder Halter gähnen.",
+        "Sie gähnen häufiger als kleine Kinder."
+      ],
+      "answer": 1,
+      "evidence": "Auch Hunde gähnen manchmal mit, wenn ihre Besitzerinnen und Besitzer gähnen.",
+      "pairs": [["gähnen manchmal mit", "gähnen gelegentlich"], ["Besitzerinnen und Besitzer", "Halterinnen oder Halter"], ["Ob das wirklich Mitgefühl ist, weiß niemand genau", "aus Mitgefühl"]],
+      "explain": "manchmal(가끔)을 gelegentlich(이따금)로, Besitzer(주인)를 Halter(사육자, 주인)로 바꿔 말했어요. 공감 때문이라고 단정하는 것은 틀려요. 그것이 정말 공감인지는 아무도 모른다고 했어요. 아이들과 개의 빈도를 비교하는 내용도 없어요."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "je … desto / umso – 비례 관계",
+      "term": "Proportionalsatz: je … desto / umso",
+      "explain": "je … desto(또는 umso)는 '~하면 할수록 더 ~하다'라는 뜻이에요. 두 가지 일이 함께 커지거나 줄어드는 관계를 나타내요. je 뒤와 desto 뒤에는 각각 비교급이 와요. je가 있는 부분은 종속절이라서 동사가 끝에 오고, desto가 있는 부분은 주절이라서 비교급 바로 뒤에 동사가 와요. desto와 umso는 뜻이 같아요.",
+      "pattern": "Je + 비교급 + 주어 … 동사(끝), desto/umso + 비교급 + 동사 + 주어 …",
+      "examples": [
+        {
+          "de": "Je enger die Beziehung zu einer Person ist, desto eher gähnen wir mit.",
+          "ko": "어떤 사람과의 관계가 가까울수록 우리는 더 쉽게 따라서 하품을 해요.",
+          "mark": ["Je enger", "desto eher"],
+          "parts": [["Je enger die Beziehung zu einer Person ist,", "종속절"], ["desto eher", "부사어"], ["gähnen", "동사"], ["wir", "주어"], ["mit.", "동사(끝)"]]
+        },
+        {
+          "de": "Je älter die Kinder werden, umso häufiger gähnen sie mit.",
+          "ko": "아이들은 나이가 들수록 더 자주 따라서 하품을 해요.",
+          "mark": ["Je älter", "umso häufiger"],
+          "parts": [["Je", "접속사"], ["älter", "보어"], ["die Kinder", "주어"], ["werden,", "동사(끝)"], ["umso häufiger", "부사어(빈도)"], ["gähnen", "동사"], ["sie", "주어"], ["mit.", "동사(끝)"]]
+        }
+      ],
+      "tip": "desto 뒤에 바로 동사를 쓰지 않도록 주의하세요. 'desto gähnen wir eher'는 틀리고, 'desto eher gähnen wir'처럼 비교급이 먼저 와야 해요."
+    },
+    {
+      "title": "so … dass / sodass – 결과 말하기",
+      "term": "Konsekutivsatz: so … dass / sodass",
+      "explain": "sodass는 '그래서 ~하다'라는 뜻으로 결과를 말해요. 주절 뒤에 오고, 동사는 종속절 끝에 와요. so … dass는 so를 주절의 형용사나 부사 앞에 두고 dass 절로 결과를 말해요. '너무 ~해서 ~하다'라는 뜻이에요. 결과를 나타내는 dass 절은 항상 주절 뒤에 와요.",
+      "pattern": "주절 + so + 형용사/부사 …, dass + … 동사(끝)  ·  주절, sodass + … 동사(끝)",
+      "examples": [
+        {
+          "de": "Manche Menschen reagieren so stark auf das Thema, dass sie schon beim Lesen dieses Textes gähnen müssen.",
+          "ko": "어떤 사람들은 이 주제에 아주 강하게 반응해서 이 글을 읽는 것만으로도 하품이 나와요.",
+          "mark": ["so stark", "dass"],
+          "parts": [["Manche Menschen", "주어"], ["reagieren", "동사"], ["so stark", "부사어(방법)"], ["auf das Thema,", "전치사 목적어"], ["dass sie schon beim Lesen dieses Textes gähnen müssen.", "종속절"]]
+        },
+        {
+          "de": "Die Fähigkeit entwickelt sich offenbar erst im Laufe der Kindheit, sodass die Kleinsten meistens ruhig bleiben, wenn jemand neben ihnen gähnt.",
+          "ko": "이 능력은 아무래도 어린 시절을 거치면서 비로소 발달하는 것 같아요. 그래서 가장 어린 아이들은 옆에서 누가 하품을 해도 대부분 가만히 있어요.",
+          "mark": ["sodass", "bleiben"],
+          "parts": [["Die Fähigkeit", "주어"], ["entwickelt", "동사"], ["sich", "재귀대명사"], ["offenbar", "부사어"], ["erst im Laufe der Kindheit,", "부사어(시간)"], ["sodass die Kleinsten meistens ruhig bleiben,", "종속절"], ["wenn jemand neben ihnen gähnt.", "종속절"]]
+        }
+      ],
+      "tip": "deshalb도 결과를 말하지만 주절을 이끌어서 deshalb 바로 뒤에 동사가 와요. sodass는 종속절을 이끌어서 동사가 끝에 와요."
+    },
+    {
+      "title": "추측 표현 – vermutlich, wahrscheinlich, es könnte sein, dass",
+      "term": "Vermutungen ausdrücken",
+      "explain": "확실하지 않은 내용을 말할 때 쓰는 표현이에요. vermutlich와 wahrscheinlich는 '아마'라는 뜻의 부사로, 1번 자리에 오면 동사가 바로 뒤에 와요. 'Es könnte sein, dass …'는 '~일 수도 있다'라는 뜻으로, 더 조심스러운 추측이에요. 'man vermutet, dass …'(~라고 추측한다), 'offenbar'(보아하니), 'Sicher ist das nicht'(확실하지 않다) 같은 표현도 과학 글에서 자주 쓰여요.",
+      "pattern": "Vermutlich/Wahrscheinlich + 동사 + 주어 …  ·  Es könnte sein, dass + … 동사(끝)",
+      "examples": [
+        {
+          "de": "Wahrscheinlich arbeitet unser Gehirn bei einer etwas niedrigeren Temperatur besser.",
+          "ko": "우리 뇌는 온도가 조금 낮을 때 더 잘 작동하는 것 같아요.",
+          "mark": ["Wahrscheinlich"],
+          "parts": [["Wahrscheinlich", "부사어"], ["arbeitet", "동사"], ["unser Gehirn", "주어"], ["bei einer etwas niedrigeren Temperatur", "부사어"], ["besser.", "부사어(방법)"]]
+        },
+        {
+          "de": "Es könnte sein, dass ansteckendes Gähnen mit Mitgefühl zu tun hat.",
+          "ko": "전염되는 하품은 공감 능력과 관계가 있을 수도 있어요.",
+          "mark": ["Es könnte sein, dass"],
+          "parts": [["Es", "주어"], ["könnte", "동사"], ["sein,", "동사(끝)"], ["dass ansteckendes Gähnen mit Mitgefühl zu tun hat.", "종속절"]]
+        },
+        {
+          "de": "Heute vermutet man unter anderem, dass Gähnen das Gehirn kühlt.",
+          "ko": "오늘날에는 여러 가설 가운데 하나로, 하품이 뇌를 식혀 준다고 추측해요.",
+          "mark": ["vermutet man", "dass"]
+        }
+      ],
+      "tip": "확신의 정도가 달라요. wahrscheinlich(아마, 꽤 확실) > vermutlich(아마) > es könnte sein, dass(~일 수도 있다, 가능성만 말함) 순으로 확신이 약해져요."
+    },
+    {
+      "title": "일반적인 사람을 가리키는 wir와 man",
+      "term": "Generisches wir / man",
+      "explain": "이 글의 wir는 글쓴이와 독자만이 아니라 '사람들 일반'을 가리켜요. 'Warum gähnen wir?'는 '우리 인간은 왜 하품을 할까?'라는 뜻이에요. man도 '사람들'을 뜻하는데, 더 거리를 두고 객관적으로 말할 때 써요. 'Lange Zeit glaubte man'은 '오랫동안 사람들은 믿었다'예요. man은 항상 3인칭 단수 동사와 함께 써요. 글 끝에서는 Sie로 독자에게 직접 말을 걸어요.",
+      "pattern": "wir + 1인칭 복수 동사  ·  man + 3인칭 단수 동사",
+      "examples": [
+        {
+          "de": "Lange Zeit glaubte man, dass wir gähnen, weil dem Körper Sauerstoff fehlt.",
+          "ko": "오랫동안 사람들은 몸에 산소가 부족해서 하품을 한다고 믿었어요.",
+          "mark": ["man", "wir"],
+          "parts": [["Lange Zeit", "부사어(시간)"], ["glaubte", "동사"], ["man,", "주어"], ["dass wir gähnen,", "종속절"], ["weil dem Körper Sauerstoff fehlt.", "종속절"]]
+        },
+        {
+          "de": "Aber warum gähnen wir überhaupt, und warum steckt uns das Gähnen anderer so leicht an?",
+          "ko": "그런데 우리는 왜 하품을 하고, 다른 사람의 하품은 왜 이렇게 쉽게 옮을까요?",
+          "mark": ["wir", "uns"]
+        }
+      ],
+      "tip": "man은 1격으로만 쓰여요. 4격은 einen, 3격은 einem으로 바꿔 써요: Das Gähnen steckt einen an. 또 man을 받는 소유관사는 sein이에요: Man hört seinen Kollegen gähnen."
+    }
+  ],
+  "vocab": [
+    { "de": "gähnen", "ko": "하품하다" },
+    { "de": "ansteckend", "ko": "전염성이 있는, 옮는" },
+    { "de": "an|stecken", "ko": "전염시키다, 옮기다" },
+    { "de": "die Besprechung, -en", "ko": "회의" },
+    { "de": "der Mutterleib (Sg.)", "ko": "모태, 엄마의 배 속" },
+    { "de": "der Sauerstoff (Sg.)", "ko": "산소" },
+    { "de": "der Atemzug, -¨e", "ko": "숨, 호흡 한 번" },
+    { "de": "das Gehirn, -e", "ko": "뇌" },
+    { "de": "bestätigen", "ko": "확인하다, 입증하다" },
+    { "de": "die Beobachtung, -en", "ko": "관찰" },
+    { "de": "vermuten", "ko": "추측하다" },
+    { "de": "kühlen", "ko": "식히다, 차갑게 하다" },
+    { "de": "rätselhaft", "ko": "수수께끼 같은" },
+    { "de": "das Mitgefühl (Sg.)", "ko": "공감, 동정심" },
+    { "de": "die Fähigkeit, -en", "ko": "능력" },
+    { "de": "bemerkenswert", "ko": "주목할 만한" }
+  ],
+  "phrases": [
+    {
+      "de": "mit etwas zu tun haben",
+      "ko": "~와 관계가 있다",
+      "ex": "Es könnte sein, dass ansteckendes Gähnen mit Mitgefühl zu tun hat.",
+      "exko": "전염되는 하품은 공감 능력과 관계가 있을 수도 있어요."
+    },
+    {
+      "de": "für etwas sprechen",
+      "ko": "~을 뒷받침하다, ~의 근거가 되다",
+      "ex": "Dafür spricht eine interessante Beobachtung:",
+      "exko": "흥미로운 관찰 결과가 이를 뒷받침해요."
+    },
+    {
+      "de": "im Laufe + Gen.",
+      "ko": "~가 지나는 동안에, ~의 과정에서",
+      "ex": "Die Fähigkeit entwickelt sich offenbar erst im Laufe der Kindheit",
+      "exko": "이 능력은 아무래도 어린 시절을 거치면서 비로소 발달하는 것 같아요."
+    },
+    {
+      "de": "unter anderem",
+      "ko": "그중에서도, 여러 가지 가운데",
+      "ex": "Heute vermutet man unter anderem, dass Gähnen das Gehirn kühlt.",
+      "exko": "오늘날에는 여러 가설 가운데 하나로, 하품이 뇌를 식혀 준다고 추측해요."
+    },
+    {
+      "de": "ein Rätsel lösen",
+      "ko": "수수께끼를 풀다",
+      "ex": "Ganz gelöst ist das Rätsel also noch nicht.",
+      "exko": "그러니까 수수께끼가 완전히 풀린 것은 아직 아니에요."
+    }
+  ]
+}

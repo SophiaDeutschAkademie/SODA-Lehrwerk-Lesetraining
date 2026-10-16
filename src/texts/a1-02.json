@@ -15,8 +15,8 @@
       "ko": "lena_k · 2시간 전"
     },
     {
-      "de": "Endlich alle zusammen! Meine Oma ist heute 80 Jahre alt. Hier seht ihr unsere Familie. Das Foto ist von heute Nachmittag im Garten.",
-      "ko": "드디어 다 모였어요! 우리 할머니가 오늘 80세가 되셨어요. 여기 우리 가족이 보이시죠. 이 사진은 오늘 오후에 정원에서 찍은 거예요."
+      "de": "Endlich alle zusammen! Meine Oma hat heute Geburtstag. Sie ist jetzt 80 Jahre alt. Hier seht ihr unsere Familie. Das Foto ist von heute Nachmittag im Garten.",
+      "ko": "드디어 다 모였어요! 오늘은 우리 할머니 생신이에요. 이제 80세가 되셨어요. 여기 우리 가족이 보이시죠. 이 사진은 오늘 오후에 정원에서 찍은 거예요."
     },
     {
       "de": "In der Mitte sitzt meine Oma. Sie hat Blumen und einen Luftballon. Links stehen meine Eltern. Mein Vater lacht, meine Mutter hält den Kuchen.",
@@ -48,7 +48,7 @@
       "answer": 1,
       "evidence": "Das Foto ist von heute Nachmittag im Garten.",
       "pairs": [["im Garten", "im Haus"], ["Oma", "Großmutter"]],
-      "explain": "사진은 정원(im Garten)에서 찍었다고 해요. 문제는 집 안(im Haus)이라고 했으니 틀려요. Oma와 Großmutter는 같은 사람이에요."
+      "explain": "생일 사진은 정원(im Garten)에서 찍었다고 해요. 그러니까 파티도 정원에서 하는 거예요. 문제는 집 안(im Haus)이라고 했으니 틀려요. Oma와 Großmutter는 같은 사람이에요."
     },
     {
       "type": "mc",
@@ -140,7 +140,7 @@
           "parts": [["Seine Kinder", "주어"], ["sind", "동사"], ["nicht", "부정어"], ["auf dem Foto,", "부사어(장소)"], ["sie", "주어"], ["sind", "동사"], ["in der Schule.", "부사어(장소)"]]
         }
       ],
-      "tip": "Eltern(부모님)은 복수형으로만 써요. 그래서 동사도 복수형이에요: Meine Eltern stehen links."
+      "tip": "Eltern(부모님)은 복수형으로만 써요. 그래서 동사도 복수형이에요: Links stehen meine Eltern. 아빠 한 명은 der Vater, 엄마 한 명은 die Mutter예요."
     },
     {
       "title": "stehen/sitzen + 장소",
@@ -167,7 +167,7 @@
   "vocab": [
     { "de": "die Oma, -s", "ko": "할머니" },
     { "de": "die Eltern (Pl.)", "ko": "부모님" },
-    { "de": "der Onkel, -", "ko": "삼촌, 외삼촌" },
+    { "de": "der Onkel, -", "ko": "삼촌, 외삼촌, 고모부, 이모부" },
     { "de": "der Koch, -¨e", "ko": "요리사" },
     { "de": "der Luftballon, -s", "ko": "풍선" },
     { "de": "der Kuchen, -", "ko": "케이크" },

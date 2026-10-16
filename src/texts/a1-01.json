@@ -16,7 +16,7 @@
     },
     {
       "de": "Hallo! Ich heiße Jiwoo Han und bin 24 Jahre alt. Ich bin Koreanerin und komme aus Busan. In Köln wohne ich seit sechs Monaten. Hier studiere ich Architektur.",
-      "ko": "안녕하세요! 제 이름은 한지우이고 24살이에요. 저는 한국 사람이고 부산에서 왔어요. 쾰른에서는 6개월째 살고 있어요. 여기서 건축을 전공하고 있어요."
+      "ko": "안녕하세요! 제 이름은 한지우이고 스물네 살이에요. 저는 한국 사람이고 부산에서 왔어요. 쾰른에서는 6개월째 살고 있어요. 여기서 건축을 전공하고 있어요."
     },
     {
       "de": "Seit einem Jahr lerne ich Deutsch. Meine Muttersprache ist Koreanisch. Englisch spreche ich auch gut. Mein Deutsch ist noch nicht so gut, aber ich lerne jeden Tag.",
@@ -27,7 +27,7 @@
       "ko": "저는 취미가 두 가지 있어요. 요리와 축구예요. 한국 음식을 즐겨 요리해요. 예를 들면 비빔밥이요. 주말에는 공원에서 축구를 해요."
     },
     {
-      "de": "Ich suche eine Tandempartnerin oder einen Tandempartner für Koreanisch. Wir üben zusammen: eine Stunde Koreanisch, eine Stunde Deutsch. Wir treffen uns einmal pro Woche, gern in einem Café. Nachmittags habe ich meistens Zeit.",
+      "de": "Ich suche eine Tandempartnerin oder einen Tandempartner für Koreanisch. Wir üben zusammen: eine Stunde Koreanisch, eine Stunde Deutsch. Einmal pro Woche treffen wir uns, gern in einem Café. Nachmittags habe ich meistens Zeit.",
       "ko": "한국어 탄뎀 파트너를 찾고 있어요. 같이 연습해요. 한 시간은 한국어, 한 시간은 독일어예요. 일주일에 한 번, 가능하면 카페에서 만나요. 오후에는 대체로 시간이 있어요."
     },
     {
@@ -90,7 +90,7 @@
       "answer": 0,
       "evidence": "Dann schreib mir!",
       "pairs": [["Dann schreib mir!", "eine Nachricht bekommen"]],
-      "explain": "마지막 문장 'Dann schreib mir!(그러면 저에게 써 주세요!)'는 메시지를 보내 달라는 뜻이에요. 지우 씨 입장에서 보면 메시지를 받고 싶다는 말이니까 맞는 내용이에요."
+      "explain": "마지막 문장 'Dann schreib mir!(그러면 저에게 메시지를 보내 주세요!)'는 연락해 달라는 뜻이에요. 지우 씨 입장에서 보면 메시지를 받고 싶다는 말이니까 맞는 내용이에요. schreiben(쓰다)과 bekommen(받다)은 서로 반대 방향에서 같은 일을 말해요."
     }
   ],
   "grammar": [
@@ -182,7 +182,7 @@
     {
       "de": "einmal pro Woche",
       "ko": "일주일에 한 번",
-      "ex": "Wir treffen uns einmal pro Woche, gern in einem Café.",
+      "ex": "Einmal pro Woche treffen wir uns, gern in einem Café.",
       "exko": "일주일에 한 번, 가능하면 카페에서 만나요."
     },
     {

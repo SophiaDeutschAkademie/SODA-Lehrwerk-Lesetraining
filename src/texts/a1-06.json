@@ -22,8 +22,8 @@
     { "de": "Bitte essen Sie nicht in der Bibliothek. Trinken darf man nur am Eingang. Stellen Sie Ihr Handy leise und telefonieren Sie bitte draußen.",
       "ko": "도서관 안에서는 음식을 드시지 마십시오. 음료는 입구에서만 마실 수 있습니다. 휴대전화는 소리를 줄여 주시고, 통화는 밖에서 해 주시기 바랍니다." },
     { "style": "h", "de": "Rückgabe", "ko": "반납" },
-    { "de": "Der Rückgabeautomat am Eingang ist immer offen – 24 Stunden am Tag, auch am Sonntag und am Montag. Geben Sie Bücher und DVDs einfach dort zurück.",
-      "ko": "입구에 있는 반납기는 하루 24시간, 일요일과 월요일에도 항상 열려 있습니다. 책과 DVD는 그곳에 간편하게 반납하시면 됩니다." }
+    { "de": "Den Rückgabeautomaten am Eingang können Sie immer benutzen – 24 Stunden am Tag, auch am Sonntag und am Montag. Geben Sie Bücher und DVDs einfach dort zurück.",
+      "ko": "입구에 있는 반납기는 하루 24시간, 일요일과 월요일에도 언제든지 이용하실 수 있습니다. 책과 DVD는 그곳에 간편하게 반납하시면 됩니다." }
   ],
   "questions": [
     { "type": "mc", "kind": "detail",

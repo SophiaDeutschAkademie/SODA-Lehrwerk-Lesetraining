@@ -1,0 +1,301 @@
+{
+  "id": "b1-08",
+  "level": "B1",
+  "no": 8,
+  "title": "Anfrage: Ferienwohnung am Bodensee",
+  "titleKo": "문의: 보덴호 휴가용 숙소",
+  "type": "E-Mail-Wechsel",
+  "typeKo": "이메일 문의와 답장",
+  "intro": "휴가용 숙소를 빌리려는 사람의 문의 메일과 집주인의 답장이에요.",
+  "focus": ["lassen (시키다·허락하다)", "werden + 동사원형 (미래)", "falls (조건)", "sich etwas … lassen"],
+  "paragraphs": [
+    {
+      "style": "meta",
+      "de": "Betreff: Anfrage Ferienwohnung „Seeblick“ – zwei Wochen im August",
+      "ko": "제목: 휴가용 숙소 „Seeblick“ 문의 – 8월 2주"
+    },
+    {
+      "style": "meta",
+      "de": "Sehr geehrte Frau Mertens,",
+      "ko": "메르텐스 씨께,"
+    },
+    {
+      "de": "auf Ihrer Internetseite habe ich die Ferienwohnung „Seeblick“ gesehen, und sie gefällt uns sehr gut. Mein Mann und ich möchten mit unseren beiden Kindern (8 und 11 Jahre) zwei Wochen am Bodensee verbringen, am liebsten vom 9. bis zum 23. August. Ist die Wohnung in diesem Zeitraum noch frei?",
+      "ko": "인터넷 홈페이지에서 휴가용 숙소 „Seeblick“을 봤는데, 저희 마음에 아주 들어요. 남편과 저는 두 아이(8세, 11세)와 함께 보덴호에서 2주를 보내려고 하는데, 8월 9일부터 23일까지가 가장 좋아요. 이 기간에 숙소가 아직 비어 있나요?"
+    },
+    {
+      "de": "Dazu habe ich noch ein paar Fragen. Wir haben einen kleinen Hund, der sehr ruhig ist. Dürfen wir ihn mitbringen? Außerdem würden wir gern Fahrradtouren am See machen. Gibt es in der Nähe einen Fahrradverleih, oder könnten wir bei Ihnen Räder leihen? Falls wir mit dem Auto kommen, bräuchten wir auch einen Parkplatz. Und noch eine Frage: Ich habe gelesen, dass man sich morgens frische Brötchen bringen lassen kann. Stimmt das noch?",
+      "ko": "그리고 몇 가지 더 여쭤보고 싶어요. 저희는 아주 조용한 작은 개를 한 마리 키우고 있어요. 데려가도 될까요? 또 호숫가에서 자전거 여행을 하고 싶은데요. 근처에 자전거 대여점이 있나요, 아니면 댁에서 자전거를 빌릴 수 있을까요? 만약 차로 가게 되면 주차 자리도 필요할 것 같아요. 그리고 한 가지 더요. 아침마다 신선한 빵을 배달시켜 먹을 수 있다고 읽었는데, 아직도 그런가요?"
+    },
+    {
+      "de": "Über eine baldige Antwort würde ich mich sehr freuen.",
+      "ko": "빠른 답장 주시면 정말 감사하겠어요."
+    },
+    {
+      "style": "meta",
+      "de": "Mit freundlichen Grüßen\nJana Schuster",
+      "ko": "안부를 전하며\n야나 슈스터 드림"
+    },
+    {
+      "style": "meta",
+      "de": "Betreff: AW: Anfrage Ferienwohnung „Seeblick“",
+      "ko": "제목: 회신: 휴가용 숙소 „Seeblick“ 문의"
+    },
+    {
+      "style": "meta",
+      "de": "Liebe Frau Schuster,",
+      "ko": "슈스터 씨께,"
+    },
+    {
+      "de": "vielen Dank für Ihre Anfrage. Sie haben Glück: Die Wohnung ist ab dem 9. August frei, und zwei Wochen sind kein Problem. Ich werde Ihnen die Wohnung bis Freitag reservieren. Falls Sie sich für die Wohnung entscheiden, schicke ich Ihnen den Mietvertrag per E-Mail.",
+      "ko": "문의해 주셔서 감사해요. 운이 좋으시네요. 숙소는 8월 9일부터 비어 있고, 2주도 문제없어요. 금요일까지 숙소를 예약해 둘게요. 숙소를 쓰시기로 결정하시면 임대 계약서를 이메일로 보내 드릴게요."
+    },
+    {
+      "de": "Ihren Hund dürfen Sie gern mitbringen, falls er nicht aufs Sofa und in die Betten darf. Im Garten können Sie ihn frei laufen lassen. Wir lassen die Wohnung vor jeder Ankunft gründlich reinigen, damit sich alle Gäste wohlfühlen. Die Brötchen können Sie sich weiterhin bringen lassen: Hängen Sie einfach am Abend den Bestellzettel an die Tür, dann hängt die Bäckerei die Tüte bis 8 Uhr daran.",
+      "ko": "개는 소파와 침대에 올라가게 하지만 않으시면 얼마든지 데려오셔도 돼요. 정원에서는 자유롭게 뛰어다니게 두셔도 돼요. 모든 손님이 편안하게 지내실 수 있도록 저희는 손님이 도착하기 전에 매번 숙소를 꼼꼼히 청소시켜요. 빵은 지금도 배달시키실 수 있어요. 저녁에 주문 쪽지를 문에 걸어 두시기만 하면 빵집에서 8시까지 거기에 빵 봉지를 걸어 놓아요."
+    },
+    {
+      "de": "Zwei Fahrräder stehen für unsere Gäste kostenlos im Schuppen. Für die Kinder gibt es im Ort einen Verleih. Einen Parkplatz direkt am Haus haben Sie natürlich auch. Die Schlüssel werde ich Ihnen am Anreisetag persönlich übergeben, oder ich lasse sie bei meiner Nachbarin, falls ich nicht zu Hause bin.",
+      "ko": "손님용 자전거 두 대는 창고에 있고 무료로 쓰실 수 있어요. 아이들 자전거는 마을에 대여점이 있어요. 물론 집 바로 옆에 주차 자리도 있어요. 열쇠는 도착하시는 날에 제가 직접 드릴게요. 혹시 제가 집에 없으면 이웃집에 맡겨 둘게요."
+    },
+    {
+      "style": "meta",
+      "de": "Herzliche Grüße vom Bodensee\nIhre Ursula Mertens",
+      "ko": "보덴호에서 따뜻한 안부를 전하며\n우르줄라 메르텐스 드림"
+    }
+  ],
+  "questions": [
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Familie Schuster möchte vierzehn Tage in der Ferienwohnung bleiben.",
+      "answer": 0,
+      "evidence": "Mein Mann und ich möchten mit unseren beiden Kindern (8 und 11 Jahre) zwei Wochen am Bodensee verbringen, am liebsten vom 9. bis zum 23. August.",
+      "pairs": [["zwei Wochen", "vierzehn Tage"], ["am Bodensee verbringen", "in der Ferienwohnung bleiben"]],
+      "explain": "'2주'를 '14일'로 바꿔 말했어요. 8월 9일부터 23일까지도 정확히 2주예요. 슈스터 씨 가족은 네 명이고, 2주 동안 머물고 싶어 해요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Warum fragt Frau Schuster nach einem Parkplatz?",
+      "options": [
+        "Sie fährt auf jeden Fall mit dem Auto an den Bodensee.",
+        "Sie weiß noch nicht sicher, ob sie mit dem Auto anreist.",
+        "Sie möchte ihre Fahrräder im Auto transportieren."
+      ],
+      "answer": 1,
+      "evidence": "Falls wir mit dem Auto kommen, bräuchten wir auch einen Parkplatz.",
+      "pairs": [["Falls wir mit dem Auto kommen", "weiß noch nicht sicher, ob sie mit dem Auto anreist"], ["bräuchten wir auch einen Parkplatz", "nach einem Parkplatz"]],
+      "explain": "falls는 '만약 ~라면'이라는 뜻으로, 확실하지 않은 조건을 나타내요. 그래서 슈스터 씨가 차로 갈지 아직 확실히 모른다는 것을 알 수 있어요. 자전거는 빌리고 싶다고 했지, 가져간다는 말은 없어요."
+    },
+    {
+      "type": "mc",
+      "kind": "paraphrase",
+      "q": "Was bedeutet der Satz „Ich werde Ihnen die Wohnung bis Freitag reservieren.“?",
+      "options": [
+        "Frau Mertens hält die Wohnung einige Tage lang für die Familie frei, auch ohne feste Zusage.",
+        "Die Familie kann die Wohnung nur bis Freitag benutzen.",
+        "Frau Mertens hat die Wohnung schon fest an die Familie vermietet."
+      ],
+      "answer": 0,
+      "evidence": "Ich werde Ihnen die Wohnung bis Freitag reservieren.",
+      "pairs": [["bis Freitag reservieren", "einige Tage lang für die Familie frei"], ["Falls Sie sich für die Wohnung entscheiden", "auch ohne feste Zusage"]],
+      "explain": "'금요일까지 예약해 두겠다'는 말은 그때까지 다른 사람에게 주지 않고 비워 두겠다는 뜻이에요. 다음 문장에서 '결정하시면 계약서를 보내겠다'고 하니 아직 확정된 계약은 아니에요. 금요일은 숙박 기간이 아니라 예약을 잡아 두는 기한이에요."
+    },
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Der Hund darf nur mitkommen, wenn die Familie ihn nicht auf die Sitz- und Schlafmöbel lässt.",
+      "answer": 0,
+      "evidence": "Ihren Hund dürfen Sie gern mitbringen, falls er nicht aufs Sofa und in die Betten darf.",
+      "pairs": [["falls er nicht aufs Sofa und in die Betten darf", "wenn die Familie ihn nicht auf die Sitz- und Schlafmöbel lässt"], ["dürfen Sie gern mitbringen", "darf nur mitkommen"]],
+      "explain": "개는 소파와 침대에 올라가면 안 된다는 조건으로 데려와도 돼요. 소파와 침대를 'Sitz- und Schlafmöbel'(앉고 자는 가구)로 바꿔 말했고, '~하면 안 된다(nicht darf)'를 '올라가게 두지 않는다(nicht lässt)'로 바꿔 말했어요. 조건이 있으니 'nur … wenn'이 맞아요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Was erfährt man über die Reinigung der Wohnung?",
+      "options": [
+        "Die Gäste müssen die Wohnung vor der Abreise selbst putzen.",
+        "Frau Mertens putzt die Wohnung jeden Tag selbst.",
+        "Vor dem Einzug neuer Gäste wird die Wohnung von anderen Leuten geputzt."
+      ],
+      "answer": 2,
+      "evidence": "Wir lassen die Wohnung vor jeder Ankunft gründlich reinigen, damit sich alle Gäste wohlfühlen.",
+      "pairs": [["Wir lassen die Wohnung vor jeder Ankunft gründlich reinigen", "wird die Wohnung von anderen Leuten geputzt"], ["vor jeder Ankunft", "Vor dem Einzug neuer Gäste"]],
+      "explain": "'Wir lassen die Wohnung reinigen'은 메르텐스 씨 부부가 직접 청소하는 게 아니라 다른 사람에게 청소를 시킨다는 뜻이에요. 'vor jeder Ankunft'(도착 전마다)를 '새 손님이 들어오기 전에'로 바꿔 말했어요. 매일 청소한다거나 손님이 직접 청소한다는 내용은 없어요."
+    },
+    {
+      "type": "mc",
+      "kind": "paraphrase",
+      "q": "Was bedeutet der Satz „Die Brötchen können Sie sich weiterhin bringen lassen“?",
+      "options": [
+        "Die Gäste müssen die Brötchen selbst beim Bäcker abholen.",
+        "Der Brötchenservice existiert nach wie vor.",
+        "Frau Mertens bringt den Gästen jeden Morgen persönlich Brötchen."
+      ],
+      "answer": 1,
+      "evidence": "Die Brötchen können Sie sich weiterhin bringen lassen: Hängen Sie einfach am Abend den Bestellzettel an die Tür, dann hängt die Bäckerei die Tüte bis 8 Uhr daran.",
+      "pairs": [["weiterhin", "nach wie vor"], ["können Sie sich weiterhin bringen lassen", "Brötchenservice"]],
+      "explain": "'sich etwas bringen lassen'은 누군가에게 가져다 달라고 해서 받는다는 뜻이에요. weiterhin(계속해서)을 nach wie vor(여전히)로 바꿔 말했어요. 빵을 가져오는 사람은 메르텐스 씨가 아니라 빵집이에요."
+    },
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Für alle vier Familienmitglieder stehen in der Ferienwohnung Fahrräder bereit.",
+      "answer": 1,
+      "evidence": "Zwei Fahrräder stehen für unsere Gäste kostenlos im Schuppen. Für die Kinder gibt es im Ort einen Verleih.",
+      "pairs": [["Zwei Fahrräder", "Für alle vier Familienmitglieder"], ["Für die Kinder gibt es im Ort einen Verleih", "stehen in der Ferienwohnung Fahrräder bereit"]],
+      "explain": "숙소에는 자전거가 두 대만 있어요. 아이들 자전거는 마을의 대여점에서 빌려야 해요. 그러니 네 명 모두를 위한 자전거가 준비되어 있다는 말은 틀려요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Wie bekommt die Familie die Schlüssel, wenn Frau Mertens am Anreisetag nicht da ist?",
+      "options": [
+        "Die Schlüssel liegen bei einer Person, die nebenan wohnt.",
+        "Frau Mertens schickt die Schlüssel vorher mit der Post.",
+        "Die Bäckerei hängt die Schlüssel an die Tür."
+      ],
+      "answer": 0,
+      "evidence": "oder ich lasse sie bei meiner Nachbarin, falls ich nicht zu Hause bin.",
+      "pairs": [["bei meiner Nachbarin", "bei einer Person, die nebenan wohnt"], ["falls ich nicht zu Hause bin", "wenn Frau Mertens am Anreisetag nicht da ist"]],
+      "explain": "'Nachbarin'(이웃 여자)을 '옆집에 사는 사람'으로 바꿔 말했어요. 메르텐스 씨가 집에 없으면 열쇠를 이웃에게 맡겨 둬요. 문에 거는 것은 빵 봉지이지 열쇠가 아니에요."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "lassen + 동사원형 – 시키기와 허락하기",
+      "term": "lassen + Infinitiv (veranlassen / erlauben)",
+      "explain": "lassen + 동사원형에는 두 가지 뜻이 있어요. 첫째는 '어떤 일을 직접 하지 않고 다른 사람에게 시키다'예요. 'Wir lassen die Wohnung reinigen.'은 우리가 청소하는 것이 아니라 다른 사람이 청소하게 한다는 뜻이에요. 둘째는 '~하게 두다, 허락하다'예요. 'Sie können ihn frei laufen lassen.'은 개가 자유롭게 뛰어다니도록 허락해도 된다는 뜻이에요. lassen은 화법조동사처럼 2번 자리에 오고, 동사원형은 문장 끝에 와요.",
+      "pattern": "주어 + lassen + 목적어 … + 동사원형(끝)",
+      "examples": [
+        {
+          "de": "Wir lassen die Wohnung vor jeder Ankunft gründlich reinigen, damit sich alle Gäste wohlfühlen.",
+          "ko": "모든 손님이 편안하게 지내실 수 있도록 저희는 손님이 도착하기 전에 매번 숙소를 꼼꼼히 청소시켜요.",
+          "mark": ["lassen", "reinigen"],
+          "parts": [["Wir", "주어"], ["lassen", "동사"], ["die Wohnung", "4격 목적어"], ["vor jeder Ankunft", "부사어(시간)"], ["gründlich", "부사어(방법)"], ["reinigen,", "동사(끝)"], ["damit sich alle Gäste wohlfühlen.", "종속절"]]
+        },
+        {
+          "de": "Im Garten können Sie ihn frei laufen lassen.",
+          "ko": "정원에서는 자유롭게 뛰어다니게 두셔도 돼요.",
+          "mark": ["laufen lassen"],
+          "parts": [["Im Garten", "부사어(장소)"], ["können", "동사"], ["Sie", "주어"], ["ihn", "4격 목적어"], ["frei", "부사어(방법)"], ["laufen lassen.", "동사(끝)"]]
+        }
+      ],
+      "tip": "'ich lasse sie bei meiner Nachbarin'처럼 동사원형 없이 쓰이면 '~를 (어디에) 두다, 맡기다'라는 일반 동사예요. 화법조동사와 함께 쓰면 'laufen lassen'처럼 동사원형 두 개가 문장 끝에 나란히 와요."
+    },
+    {
+      "title": "sich etwas … lassen – 해 달라고 해서 받는 표현",
+      "term": "sich etwas machen lassen",
+      "explain": "sich(3격 재귀대명사) + 목적어 + lassen + 동사원형은 '자기를 위해 어떤 일을 해 달라고 하다, ~받다'라는 뜻이에요. 'Ich lasse mir Brötchen bringen.'은 누군가에게 빵을 가져다 달라고 해서 받는다는 뜻이에요. 화법조동사와 함께 쓰면 동사원형이 두 개가 문장 끝에 와요: bringen lassen.",
+      "pattern": "주어 + (화법조동사) + sich(3격) + 목적어 … + 동사원형 + lassen",
+      "examples": [
+        {
+          "de": "Ich habe gelesen, dass man sich morgens frische Brötchen bringen lassen kann.",
+          "ko": "아침마다 신선한 빵을 배달시켜 먹을 수 있다고 읽었어요.",
+          "mark": ["sich", "bringen lassen kann"],
+          "parts": [["Ich", "주어"], ["habe", "동사"], ["gelesen,", "동사(끝)"], ["dass man sich morgens frische Brötchen bringen lassen kann.", "종속절"]]
+        },
+        {
+          "de": "Die Brötchen können Sie sich weiterhin bringen lassen: Hängen Sie einfach am Abend den Bestellzettel an die Tür, dann hängt die Bäckerei die Tüte bis 8 Uhr daran.",
+          "ko": "빵은 지금도 배달시키실 수 있어요. 저녁에 주문 쪽지를 문에 걸어 두시기만 하면 빵집에서 8시까지 거기에 빵 봉지를 걸어 놓아요.",
+          "mark": ["sich", "bringen lassen"]
+        }
+      ],
+      "tip": "자주 쓰는 예: sich die Haare schneiden lassen(머리를 자르다, 미용실에서), sich ein Taxi rufen lassen(택시를 불러 달라고 함)이 있어요. 재귀대명사는 3격이에요: mir, dir, sich, uns, euch, sich."
+    },
+    {
+      "title": "werden + 동사원형: 미래의 약속과 계획",
+      "term": "Futur I",
+      "explain": "werden + 동사원형은 미래의 일을 말할 때 써요. 특히 약속이나 확실한 계획을 말할 때 자주 쓰여요. 'Ich werde Ihnen die Schlüssel übergeben.'은 '열쇠를 꼭 드리겠다'는 약속이에요. werden이 2번 자리에 오고, 동사원형은 문장 끝에 와요. 일상 대화에서는 시간 표현과 함께 현재형을 쓰는 경우도 많아요.",
+      "pattern": "주어 + werden + … + 동사원형(끝)",
+      "examples": [
+        {
+          "de": "Ich werde Ihnen die Wohnung bis Freitag reservieren.",
+          "ko": "금요일까지 숙소를 예약해 둘게요.",
+          "mark": ["werde", "reservieren"],
+          "parts": [["Ich", "주어"], ["werde", "동사"], ["Ihnen", "3격 목적어"], ["die Wohnung", "4격 목적어"], ["bis Freitag", "부사어(시간)"], ["reservieren.", "동사(끝)"]]
+        },
+        {
+          "de": "Die Schlüssel werde ich Ihnen am Anreisetag persönlich übergeben, oder ich lasse sie bei meiner Nachbarin, falls ich nicht zu Hause bin.",
+          "ko": "열쇠는 도착하시는 날에 제가 직접 드릴게요. 혹시 제가 집에 없으면 이웃집에 맡겨 둘게요.",
+          "mark": ["werde", "übergeben"],
+          "parts": [["Die Schlüssel", "4격 목적어"], ["werde", "동사"], ["ich", "주어"], ["Ihnen", "3격 목적어"], ["am Anreisetag", "부사어(시간)"], ["persönlich", "부사어(방법)"], ["übergeben,", "동사(끝)"], ["oder ich lasse sie bei meiner Nachbarin, falls ich nicht zu Hause bin.", "기타"]]
+        }
+      ],
+      "tip": "같은 문단의 'Falls Sie sich für die Wohnung entscheiden, schicke ich Ihnen den Mietvertrag.'에서는 미래의 일을 현재형으로 말했어요. 독일어에서는 이렇게 현재형으로 미래를 말하는 경우가 아주 많아요. werden을 쓰면 약속이나 확신의 느낌이 더 강해져요."
+    },
+    {
+      "title": "falls: 조건을 말하는 종속접속사",
+      "term": "Konditionalsatz mit falls",
+      "explain": "falls는 '만약 ~라면, ~할 경우에'라는 뜻이에요. wenn과 비슷하지만, falls는 그 일이 일어날지 확실하지 않을 때 써요. 그래서 '혹시'라는 느낌이 있어요. falls는 종속절을 이끌고, 동사는 종속절 끝에 와요. 종속절은 주절 앞이나 뒤에 올 수 있어요.",
+      "pattern": "Falls + 주어 … 동사(끝), 동사 + 주어 …  ·  주절, falls + 주어 … 동사(끝)",
+      "examples": [
+        {
+          "de": "Falls wir mit dem Auto kommen, bräuchten wir auch einen Parkplatz.",
+          "ko": "만약 차로 가게 되면 주차 자리도 필요할 것 같아요.",
+          "mark": ["Falls", "kommen"],
+          "parts": [["Falls wir mit dem Auto kommen,", "종속절"], ["bräuchten", "동사"], ["wir", "주어"], ["auch", "부사어"], ["einen Parkplatz.", "4격 목적어"]]
+        },
+        {
+          "de": "Ihren Hund dürfen Sie gern mitbringen, falls er nicht aufs Sofa und in die Betten darf.",
+          "ko": "개는 소파와 침대에 올라가게 하지만 않으시면 얼마든지 데려오셔도 돼요.",
+          "mark": ["falls", "darf"],
+          "parts": [["Ihren Hund", "4격 목적어"], ["dürfen", "동사"], ["Sie", "주어"], ["gern", "부사어"], ["mitbringen,", "동사(끝)"], ["falls er nicht aufs Sofa und in die Betten darf.", "종속절"]]
+        }
+      ],
+      "tip": "wenn은 조건('~하면')과 시간('~할 때') 두 가지 뜻이 있지만, falls는 조건의 뜻만 있어요. 반복되는 일에는 falls를 쓰지 않아요."
+    }
+  ],
+  "vocab": [
+    { "de": "die Anfrage, -n", "ko": "문의" },
+    { "de": "die Ferienwohnung, -en", "ko": "휴가용 숙소(아파트형)" },
+    { "de": "verbringen (verbrachte, hat verbracht)", "ko": "(시간을) 보내다" },
+    { "de": "der Zeitraum, -¨e", "ko": "기간" },
+    { "de": "der Fahrradverleih, -e", "ko": "자전거 대여점" },
+    { "de": "leihen (lieh, hat geliehen)", "ko": "빌리다, 빌려주다" },
+    { "de": "die Tüte, -n", "ko": "봉지" },
+    { "de": "reservieren", "ko": "예약하다" },
+    { "de": "sich entscheiden für + Akk. (entschied, hat entschieden)", "ko": "~로 결정하다, ~을 선택하다" },
+    { "de": "der Mietvertrag, -¨e", "ko": "임대 계약서" },
+    { "de": "die Ankunft, -¨e", "ko": "도착" },
+    { "de": "gründlich", "ko": "꼼꼼하게, 철저하게" },
+    { "de": "sich wohl|fühlen", "ko": "편안하게 느끼다" },
+    { "de": "der Bestellzettel, -", "ko": "주문 쪽지" },
+    { "de": "der Schuppen, -", "ko": "창고, 헛간" },
+    { "de": "übergeben (übergibt, übergab, hat übergeben)", "ko": "건네주다, 전달하다" }
+  ],
+  "phrases": [
+    {
+      "de": "Glück haben",
+      "ko": "운이 좋다",
+      "ex": "Sie haben Glück: Die Wohnung ist ab dem 9. August frei, und zwei Wochen sind kein Problem.",
+      "exko": "운이 좋으시네요. 숙소는 8월 9일부터 비어 있고, 2주도 문제없어요."
+    },
+    {
+      "de": "sich über eine baldige Antwort freuen",
+      "ko": "빠른 답장을 기다리다 (편지 맺음말)",
+      "ex": "Über eine baldige Antwort würde ich mich sehr freuen.",
+      "exko": "빠른 답장 주시면 정말 감사하겠어요."
+    },
+    {
+      "de": "kein Problem sein",
+      "ko": "문제가 되지 않다",
+      "ex": "Die Wohnung ist ab dem 9. August frei, und zwei Wochen sind kein Problem.",
+      "exko": "숙소는 8월 9일부터 비어 있고, 2주도 문제없어요."
+    },
+    {
+      "de": "jemandem etwas persönlich übergeben",
+      "ko": "~에게 ~을 직접 건네주다",
+      "ex": "Die Schlüssel werde ich Ihnen am Anreisetag persönlich übergeben",
+      "exko": "열쇠는 도착하시는 날에 제가 직접 드릴게요."
+    },
+    {
+      "de": "in der Nähe",
+      "ko": "근처에",
+      "ex": "Gibt es in der Nähe einen Fahrradverleih, oder könnten wir bei Ihnen Räder leihen?",
+      "exko": "근처에 자전거 대여점이 있나요, 아니면 댁에서 자전거를 빌릴 수 있을까요?"
+    }
+  ]
+}

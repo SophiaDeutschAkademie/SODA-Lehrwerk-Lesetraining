@@ -1,0 +1,191 @@
+{
+  "id": "a1-04",
+  "level": "A1",
+  "no": 4,
+  "title": "Um drei Uhr beginnt ihr Tag",
+  "titleKo": "새벽 3시에 하루가 시작돼요",
+  "type": "Kurzporträt in einer Stadtzeitschrift",
+  "typeKo": "도시 잡지의 짧은 인물 소개",
+  "intro": "프라이부르크에서 빵집을 하는 자비네 크라우스 씨의 하루를 소개하는 글이에요.",
+  "focus": ["분리동사", "시간 표현이 1번 자리 → 동사 2번 자리", "시각과 하루의 때"],
+  "paragraphs": [
+    {
+      "de": "Sabine Kraus (52) ist Bäckerin in Freiburg. Ihr Tag beginnt sehr früh. Um halb drei steht sie auf. Um drei Uhr fängt sie in der Backstube an. Dort backt sie Brot und Brötchen.",
+      "ko": "자비네 크라우스 씨(52)는 프라이부르크의 제빵사예요. 그녀의 하루는 아주 일찍 시작돼요. 새벽 2시 반에 일어나요. 3시에 빵 작업실에서 일을 시작해요. 거기서 빵과 브뢰첸을 구워요."
+    },
+    {
+      "de": "Um sechs Uhr macht sie den Laden auf. Die ersten Kunden warten schon. Bis 13 Uhr verkauft sie Brot, Kuchen und Kaffee. Dann hat Sabine Feierabend.",
+      "ko": "6시에 가게 문을 열어요. 첫 손님들이 벌써 기다리고 있어요. 오후 1시까지 빵과 케이크, 커피를 팔아요. 그러면 자비네 씨는 퇴근해요."
+    },
+    {
+      "de": "Am Nachmittag kauft sie ein und kocht. Um vier Uhr holt sie ihre Enkelin Lea vom Kindergarten ab. Die beiden spielen eine Stunde zusammen.",
+      "ko": "오후에는 장을 보고 요리를 해요. 4시에는 손녀 레아를 유치원에서 데려와요. 두 사람은 한 시간 동안 같이 놀아요."
+    },
+    {
+      "de": "Am Abend sieht Sabine nur kurz fern. Schon um 20 Uhr geht sie ins Bett, denn ihr Wecker klingelt sehr früh.",
+      "ko": "저녁에는 텔레비전을 잠깐만 봐요. 벌써 저녁 8시에 잠자리에 들어요. 알람이 아주 일찍 울리니까요."
+    },
+    {
+      "de": "Ist der Beruf nicht anstrengend? „Doch, aber ich liebe meine Arbeit“, sagt Sabine. „Morgens ist die Stadt noch ganz leise. Und meine Kunden kenne ich seit vielen Jahren.“",
+      "ko": "이 직업은 힘들지 않을까요? 자비네 씨는 이렇게 말해요. \"힘들죠. 그래도 저는 제 일을 사랑해요. 아침에는 도시가 아직 아주 조용해요. 그리고 제 손님들은 오래전부터 알고 지낸 분들이에요.\""
+    }
+  ],
+  "questions": [
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Sabine Kraus beginnt um 2.30 Uhr mit der Arbeit.",
+      "answer": 1,
+      "evidence": "Um drei Uhr fängt sie in der Backstube an.",
+      "pairs": [["Um halb drei steht sie auf", "um 2.30 Uhr"], ["fängt sie in der Backstube an", "beginnt um 2.30 Uhr mit der Arbeit"]],
+      "explain": "2시 반(halb drei)은 자비네 씨가 일어나는 시간이에요. 일은 3시에 빵 작업실에서 시작해요. 두 시간을 섞어 놓은 함정이에요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Wie lange ist der Laden geöffnet?",
+      "options": ["drei Stunden", "zehn Stunden", "sieben Stunden"],
+      "answer": 2,
+      "evidence": "Bis 13 Uhr verkauft sie Brot, Kuchen und Kaffee.",
+      "pairs": [["Um sechs Uhr macht sie den Laden auf", "geöffnet"], ["Bis 13 Uhr", "sieben Stunden"]],
+      "explain": "가게는 6시에 문을 열고 13시까지 팔아요. 6시부터 13시까지는 7시간이에요. 3시간은 작업실에서 빵을 굽는 시간(3시부터 6시까지)이라서 함정이에요."
+    },
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Nach dem Einkaufen ist Sabine mit einem Kind zusammen.",
+      "answer": 0,
+      "evidence": "Um vier Uhr holt sie ihre Enkelin Lea vom Kindergarten ab.",
+      "pairs": [["ihre Enkelin Lea", "mit einem Kind"], ["Am Nachmittag kauft sie ein", "Nach dem Einkaufen"]],
+      "explain": "오후에 장을 보고 요리한 다음, 4시에 손녀 레아를 유치원에서 데려와서 한 시간 같이 놀아요. 손녀(Enkelin)는 아이(Kind)니까 맞는 내용이에요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Was macht Sabine am Abend?",
+      "options": ["Sie backt Kuchen für den nächsten Tag.", "Sie schläft schon sehr früh.", "Sie sieht lange fern."],
+      "answer": 1,
+      "evidence": "Schon um 20 Uhr geht sie ins Bett",
+      "pairs": [["geht sie ins Bett", "schläft"], ["Schon um 20 Uhr", "sehr früh"]],
+      "explain": "자비네 씨는 벌써 저녁 8시에 잠자리에 들어요. 'ins Bett gehen(잠자리에 들다)'을 'schlafen(자다)'으로 바꿔 말했어요. 텔레비전은 'nur kurz(잠깐만)' 보니까 'lange(오래)'는 틀려요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Warum geht Sabine so früh ins Bett?",
+      "options": ["Am Morgen muss sie sehr früh aufstehen.", "Sie ist nach der Arbeit sehr müde.", "Sie findet das Fernsehprogramm langweilig."],
+      "answer": 0,
+      "evidence": "denn ihr Wecker klingelt sehr früh",
+      "pairs": [["ihr Wecker klingelt sehr früh", "muss sie sehr früh aufstehen"]],
+      "explain": "본문에는 'denn ihr Wecker klingelt sehr früh(알람이 아주 일찍 울리니까요)'라고 나와요. 알람이 일찍 울린다는 것은 일찍 일어나야 한다는 뜻이에요. 피곤하다거나 텔레비전이 지루하다는 말은 본문에 없어요."
+    },
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Sabine findet ihre Arbeit nicht schwer.",
+      "answer": 1,
+      "evidence": "„Doch, aber ich liebe meine Arbeit“, sagt Sabine.",
+      "pairs": [["Doch", "nicht schwer"], ["anstrengend", "schwer"]],
+      "explain": "'힘들지 않나요?'라는 질문에 자비네 씨는 'Doch(아니요, 힘들어요)'라고 대답해요. 그러니까 일이 힘들다는 뜻이에요. 다만 그래도 자기 일을 사랑한다고 해요. 'nicht schwer(힘들지 않다)'는 틀린 내용이에요."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "분리동사",
+      "term": "Trennbare Verben",
+      "explain": "aufstehen, anfangen, aufmachen, einkaufen, abholen, fernsehen은 분리동사예요. 분리동사는 앞부분(auf-, an-, ein-, ab-, fern-)과 동사 부분으로 나뉘어요. 현재형 문장에서는 동사 부분이 2번 자리에 오고, 앞부분은 문장 끝으로 가요. 두 부분이 문장을 감싸는 틀 구조가 생겨요. 사전에는 한 단어로 나와요: aufstehen → Sie steht auf.",
+      "pattern": "주어/시간 표현 + 동사 부분 + … + 앞부분(문장 끝)",
+      "examples": [
+        {
+          "de": "Um halb drei steht sie auf.",
+          "ko": "새벽 2시 반에 일어나요.",
+          "mark": ["steht", "auf"],
+          "parts": [["Um halb drei", "부사어(시간)"], ["steht", "동사"], ["sie", "주어"], ["auf.", "동사(끝)"]]
+        },
+        {
+          "de": "Um vier Uhr holt sie ihre Enkelin Lea vom Kindergarten ab.",
+          "ko": "4시에는 손녀 레아를 유치원에서 데려와요.",
+          "mark": ["holt", "ab"],
+          "parts": [["Um vier Uhr", "부사어(시간)"], ["holt", "동사"], ["sie", "주어"], ["ihre Enkelin Lea", "4격 목적어"], ["vom Kindergarten", "부사어(장소)"], ["ab.", "동사(끝)"]]
+        }
+      ],
+      "tip": "분리동사의 앞부분은 항상 강세가 있어요: AUFstehen, ANfangen, FERNsehen. 강세가 있는 앞부분은 분리된다고 기억하면 좋아요."
+    },
+    {
+      "title": "시간 표현이 1번 자리에 오면 동사는 2번 자리",
+      "term": "Inversion nach Zeitangabe",
+      "explain": "독일어 평서문에서 동사는 항상 2번 자리에 와요. 'Um sechs Uhr', 'Am Nachmittag' 같은 시간 표현이 1번 자리에 오면 동사가 바로 다음에 오고, 주어는 동사 뒤로 가요. 이것을 도치(Inversion)라고 해요. 하루 일과를 순서대로 말할 때 시간 표현을 문장 앞에 두면 자연스러워요.",
+      "pattern": "시간 표현 + 동사 + 주어 + …",
+      "examples": [
+        {
+          "de": "Um sechs Uhr macht sie den Laden auf.",
+          "ko": "6시에 가게 문을 열어요.",
+          "mark": ["Um sechs Uhr", "macht", "sie"],
+          "parts": [["Um sechs Uhr", "부사어(시간)"], ["macht", "동사"], ["sie", "주어"], ["den Laden", "4격 목적어"], ["auf.", "동사(끝)"]]
+        },
+        {
+          "de": "Am Abend sieht Sabine nur kurz fern.",
+          "ko": "저녁에는 텔레비전을 잠깐만 봐요.",
+          "mark": ["Am Abend", "sieht", "Sabine"],
+          "parts": [["Am Abend", "부사어(시간)"], ["sieht", "동사"], ["Sabine", "주어"], ["nur kurz", "부사어"], ["fern.", "동사(끝)"]]
+        }
+      ],
+      "tip": "주어가 1번 자리에 오면 'Sie macht um sechs Uhr den Laden auf.'예요. 두 문장의 뜻은 같고, 무엇을 강조하는지만 달라요."
+    },
+    {
+      "title": "시각과 하루의 때",
+      "term": "Uhrzeiten und Tageszeiten",
+      "explain": "시각을 말할 때는 'um + 시각'을 써요: um drei Uhr, um halb drei(2시 반), um 20 Uhr. '~까지'는 bis예요: bis 13 Uhr. 하루의 때는 'am + 명사'로 말해요: am Morgen, am Nachmittag, am Abend. 그런데 밤은 in der Nacht예요. morgens, abends처럼 -s를 붙이면 '아침마다, 저녁마다'라는 뜻이 돼요.",
+      "pattern": "um drei Uhr · um halb drei (2:30) · bis 13 Uhr · am Nachmittag · am Abend · morgens",
+      "examples": [
+        {
+          "de": "Bis 13 Uhr verkauft sie Brot, Kuchen und Kaffee.",
+          "ko": "오후 1시까지 빵과 케이크, 커피를 팔아요.",
+          "mark": ["Bis 13 Uhr"],
+          "parts": [["Bis 13 Uhr", "부사어(시간)"], ["verkauft", "동사"], ["sie", "주어"], ["Brot, Kuchen und Kaffee.", "4격 목적어"]]
+        },
+        {
+          "de": "Morgens ist die Stadt noch ganz leise.",
+          "ko": "아침에는 도시가 아직 아주 조용해요.",
+          "mark": ["Morgens"],
+          "parts": [["Morgens", "부사어(시간)"], ["ist", "동사"], ["die Stadt", "주어"], ["noch", "부사어"], ["ganz leise.", "보어"]]
+        }
+      ],
+      "tip": "halb drei는 3시 반이 아니라 2시 반이에요. 글이나 공식 안내에서는 13 Uhr, 20 Uhr처럼 24시간으로 말하는 경우가 많아요."
+    }
+  ],
+  "vocab": [
+    { "de": "die Bäckerin, -nen", "ko": "(여성) 제빵사" },
+    { "de": "auf|stehen (steht auf, stand auf, ist aufgestanden)", "ko": "일어나다" },
+    { "de": "an|fangen (fängt an, fing an, hat angefangen)", "ko": "시작하다" },
+    { "de": "die Backstube, -n", "ko": "빵 작업실, 제빵실" },
+    { "de": "backen (backt, backte, hat gebacken)", "ko": "(빵을) 굽다" },
+    { "de": "auf|machen", "ko": "열다" },
+    { "de": "der Kunde, -n", "ko": "손님, 고객" },
+    { "de": "verkaufen", "ko": "팔다" },
+    { "de": "ein|kaufen", "ko": "장을 보다" },
+    { "de": "die Enkelin, -nen", "ko": "손녀" },
+    { "de": "ab|holen", "ko": "데리러 가다, 데려오다" },
+    { "de": "anstrengend", "ko": "힘든, 고된" }
+  ],
+  "phrases": [
+    {
+      "de": "Feierabend haben",
+      "ko": "퇴근하다, 하루 일을 마치다",
+      "ex": "Dann hat Sabine Feierabend.",
+      "exko": "그러면 자비네 씨는 퇴근해요."
+    },
+    {
+      "de": "ins Bett gehen",
+      "ko": "잠자리에 들다",
+      "ex": "Schon um 20 Uhr geht sie ins Bett, denn ihr Wecker klingelt sehr früh.",
+      "exko": "벌써 저녁 8시에 잠자리에 들어요. 알람이 아주 일찍 울리니까요."
+    },
+    {
+      "de": "seit vielen Jahren",
+      "ko": "오래전부터, 여러 해 전부터",
+      "ex": "Und meine Kunden kenne ich seit vielen Jahren.",
+      "exko": "그리고 제 손님들은 오래전부터 알고 지낸 분들이에요."
+    }
+  ]
+}

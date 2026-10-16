@@ -1,0 +1,296 @@
+{
+  "id": "b1-03",
+  "level": "B1",
+  "no": 3,
+  "title": "Hunde im Büro?",
+  "titleKo": "사무실에 개를 데려와도 될까요?",
+  "type": "Leserbriefe",
+  "typeKo": "독자 편지",
+  "intro": "사무실에 개를 데려오는 문제를 두고 독자 세 명이 신문에 보낸 의견이에요.",
+  "focus": ["접속법 2식 (비현실 조건·소망)", "obwohl과 trotzdem", "의견 말하기 (der Meinung sein, dass …)"],
+  "paragraphs": [
+    {
+      "style": "meta",
+      "de": "Zum Artikel „Immer mehr Firmen erlauben Hunde am Arbeitsplatz“ vom 12. März",
+      "ko": "3월 12일 자 기사 「직장에 개를 허용하는 회사가 늘고 있다」에 대하여"
+    },
+    {
+      "label": "A · Andrea Schulte, Grafikdesignerin",
+      "de": "Ich arbeite seit drei Jahren in einer Agentur, in der Hunde erlaubt sind, und ich möchte es nicht mehr anders haben. Meine Hündin Lotte liegt den ganzen Tag unter meinem Schreibtisch, und wenn sie einmal durchs Büro läuft, lächeln alle. Ich bin der Meinung, dass ein Hund die Stimmung im Team deutlich verbessert. Außerdem zwingt Lotte mich zu regelmäßigen Pausen: Mittags gehe ich eine halbe Stunde mit ihr raus, statt am Schreibtisch zu essen. Ohne sie würde ich wahrscheinlich bis zum Abend vor dem Bildschirm sitzen. Wenn alle Firmen so offen wären wie meine, wären viele Beschäftigte entspannter – davon bin ich überzeugt.",
+      "ko": "저는 3년째 개를 데려올 수 있는 에이전시에서 일하고 있는데, 이제는 이 방식이 아니면 안 될 것 같아요. 제 개 로테는 하루 종일 제 책상 밑에 누워 있고, 가끔 사무실을 가로질러 뛰어가면 모두가 미소를 지어요. 저는 개 한 마리가 팀 분위기를 눈에 띄게 좋게 만든다고 생각해요. 게다가 로테 덕분에 규칙적으로 쉴 수밖에 없어요. 점심때는 책상에서 먹는 대신 로테와 30분 동안 밖에 나가요. 로테가 없다면 아마 저녁까지 모니터 앞에 앉아 있을 거예요. 모든 회사가 우리 회사처럼 열려 있다면 많은 직장인이 더 느긋해질 거예요. 저는 그렇게 확신해요."
+    },
+    {
+      "style": "meta",
+      "de": "Andrea Schulte, Wiesbaden",
+      "ko": "안드레아 슐테, 비스바덴"
+    },
+    {
+      "label": "B · Tim Albers, Buchhalter",
+      "de": "Ich mag Hunde wirklich. Trotzdem war ich erleichtert, als ich Ihren Artikel zu Ende gelesen hatte, denn er erwähnt wenigstens kurz die Allergiker. Ich bin einer von ihnen. Obwohl ich täglich Tabletten nehme, bekomme ich nach einer Stunde im selben Raum mit einem Hund tränende Augen und Atemprobleme. Vor zwei Jahren brachte ein Kollege seinen Hund mit, und ich musste schließlich das Zimmer wechseln. Niemand hatte mich vorher gefragt. Meiner Ansicht nach wird bei dieser Diskussion zu oft vergessen, dass nicht alle Menschen frei wählen können. Hätte ich keine Allergie, würde ich mich über einen Bürohund wahrscheinlich sogar freuen. So aber müsste ich den Arbeitgeber wechseln, wenn in meiner Firma plötzlich Hunde erlaubt wären.",
+      "ko": "저는 개를 정말 좋아해요. 그런데도 귀 신문의 기사를 끝까지 읽고 나서 마음이 놓였어요. 적어도 알레르기가 있는 사람들을 잠깐이나마 언급했기 때문이에요. 제가 바로 그런 사람이에요. 매일 약을 먹는데도 개와 같은 방에 한 시간만 있으면 눈물이 나고 숨쉬기가 힘들어져요. 2년 전에 한 동료가 자기 개를 데려왔고, 결국 저는 방을 옮겨야 했어요. 아무도 제게 미리 물어보지 않았어요. 제 생각에 이 논의에서는 모든 사람이 자유롭게 선택할 수 있는 건 아니라는 점이 너무 자주 잊혀요. 알레르기가 없다면 저도 사무실 개를 아마 반길 거예요. 하지만 지금 상태로는 우리 회사에서 갑자기 개를 허용한다면 직장을 옮겨야 할 거예요."
+    },
+    {
+      "style": "meta",
+      "de": "Tim Albers, Darmstadt",
+      "ko": "팀 알버스, 다름슈타트"
+    },
+    {
+      "label": "C · Petra Lang, Geschäftsführerin",
+      "de": "Als Chefin einer kleinen Firma mit 20 Beschäftigten kenne ich beide Seiten. Bei uns dürfen Hunde seit einem Jahr ins Büro – allerdings nur unter klaren Bedingungen. Jeder Hund muss zuerst einen Probetag bestehen, es gibt hundefreie Zonen wie die Küche und den Besprechungsraum, und wer einen Hund mitbringen will, braucht das Einverständnis der direkten Kolleginnen und Kollegen. Obwohl wir anfangs Zweifel hatten, läuft es bisher ohne größere Probleme. Ich würde anderen Firmen deshalb nicht raten, Hunde einfach zu verbieten. Ich bin aber auch nicht der Meinung, dass alles erlaubt sein sollte. Ohne Regeln gäbe es schnell Streit, und am Ende könnten alle verlieren – die Hundebesitzer, die Allergiker und die Firma. Ein Kompromiss kostet etwas Mühe, aber er lohnt sich.",
+      "ko": "직원 20명의 작은 회사를 운영하는 대표로서 저는 양쪽 입장을 다 알고 있어요. 우리 회사에서는 1년 전부터 개를 사무실에 데려올 수 있어요. 다만 분명한 조건이 있어요. 모든 개는 먼저 시험 출근일을 통과해야 하고, 주방과 회의실처럼 개가 들어갈 수 없는 구역이 있으며, 개를 데려오려는 사람은 바로 옆에서 일하는 동료들의 동의를 받아야 해요. 처음에는 걱정이 있었지만 지금까지 큰 문제 없이 잘 되고 있어요. 그래서 저는 다른 회사들에 개를 무조건 금지하라고 권하고 싶지 않아요. 그렇다고 모든 것을 허용해야 한다고 생각하지도 않아요. 규칙이 없다면 금방 다툼이 생길 것이고, 결국에는 개 주인도, 알레르기가 있는 사람도, 회사도 모두 손해를 볼 수 있어요. 타협에는 약간의 수고가 들지만 그만한 가치가 있어요."
+    },
+    {
+      "style": "meta",
+      "de": "Petra Lang, Mainz",
+      "ko": "페트라 랑, 마인츠"
+    }
+  ],
+  "questions": [
+    {
+      "type": "mc",
+      "kind": "match",
+      "q": "Wer hat wegen eines Hundes den Arbeitsplatz innerhalb der Firma gewechselt?",
+      "options": ["Andrea Schulte", "Tim Albers", "Petra Lang"],
+      "answer": 1,
+      "evidence": "ich musste schließlich das Zimmer wechseln",
+      "pairs": [["das Zimmer wechseln", "den Arbeitsplatz innerhalb der Firma gewechselt"]],
+      "explain": "팀 알버스 씨는 동료가 개를 데려온 뒤 결국 방을 옮겨야 했어요. das Zimmer wechseln을 '회사 안에서 자리를 옮겼다'로 바꿔 말했어요. 그가 직장(Arbeitgeber)을 옮긴 것은 아니고, 그럴 수도 있다고 가정만 했어요."
+    },
+    {
+      "type": "mc",
+      "kind": "match",
+      "q": "Wer findet, dass der Hund gut für die eigene Gesundheit ist?",
+      "options": ["Andrea Schulte", "Tim Albers", "Petra Lang"],
+      "answer": 0,
+      "evidence": "Außerdem zwingt Lotte mich zu regelmäßigen Pausen",
+      "pairs": [["zwingt Lotte mich zu regelmäßigen Pausen", "gut für die eigene Gesundheit"]],
+      "explain": "안드레아 슐테 씨는 개 덕분에 규칙적으로 쉬고 점심때 밖에 나간다고 해요. 개가 자기 건강에 도움이 된다는 뜻이에요. 팀 알버스 씨에게는 개가 오히려 건강 문제를 일으켜요."
+    },
+    {
+      "type": "mc",
+      "kind": "match",
+      "q": "Wer hat Erfahrung damit, wie eine Firma Hunde mit festen Regeln zulassen kann?",
+      "options": ["Andrea Schulte", "Tim Albers", "Petra Lang"],
+      "answer": 2,
+      "evidence": "Bei uns dürfen Hunde seit einem Jahr ins Büro – allerdings nur unter klaren Bedingungen.",
+      "pairs": [["nur unter klaren Bedingungen", "mit festen Regeln"], ["dürfen Hunde seit einem Jahr ins Büro", "Hunde mit festen Regeln zulassen"]],
+      "explain": "페트라 랑 씨의 회사에서는 1년 전부터 분명한 조건 아래 개를 허용하고 있어요. unter klaren Bedingungen을 mit festen Regeln으로 바꿔 표현했어요. 안드레아 슐테 씨의 회사도 개를 허용하지만, 규칙에 관한 이야기는 없어요."
+    },
+    {
+      "type": "mc",
+      "kind": "match",
+      "q": "Wer hätte selbst gern einen Hund im Büro, wenn die persönliche Situation anders wäre?",
+      "options": ["Andrea Schulte", "Tim Albers", "Petra Lang"],
+      "answer": 1,
+      "evidence": "Hätte ich keine Allergie, würde ich mich über einen Bürohund wahrscheinlich sogar freuen.",
+      "pairs": [["Hätte ich keine Allergie", "wenn die persönliche Situation anders wäre"], ["würde ich mich über einen Bürohund wahrscheinlich sogar freuen", "hätte selbst gern einen Hund im Büro"]],
+      "explain": "팀 알버스 씨는 알레르기가 없다면 사무실 개를 반길 거라고 해요. 알레르기라는 개인 사정을 '개인적인 상황이 다르다면'으로 일반화해서 표현했어요. 안드레아 슐테 씨는 이미 개를 데려오고 있으니 조건이 필요 없어요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Was muss in Petra Langs Firma passieren, bevor jemand seinen Hund mitbringen darf?",
+      "options": [
+        "Die Geschäftsführerin muss den Hund persönlich kennenlernen.",
+        "Die Leute, die direkt mit der Person zusammenarbeiten, müssen zustimmen.",
+        "Der Hund muss zuerst einen Tag allein in der Küche bleiben."
+      ],
+      "answer": 1,
+      "evidence": "wer einen Hund mitbringen will, braucht das Einverständnis der direkten Kolleginnen und Kollegen",
+      "pairs": [["braucht das Einverständnis", "müssen zustimmen"], ["der direkten Kolleginnen und Kollegen", "Die Leute, die direkt mit der Person zusammenarbeiten"]],
+      "explain": "개를 데려오려면 바로 옆에서 일하는 동료들의 동의(Einverständnis)가 필요해요. 이것을 '함께 일하는 사람들이 찬성해야 한다'로 바꿔 말했어요. 대표가 직접 개를 만난다는 말은 없고, 주방은 오히려 개가 들어갈 수 없는 구역이에요."
+    },
+    {
+      "type": "mc",
+      "kind": "paraphrase",
+      "q": "Was will Tim Albers mit dem Satz „Niemand hatte mich vorher gefragt“ sagen?",
+      "options": [
+        "Er war nicht an der Entscheidung beteiligt, obwohl sie ihn betraf.",
+        "Er wusste nicht, dass sein Kollege einen Hund hat.",
+        "Seine Kollegen interessierten sich nicht für seine Meinung zu dem Artikel."
+      ],
+      "answer": 0,
+      "evidence": "Vor zwei Jahren brachte ein Kollege seinen Hund mit, und ich musste schließlich das Zimmer wechseln.",
+      "pairs": [["Niemand hatte mich vorher gefragt", "nicht an der Entscheidung beteiligt"]],
+      "explain": "동료가 개를 데려오는 일은 알레르기가 있는 그에게 직접 영향을 주는데, 아무도 미리 의견을 묻지 않았다는 불만이에요. 그래서 '자기와 관련된 결정인데 참여하지 못했다'가 맞아요. 기사에 대한 의견이나 개의 존재를 몰랐다는 이야기가 아니에요."
+    },
+    {
+      "type": "mc",
+      "kind": "paraphrase",
+      "q": "Was bedeutet der Satz „Ein Kompromiss kostet etwas Mühe, aber er lohnt sich“?",
+      "options": [
+        "Regeln für Hunde sind teuer, deshalb verzichten viele Firmen darauf.",
+        "Eine Lösung für beide Seiten zu finden ist anstrengend, bringt aber mehr, als es kostet.",
+        "Ein Verbot ist am Ende die einfachste und beste Lösung."
+      ],
+      "answer": 1,
+      "evidence": "Ohne Regeln gäbe es schnell Streit, und am Ende könnten alle verlieren",
+      "pairs": [["kostet etwas Mühe", "ist anstrengend"], ["lohnt sich", "bringt aber mehr, als es kostet"], ["Kompromiss", "Lösung für beide Seiten"]],
+      "explain": "Mühe는 돈이 아니라 수고를 뜻하고, sich lohnen은 '그만한 가치가 있다'는 뜻이에요. 양쪽을 위한 해결책을 찾는 일은 힘들지만 그 수고보다 얻는 것이 많다는 말이에요. 페트라 랑 씨는 금지에 반대하므로 금지가 최선이라는 선택지는 틀려요."
+    },
+    {
+      "type": "mc",
+      "kind": "gist",
+      "q": "Welche Aussage fasst die Position von Petra Lang am besten zusammen?",
+      "options": [
+        "Hunde gehören nicht ins Büro, weil sie zu viel Streit verursachen.",
+        "Hunde im Büro sind möglich, wenn alle Beteiligten feste Absprachen treffen.",
+        "Jede Firma sollte Hunde erlauben, weil sie die Stimmung verbessern."
+      ],
+      "answer": 1,
+      "evidence": "Ich bin aber auch nicht der Meinung, dass alles erlaubt sein sollte.",
+      "pairs": [["nicht der Meinung, dass alles erlaubt sein sollte", "wenn alle Beteiligten feste Absprachen treffen"]],
+      "explain": "페트라 랑 씨는 금지에도 반대하고, 모든 것을 허용하는 데에도 반대해요. 규칙이 있는 타협이 그녀의 입장이에요. 첫 번째 선택지는 Streit라는 단어를, 세 번째는 Stimmung이라는 단어를 본문에서 가져왔지만 각각 금지와 전면 허용을 주장해서 틀려요."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "접속법 2식 – 현실과 다른 조건과 소망",
+      "term": "Konjunktiv II der Gegenwart",
+      "explain": "접속법 2식은 실제와 다른 상황을 가정하거나 소망을 말할 때 써요. wäre(sein), hätte(haben), könnte(können), müsste(müssen), gäbe(geben)처럼 자주 쓰는 동사는 고유한 형태가 있어요. 그 밖의 동사는 würde + 동사원형으로 표현해요. wenn 절에서는 동사가 문장 끝에 오고, wenn을 생략하면 동사가 문장 맨 앞에 와요(Hätte ich keine Allergie, …). 두 절 모두 접속법 2식을 써요.",
+      "pattern": "Wenn + 주어 + … + wäre/hätte, würde + 주어 + … + 동사원형 / Hätte + 주어 …, würde …",
+      "examples": [
+        {
+          "de": "Hätte ich keine Allergie, würde ich mich über einen Bürohund wahrscheinlich sogar freuen.",
+          "ko": "알레르기가 없다면 저도 사무실 개를 아마 반길 거예요.",
+          "mark": ["Hätte", "würde", "freuen"],
+          "parts": [["Hätte ich keine Allergie,", "종속절"], ["würde", "동사"], ["ich", "주어"], ["mich", "재귀대명사"], ["über einen Bürohund", "전치사 목적어"], ["wahrscheinlich", "부사어"], ["sogar", "부사어"], ["freuen.", "동사(끝)"]]
+        },
+        {
+          "de": "Wenn alle Firmen so offen wären wie meine, wären viele Beschäftigte entspannter – davon bin ich überzeugt.",
+          "ko": "모든 회사가 우리 회사처럼 열려 있다면 많은 직장인이 더 느긋해질 거예요. 저는 그렇게 확신해요.",
+          "mark": ["wären", "wären"]
+        },
+        {
+          "de": "Ohne Regeln gäbe es schnell Streit, und am Ende könnten alle verlieren – die Hundebesitzer, die Allergiker und die Firma.",
+          "ko": "규칙이 없다면 금방 다툼이 생길 것이고, 결국에는 개 주인도, 알레르기가 있는 사람도, 회사도 모두 손해를 볼 수 있어요.",
+          "mark": ["gäbe", "könnten"]
+        }
+      ],
+      "tip": "조건을 wenn 절 대신 전치사구로 줄여 말할 수도 있어요. „Ohne sie würde ich …“는 '그 개가 없다면'이라는 조건이에요."
+    },
+    {
+      "title": "obwohl과 trotzdem – 기대와 다른 결과",
+      "term": "obwohl vs. trotzdem",
+      "explain": "둘 다 '~인데도'라는 뜻으로 기대와 다른 결과를 말해요. 하지만 문장 구조가 달라요. obwohl은 종속접속사라서 obwohl 절의 동사가 문장 끝에 와요. trotzdem은 접속부사라서 1번 자리에 오고 바로 뒤에 동사, 그다음에 주어가 와요. obwohl 절에는 '양보되는 사실'이 들어가고, trotzdem이 있는 문장에는 '뜻밖의 결과'가 들어가요.",
+      "pattern": "Obwohl + 주어 + … + 동사(끝), 동사 + 주어 … / … . Trotzdem + 동사 + 주어 …",
+      "examples": [
+        {
+          "de": "Obwohl ich täglich Tabletten nehme, bekomme ich nach einer Stunde im selben Raum mit einem Hund tränende Augen und Atemprobleme.",
+          "ko": "매일 약을 먹는데도 개와 같은 방에 한 시간만 있으면 눈물이 나고 숨쉬기가 힘들어져요.",
+          "mark": ["Obwohl", "nehme", "bekomme"],
+          "parts": [["Obwohl ich täglich Tabletten nehme,", "종속절"], ["bekomme", "동사"], ["ich", "주어"], ["nach einer Stunde im selben Raum mit einem Hund", "부사어"], ["tränende Augen und Atemprobleme.", "4격 목적어"]]
+        },
+        {
+          "de": "Trotzdem war ich erleichtert, als ich Ihren Artikel zu Ende gelesen hatte, denn er erwähnt wenigstens kurz die Allergiker.",
+          "ko": "그런데도 귀 신문의 기사를 끝까지 읽고 나서 마음이 놓였어요. 적어도 알레르기가 있는 사람들을 잠깐이나마 언급했기 때문이에요.",
+          "mark": ["Trotzdem war ich"],
+          "parts": [["Trotzdem", "접속부사"], ["war", "동사"], ["ich", "주어"], ["erleichtert,", "보어"], ["als ich Ihren Artikel zu Ende gelesen hatte,", "종속절"], ["denn er erwähnt wenigstens kurz die Allergiker.", "기타"]]
+        },
+        {
+          "de": "Obwohl wir anfangs Zweifel hatten, läuft es bisher ohne größere Probleme.",
+          "ko": "처음에는 걱정이 있었지만 지금까지 큰 문제 없이 잘 되고 있어요.",
+          "mark": ["Obwohl", "hatten", "läuft"]
+        }
+      ],
+      "tip": "obwohl과 trotzdem을 한 문장에 함께 쓰지 마세요. „Obwohl ich Hunde mag, bin ich dagegen.“ 또는 „Ich mag Hunde. Trotzdem bin ich dagegen.“ 둘 중 하나예요."
+    },
+    {
+      "title": "의견 말하기 – Ich bin der Meinung, dass … / Meiner Ansicht nach …",
+      "term": "Meinung äußern",
+      "explain": "자기 의견을 밝힐 때 쓰는 표현이에요. „Ich bin der Meinung, dass …“ 뒤에는 dass 종속절이 오고 동사는 문장 끝에 가요. „Meiner Ansicht nach“는 1번 자리를 차지하는 부사어라서 바로 뒤에 동사가 와요. 부정하려면 „Ich bin nicht der Meinung, dass …“라고 해요. „Davon bin ich überzeugt“는 '나는 그렇게 확신한다'는 뜻으로 의견을 강조해요.",
+      "pattern": "Ich bin (nicht) der Meinung, dass + … + 동사(끝) / Meiner Ansicht nach + 동사 + 주어 …",
+      "examples": [
+        {
+          "de": "Ich bin der Meinung, dass ein Hund die Stimmung im Team deutlich verbessert.",
+          "ko": "저는 개 한 마리가 팀 분위기를 눈에 띄게 좋게 만든다고 생각해요.",
+          "mark": ["bin der Meinung, dass", "verbessert"],
+          "parts": [["Ich", "주어"], ["bin", "동사"], ["der Meinung,", "보어"], ["dass ein Hund die Stimmung im Team deutlich verbessert.", "종속절"]]
+        },
+        {
+          "de": "Meiner Ansicht nach wird bei dieser Diskussion zu oft vergessen, dass nicht alle Menschen frei wählen können.",
+          "ko": "제 생각에 이 논의에서는 모든 사람이 자유롭게 선택할 수 있는 건 아니라는 점이 너무 자주 잊혀요.",
+          "mark": ["Meiner Ansicht nach"],
+          "parts": [["Meiner Ansicht nach", "부사어"], ["wird", "동사"], ["bei dieser Diskussion", "부사어"], ["zu oft", "부사어(빈도)"], ["vergessen,", "동사(끝)"], ["dass nicht alle Menschen frei wählen können.", "종속절"]]
+        },
+        {
+          "de": "Ich bin aber auch nicht der Meinung, dass alles erlaubt sein sollte.",
+          "ko": "그렇다고 모든 것을 허용해야 한다고 생각하지도 않아요.",
+          "mark": ["bin aber auch nicht der Meinung, dass"]
+        }
+      ],
+      "tip": "der Meinung와 meiner Ansicht는 각각 2격·3격이에요. „Ich bin der Meinung“(2격), „meiner Meinung/Ansicht nach“(3격 + 후치사 nach)로 형태를 기억하세요."
+    },
+    {
+      "title": "statt … zu / ohne … zu – 부정사구",
+      "term": "Infinitivgruppen mit statt … zu / ohne … zu",
+      "explain": "„statt … zu + 동사원형“은 '~하는 대신에', „ohne … zu + 동사원형“은 '~하지 않고'라는 뜻이에요. 주절의 주어와 부정사구의 주어가 같을 때 써요. 부정사구는 쉼표로 구분하고, zu + 동사원형이 맨 끝에 와요. 명사만 쓸 때는 전치사 ohne + 4격(Ohne Regeln, Ohne sie)으로 짧게 말할 수 있어요.",
+      "pattern": "주절, statt/ohne … zu + 동사원형",
+      "examples": [
+        {
+          "de": "Mittags gehe ich eine halbe Stunde mit ihr raus, statt am Schreibtisch zu essen.",
+          "ko": "점심때는 책상에서 먹는 대신 로테와 30분 동안 밖에 나가요.",
+          "mark": ["statt am Schreibtisch zu essen"],
+          "parts": [["Mittags", "부사어(시간)"], ["gehe", "동사"], ["ich", "주어"], ["eine halbe Stunde", "부사어(시간)"], ["mit ihr", "부사어"], ["raus,", "동사(끝)"], ["statt am Schreibtisch zu essen.", "zu 부정사구"]]
+        },
+        {
+          "de": "Ich würde anderen Firmen deshalb nicht raten, Hunde einfach zu verbieten.",
+          "ko": "그래서 저는 다른 회사들에 개를 무조건 금지하라고 권하고 싶지 않아요.",
+          "mark": ["Hunde einfach zu verbieten"],
+          "parts": [["Ich", "주어"], ["würde", "동사"], ["anderen Firmen", "3격 목적어"], ["deshalb", "접속부사"], ["nicht", "부정어"], ["raten,", "동사(끝)"], ["Hunde einfach zu verbieten.", "zu 부정사구"]]
+        }
+      ],
+      "tip": "두 번째 예문처럼 raten, empfehlen, versuchen 같은 동사 뒤에도 zu 부정사구가 와요. 분리동사는 zu가 가운데에 들어가요(mitzubringen)."
+    }
+  ],
+  "vocab": [
+    { "de": "erlauben", "ko": "허용하다, 허락하다" },
+    { "de": "die Stimmung, -en", "ko": "분위기, 기분" },
+    { "de": "verbessern", "ko": "개선하다, 좋게 만들다" },
+    { "de": "zwingen (zwang, hat gezwungen) zu + Dat.", "ko": "~하게 강제하다, ~하지 않을 수 없게 하다" },
+    { "de": "der/die Beschäftigte, -n", "ko": "직원, 종사자" },
+    { "de": "erleichtert", "ko": "안도한, 마음이 놓인" },
+    { "de": "erwähnen", "ko": "언급하다" },
+    { "de": "der Allergiker, -", "ko": "알레르기가 있는 사람" },
+    { "de": "die Atemprobleme (Pl.)", "ko": "호흡 곤란" },
+    { "de": "der Arbeitgeber, -", "ko": "고용주, 회사" },
+    { "de": "die Bedingung, -en", "ko": "조건" },
+    { "de": "bestehen (bestand, hat bestanden)", "ko": "(시험·시험일을) 통과하다, 합격하다" },
+    { "de": "das Einverständnis (Sg.)", "ko": "동의, 승낙" },
+    { "de": "der Zweifel, -", "ko": "의심, 의구심" },
+    { "de": "verbieten (verbot, hat verboten)", "ko": "금지하다" },
+    { "de": "der Kompromiss, -e", "ko": "타협, 절충안" }
+  ],
+  "phrases": [
+    {
+      "de": "der Meinung sein, dass …",
+      "ko": "~라고 생각하다, ~라는 의견이다",
+      "ex": "Ich bin der Meinung, dass ein Hund die Stimmung im Team deutlich verbessert.",
+      "exko": "저는 개 한 마리가 팀 분위기를 눈에 띄게 좋게 만든다고 생각해요."
+    },
+    {
+      "de": "meiner Ansicht nach",
+      "ko": "제 생각에는, 제가 보기에는",
+      "ex": "Meiner Ansicht nach wird bei dieser Diskussion zu oft vergessen, dass nicht alle Menschen frei wählen können.",
+      "exko": "제 생각에 이 논의에서는 모든 사람이 자유롭게 선택할 수 있는 건 아니라는 점이 너무 자주 잊혀요."
+    },
+    {
+      "de": "von etwas (Dat.) überzeugt sein",
+      "ko": "~을 확신하다",
+      "ex": "davon bin ich überzeugt",
+      "exko": "저는 그렇게 확신해요"
+    },
+    {
+      "de": "beide Seiten kennen",
+      "ko": "양쪽 입장을 다 알다",
+      "ex": "Als Chefin einer kleinen Firma mit 20 Beschäftigten kenne ich beide Seiten.",
+      "exko": "직원 20명의 작은 회사를 운영하는 대표로서 저는 양쪽 입장을 다 알고 있어요."
+    },
+    {
+      "de": "sich lohnen",
+      "ko": "그만한 가치가 있다, 보람이 있다",
+      "ex": "Ein Kompromiss kostet etwas Mühe, aber er lohnt sich.",
+      "exko": "타협에는 약간의 수고가 들지만 그만한 가치가 있어요."
+    }
+  ]
+}

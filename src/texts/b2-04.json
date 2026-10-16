@@ -1,0 +1,332 @@
+{
+  "id": "b2-04",
+  "level": "B2",
+  "no": 4,
+  "title": "Man muss ein Bild lesen können",
+  "titleKo": "그림을 읽을 줄 알아야 해요",
+  "type": "Interview",
+  "typeKo": "잡지 인터뷰",
+  "intro": "회화 복원가가 자신의 일과 그 일의 원칙에 대해 이야기하는 인터뷰예요.",
+  "focus": ["수동태 대체형 (sich lassen · sein + zu · -bar/-lich)", "기능동사 구문", "종속절 어순"],
+  "paragraphs": [
+    {
+      "de": "Marlene Vogt restauriert seit über zwanzig Jahren Gemälde, zuerst in einem Museum, heute in ihrer eigenen Werkstatt in Bamberg. Ein Gespräch über Geduld, Grenzen und die Frage, wem ein Bild eigentlich gehört.",
+      "ko": "마를레네 포크트는 20년 넘게 회화를 복원해 왔습니다. 처음에는 박물관에서, 지금은 밤베르크에 있는 자신의 공방에서 일합니다. 인내심과 한계, 그리고 그림은 과연 누구의 것인가 하는 질문에 관한 대화입니다."
+    },
+    {
+      "style": "q",
+      "de": "Frau Vogt, auf Ihrer Staffelei steht ein Porträt aus dem 18. Jahrhundert. Was fehlt ihm?",
+      "ko": "포크트 씨, 이젤에 18세기 초상화가 놓여 있네요. 이 그림에 무엇이 부족한가요?"
+    },
+    {
+      "de": "Auf den ersten Blick nichts – und genau das ist das Problem. Der Firnis, also die Schutzschicht über der Farbe, ist im Lauf der Jahrhunderte vergilbt. Das Weiß des Kragens wirkt heute beige, der blaue Himmel grünlich. Diese Schicht nehmen wir ab, und zwar Millimeter für Millimeter mit Wattestäbchen und Lösungsmitteln. Ob ein Firnis sich gefahrlos entfernen lässt, zeigt sich erst bei einer kleinen Probe am Bildrand. Manche Firnisse sind so fest mit der Malschicht verbunden, dass sie nur teilweise abzunehmen sind.",
+      "ko": "얼핏 보기에는 아무것도 부족하지 않아요. 그런데 바로 그것이 문제예요. 물감 위를 덮은 보호층인 바니시가 수백 년이 지나면서 누렇게 변했거든요. 옷깃의 흰색은 오늘날 베이지색으로 보이고, 푸른 하늘은 초록빛을 띠어요. 이 층을 우리가 걷어 내요. 그것도 면봉과 용제를 써서 1밀리미터씩이요. 바니시를 안전하게 제거할 수 있는지는 그림 가장자리에서 작은 시험을 해 봐야 비로소 알 수 있어요. 어떤 바니시는 물감층과 너무 단단히 결합되어 있어서 일부만 걷어 낼 수 있어요."
+    },
+    {
+      "style": "q",
+      "de": "Und wenn die Farbe darunter beschädigt ist?",
+      "ko": "그 아래의 물감이 손상되어 있으면요?"
+    },
+    {
+      "de": "Dann kommt die Retusche ins Spiel. Fehlstellen werden geschlossen, aber nach einer eisernen Regel: Alles, was wir hinzufügen, muss jederzeit rückgängig zu machen sein. Wir arbeiten deshalb mit Farben, die sich auch in fünfzig Jahren noch mit einem milden Lösungsmittel entfernen lassen, ohne dass das Original Schaden nimmt. Die nächste Generation wird andere Methoden zur Verfügung haben, und sie soll unsere Entscheidungen korrigieren können. Außerdem wird jeder Schritt dokumentiert – mit Fotos, Skizzen und einem Bericht, in dem nachvollziehbar ist, welches Material wir an welcher Stelle eingesetzt haben.",
+      "ko": "그러면 보채가 등장해요. 결손 부위를 메우는데, 여기에는 철칙이 있어요. 우리가 덧붙이는 것은 모두 언제든지 되돌릴 수 있어야 해요. 그래서 우리는 50년 뒤에도 순한 용제로 지울 수 있는 물감을 써요. 원작이 손상되지 않도록요. 다음 세대는 다른 방법을 쓸 수 있게 될 테고, 우리의 결정을 바로잡을 수 있어야 해요. 또한 모든 단계는 기록으로 남겨요. 사진과 스케치, 그리고 어느 자리에 어떤 재료를 썼는지 추적할 수 있는 보고서로요."
+    },
+    {
+      "style": "q",
+      "de": "Sie sprechen von Entscheidungen. Welche Rolle spielt dabei die Technik?",
+      "ko": "결정이라고 말씀하셨는데요. 거기서 기술은 어떤 역할을 하나요?"
+    },
+    {
+      "de": "Eine große. Bevor wir überhaupt ein Werkzeug anfassen, wird das Bild untersucht. Unter Infrarotlicht wird zum Beispiel die Unterzeichnung sichtbar, also die Skizze, die der Maler vor dem eigentlichen Malen auf die Grundierung gesetzt hat. Mit bloßem Auge ist sie nicht erkennbar, weil die Farbschichten darüberliegen. Oft stellt sich dabei heraus, dass der Künstler seine Komposition während der Arbeit geändert hat: Ein Arm lag ursprünglich anders, eine Figur wurde übermalt. Solche Erkenntnisse muss man berücksichtigen, wenn eine Fehlstelle ergänzt werden soll. Deshalb sage ich immer: Man muss ein Bild lesen können, bevor man es anfasst.",
+      "ko": "큰 역할을 해요. 우리가 도구에 손을 대기 전에 먼저 그림을 조사해요. 예를 들어 적외선 아래에서는 밑그림이 보여요. 화가가 본격적으로 그리기 전에 바탕칠 위에 그려 둔 스케치 말이에요. 그 위에 물감층이 덮여 있기 때문에 맨눈으로는 알아볼 수 없어요. 그 과정에서 화가가 작업 중에 구도를 바꿨다는 사실이 드러나는 일이 많아요. 팔이 원래는 다른 위치에 있었다거나, 어떤 인물이 덧칠로 지워졌다거나 하는 식이죠. 결손 부위를 보충해야 할 때는 이런 사실을 고려해야 해요. 그래서 저는 늘 이렇게 말해요. 그림에 손대기 전에 그림을 읽을 줄 알아야 한다고요."
+    },
+    {
+      "style": "q",
+      "de": "Kommt es vor, dass Sie ein Bild schöner machen möchten, als es ist?",
+      "ko": "그림을 실제보다 더 아름답게 만들고 싶은 마음이 들 때도 있나요?"
+    },
+    {
+      "de": "Die Versuchung gibt es, gerade bei Werken unbekannter Maler, deren Schwächen deutlich sichtbar sind. Aber das kommt nicht in Frage. Eine Restauratorin darf ein Bild nicht verbessern, sie darf es nur erhalten. Wo der Maler eine ungeschickte Hand gemalt hat, bleibt die Hand ungeschickt. Wir nehmen Rücksicht auf die Absicht des Künstlers, auch wenn sie uns nicht gefällt. Ein Gemälde gehört ja nicht dem, der gerade daran arbeitet, sondern allen, die es noch sehen werden.",
+      "ko": "그런 유혹은 있어요. 특히 약점이 뚜렷이 보이는 무명 화가의 작품에서요. 하지만 그것은 고려 대상이 될 수 없어요. 복원가는 그림을 개선해서는 안 되고, 보존만 해야 해요. 화가가 손을 서툴게 그렸다면 그 손은 서툰 채로 남아요. 우리는 화가의 의도가 마음에 들지 않더라도 그 의도를 존중해요. 그림은 지금 그것을 작업하는 사람의 것이 아니라, 앞으로 그것을 볼 모든 사람의 것이니까요."
+    },
+    {
+      "style": "q",
+      "de": "Was muss jemand mitbringen, der diesen Beruf ergreifen will?",
+      "ko": "이 직업을 택하려는 사람은 무엇을 갖추어야 하나요?"
+    },
+    {
+      "de": "Chemiekenntnisse, ein gutes Auge, eine ruhige Hand – das alles ist erlernbar. Was sich kaum lernen lässt, ist Geduld. An einem mittelgroßen Gemälde sitze ich oft ein halbes Jahr, und von außen ist der Fortschritt lange nicht wahrnehmbar. Wer schnelle Ergebnisse braucht, ist hier falsch. Wer aber die Ruhe hat, einem Bild zuzuhören, für den ist es der schönste Beruf der Welt.",
+      "ko": "화학 지식, 좋은 눈, 안정된 손. 이런 것은 모두 배울 수 있어요. 거의 배울 수 없는 것은 인내심이에요. 중간 크기의 그림 한 점에 반년을 매달리는 일이 흔한데, 밖에서 보면 오랫동안 진척이 보이지 않아요. 빠른 결과가 필요한 사람에게는 맞지 않는 일이에요. 하지만 그림에 귀 기울일 여유가 있는 사람에게는 세상에서 가장 아름다운 직업이에요."
+    }
+  ],
+  "questions": [
+    {
+      "type": "rfn",
+      "kind": "detail",
+      "q": "Der Zustand des Porträts ist für Laien auf Anhieb als Schaden zu erkennen.",
+      "answer": 1,
+      "evidence": "Auf den ersten Blick nichts – und genau das ist das Problem.",
+      "pairs": [["Auf den ersten Blick nichts", "auf Anhieb als Schaden zu erkennen"]],
+      "explain": "포크트는 얼핏 보기에는 그림에 아무것도 부족해 보이지 않고 바로 그것이 문제라고 말해요. 즉 손상이 한눈에 드러나지 않는다는 뜻이므로 문제의 진술은 틀렸어요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Wie findet die Restauratorin heraus, ob der Firnis ohne Risiko entfernt werden kann?",
+      "options": [
+        "Sie untersucht das Bild zunächst unter Infrarotlicht.",
+        "Sie testet das Lösungsmittel an einer kleinen Stelle am Rand des Bildes.",
+        "Sie vergleicht die Farben des Kragens und des Himmels mit dem Original."
+      ],
+      "answer": 1,
+      "evidence": "Ob ein Firnis sich gefahrlos entfernen lässt, zeigt sich erst bei einer kleinen Probe am Bildrand.",
+      "pairs": [["gefahrlos entfernen lässt", "ohne Risiko entfernt werden kann"], ["einer kleinen Probe am Bildrand", "an einer kleinen Stelle am Rand des Bildes"]],
+      "explain": "바니시를 안전하게 제거할 수 있는지는 그림 가장자리에서 작은 시험을 해 봐야 알 수 있다고 해요. 적외선 조사는 밑그림을 보기 위한 것이고, 옷깃과 하늘의 색은 변색의 예로만 나와요."
+    },
+    {
+      "type": "mc",
+      "kind": "paraphrase",
+      "q": "Was bedeutet der Satz „Alles, was wir hinzufügen, muss jederzeit rückgängig zu machen sein.“?",
+      "options": [
+        "Jede Ergänzung muss sich später wieder entfernen lassen.",
+        "Jede Ergänzung muss sofort dokumentiert werden.",
+        "Alle Ergänzungen müssen regelmäßig erneuert werden."
+      ],
+      "answer": 0,
+      "evidence": "Alles, was wir hinzufügen, muss jederzeit rückgängig zu machen sein.",
+      "pairs": [["rückgängig zu machen sein", "sich später wieder entfernen lassen"], ["Alles, was wir hinzufügen", "Jede Ergänzung"]],
+      "explain": "rückgängig machen은 '되돌리다, 원상태로 돌리다'라는 뜻이에요. 복원가가 덧붙인 것은 언제든지 다시 제거할 수 있어야 한다는 원칙이에요. 기록은 다른 문장에서 말하는 별개의 원칙이고, 정기적으로 새로 해야 한다는 말은 없어요."
+    },
+    {
+      "type": "rfn",
+      "kind": "detail",
+      "q": "Die Restauratorin rechnet damit, dass ihre eigene Arbeit eines Tages von anderen verändert wird.",
+      "answer": 0,
+      "evidence": "Die nächste Generation wird andere Methoden zur Verfügung haben, und sie soll unsere Entscheidungen korrigieren können.",
+      "pairs": [["Die nächste Generation", "eines Tages von anderen"], ["unsere Entscheidungen korrigieren", "ihre eigene Arbeit eines Tages von anderen verändert wird"]],
+      "explain": "포크트는 다음 세대가 다른 방법을 쓰게 될 것이고 지금의 결정을 바로잡을 수 있어야 한다고 말해요. 즉 자신의 작업이 나중에 다른 사람들에 의해 바뀔 것을 예상하고 오히려 바라고 있어요."
+    },
+    {
+      "type": "mc",
+      "kind": "meaning",
+      "q": "Was bedeutet „die Unterzeichnung“ im Text?",
+      "options": [
+        "die Signatur des Malers am unteren Bildrand",
+        "die Vorzeichnung, die unter den Farbschichten liegt",
+        "die schriftliche Bestätigung, dass ein Bild echt ist"
+      ],
+      "answer": 1,
+      "evidence": "also die Skizze, die der Maler vor dem eigentlichen Malen auf die Grundierung gesetzt hat.",
+      "pairs": [["die Skizze, die der Maler vor dem eigentlichen Malen auf die Grundierung gesetzt hat", "die Vorzeichnung, die unter den Farbschichten liegt"]],
+      "explain": "본문은 Unterzeichnung을 화가가 본격적으로 그리기 전에 바탕칠 위에 그려 둔 스케치라고 직접 설명해요. 일상어에서 Unterzeichnung은 '서명'이라는 뜻이지만, 여기서는 그 뜻이 아니에요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Was zeigt die Untersuchung mit Infrarotlicht häufig?",
+      "options": [
+        "Dass der Firnis an manchen Stellen dicker ist als an anderen.",
+        "Dass das Bild von einem anderen Künstler stammt als angenommen.",
+        "Dass der Maler sein Bild im Entstehungsprozess noch umgestaltet hat."
+      ],
+      "answer": 2,
+      "evidence": "Oft stellt sich dabei heraus, dass der Künstler seine Komposition während der Arbeit geändert hat: Ein Arm lag ursprünglich anders, eine Figur wurde übermalt.",
+      "pairs": [["seine Komposition während der Arbeit geändert", "im Entstehungsprozess noch umgestaltet"]],
+      "explain": "적외선 조사에서는 화가가 작업 중에 구도를 바꿨다는 사실이 자주 드러난다고 해요. '작업 중에 구도를 바꾸다'를 '제작 과정에서 다시 고치다'로 바꿔 말했어요. 바니시 두께나 다른 화가에 대한 언급은 없어요."
+    },
+    {
+      "type": "rfn",
+      "kind": "detail",
+      "q": "Frau Vogt hat schon einmal ein Bild eines unbekannten Malers verbessert.",
+      "answer": 2,
+      "evidence": null,
+      "pairs": [["Die Versuchung gibt es", "hat schon einmal ein Bild eines unbekannten Malers verbessert"]],
+      "explain": "포크트는 무명 화가의 작품에서 그런 유혹이 있다고 인정하지만, 자신이 실제로 그렇게 한 적이 있는지는 말하지 않아요. 원칙상 해서는 안 된다고만 하므로 본문만으로는 판단할 수 없어요."
+    },
+    {
+      "type": "mc",
+      "kind": "paraphrase",
+      "q": "Was will Frau Vogt mit dem Satz „Wo der Maler eine ungeschickte Hand gemalt hat, bleibt die Hand ungeschickt.“ sagen?",
+      "options": [
+        "Fehler des Künstlers werden bewusst nicht korrigiert.",
+        "Unerfahrene Restauratoren verschlechtern ein Bild oft.",
+        "Manche Schäden an einem Bild lassen sich nicht mehr beheben."
+      ],
+      "answer": 0,
+      "evidence": "Wo der Maler eine ungeschickte Hand gemalt hat, bleibt die Hand ungeschickt.",
+      "pairs": [["bleibt die Hand ungeschickt", "werden bewusst nicht korrigiert"], ["eine ungeschickte Hand gemalt", "Fehler des Künstlers"]],
+      "explain": "화가가 서툴게 그린 손은 서툰 채로 남는다는 말은, 화가의 약점이나 실수를 일부러 고치지 않는다는 원칙을 구체적인 예로 표현한 거예요. 여기서 Hand는 복원가의 손이 아니라 그림 속의 손이에요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Welche Eigenschaft hält die Restauratorin für am schwersten zu erwerben?",
+      "options": [
+        "die Fähigkeit, lange ohne sichtbaren Fortschritt weiterzuarbeiten",
+        "das Wissen über chemische Lösungsmittel",
+        "eine ruhige Hand beim Auftragen der Farbe"
+      ],
+      "answer": 0,
+      "evidence": "Was sich kaum lernen lässt, ist Geduld.",
+      "pairs": [["kaum lernen lässt", "am schwersten zu erwerben"], ["Geduld", "lange ohne sichtbaren Fortschritt weiterzuarbeiten"]],
+      "explain": "거의 배울 수 없는 것은 인내심이라고 해요. 인내심을 '눈에 보이는 진척 없이 오래 계속 일하는 능력'으로 풀어 썼어요. 화학 지식과 안정된 손은 '모두 배울 수 있다'고 한 것들이에요."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "수동태 대체형 – sich lassen + 동사원형",
+      "term": "Passiversatz: sich lassen + Infinitiv",
+      "explain": "sich lassen + 동사원형은 '~될 수 있다'(können + 수동태)와 같은 뜻이에요. 예를 들어 Der Firnis lässt sich entfernen은 Der Firnis kann entfernt werden과 같아요. 주어는 행위를 당하는 대상이고, 가능성을 나타내요. 종속절에서는 lässt가 문장 끝으로 가고 그 앞에 동사원형이 와요.",
+      "pattern": "주어 + lässt sich + 동사원형 = 주어 + kann + 과거분사 + werden",
+      "examples": [
+        {
+          "de": "Ob ein Firnis sich gefahrlos entfernen lässt, zeigt sich erst bei einer kleinen Probe am Bildrand.",
+          "ko": "바니시를 안전하게 제거할 수 있는지는 그림 가장자리에서 작은 시험을 해 봐야 비로소 알 수 있어요.",
+          "mark": ["sich", "entfernen lässt"],
+          "parts": [["Ob ein Firnis sich gefahrlos entfernen lässt,", "종속절"], ["zeigt", "동사"], ["sich", "재귀대명사"], ["erst", "부사어(시간)"], ["bei einer kleinen Probe am Bildrand.", "부사어(장소)"]]
+        },
+        {
+          "de": "Wir arbeiten deshalb mit Farben, die sich auch in fünfzig Jahren noch mit einem milden Lösungsmittel entfernen lassen, ohne dass das Original Schaden nimmt.",
+          "ko": "그래서 우리는 50년 뒤에도 순한 용제로 지울 수 있는 물감을 써요. 원작이 손상되지 않도록요.",
+          "mark": ["sich", "entfernen lassen"]
+        },
+        {
+          "de": "Was sich kaum lernen lässt, ist Geduld.",
+          "ko": "거의 배울 수 없는 것은 인내심이에요.",
+          "mark": ["sich", "lernen lässt"],
+          "parts": [["Was sich kaum lernen lässt,", "종속절"], ["ist", "동사"], ["Geduld.", "보어"]]
+        }
+      ],
+      "tip": "sich lassen은 가능성만 나타내요. 필요성(~되어야 한다)을 말하려면 sein + zu + 동사원형을 써요."
+    },
+    {
+      "title": "수동태 대체형 – sein + zu + 동사원형",
+      "term": "Passiversatz: sein + zu + Infinitiv",
+      "explain": "sein + zu + 동사원형은 문맥에 따라 '~될 수 있다'(können + 수동태) 또는 '~되어야 한다'(müssen + 수동태)라는 뜻이에요. 어느 쪽인지는 문맥으로 판단해요. nur teilweise abzunehmen sind는 '일부만 걷어 낼 수 있다'(가능)이고, muss rückgängig zu machen sein처럼 화법조동사가 함께 오면 그 뜻이 더해져요. 주어는 행위의 대상이에요.",
+      "pattern": "주어 + ist/sind + zu + 동사원형 = kann/muss + 과거분사 + werden",
+      "examples": [
+        {
+          "de": "Manche Firnisse sind so fest mit der Malschicht verbunden, dass sie nur teilweise abzunehmen sind.",
+          "ko": "어떤 바니시는 물감층과 너무 단단히 결합되어 있어서 일부만 걷어 낼 수 있어요.",
+          "mark": ["abzunehmen sind"]
+        },
+        {
+          "de": "Alles, was wir hinzufügen, muss jederzeit rückgängig zu machen sein.",
+          "ko": "우리가 덧붙이는 것은 모두 언제든지 되돌릴 수 있어야 해요.",
+          "mark": ["muss", "rückgängig zu machen sein"],
+          "parts": [["Alles,", "주어"], ["was wir hinzufügen,", "관계절"], ["muss", "동사"], ["jederzeit", "부사어(시간)"], ["rückgängig zu machen sein.", "동사(끝)"]]
+        }
+      ],
+      "tip": "분리동사는 zu가 접두사와 어간 사이에 들어가요. abnehmen → abzunehmen, nachvollziehen → nachzuvollziehen."
+    },
+    {
+      "title": "수동태 대체형 – -bar와 -lich로 끝나는 형용사",
+      "term": "Passiversatz: Adjektive auf -bar / -lich",
+      "explain": "동사 어간에 -bar를 붙이면 '~될 수 있는'이라는 뜻의 형용사가 돼요. erlernbar(배울 수 있는), wahrnehmbar(감지할 수 있는), erkennbar(알아볼 수 있는)처럼요. 이 형용사는 können + 수동태와 같은 뜻이에요. -lich로 끝나는 형용사도 같은 역할을 할 때가 있어요. nachvollziehbar 같은 긴 형태도 자주 쓰여요. 부정은 nicht나 접두사 un-으로 해요(unerkennbar).",
+      "pattern": "동사 어간 + -bar = ~될 수 있는 (kann … werden)",
+      "examples": [
+        {
+          "de": "Mit bloßem Auge ist sie nicht erkennbar, weil die Farbschichten darüberliegen.",
+          "ko": "그 위에 물감층이 덮여 있기 때문에 맨눈으로는 알아볼 수 없어요.",
+          "mark": ["erkennbar"],
+          "parts": [["Mit bloßem Auge", "부사어(방법)"], ["ist", "동사"], ["sie", "주어"], ["nicht", "부정어"], ["erkennbar,", "보어"], ["weil die Farbschichten darüberliegen.", "종속절"]]
+        },
+        {
+          "de": "Chemiekenntnisse, ein gutes Auge, eine ruhige Hand – das alles ist erlernbar.",
+          "ko": "화학 지식, 좋은 눈, 안정된 손. 이런 것은 모두 배울 수 있어요.",
+          "mark": ["erlernbar"]
+        },
+        {
+          "de": "An einem mittelgroßen Gemälde sitze ich oft ein halbes Jahr, und von außen ist der Fortschritt lange nicht wahrnehmbar.",
+          "ko": "중간 크기의 그림 한 점에 반년을 매달리는 일이 흔한데, 밖에서 보면 오랫동안 진척이 보이지 않아요.",
+          "mark": ["wahrnehmbar"]
+        }
+      ],
+      "tip": "세 가지 대체형은 서로 바꿔 쓸 수 있어요. Der Firnis ist entfernbar = Der Firnis lässt sich entfernen = Der Firnis ist zu entfernen = Der Firnis kann entfernt werden."
+    },
+    {
+      "title": "기능동사 구문",
+      "term": "Nomen-Verb-Verbindungen (Funktionsverbgefüge)",
+      "explain": "명사와 동사가 짝을 이루어 하나의 동사처럼 쓰이는 표현이에요. 이때 동사(spielen, stehen, kommen, nehmen)는 원래 뜻을 거의 잃고, 뜻은 명사가 담당해요. eine Rolle spielen(역할을 하다), zur Verfügung stehen/haben(이용할 수 있다), in Frage kommen(고려 대상이 되다), Rücksicht nehmen auf + 4격(배려하다), Schaden nehmen(손상되다), ins Spiel kommen(등장하다)이 그 예예요. 글말과 격식 있는 말에서 자주 쓰이고, 명사 부분과 동사 부분이 틀 구조를 이루어요.",
+      "pattern": "동사 + … + 명사(구) (문장 끝) → 하나의 뜻",
+      "examples": [
+        {
+          "de": "Sie sprechen von Entscheidungen. Welche Rolle spielt dabei die Technik?",
+          "ko": "결정이라고 말씀하셨는데요. 거기서 기술은 어떤 역할을 하나요?",
+          "mark": ["Welche Rolle", "spielt"]
+        },
+        {
+          "de": "Aber das kommt nicht in Frage.",
+          "ko": "하지만 그것은 고려 대상이 될 수 없어요.",
+          "mark": ["kommt", "in Frage"],
+          "parts": [["Aber", "접속사"], ["das", "주어"], ["kommt", "동사"], ["nicht", "부정어"], ["in Frage.", "기타"]]
+        },
+        {
+          "de": "Wir nehmen Rücksicht auf die Absicht des Künstlers, auch wenn sie uns nicht gefällt.",
+          "ko": "우리는 화가의 의도가 마음에 들지 않더라도 그 의도를 존중해요.",
+          "mark": ["nehmen Rücksicht auf"],
+          "parts": [["Wir", "주어"], ["nehmen", "동사"], ["Rücksicht", "4격 목적어"], ["auf die Absicht des Künstlers,", "전치사 목적어"], ["auch wenn sie uns nicht gefällt.", "종속절"]]
+        }
+      ],
+      "tip": "기능동사 구문의 명사는 관사 사용이 고정되어 있어요. in Frage kommen(관사 없음), zur Verfügung stehen(zu der → zur), eine Rolle spielen(부정관사). 명사만 바꾸면 틀린 표현이 되므로 덩어리째 외우는 것이 좋아요."
+    }
+  ],
+  "vocab": [
+    { "de": "restaurieren", "ko": "복원하다" },
+    { "de": "das Gemälde, -", "ko": "회화, 그림" },
+    { "de": "die Staffelei, -en", "ko": "이젤" },
+    { "de": "der Firnis, -se", "ko": "바니시 (그림 표면의 보호층)" },
+    { "de": "vergilben (ist vergilbt)", "ko": "누렇게 변색되다" },
+    { "de": "ab|nehmen (nimmt ab, nahm ab, hat abgenommen)", "ko": "(층을) 걷어 내다, 떼어 내다" },
+    { "de": "das Lösungsmittel, -", "ko": "용제, 용매" },
+    { "de": "die Retusche, -n", "ko": "보채, 수정 작업" },
+    { "de": "die Fehlstelle, -n", "ko": "결손 부위" },
+    { "de": "rückgängig machen", "ko": "되돌리다, 취소하다" },
+    { "de": "nachvollziehbar", "ko": "추적할 수 있는, 이해할 수 있는" },
+    { "de": "die Grundierung, -en", "ko": "바탕칠, 밑칠" },
+    { "de": "übermalen", "ko": "덧칠하여 지우다" },
+    { "de": "berücksichtigen", "ko": "고려하다" },
+    { "de": "ergänzen", "ko": "보충하다, 채우다" },
+    { "de": "die Versuchung, -en", "ko": "유혹" },
+    { "de": "ungeschickt", "ko": "서툰" },
+    { "de": "der Fortschritt, -e", "ko": "진척, 진전" }
+  ],
+  "phrases": [
+    {
+      "de": "auf den ersten Blick",
+      "ko": "얼핏 보기에는, 첫눈에",
+      "ex": "Auf den ersten Blick nichts – und genau das ist das Problem.",
+      "exko": "얼핏 보기에는 아무것도 부족하지 않아요. 그런데 바로 그것이 문제예요."
+    },
+    {
+      "de": "im Lauf der Jahrhunderte",
+      "ko": "수백 년이 지나는 동안",
+      "ex": "Der Firnis, also die Schutzschicht über der Farbe, ist im Lauf der Jahrhunderte vergilbt.",
+      "exko": "물감 위를 덮은 보호층인 바니시가 수백 년이 지나면서 누렇게 변했거든요."
+    },
+    {
+      "de": "Schaden nehmen",
+      "ko": "손상되다, 피해를 입다",
+      "ex": "ohne dass das Original Schaden nimmt.",
+      "exko": "원작이 손상되지 않도록요."
+    },
+    {
+      "de": "etwas zur Verfügung haben",
+      "ko": "~을 이용할 수 있다, 마음대로 쓸 수 있다",
+      "ex": "Die nächste Generation wird andere Methoden zur Verfügung haben, und sie soll unsere Entscheidungen korrigieren können.",
+      "exko": "다음 세대는 다른 방법을 쓸 수 있게 될 테고, 우리의 결정을 바로잡을 수 있어야 해요."
+    },
+    {
+      "de": "sich heraus|stellen",
+      "ko": "(사실이) 드러나다, 밝혀지다",
+      "ex": "Oft stellt sich dabei heraus, dass der Künstler seine Komposition während der Arbeit geändert hat: Ein Arm lag ursprünglich anders, eine Figur wurde übermalt.",
+      "exko": "그 과정에서 화가가 작업 중에 구도를 바꿨다는 사실이 드러나는 일이 많아요. 팔이 원래는 다른 위치에 있었다거나, 어떤 인물이 덧칠로 지워졌다거나 하는 식이죠."
+    },
+    {
+      "de": "einen Beruf ergreifen",
+      "ko": "직업을 택하다",
+      "ex": "Was muss jemand mitbringen, der diesen Beruf ergreifen will?",
+      "exko": "이 직업을 택하려는 사람은 무엇을 갖추어야 하나요?"
+    }
+  ]
+}
