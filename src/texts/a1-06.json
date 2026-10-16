@@ -78,7 +78,7 @@
           "mark": ["essen Sie nicht"],
           "parts": [["Bitte", "기타"], ["essen", "동사"], ["Sie", "주어"], ["nicht", "부정어"], ["in der Bibliothek.", "부사어(장소)"]] }
       ],
-      "tip": "Sie 명령형에서는 Sie를 꼭 써야 해요. Sie를 빼면 틀린 문장이에요. 금지는 nicht를 붙여서 말해요(Essen Sie nicht …)." },
+      "tip": "Sie 명령형에서는 Sie를 꼭 써야 해요. Sie를 빼면 틀린 문장이에요. 금지는 nicht를 붙여서 말해요(Essen Sie nicht …). sein만 모양이 달라요: Seien Sie bitte leise." },
     { "title": "man + 화법조동사", "term": "man + Modalverb",
       "explain": "man은 '사람들은, 누구나'라는 뜻의 주어예요. 특정한 사람이 아니라 일반적인 규칙을 말할 때 써요. 동사는 er/sie/es와 같은 형태예요. 화법조동사는 2번 자리에 오고, 동사원형은 문장 끝에 와요(틀 구조). 동사원형을 강조할 때는 문장 맨 앞 1번 자리에 둘 수도 있어요(Trinken darf man nur am Eingang).",
       "pattern": "man + kann / darf / muss + … + 동사원형(문장 끝)",
@@ -94,7 +94,7 @@
       ],
       "tip": "man(사람들)과 Mann(남자)은 다른 단어예요. man은 소문자로 쓰고 n이 하나예요. man darf nicht는 '~하면 안 돼요'(금지), man muss nicht는 '~할 필요가 없어요'라는 뜻이에요." },
     { "title": "시간 표현: von … bis, am, pro", "term": "Zeitangaben: von … bis, am, pro",
-      "explain": "von … bis는 '~부터 …까지'예요. 요일에도 쓰고 시각에도 써요(von Dienstag bis Freitag, von 10 bis 19 Uhr). 요일 앞에는 am을 써요(am Samstag). pro는 '~마다, ~당'이라는 뜻이고, 뒤에 관사 없이 명사가 와요(pro Jahr, pro Woche).",
+      "explain": "von … bis는 '~부터 …까지'예요. 요일에도 쓰고 시각에도 써요(von Dienstag bis Freitag, von 10 bis 19 Uhr). 이때 요일과 시각 앞에는 관사를 쓰지 않아요. 요일 앞에는 am을 써요(am Samstag). pro는 '~마다, ~당'이라는 뜻이고, 뒤에 관사 없이 명사가 와요(pro Jahr, pro Woche).",
       "pattern": "von + 요일/시각 + bis + 요일/시각 · am + 요일 · pro + 명사",
       "examples": [
         { "de": "Die Bibliothek ist von Dienstag bis Freitag von 10 bis 19 Uhr geöffnet, am Samstag von 10 bis 14 Uhr.", "ko": "도서관은 화요일부터 금요일까지는 10시부터 19시까지, 토요일은 10시부터 14시까지 문을 엽니다.",
@@ -102,7 +102,7 @@
           "parts": [["Die Bibliothek", "주어"], ["ist", "동사"], ["von Dienstag bis Freitag", "부사어(시간)"], ["von 10 bis 19 Uhr", "부사어(시간)"], ["geöffnet,", "보어"], ["am Samstag", "부사어(시간)"], ["von 10 bis 14 Uhr.", "부사어(시간)"]] },
         { "de": "Für Erwachsene kostet der Ausweis 15 Euro pro Jahr.", "ko": "성인은 회원증이 1년에 15유로입니다.",
           "mark": ["pro Jahr"],
-          "parts": [["Für Erwachsene", "부사어"], ["kostet", "동사"], ["der Ausweis", "주어"], ["15 Euro", "4격 목적어"], ["pro Jahr.", "부사어(시간)"]] }
+          "parts": [["Für Erwachsene", "부사어"], ["kostet", "동사"], ["der Ausweis", "주어"], ["15 Euro", "4격 목적어"], ["pro Jahr.", "부사어(빈도)"]] }
       ],
       "tip": "am은 an + dem이에요. 요일과 하루의 때(am Morgen, am Wochenende) 앞에 써요. 시각 앞에는 um을 써요(um 10 Uhr)." }
   ],

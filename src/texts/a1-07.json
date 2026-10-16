@@ -66,22 +66,23 @@
   ],
   "grammar": [
     { "title": "3격과 함께 쓰는 전치사", "term": "Präpositionen mit Dativ (mit, bei, zu, von, aus, seit, nach)",
-      "explain": "mit, bei, zu, von, aus, seit, nach 뒤에는 항상 3격이 와요. 정관사는 der/das → dem, die → der로 바뀌어요(mit dem Bus, seit der Schule, nach dem Essen). 인칭대명사도 3격으로 써요(mit euch, bei mir). zu + der는 zur, zu + dem은 zum으로 줄여 써요(zur Haltestelle).",
+      "explain": "mit, bei, zu, von, aus, seit, nach 뒤에는 항상 3격이 와요. 정관사는 der/das → dem, die → der로 바뀌어요(mit dem Bus, seit der Schule, nach dem Essen). 인칭대명사도 3격으로 써요(mit euch, bei mir). zu + der는 zur, zu + dem은 zum, bei + dem은 beim, von + dem은 vom으로 줄여 써요(zur Haltestelle).",
       "pattern": "mit · bei · zu · von · aus · seit · nach + 3격",
       "examples": [
         { "de": "Ihr kommt am besten mit dem Bus.", "ko": "버스를 타고 오는 게 제일 좋아요.",
           "mark": ["mit dem Bus"],
-          "parts": [["Ihr", "주어"], ["kommt", "동사"], ["am besten", "부사어(방법)"], ["mit dem Bus.", "부사어(방법)"]] },
+          "parts": [["Ihr", "주어"], ["kommt", "동사"], ["am besten", "부사어"], ["mit dem Bus.", "부사어(방법)"]] },
         { "de": "Einige von euch kenne ich seit der Schule – jetzt feiern wir alle zusammen.", "ko": "여러분 중 몇 명은 학교 다닐 때부터 아는 사이인데, 이제 우리 모두 함께 축하해요.",
-          "mark": ["von euch", "seit der Schule"] },
+          "mark": ["von euch", "seit der Schule"],
+          "parts": [["Einige von euch", "4격 목적어"], ["kenne", "동사"], ["ich", "주어"], ["seit der Schule", "부사어(시간)"], ["–", "기타"], ["jetzt", "부사어(시간)"], ["feiern", "동사"], ["wir", "주어"], ["alle", "기타"], ["zusammen.", "부사어(방법)"]] },
         { "de": "Nach dem Essen tanzen wir.", "ko": "식사 후에는 춤을 춰요.",
           "mark": ["Nach dem Essen"],
           "parts": [["Nach dem Essen", "부사어(시간)"], ["tanzen", "동사"], ["wir.", "주어"]] }
       ],
       "tip": "zu Hause(집에), zu Fuß(걸어서)는 통째로 외우는 표현이에요. '집으로'는 nach Hause라고 해요." },
     { "title": "인칭대명사의 3격과 4격", "term": "Personalpronomen im Dativ und Akkusativ",
-      "explain": "인칭대명사는 문장에서 하는 역할에 따라 모양이 바뀌어요. ich → mich(4격) / mir(3격), du → dich / dir, ihr → euch / euch, wir → uns / uns예요. 4격은 동사의 4격 목적어 자리나 für, auf 같은 전치사 뒤에 써요(für sie, auf euch). 3격은 '~에게'에 해당하는 3격 목적어 자리나 mit, bei, von 뒤에 써요(Schreibt mir, bei mir).",
-      "pattern": "ich → mich / mir · du → dich / dir · ihr → euch / euch",
+      "explain": "인칭대명사는 문장에서 하는 역할에 따라 모양이 바뀌어요. ich → mich(4격) / mir(3격), du → dich / dir, ihr → euch / euch, wir → uns / uns, sie(복수) → sie / ihnen이에요. 4격은 동사의 4격 목적어 자리나 für, auf 같은 전치사 뒤에 써요(anrufen + mich, für sie, auf euch). 3격은 '~에게'에 해당하는 3격 목적어 자리나 mit, bei, von 뒤에 써요(Schreibt mir, bei mir, mit euch).",
+      "pattern": "ich → mich / mir · du → dich / dir · ihr → euch / euch · wir → uns / uns",
       "examples": [
         { "de": "Schreibt mir bitte bis Mittwoch: Kommt ihr?", "ko": "수요일까지 저에게 답장을 주세요. 오시나요?",
           "mark": ["mir"],
