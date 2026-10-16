@@ -9,7 +9,7 @@
   "intro": "일주일 동안 스마트폰 없이 지내 본 사람이 쓴 블로그 글이에요.",
   "focus": [
     "접속법 2식 과거 (hätte … gemacht, wäre … gekommen)",
-    "ohne … hätte ich … (가정)",
+    "ohne/mit + 명사 (짧은 가정)",
     "현재분사·과거분사의 형용사 용법",
     "irgend- (irgendwo, irgendwann, irgendjemand)"
   ],
@@ -268,31 +268,43 @@
           ]
         },
         {
-          "de": "Mit dem Smartphone wäre das nicht passiert.",
-          "ko": "스마트폰이 있었다면 그런 일은 없었을 거예요.",
+          "de": "Früher hätte ich in solchen Momenten einfach irgendetwas auf dem Bildschirm gelesen.",
+          "ko": "예전 같으면 그런 순간에 그냥 화면에서 아무거나 읽었을 거예요.",
           "mark": [
-            "wäre",
-            "passiert"
+            "hätte",
+            "gelesen"
           ],
           "parts": [
             [
-              "Mit dem Smartphone",
-              "부사어"
+              "Früher",
+              "부사어(시간)"
             ],
             [
-              "wäre",
+              "hätte",
               "동사"
             ],
             [
-              "das",
+              "ich",
               "주어"
             ],
             [
-              "nicht",
-              "부정어"
+              "in solchen Momenten",
+              "부사어(시간)"
             ],
             [
-              "passiert.",
+              "einfach",
+              "부사어"
+            ],
+            [
+              "irgendetwas",
+              "4격 목적어"
+            ],
+            [
+              "auf dem Bildschirm",
+              "부사어(장소)"
+            ],
+            [
+              "gelesen.",
               "동사(끝)"
             ]
           ]
@@ -307,12 +319,12 @@
           ]
         }
       ],
-      "tip": "조건은 과거(hätte … gemacht), 결과는 현재(wüsste … nicht)일 수도 있어요. 마지막 예문이 그런 경우예요. 과거의 일이 지금까지 영향을 줄 때 이렇게 섞어 써요."
+      "tip": "두 번째 예문처럼 wenn-절 없이 결과만 말할 때도 있어요. 이때 조건은 Früher(예전 같으면)에 숨어 있어요. 또 조건은 과거(hätte … gemacht)인데 결과는 현재(wüsste … nicht)일 수도 있어요. 마지막 예문이 그런 경우로, 과거의 일이 지금까지 영향을 줄 때 이렇게 섞어 써요."
     },
     {
       "title": "ohne/mit + 명사 + 접속법 2식 – 짧은 가정",
       "term": "Irreale Bedingung mit ohne / mit",
-      "explain": "wenn-절 대신 'ohne + 4격 명사'나 'mit + 3격 명사'로 조건을 짧게 말할 수 있어요. 'Ohne die Hilfe hätte ich das Café nie gefunden.'은 'Wenn die Dame mir nicht geholfen hätte, …'와 같은 뜻이에요. ohne/mit 구가 1번 자리를 차지하니 바로 뒤에 hätte/wäre가 와요. 실제로는 도움을 받았다는 사실이 숨어 있어요.",
+      "explain": "wenn-절 대신 'ohne + 4격 명사'나 'mit + 3격 명사'로 조건을 짧게 말할 수 있어요. 'Ohne die Hilfe hätte ich das Café nie gefunden.'은 'Wenn die Dame mir nicht geholfen hätte, …'와 같은 뜻이고, 실제로는 도움을 받았다는 사실이 숨어 있어요. 'Mit dem Smartphone wäre das nicht passiert.'는 'Wenn ich mein Smartphone gehabt hätte, …'라는 뜻이에요. ohne/mit 구가 1번 자리에 오면 바로 뒤에 hätte/wäre가 와요.",
       "pattern": "Ohne + 4격 / Mit + 3격 + hätte/wäre + 주어 … 과거분사",
       "examples": [
         {
@@ -355,43 +367,32 @@
           ]
         },
         {
-          "de": "Früher hätte ich in solchen Momenten einfach irgendetwas auf dem Bildschirm gelesen.",
-          "ko": "예전 같으면 그런 순간에 그냥 화면에서 아무거나 읽었을 거예요.",
+          "de": "Mit dem Smartphone wäre das nicht passiert.",
+          "ko": "스마트폰이 있었다면 그런 일은 없었을 거예요.",
           "mark": [
-            "hätte",
-            "gelesen"
+            "Mit dem Smartphone",
+            "wäre",
+            "passiert"
           ],
           "parts": [
             [
-              "Früher",
-              "부사어(시간)"
-            ],
-            [
-              "hätte",
-              "동사"
-            ],
-            [
-              "ich",
-              "주어"
-            ],
-            [
-              "in solchen Momenten",
-              "부사어(시간)"
-            ],
-            [
-              "einfach",
+              "Mit dem Smartphone",
               "부사어"
             ],
             [
-              "irgendetwas",
-              "4격 목적어"
+              "wäre",
+              "동사"
             ],
             [
-              "auf dem Bildschirm",
-              "부사어(장소)"
+              "das",
+              "주어"
             ],
             [
-              "gelesen.",
+              "nicht",
+              "부정어"
+            ],
+            [
+              "passiert.",
               "동사(끝)"
             ]
           ]
@@ -402,7 +403,7 @@
     {
       "title": "현재분사·과거분사의 형용사 용법",
       "term": "Partizip I und II als Adjektiv",
-      "explain": "현재분사는 동사원형 + d로 만들고(klingeln → klingelnd), 진행 중인 동작을 나타내요. 'das klingelnde Handy'는 '울리고 있는 휴대폰'이에요. 과거분사는 끝난 일이나 상태를 나타내요. 'die verpasste Nachricht'는 '놓친 메시지'예요. 두 분사 모두 명사 앞에서 형용사처럼 어미변화를 해요. 글의 소제목에 쓰인 분사들을 비교해 보세요.",
+      "explain": "현재분사는 동사원형 + d로 만들고(klingeln → klingelnd), 진행 중인 동작이나 상태를 나타내요. 'das klingelnde Handy'는 '울리고 있는 휴대폰'이에요. 과거분사는 끝난 일이나 상태를 나타내요. 'die verpasste Nachricht'는 '놓친 메시지'예요. 두 분사 모두 명사 앞에서 형용사처럼 어미변화를 해요. 글의 소제목에 쓰인 분사들을 비교해 보세요.",
       "pattern": "관사 + 분사 + 형용사 어미 + 명사: das klingelnde Handy, die verpasste Nachricht",
       "examples": [
         {
@@ -450,7 +451,7 @@
     {
       "title": "irgend-: 정해지지 않은 사람·사물·장소·시간",
       "term": "Indefinitpronomen und -adverbien mit irgend-",
-      "explain": "irgend-는 '누구인지, 무엇인지, 어디인지 정확히 모르거나 중요하지 않다'는 뜻을 더해요. irgendjemand(누군가), irgendetwas/irgendwas(무언가), irgendwo(어딘가), irgendwann(언젠가), irgendwie(어떻게든)처럼 써요. irgendjemand와 irgendetwas는 주어나 목적어로 쓰이고, irgendwo와 irgendwann은 부사어로 쓰여요. 관사와 함께 쓰는 형태도 있어요: irgendein Café, irgendeine Dame.",
+      "explain": "irgend-는 '누구인지, 무엇인지, 어디인지 정확히 모르거나 중요하지 않다'는 뜻을 더해요. irgendjemand(누군가), irgendetwas/irgendwas(무언가), irgendwo(어딘가), irgendwann(언젠가), irgendwie(어떻게든)처럼 써요. irgendjemand와 irgendetwas는 주어나 목적어로 쓰이고, irgendwo와 irgendwann은 부사어로 쓰여요. 부정관사 ein에 irgend-를 붙인 irgendein도 있는데, 어미는 ein과 똑같이 변해요: irgendein Café, irgendeine Dame.",
       "pattern": "irgend + jemand / etwas / wo / wann / wie / ein-",
       "examples": [
         {
@@ -514,8 +515,24 @@
               "동사(끝)"
             ],
             [
-              "dass irgendjemand den Treffpunkt kurzfristig geändert hatte.",
-              "종속절"
+              "dass",
+              "접속사"
+            ],
+            [
+              "irgendjemand",
+              "주어"
+            ],
+            [
+              "den Treffpunkt",
+              "4격 목적어"
+            ],
+            [
+              "kurzfristig",
+              "부사어(시간)"
+            ],
+            [
+              "geändert hatte.",
+              "동사(끝)"
             ]
           ]
         },
@@ -527,7 +544,7 @@
           ]
         }
       ],
-      "tip": "irgendjemand의 반대는 niemand, irgendetwas의 반대는 nichts, irgendwo의 반대는 nirgendwo/nirgends예요. 의문문에서는 irgend- 없이 jemand, etwas만 써도 돼요."
+      "tip": "irgendjemand의 반대는 niemand, irgendetwas의 반대는 nichts, irgendwo의 반대는 nirgendwo/nirgends예요. jemand와 etwas만 써도 '누군가, 무언가'라는 뜻이에요. irgend-를 붙이면 '누구인지, 무엇인지 모르거나 상관없다'는 느낌이 더 강해져요."
     }
   ],
   "vocab": [

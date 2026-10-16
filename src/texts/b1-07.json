@@ -313,7 +313,7 @@
           ]
         }
       ],
-      "tip": "weder … noch가 있는 문장에 nicht를 또 쓰면 틀려요. 'Es gibt weder eine Gebühr noch eine Kaution.'가 맞고, 'Es gibt nicht weder …'는 틀린 문장이에요. 연결되는 두 명사는 격이 같아요. 여기서는 둘 다 4격이에요."
+      "tip": "weder … noch와 함께 nicht나 kein을 또 쓰면 틀려요. 'Es gibt weder keine Grundgebühr noch keine Kaution.'은 틀리고, 'Es gibt weder eine Grundgebühr noch eine Kaution.'이 맞아요. 연결되는 두 명사는 격이 같아요. 여기서는 둘 다 4격이에요."
     },
     {
       "title": "entweder … oder",
@@ -343,7 +343,7 @@
             ],
             [
               "– je nachdem, was für Sie günstiger ist.",
-              "기타"
+              "종속절"
             ]
           ]
         },
@@ -356,12 +356,12 @@
           ]
         }
       ],
-      "tip": "entweder가 문장 맨 앞에 오면 1번 자리를 차지해서 동사가 바로 뒤에 와요: Entweder bezahlen Sie pro Minute, oder Sie bezahlen pro Stunde. 이때 oder 뒤에는 보통 어순(주어 + 동사)이 이어져요."
+      "tip": "entweder가 문장 맨 앞에 올 때는 두 어순이 다 맞아요. 'Entweder bezahlen Sie pro Minute, …'처럼 entweder가 1번 자리를 차지하면 동사가 바로 뒤에 와요. 'Entweder Sie bezahlen pro Minute, …'처럼 entweder를 자리 수에 넣지 않으면(0번 자리) 주어와 동사가 평소 순서로 와요. oder는 언제나 0번 자리라서 oder 뒤에서는 평소처럼 동사가 2번 자리에 와요: …, oder Sie bezahlen pro Stunde."
     },
     {
       "title": "nicht nur … sondern auch",
       "term": "Zweiteilige Konnektoren (3): nicht nur … sondern auch",
-      "explain": "nicht nur A, sondern auch B는 'A뿐만 아니라 B도'라는 뜻이에요. 앞의 A는 이미 알고 있는 내용이고, 뒤의 B가 새로 더해지는 중요한 내용이에요. sondern 앞에는 항상 쉼표를 찍어요. 연결되는 두 부분은 형태가 같아야 해요. 예를 들어 4격 목적어와 4격 목적어, 장소 부사어와 장소 부사어를 연결해요.",
+      "explain": "nicht nur A, sondern auch B는 'A뿐만 아니라 B도'라는 뜻이에요. 앞의 A는 예상할 수 있는 내용일 때가 많고, 뒤의 B는 거기에 더해지는 내용이라서 더 강조돼요. sondern 앞에는 항상 쉼표를 찍어요. 연결되는 두 부분은 같은 문장 성분이에요. 예를 들어 4격 목적어와 4격 목적어, 장소 부사어와 장소 부사어를 연결해요.",
       "pattern": "nicht nur A, sondern auch B",
       "examples": [
         {
@@ -430,8 +430,8 @@
     {
       "title": "zwar … aber",
       "term": "Zweiteilige Konnektoren (4): zwar … aber",
-      "explain": "zwar A, aber B는 'A이기는 하지만 B'라는 뜻이에요. 먼저 zwar로 어떤 사실을 인정하고, 그다음 aber로 더 중요한 내용을 말해요. zwar는 첫 번째 문장의 동사 뒤에 올 때가 많고, aber는 두 번째 문장의 맨 앞(0번 자리)에 와요. 그래서 aber 뒤에는 보통 어순이 그대로 이어져요.",
-      "pattern": "주어 + 동사 + zwar …, aber + 주어 + 동사 …",
+      "explain": "zwar A, aber B는 'A이기는 하지만 B'라는 뜻이에요. 먼저 zwar로 어떤 사실을 인정하고, 그다음 aber로 더 중요한 내용을 말해요. zwar는 첫 번째 문장의 동사 뒤에 올 때가 많아요. aber는 두 번째 문장의 맨 앞에 오지만 자리 수에 들어가지 않아요(0번 자리). 그래서 aber 뒤에 1번 자리 성분이 오고, 그다음 2번 자리에 동사가 와요(aber dafür ist …).",
+      "pattern": "주어 + 동사 + zwar …, aber + 1번 자리(주어 또는 다른 성분) + 동사 …",
       "examples": [
         {
           "de": "Er kostet zwar 9 Euro im Monat, aber dafür ist jede Minute deutlich billiger.",
@@ -459,7 +459,7 @@
             ],
             [
               "im Monat,",
-              "부사어(시간)"
+              "부사어(빈도)"
             ],
             [
               "aber",
@@ -492,7 +492,7 @@
           ]
         }
       ],
-      "tip": "zwar … aber는 obwohl과 뜻이 비슷해요. 'Obwohl er 9 Euro kostet, ist jede Minute billiger.'와 같은 뜻이지만, zwar … aber는 두 개의 주절로 이루어지고 동사가 끝으로 가지 않아요."
+      "tip": "zwar … aber는 obwohl과 뜻이 비슷하지만 어순이 달라요. zwar … aber는 주절 두 개를 연결해서 동사가 2번 자리에 있고, obwohl은 종속절을 이끌어서 동사가 끝에 와요: Obwohl der Tarif 9 Euro im Monat kostet, lohnt er sich für Vielfahrer."
     }
   ],
   "vocab": [

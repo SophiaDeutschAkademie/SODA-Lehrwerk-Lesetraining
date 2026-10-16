@@ -139,7 +139,7 @@
     {
       "title": "동사 2번 자리와 판정 의문문",
       "term": "Verb an Position 2 / Ja-Nein-Frage",
-      "explain": "평서문에서 동사는 항상 2번 자리에 와요. 1번 자리에는 주어가 올 수도 있고(Ich wohne in Köln.), 시간이나 장소 표현(In Köln wohne ich …)이나 목적어(Englisch spreche ich auch gut.)가 올 수도 있어요. 주어가 아닌 것이 1번 자리에 오면 주어는 동사 뒤로 가요. 반대로 '네/아니요'로 대답하는 판정 의문문에서는 동사가 1번 자리에 오고 주어가 바로 뒤에 와요.",
+      "explain": "평서문에서 동사는 항상 2번 자리에 와요. 1번 자리에는 주어가 올 수도 있고(Ich wohne in Köln.), 시간·장소 표현(In Köln wohne ich …)이나 목적어(Englisch spreche ich auch gut.)가 올 수도 있어요. 주어가 아닌 것이 1번 자리에 오면 주어는 동사 뒤로 가요. 반대로 '네/아니요'로 대답하는 판정 의문문에서는 동사가 1번 자리에 오고 주어가 바로 뒤에 와요.",
       "pattern": "평서문: 1번 자리 + 동사 + … / 판정 의문문: 동사 + 주어 + …?",
       "examples": [
         {

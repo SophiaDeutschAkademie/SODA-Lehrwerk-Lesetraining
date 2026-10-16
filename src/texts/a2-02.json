@@ -75,7 +75,7 @@
   "grammar": [
     { "title": "이유 말하기: weil · denn · deshalb의 어순 차이",
       "term": "Kausalsätze: weil / denn / deshalb",
-      "explain": "세 단어 모두 이유와 관계가 있지만 어순이 달라요. weil은 종속접속사예요. weil 뒤에 이유가 오고, 동사는 종속절의 끝으로 가요. denn은 등위접속사예요. denn 뒤에도 이유가 오지만, denn은 자리 수에 들어가지 않아요(0번 자리). 그래서 어순이 보통 문장과 같고 동사가 2번 자리에 그대로 있어요. deshalb는 접속부사예요. deshalb 뒤에는 이유가 아니라 결과가 와요. deshalb가 1번 자리를 차지하므로 바로 뒤에 동사가 오고 그다음에 주어가 와요.",
+      "explain": "세 단어 모두 이유와 관계가 있지만 어순이 달라요. weil은 종속접속사예요. weil 뒤에 이유가 오고, 동사는 종속절의 끝으로 가요. denn은 등위접속사예요. denn 뒤에도 이유가 오지만, denn은 문장의 자리를 차지하지 않아요(0번 자리). 그래서 어순이 보통 문장과 같고 동사가 2번 자리에 그대로 있어요. deshalb는 접속부사예요. deshalb 뒤에는 이유가 아니라 결과가 와요. deshalb가 1번 자리를 차지하므로 바로 뒤에 동사가 오고 그다음에 주어가 와요.",
       "pattern": "…, weil + 주어 + … + 동사(끝) / …, denn + 주어 + 동사 + … / 이유, deshalb + 동사 + 주어 + …",
       "examples": [
         { "de": "Ich gehe zu Fuß, weil meine Wohnung nur zehn Minuten von der Uni entfernt ist.",
@@ -94,7 +94,7 @@
       "tip": "weil과 denn 뒤에는 이유가 오지만, deshalb 뒤에는 결과가 와요. 'Ich fahre Rad, deshalb bin ich wach.'(자전거를 타요. 그래서 잠이 깨요.)와 'Ich fahre Rad, weil ich dabei wach werde.'(타면서 잠이 깨기 때문에 자전거를 타요.)의 차이를 비교해 보세요." },
     { "title": "비교급 + als / genauso … wie",
       "term": "Komparativ mit als / so … wie",
-      "explain": "두 가지를 비교해서 '더 ~하다'라고 말할 때는 형용사에 -er을 붙이고 als를 써요: gesünder als Busfahren(버스 타기보다 더 건강한), nervöser als heute(지금보다 더 예민한). 짧은 형용사는 모음이 변하기도 해요: lang → länger, gesund → gesünder. '똑같이 ~하다'라고 말할 때는 비교급을 쓰지 않고 (genau)so + 형용사·부사 원형 + wie를 써요: genauso lange wie mit dem Rad(자전거만큼 오래), genauso schnell wie meine Freunde(친구들만큼 빠른). mehr als(~보다 많이)도 자주 쓰는 비교 표현이에요. mehr는 viel의 비교급이에요.",
+      "explain": "두 가지를 비교해서 '더 ~하다'라고 말할 때는 형용사에 -er을 붙이고 als를 써요: gesünder als Busfahren(버스 타기보다 더 건강한), nervöser als heute(지금보다 더 예민한). a, o, u가 있는 형용사 중에는 움라우트가 붙는 것도 있어요: lang → länger, gesund → gesünder. '똑같이 ~하다'라고 말할 때는 비교급을 쓰지 않고 (genau)so + 형용사·부사 원형 + wie를 써요: genauso lange wie mit dem Rad(자전거만큼 오래), genauso schnell wie meine Freunde(친구들만큼 빠른). mehr als(~보다 많이)도 자주 쓰는 비교 표현이에요. mehr는 viel의 비교급이에요.",
       "pattern": "형용사 + -er + als … / (genau)so + 형용사 + wie …",
       "examples": [
         { "de": "Das ist gesünder als Busfahren, und ich bin morgens genauso schnell wie meine Freunde mit dem Bus.",

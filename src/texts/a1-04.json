@@ -159,7 +159,7 @@
     {
       "title": "분리동사",
       "term": "Trennbare Verben",
-      "explain": "aufstehen, anfangen, aufmachen, einkaufen, abholen, fernsehen은 분리동사예요. 분리동사는 앞부분(auf-, an-, ein-, ab-, fern-)과 동사 부분으로 나뉘어요. 현재형 문장에서는 동사 부분이 2번 자리에 오고, 앞부분은 문장 끝으로 가요. 두 부분이 문장을 감싸는 틀 구조가 생겨요. 사전에는 한 단어로 나와요: aufstehen → Sie steht auf. 목적어나 장소 표현은 모두 두 부분 사이에 들어가요: Sie holt ihre Enkelin vom Kindergarten ab.",
+      "explain": "aufstehen, anfangen, aufmachen, einkaufen, abholen, fernsehen은 분리동사예요. 사전에는 한 단어로 나오지만, 문장에서는 앞부분(auf-, an-, ein-, ab-, fern-)과 동사 부분이 떨어질 때가 많아요. 현재형 평서문에서는 동사 부분이 주어에 맞게 변해서 2번 자리에 오고, 앞부분은 문장 끝으로 가요: anfangen → Sie fängt … an, fernsehen → Sabine sieht … fern. 이렇게 두 부분이 문장을 감싸는 구조를 틀 구조라고 해요. 목적어나 장소 표현은 두 부분 사이에 들어가요: Sie holt ihre Enkelin vom Kindergarten ab.",
       "pattern": "주어/시간 표현 + 동사 부분 + … + 앞부분(문장 끝)",
       "examples": [
         {
@@ -223,12 +223,12 @@
           ]
         }
       ],
-      "tip": "분리동사의 앞부분은 항상 강세가 있어요: AUFstehen, ANfangen, FERNsehen. 강세가 있는 앞부분은 분리된다고 기억하면 좋아요."
+      "tip": "분리동사의 앞부분은 항상 강세가 있어요: AUFstehen, ANfangen, FERNsehen. 반대로 be-, ver- 같은 앞부분은 강세가 없고 떨어지지 않아요. 그래서 einkaufen은 'Sie kauft ein'처럼 떨어지지만, verkaufen은 'Sie verkauft Brot'처럼 떨어지지 않아요. 화법조동사와 함께 쓰면 분리동사는 한 단어로 문장 끝에 와요: Sie muss früh aufstehen."
     },
     {
       "title": "시간 표현이 1번 자리에 오면 동사는 2번 자리",
       "term": "Inversion nach Zeitangabe",
-      "explain": "독일어 평서문에서 동사는 항상 2번 자리에 와요. 'Um sechs Uhr', 'Am Nachmittag' 같은 시간 표현이 1번 자리에 오면 동사가 바로 다음에 오고, 주어는 동사 뒤로 가요. 이것을 도치(Inversion)라고 해요. 하루 일과를 순서대로 말할 때 시간 표현을 문장 앞에 두면 자연스러워요.",
+      "explain": "독일어 평서문에서 동사는 항상 2번 자리에 와요. 'Um sechs Uhr', 'Am Nachmittag' 같은 시간 표현이 1번 자리에 오면 동사가 바로 다음에 오고, 주어는 동사 뒤로 가요. 이것을 도치(Inversion)라고 해요. 분리동사의 앞부분은 이때도 문장 끝에 그대로 있어요. 하루 일과를 순서대로 말할 때 시간 표현을 문장 앞에 두면 자연스러워요.",
       "pattern": "시간 표현 + 동사 + 주어 + …",
       "examples": [
         {
@@ -299,7 +299,7 @@
     {
       "title": "시각과 하루의 때",
       "term": "Uhrzeiten und Tageszeiten",
-      "explain": "시각을 말할 때는 'um + 시각'을 써요: um drei Uhr, um halb drei(2시 반), um 20 Uhr. '~까지'는 bis예요: bis 13 Uhr. 하루의 때는 'am + 명사'로 말해요: am Morgen, am Nachmittag, am Abend. 그런데 밤은 in der Nacht예요. morgens, abends처럼 -s를 붙이면 '아침마다, 저녁마다'라는 뜻이 돼요.",
+      "explain": "'몇 시에'라고 할 때는 'um + 시각'을 써요: um drei Uhr, um halb drei(2시 반), um 20 Uhr. '~까지'는 bis예요: bis 13 Uhr. 하루의 때는 'am + 명사'로 말해요: am Morgen, am Nachmittag, am Abend. 그런데 밤은 in der Nacht예요. morgens, abends처럼 -s를 붙이면 '아침마다, 저녁마다'라는 뜻이 돼요.",
       "pattern": "um drei Uhr · um halb drei (2:30) · bis 13 Uhr · am Nachmittag · am Abend · morgens",
       "examples": [
         {
@@ -357,7 +357,7 @@
           ]
         }
       ],
-      "tip": "halb drei는 3시 반이 아니라 2시 반이에요. 글이나 공식 안내에서는 13 Uhr, 20 Uhr처럼 24시간으로 말하는 경우가 많아요."
+      "tip": "halb drei는 3시 반이 아니라 2시 반이에요. 글이나 공식 안내에서는 13 Uhr, 20 Uhr처럼 24시간제로 말하는 경우가 많아요."
     }
   ],
   "vocab": [

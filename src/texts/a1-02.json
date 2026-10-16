@@ -103,8 +103,8 @@
     {
       "title": "소유관사 mein/sein/ihr/unser",
       "term": "Possessivartikel",
-      "explain": "소유관사는 '나의, 그의, 그녀의, 우리의'처럼 누구의 것인지 말해 줘요. ich → mein, du → dein, er/es → sein, sie(그녀) → ihr, wir → unser, ihr(너희) → euer, sie(그들) → ihr, Sie(존칭) → Ihr예요. 단수에서는 부정관사 ein과 같은 어미가 붙어요. 1격에서는 여성 명사와 복수 앞에 -e를 붙이고(meine Oma, meine Eltern), 남성·중성 명사 앞에는 어미가 없어요(mein Vater, ihr Baby). 4격에서는 남성 명사 앞에서만 모양이 바뀌고(meinen Vater), 3격에서는 여성 명사 앞에 -er, 남성·중성 명사 앞에 -em이 붙어요(hinter meiner Oma, mit ihrem Mann).",
-      "pattern": "1격: mein Vater (남성) · ihr Baby (중성) · meine Oma (여성) · meine Eltern (복수)",
+      "explain": "소유관사는 '나의, 그의, 그녀의, 우리의'처럼 누구의 것인지 말해 줘요. ich → mein, du → dein, er/es → sein, sie(그녀) → ihr, wir → unser, ihr(너희) → euer, sie(그들) → ihr, Sie(존칭) → Ihr예요. 어미는 부정관사 ein과 같은 방식으로 붙어요. 1격에서는 여성 명사와 복수 앞에 -e를 붙이고(meine Oma, meine Eltern), 남성·중성 명사 앞에는 어미가 없어요(mein Vater, ihr Baby). 4격에서는 남성 명사 앞에만 -en이 붙고(meinen Vater), 3격에서는 여성 명사 앞에 -er, 남성·중성 명사 앞에 -em이 붙어요(hinter meiner Oma, mit ihrem Mann).",
+      "pattern": "1격: mein Vater · ihr Baby · meine Oma · meine Eltern / 4격: meinen Vater / 3격: meiner Oma · ihrem Mann",
       "examples": [
         {
           "de": "Mein Vater lacht, meine Mutter hält den Kuchen.",
@@ -125,7 +125,7 @@
           "parts": [["Hinter meiner Oma", "부사어(장소)"], ["steht", "동사"], ["mein Bruder Max.", "주어"]]
         }
       ],
-      "tip": "sein은 '그의', ihr는 '그녀의'예요. 'Seine Kinder'는 삼촌(er)의 아이들, 'Ihr Baby'는 파울라(sie)의 아기예요. 소유관사는 가진 사람에 따라 고르고, 어미는 뒤에 오는 명사의 성·수와 격에 따라 붙여요. 'Hier seht ihr unsere Familie.'의 ihr는 소유관사가 아니라 '너희'라는 뜻의 인칭대명사예요. unser의 -er는 어미가 아니라 단어의 일부예요: unser Onkel(어미 없음), unsere Familie(-e)."
+      "tip": "sein은 '그의', ihr는 '그녀의'예요. 'Seine Kinder'는 삼촌(er)의 아이들, 'Ihr Baby'는 파울라(sie)의 아기예요. 문장 맨 앞이라서 대문자로 썼어요. 소유관사는 가진 사람에 따라 고르고, 어미는 뒤에 오는 명사의 성·수와 격에 따라 붙여요. 'Hier seht ihr unsere Familie.'의 ihr는 소유관사가 아니라 '너희'라는 뜻의 인칭대명사예요. unser의 -er는 어미가 아니라 단어의 일부예요: unser Onkel(어미 없음), unsere Familie(-e)."
     },
     {
       "title": "명사의 복수형",
@@ -146,7 +146,7 @@
           "parts": [["Seine Kinder", "주어"], ["sind", "동사"], ["nicht", "부정어"], ["auf dem Foto,", "부사어(장소)"], ["sie", "주어"], ["sind", "동사"], ["in der Schule.", "부사어(장소)"]]
         }
       ],
-      "tip": "주어가 복수이면 동사도 복수형이에요: Seine Kinder sind …, Links stehen meine Eltern. Eltern(부모님)은 복수형으로만 써요. 부모 중 한 사람은 der Vater(아버지), die Mutter(어머니)라고 해요. 단어장의 '-¨e'는 모음이 바뀌고 -e가 붙는다는 표시예요: der Koch, -¨e → die Köche."
+      "tip": "주어가 복수이면 동사도 복수형이에요: Seine Kinder sind …, Links stehen meine Eltern. Eltern(부모님)은 복수형으로만 써요. 부모 중 한 사람을 말할 때는 der Vater(아버지)나 die Mutter(어머니)라고 해요. 단어장의 '-¨e'는 a, o, u가 ä, ö, ü로 바뀌고 끝에 -e가 붙는다는 표시예요: der Koch, -¨e → die Köche."
     },
     {
       "title": "stehen/sitzen + 장소",

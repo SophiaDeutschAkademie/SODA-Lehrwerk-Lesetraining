@@ -11,7 +11,7 @@
     "je … desto / umso",
     "so … dass / sodass (결과)",
     "추측 표현 (vermutlich, wahrscheinlich, es könnte sein, dass)",
-    "일반적인 wir"
+    "일반적인 wir와 man"
   ],
   "paragraphs": [
     {
@@ -226,8 +226,8 @@
     {
       "title": "je … desto / umso – 비례 관계",
       "term": "Proportionalsatz: je … desto / umso",
-      "explain": "je … desto(또는 umso)는 '~하면 할수록 더 ~하다'라는 뜻이에요. 두 가지 일이 함께 커지거나 줄어드는 관계를 나타내요. je 뒤와 desto 뒤에는 각각 비교급이 와요. je가 있는 부분은 종속절이라서 동사가 끝에 오고, desto가 있는 부분은 주절이라서 비교급 바로 뒤에 동사가 와요. desto와 umso는 뜻이 같아요.",
-      "pattern": "Je + 비교급 + 주어 … 동사(끝), desto/umso + 비교급 + 동사 + 주어 …",
+      "explain": "je … desto(또는 umso)는 '~하면 할수록 더 ~하다'라는 뜻으로, 한쪽이 변하면 다른 쪽도 따라 변하는 관계를 나타내요. je 뒤와 desto 뒤에는 각각 비교급이 와요. je가 있는 부분은 종속절이라서 동사가 끝에 와요. desto가 있는 부분은 주절이라서 'desto + 비교급'(뒤에 명사가 있으면 명사까지)이 1번 자리를 차지하고, 바로 뒤에 동사가 와요. desto와 umso는 뜻이 같아요.",
+      "pattern": "Je + 비교급 + 주어 … 동사(끝), desto/umso + 비교급 (+ 명사) + 동사 + 주어 …",
       "examples": [
         {
           "de": "Je enger die Beziehung zu einer Person ist, desto eher gähnen wir mit.",
@@ -298,6 +298,32 @@
             [
               "mit.",
               "동사(끝)"
+            ]
+          ]
+        },
+        {
+          "de": "Je genauer man hinsieht, desto mehr offene Fragen gibt es.",
+          "ko": "자세히 들여다볼수록 풀리지 않은 질문이 더 많아져요.",
+          "mark": [
+            "Je genauer",
+            "desto mehr offene Fragen"
+          ],
+          "parts": [
+            [
+              "Je genauer man hinsieht,",
+              "종속절"
+            ],
+            [
+              "desto mehr offene Fragen",
+              "4격 목적어"
+            ],
+            [
+              "gibt",
+              "동사"
+            ],
+            [
+              "es.",
+              "주어"
             ]
           ]
         }
@@ -379,7 +405,7 @@
           ]
         }
       ],
-      "tip": "deshalb도 결과를 말하지만 주절을 이끌어서 deshalb 바로 뒤에 동사가 와요. sodass는 종속절을 이끌어서 동사가 끝에 와요."
+      "tip": "deshalb도 결과를 말하지만 종속접속사가 아니라 접속부사예요. deshalb가 1번 자리에 오면 바로 뒤에 동사가 와요(…, deshalb bleiben die Kleinsten ruhig). sodass는 종속접속사라서 동사가 끝에 와요. sodass는 so dass로 띄어 써도 맞아요."
     },
     {
       "title": "추측 표현 – vermutlich, wahrscheinlich, es könnte sein, dass",
@@ -450,7 +476,7 @@
           ]
         }
       ],
-      "tip": "확신의 정도가 달라요. wahrscheinlich(아마, 꽤 확실) > vermutlich(아마) > es könnte sein, dass(~일 수도 있다, 가능성만 말함) 순으로 확신이 약해져요."
+      "tip": "확신의 정도가 달라요. wahrscheinlich와 vermutlich는 '아마 그럴 거예요'라는 꽤 강한 추측이고, 둘 사이에 큰 차이는 없어요. es könnte sein, dass …는 '그럴 수도 있어요'라는 뜻으로, 가능성만 말하는 약한 추측이에요."
     },
     {
       "title": "일반적인 사람을 가리키는 wir와 man",

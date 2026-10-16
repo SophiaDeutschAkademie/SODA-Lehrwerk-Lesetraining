@@ -11,7 +11,7 @@
     "시간 종속접속사 als·wenn·seitdem",
     "시간 종속접속사 bevor·während·bis·sobald",
     "종속절이 앞에 올 때의 어순",
-    "명사+동사 결합 표현"
+    "기능동사 구문"
   ],
   "paragraphs": [
     {
@@ -243,7 +243,7 @@
     {
       "title": "시간을 나타내는 종속접속사 1: als · wenn · seitdem",
       "term": "Temporale Nebensätze: als, wenn, seit(dem)",
-      "explain": "als는 과거에 한 번 있었던 일에 써요. wenn은 현재나 미래의 일, 그리고 반복되는 일에 써요. seitdem은 '~한 뒤로, ~한 이래로'라는 뜻으로, 어떤 일이 시작된 뒤 지금까지 이어지는 상황을 나타내요. 세 접속사 모두 종속절을 이끌고, 종속절에서는 동사가 문장 끝에 와요.",
+      "explain": "als는 과거에 한 번 있었던 일이나 과거의 한 시기(Als ich jung war, …)에 써요. wenn은 현재나 미래의 일, 그리고 반복되는 일에 써요. seitdem은 '~한 뒤로, ~한 이래로'라는 뜻으로, 어떤 일이 시작된 뒤 지금까지 이어지는 상황을 나타내요. seitdem 대신 seit만 써도 돼요. 세 접속사 모두 종속절을 이끌고, 종속절에서는 동사가 문장 끝에 와요.",
       "pattern": "als / wenn / seitdem + 주어 … 동사(끝)",
       "examples": [
         {
@@ -319,13 +319,13 @@
           ]
         }
       ],
-      "tip": "과거의 한 번뿐인 일에는 als, 반복되는 일이나 현재·미래의 일에는 wenn을 써요. 'als Gasthörerin'처럼 뒤에 명사만 오는 als는 '~로서'라는 뜻의 다른 단어이고, 접속사가 아니에요."
+      "tip": "과거의 일이라도 여러 번 반복된 일에는 als가 아니라 wenn을 써요(Immer wenn ich Zeit hatte, …). seitdem 문장에서 두 절의 상황이 지금까지 이어지면 둘 다 현재형을 써요. 한국어로는 '공부를 시작한 뒤로 일상이 달라졌어요'처럼 과거로 말하지만, 독일어로는 'Seitdem ich studiere, ist mein Alltag völlig anders.'처럼 현재형으로 말해요. 'als Gasthörerin'처럼 뒤에 명사만 오는 als는 '~로서'라는 뜻이고, 종속절을 이끌지 않아요."
     },
     {
       "title": "시간을 나타내는 종속접속사 2: bevor · während · bis · sobald",
       "term": "Temporale Nebensätze: bevor, während, bis, sobald",
       "explain": "bevor는 '~하기 전에', während는 '~하는 동안', bis는 '~할 때까지', sobald는 '~하자마자'라는 뜻이에요. 네 접속사 모두 종속절을 이끌어요. 종속절은 주절 앞에 올 수도 있고 뒤에 올 수도 있는데, 두 경우 모두 종속절의 동사는 끝에 와요.",
-      "pattern": "주절, bevor / bis + 주어 … 동사(끝)  ·  Während / Sobald + 주어 … 동사(끝), 주절",
+      "pattern": "주절, bevor/während/bis/sobald + 주어 … 동사(끝)  ·  Bevor/Während/Bis/Sobald + 주어 … 동사(끝), 동사 + 주어 …",
       "examples": [
         {
           "de": "Ich habe erst einmal ein Semester lang als Gasthörerin Vorlesungen besucht, bevor ich mich richtig eingeschrieben habe.",
@@ -391,7 +391,7 @@
             ],
             [
               "auf ihr Handy",
-              "전치사 목적어"
+              "부사어(장소)"
             ],
             [
               "schauen,",
@@ -428,12 +428,12 @@
           ]
         }
       ],
-      "tip": "bis는 전치사로도 쓰여요(bis morgen, bis 18 Uhr). 접속사 bis 뒤에는 주어와 동사가 있는 완전한 절이 와요: bis mir ein Kommilitone alles gezeigt hat."
+      "tip": "bis는 전치사로도 쓰여요(bis morgen, bis 18 Uhr). 접속사 bis 뒤에는 주어와 동사가 있는 완전한 절이 와요: bis mir ein Kommilitone alles in Ruhe gezeigt hat. während는 '~하는 반면'이라는 대조의 뜻으로도 써요. 위 예문에서도 젊은 학생들과 하스 씨를 비교하고 있어요."
     },
     {
       "title": "종속절이 문장 맨 앞에 올 때의 어순",
       "term": "Nebensatz im Vorfeld",
-      "explain": "종속절이 문장 맨 앞에 오면 종속절 전체가 1번 자리를 차지해요. 그래서 쉼표 바로 뒤에 주절의 동사가 오고, 그다음에 주어가 와요. 결과적으로 쉼표를 사이에 두고 동사 두 개가 나란히 서요. 종속절이 뒤에 오면 주절은 평소처럼 주어로 시작해요.",
+      "explain": "종속절이 문장 맨 앞에 오면 종속절 전체가 1번 자리를 차지해요. 그래서 쉼표 바로 뒤에 주절의 동사가 오고, 그다음에 주어가 와요. 결과적으로 쉼표를 사이에 두고 동사 두 개가 나란히 서요. 종속절이 뒤에 오면 주절은 평소와 같아요. 1번 자리에 주어나 다른 성분이 오고, 동사는 2번 자리에 와요(Mit der Lernplattform bin ich lange nicht zurechtgekommen, bis …).",
       "pattern": "종속절(… 동사), 동사 + 주어 …",
       "examples": [
         {
@@ -498,9 +498,9 @@
       "tip": "같은 내용을 종속절을 뒤에 두고 말할 수도 있어요. 'Es dauert noch zwei Jahre, bis ich den Bachelor habe.'처럼 주절이 먼저 오면 주절은 보통 어순이에요."
     },
     {
-      "title": "명사+동사 결합 표현 (Nomen-Verb-Verbindungen)",
+      "title": "기능동사 구문 – 명사와 동사가 짝을 이루는 표현",
       "term": "Nomen-Verb-Verbindungen",
-      "explain": "독일어에는 명사와 동사가 짝을 이루어 하나의 뜻을 만드는 표현이 많아요. 기능동사 구문이라고도 해요. eine Entscheidung treffen은 '결정을 내리다', Kontakt aufnehmen은 '연락하다', Rücksicht nehmen은 '배려하다', eine Prüfung ablegen은 '시험을 치르다'예요. 동사를 마음대로 바꿀 수 없으니 짝을 통째로 외워야 해요.",
+      "explain": "독일어에는 명사와 동사가 짝을 이루어 하나의 뜻을 만드는 표현이 많아요. 이런 표현을 기능동사 구문이라고 해요. 뜻은 주로 명사에 있고, 동사는 원래 뜻이 약해져요(eine Entscheidung treffen의 treffen은 '만나다'가 아니에요). eine Entscheidung treffen은 '결정을 내리다', Kontakt aufnehmen은 '연락하다', Rücksicht nehmen은 '배려하다', eine Prüfung ablegen은 '시험을 치르다'예요. 동사를 마음대로 바꿀 수 없으니 짝을 통째로 외워야 해요.",
       "pattern": "(관사) + 명사 + 정해진 동사: eine Entscheidung treffen, Kontakt aufnehmen",
       "examples": [
         {
@@ -570,7 +570,7 @@
           ]
         }
       ],
-      "tip": "entscheiden 대신 eine Entscheidung treffen처럼 명사 표현을 쓰면 더 격식 있게 들려요. 함께 쓰는 전치사도 같이 외우세요: Rücksicht nehmen auf + 4격, Kontakt aufnehmen mit + 3격."
+      "tip": "entscheiden 대신 eine Entscheidung treffen처럼 명사 표현을 쓰면 더 격식 있게 들려요. 함께 쓰는 전치사도 같이 외우세요: Rücksicht nehmen auf + 4격, Kontakt aufnehmen mit + 3격. 예문의 aufeinander는 auf + einander(서로)예요."
     }
   ],
   "vocab": [

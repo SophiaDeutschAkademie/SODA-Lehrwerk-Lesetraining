@@ -7,7 +7,7 @@
   "type": "Beschwerde-E-Mail und Antwort",
   "typeKo": "항의 이메일과 답장",
   "intro": "온라인 쇼핑몰에 잘못 배송된 재킷에 대해 항의하는 메일과 고객센터의 답장이에요.",
-  "focus": ["접속법 2식으로 정중하게 부탁하기 (würde, könnten, hätte gern, wäre)", "dass 종속절", "격식 있는 편지 형식"],
+  "focus": ["접속법 2식으로 정중하게 부탁하기 (würde, könnten, hätte gern, wäre)", "dass 종속절", "격식 있는 이메일 형식"],
   "paragraphs": [
     { "style": "meta", "de": "Betreff: Bestellung Nr. 48213 – falsche Jacke geliefert", "ko": "제목: 주문 번호 48213 – 잘못된 재킷 배송" },
     { "style": "meta", "de": "Sehr geehrte Damen und Herren,", "ko": "담당자님께" },
@@ -84,18 +84,19 @@
           "ko": "초록색 재킷 M 사이즈를 가능한 한 빨리 보내 주시겠습니까?",
           "mark": ["Könnten", "schicken"],
           "parts": [["Könnten", "동사"], ["Sie", "주어"], ["mir", "3격 목적어"], ["bitte", "기타"], ["die grüne Jacke in Größe M", "4격 목적어"], ["so schnell wie möglich", "부사어(방법)"], ["schicken?", "동사(끝)"]] },
-        { "de": "Ich möchte mein Geld nicht zurück, sondern ich hätte gern die richtige Jacke.",
-          "ko": "저는 돈을 돌려받고 싶은 것이 아니라 제대로 된 재킷을 받고 싶습니다.",
-          "mark": ["hätte gern"] },
+        { "de": "Außerdem würde ich Sie bitten, mir ein Rücksendeetikett zu senden, damit ich die falsche Jacke kostenlos zurückschicken kann.",
+          "ko": "또한 잘못 온 재킷을 무료로 반송할 수 있도록 반송 라벨을 보내 주시기 바랍니다.",
+          "mark": ["würde", "bitten"],
+          "parts": [["Außerdem", "접속부사"], ["würde", "동사"], ["ich", "주어"], ["Sie", "4격 목적어"], ["bitten,", "동사(끝)"], ["mir ein Rücksendeetikett zu senden,", "zu 부정사구"], ["damit ich die falsche Jacke kostenlos zurückschicken kann.", "종속절"]] },
         { "de": "Es wäre schön, wenn Sie mir kurz Bescheid geben könnten, wann die neue Lieferung kommt.",
           "ko": "새 배송이 언제 도착하는지 간단히 알려 주시면 좋겠습니다.",
           "mark": ["wäre", "könnten"] }
       ],
-      "tip": "Können Sie mir … schicken?도 틀리지 않지만, Könnten Sie …?가 더 정중해요. 'Ich will die Jacke.' 대신 'Ich hätte gern die Jacke.'라고 말하면 훨씬 공손하게 들려요." },
+      "tip": "Können Sie mir … schicken?도 틀리지 않지만, Könnten Sie …?가 더 정중해요. 원하는 것을 말할 때도 Ich will … 대신 Ich hätte gern …이라고 하면 훨씬 공손하게 들려요: Ich möchte mein Geld nicht zurück, sondern ich hätte gern die richtige Jacke. 이 문장의 möchte도 원래 mögen의 접속법 2식이에요." },
     { "title": "dass 종속절",
       "term": "dass-Sätze",
-      "explain": "dass는 종속접속사예요. '~라는 것을'이라는 뜻으로, 앞 문장의 내용을 이어 줘요. dass 앞에는 항상 쉼표를 찍고, dass 절의 동사는 문장 끝으로 가요. 알게 된 사실(feststellen, dass), 감정(Es tut uns leid, dass / Ich finde es schade, dass), 바람(Wir hoffen, dass)을 말할 때 자주 써요. dass 절 안에 화법조동사나 현재완료가 있으면 변화한 동사가 맨 끝에 와요: … dass Sie … bekommen haben und … warten mussten.",
-      "pattern": "주절, dass + 주어 + … + 동사(끝)",
+      "explain": "dass는 종속접속사예요. '~라는 것, ~하다는 것'이라는 뜻으로, 주절의 동사가 말하는 내용을 담아요. 주절과 dass 절 사이에는 항상 쉼표를 찍고, dass 절의 변화한 동사는 문장 끝으로 가요. 알게 된 사실(feststellen, dass), 감정(Es tut uns leid, dass / Ich finde es schade, dass), 바람(Wir hoffen, dass)을 말할 때 자주 써요. dass 절 안에 화법조동사나 현재완료가 있으면 변화한 동사가 맨 끝에 와요: … dass Sie … bekommen haben und … warten mussten.",
+      "pattern": "주절, dass + … + 동사(끝)",
       "examples": [
         { "de": "Leider habe ich beim Auspacken festgestellt, dass in dem Paket eine blaue Jacke in Größe L war.",
           "ko": "아쉽게도 포장을 뜯으면서 소포 안에 파란색 재킷 L 사이즈가 들어 있다는 것을 알게 되었습니다.",
@@ -112,7 +113,7 @@
       "tip": "dass(접속사)와 das(관사·대명사)를 구별하세요. '~라는 것'이라는 뜻으로 문장을 이어 주면 ss를 써요. Es tut uns leid, dass …의 es는 뒤에 오는 dass 절을 미리 가리키는 상관어예요." },
     { "title": "격식 있는 이메일의 형식",
       "term": "Formelle E-Mail: Anrede, Betreff, Grußformel",
-      "explain": "회사나 모르는 사람에게 쓰는 격식 있는 이메일은 정해진 형식이 있어요. 제목(Betreff)에 용건을 짧게 쓰고, 상대를 모르면 Sehr geehrte Damen und Herren, 이름을 알면 Sehr geehrter Herr … / Sehr geehrte Frau …로 시작해요. 인사말 뒤에 쉼표를 찍고, 다음 줄은 소문자로 이어 써요: Sehr geehrte Damen und Herren, am 2. Oktober habe ich …. 끝인사는 Mit freundlichen Grüßen이고, 그 뒤에는 마침표나 쉼표를 찍지 않아요. 상대는 항상 Sie로 불러요.",
+      "explain": "회사나 모르는 사람에게 쓰는 격식 있는 이메일은 정해진 형식이 있어요. 제목(Betreff)에 용건을 짧게 쓰고, 상대를 모르면 Sehr geehrte Damen und Herren, 이름을 알면 Sehr geehrter Herr … / Sehr geehrte Frau …로 시작해요. 인사말 뒤에 쉼표를 찍고, 다음 줄의 첫 단어는 소문자로 써요(명사와 Sie, Ihr 등은 그대로 대문자): Sehr geehrte Damen und Herren, am 2. Oktober habe ich …. 끝인사는 Mit freundlichen Grüßen이고(답장의 Freundliche Grüße도 같은 뜻), 그 뒤에는 마침표나 쉼표를 찍지 않아요. 상대는 항상 Sie로 불러요.",
       "pattern": "Betreff: … / Sehr geehrte(r) …, / 본문 (소문자로 시작) / Mit freundlichen Grüßen / 이름",
       "examples": [
         { "de": "Sehr geehrte Damen und Herren,",
@@ -127,7 +128,7 @@
           "ko": "브레너 고객님께",
           "mark": ["Sehr geehrter Herr Brenner,"] }
       ],
-      "tip": "Sehr geehrte Frau Müller(여성), Sehr geehrter Herr Brenner(남성)처럼 형용사 어미가 달라져요. 격식 있는 글에서 Ihr, Ihnen, Sie는 항상 대문자로 써요." }
+      "tip": "Sehr geehrte Frau Müller(여성), Sehr geehrter Herr Brenner(남성)처럼 형용사 어미가 달라져요. 상대를 높여 부르는 Sie와 Ihnen, Ihr는 문장 가운데에서도 항상 대문자로 써요. 소문자 sie는 '그녀' 또는 '그들'이라는 뜻이에요." }
   ],
   "vocab": [
     { "de": "die Lieferung, -en", "ko": "배송, 납품" },

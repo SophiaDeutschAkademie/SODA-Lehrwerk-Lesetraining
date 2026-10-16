@@ -167,7 +167,7 @@
     {
       "title": "lassen + 동사원형 – 시키기와 허락하기",
       "term": "lassen + Infinitiv (veranlassen / erlauben)",
-      "explain": "lassen + 동사원형에는 두 가지 뜻이 있어요. 첫째는 '어떤 일을 직접 하지 않고 다른 사람에게 시키다'예요. 'Wir lassen die Wohnung reinigen.'은 우리가 청소하는 것이 아니라 다른 사람이 청소하게 한다는 뜻이에요. 둘째는 '~하게 두다, 허락하다'예요. 'Sie können ihn frei laufen lassen.'은 개가 자유롭게 뛰어다니도록 허락해도 된다는 뜻이에요. lassen은 화법조동사처럼 2번 자리에 오고, 동사원형은 문장 끝에 와요.",
+      "explain": "lassen + 동사원형에는 두 가지 뜻이 있어요. 첫째는 '어떤 일을 직접 하지 않고 다른 사람에게 시키다'예요. 'Wir lassen die Wohnung reinigen.'은 우리가 청소하는 것이 아니라 다른 사람이 청소하게 한다는 뜻이에요. 둘째는 '~하게 두다, 허락하다'예요. 'Sie können ihn frei laufen lassen.'은 개가 자유롭게 뛰어다니도록 허락해도 된다는 뜻이에요. lassen은 화법조동사처럼 zu 없는 동사원형과 함께 써요. 인칭에 맞게 변한 lassen은 2번 자리에 오고, 동사원형은 문장 끝에 와요.",
       "pattern": "주어 + lassen + 목적어 … + 동사원형(끝)",
       "examples": [
         {
@@ -188,22 +188,23 @@
     {
       "title": "sich etwas … lassen – 해 달라고 해서 받는 표현",
       "term": "sich etwas machen lassen",
-      "explain": "sich(3격 재귀대명사) + 목적어 + lassen + 동사원형은 '자기를 위해 어떤 일을 해 달라고 하다, ~받다'라는 뜻이에요. 'Ich lasse mir Brötchen bringen.'은 누군가에게 빵을 가져다 달라고 해서 받는다는 뜻이에요. 화법조동사와 함께 쓰면 동사원형이 두 개가 문장 끝에 와요: bringen lassen.",
-      "pattern": "주어 + (화법조동사) + sich(3격) + 목적어 … + 동사원형 + lassen",
+      "explain": "sich(3격 재귀대명사) + 4격 목적어 + 동사원형 + lassen은 '자기를 위해 어떤 일을 해 달라고 하다, ~받다'라는 뜻이에요. 'Ich lasse mir Brötchen bringen.'은 누군가에게 빵을 가져다 달라고 해서 받는다는 뜻이에요. 화법조동사와 함께 쓰면 동사원형 두 개가 문장 끝에 와요(bringen lassen). dass 절에서는 화법조동사가 그 뒤 맨 끝에 와요(bringen lassen kann).",
+      "pattern": "주어 + lassen + sich(3격) + 4격 목적어 … 동사원형(끝)  ·  주어 + 화법조동사 + sich(3격) + 4격 목적어 … 동사원형 + lassen(끝)",
       "examples": [
         {
           "de": "Ich habe gelesen, dass man sich morgens frische Brötchen bringen lassen kann.",
           "ko": "아침마다 신선한 빵을 배달시켜 먹을 수 있다고 읽었어요.",
           "mark": ["sich", "bringen lassen kann"],
-          "parts": [["Ich", "주어"], ["habe", "동사"], ["gelesen,", "동사(끝)"], ["dass man sich morgens frische Brötchen bringen lassen kann.", "종속절"]]
+          "parts": [["Ich", "주어"], ["habe", "동사"], ["gelesen,", "동사(끝)"], ["dass", "접속사"], ["man", "주어"], ["sich", "재귀대명사"], ["morgens", "부사어(시간)"], ["frische Brötchen", "4격 목적어"], ["bringen lassen kann.", "동사(끝)"]]
         },
         {
-          "de": "Die Brötchen können Sie sich weiterhin bringen lassen: Hängen Sie einfach am Abend den Bestellzettel an die Tür, dann hängt die Bäckerei die Tüte bis 8 Uhr daran.",
-          "ko": "빵은 지금도 배달시키실 수 있어요. 저녁에 주문 쪽지를 문에 걸어 두시기만 하면 빵집에서 8시까지 거기에 빵 봉지를 걸어 놓아요.",
-          "mark": ["sich", "bringen lassen"]
+          "de": "Die Brötchen können Sie sich weiterhin bringen lassen",
+          "ko": "빵은 지금도 배달시키실 수 있어요.",
+          "mark": ["sich", "bringen lassen"],
+          "parts": [["Die Brötchen", "4격 목적어"], ["können", "동사"], ["Sie", "주어"], ["sich", "재귀대명사"], ["weiterhin", "부사어(시간)"], ["bringen lassen", "동사(끝)"]]
         }
       ],
-      "tip": "자주 쓰는 예: sich die Haare schneiden lassen(머리를 자르다, 미용실에서), sich ein Taxi rufen lassen(택시를 불러 달라고 함)이 있어요. 재귀대명사는 3격이에요: mir, dir, sich, uns, euch, sich."
+      "tip": "자주 쓰는 예로 sich die Haare schneiden lassen(미용실에서 머리를 자르다), sich ein Taxi rufen lassen(택시를 불러 달라고 하다)이 있어요. 4격 목적어(Brötchen, die Haare)가 따로 있어서 재귀대명사는 3격이에요: mir, dir, sich, uns, euch, sich."
     },
     {
       "title": "werden + 동사원형: 미래의 약속과 계획",
@@ -221,15 +222,15 @@
           "de": "Die Schlüssel werde ich Ihnen am Anreisetag persönlich übergeben, oder ich lasse sie bei meiner Nachbarin, falls ich nicht zu Hause bin.",
           "ko": "열쇠는 도착하시는 날에 제가 직접 드릴게요. 혹시 제가 집에 없으면 이웃집에 맡겨 둘게요.",
           "mark": ["werde", "übergeben"],
-          "parts": [["Die Schlüssel", "4격 목적어"], ["werde", "동사"], ["ich", "주어"], ["Ihnen", "3격 목적어"], ["am Anreisetag", "부사어(시간)"], ["persönlich", "부사어(방법)"], ["übergeben,", "동사(끝)"], ["oder ich lasse sie bei meiner Nachbarin, falls ich nicht zu Hause bin.", "기타"]]
+          "parts": [["Die Schlüssel", "4격 목적어"], ["werde", "동사"], ["ich", "주어"], ["Ihnen", "3격 목적어"], ["am Anreisetag", "부사어(시간)"], ["persönlich", "부사어(방법)"], ["übergeben,", "동사(끝)"], ["oder", "접속사"], ["ich", "주어"], ["lasse", "동사"], ["sie", "4격 목적어"], ["bei meiner Nachbarin,", "부사어(장소)"], ["falls ich nicht zu Hause bin.", "종속절"]]
         }
       ],
-      "tip": "같은 문단의 'Falls Sie sich für die Wohnung entscheiden, schicke ich Ihnen den Mietvertrag.'에서는 미래의 일을 현재형으로 말했어요. 독일어에서는 이렇게 현재형으로 미래를 말하는 경우가 아주 많아요. werden을 쓰면 약속이나 확신의 느낌이 더 강해져요."
+      "tip": "같은 문단의 'Falls Sie sich für die Wohnung entscheiden, schicke ich Ihnen den Mietvertrag per E-Mail.'에서는 미래의 일을 현재형으로 말했어요. 독일어에서는 이렇게 현재형으로 미래를 말하는 경우가 아주 많아요. werden을 쓰면 약속이나 확신의 느낌이 더 강해져요."
     },
     {
       "title": "falls: 조건을 말하는 종속접속사",
       "term": "Konditionalsatz mit falls",
-      "explain": "falls는 '만약 ~라면, ~할 경우에'라는 뜻이에요. wenn과 비슷하지만, falls는 그 일이 일어날지 확실하지 않을 때 써요. 그래서 '혹시'라는 느낌이 있어요. falls는 종속절을 이끌고, 동사는 종속절 끝에 와요. 종속절은 주절 앞이나 뒤에 올 수 있어요.",
+      "explain": "falls는 '만약 ~라면, ~할 경우에'라는 뜻이에요. 조건을 말할 때는 wenn도 쓸 수 있지만, falls는 그 일이 일어날지 확실하지 않다는 점을 더 분명히 보여 줘요. 우리말 '혹시 ~하면'과 비슷해요. falls는 종속절을 이끌고, 동사는 종속절 끝에 와요. 종속절은 주절 앞이나 뒤에 올 수 있어요.",
       "pattern": "Falls + 주어 … 동사(끝), 동사 + 주어 …  ·  주절, falls + 주어 … 동사(끝)",
       "examples": [
         {
