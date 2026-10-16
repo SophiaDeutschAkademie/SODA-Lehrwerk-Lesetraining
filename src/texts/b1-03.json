@@ -26,7 +26,7 @@
     },
     {
       "label": "B · Tim Albers, Buchhalter",
-      "de": "Ich mag Hunde wirklich. Trotzdem bin ich gegen Hunde im Büro, und ich war erleichtert, dass Ihr Artikel wenigstens kurz die Allergiker erwähnt. Ich bin einer von ihnen. Obwohl ich täglich Tabletten nehme, bekomme ich nach einer Stunde im selben Raum mit einem Hund tränende Augen und Atemprobleme. Vor zwei Jahren brachte ein Kollege seinen Hund mit, und ich musste schließlich das Zimmer wechseln. Niemand hatte mich vorher gefragt. Meiner Ansicht nach wird bei dieser Diskussion zu oft vergessen, dass nicht alle Menschen frei wählen können. Hätte ich keine Allergie, würde ich mich über einen Bürohund wahrscheinlich sogar freuen. So aber müsste ich den Arbeitgeber wechseln, wenn in meiner Firma plötzlich Hunde erlaubt wären.",
+      "de": "Ich mag Hunde wirklich. Trotzdem bin ich gegen Hunde im Büro, und ich war erleichtert, dass Ihr Artikel wenigstens kurz die Allergiker erwähnt hat. Ich bin einer von ihnen. Obwohl ich täglich Tabletten nehme, bekomme ich nach einer Stunde im selben Raum mit einem Hund tränende Augen und Atemprobleme. Vor zwei Jahren brachte ein Kollege seinen Hund mit, und ich musste schließlich das Zimmer wechseln. Niemand hatte mich vorher gefragt. Meiner Ansicht nach wird bei dieser Diskussion zu oft vergessen, dass nicht alle Menschen frei wählen können. Hätte ich keine Allergie, würde ich mich über einen Bürohund wahrscheinlich sogar freuen. So aber müsste ich den Arbeitgeber wechseln, wenn in meiner Firma plötzlich Hunde erlaubt wären.",
       "ko": "저는 개를 정말 좋아해요. 그런데도 사무실에 개를 데려오는 것에는 반대하고, 귀 신문의 기사가 적어도 알레르기가 있는 사람들을 잠깐이나마 언급해서 마음이 놓였어요. 제가 바로 그런 사람이에요. 매일 약을 먹는데도 개와 같은 방에 한 시간만 있으면 눈물이 나고 숨쉬기가 힘들어져요. 2년 전에 한 동료가 자기 개를 데려왔고, 결국 저는 방을 옮겨야 했어요. 아무도 제게 미리 물어보지 않았어요. 제 생각에 이 논의에서는 모든 사람이 자유롭게 선택할 수 있는 건 아니라는 점이 너무 자주 잊혀요. 알레르기가 없다면 저도 사무실 개를 아마 반길 거예요. 하지만 지금 상태로는 우리 회사에서 갑자기 개를 허용한다면 직장을 옮겨야 할 거예요."
     },
     {
@@ -182,10 +182,10 @@
           "parts": [["Obwohl ich täglich Tabletten nehme,", "종속절"], ["bekomme", "동사"], ["ich", "주어"], ["nach einer Stunde im selben Raum mit einem Hund", "부사어"], ["tränende Augen und Atemprobleme.", "4격 목적어"]]
         },
         {
-          "de": "Trotzdem bin ich gegen Hunde im Büro, und ich war erleichtert, dass Ihr Artikel wenigstens kurz die Allergiker erwähnt.",
+          "de": "Trotzdem bin ich gegen Hunde im Büro, und ich war erleichtert, dass Ihr Artikel wenigstens kurz die Allergiker erwähnt hat.",
           "ko": "그런데도 사무실에 개를 데려오는 것에는 반대하고, 귀 신문의 기사가 적어도 알레르기가 있는 사람들을 잠깐이나마 언급해서 마음이 놓였어요.",
           "mark": ["Trotzdem bin ich"],
-          "parts": [["Trotzdem", "접속부사"], ["bin", "동사"], ["ich", "주어"], ["gegen Hunde im Büro,", "전치사 목적어"], ["und", "접속사"], ["ich", "주어"], ["war", "동사"], ["erleichtert,", "보어"], ["dass Ihr Artikel wenigstens kurz die Allergiker erwähnt.", "종속절"]]
+          "parts": [["Trotzdem", "접속부사"], ["bin", "동사"], ["ich", "주어"], ["gegen Hunde im Büro,", "전치사 목적어"], ["und", "접속사"], ["ich", "주어"], ["war", "동사"], ["erleichtert,", "보어"], ["dass Ihr Artikel wenigstens kurz die Allergiker erwähnt hat.", "종속절"]]
         },
         {
           "de": "Obwohl wir anfangs Zweifel hatten, läuft es bisher ohne größere Probleme.",

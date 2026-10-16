@@ -98,13 +98,13 @@
       "q": "Warum ist Schlaf beim Lernen so wichtig?",
       "options": [
         "Weil man im Schlaf vergisst, was man gelernt hat.",
-        "Weil sich der Kopf beim Schlafen den Lernstoff merkt.",
+        "Weil sich der Kopf beim Schlafen merkt, was man gelernt hat.",
         "Weil müde Schüler am Morgen schneller lernen."
       ],
       "answer": 1,
       "evidence": "Im Schlaf speichert dein Gehirn, was du gelernt hast.",
       "pairs": [["Im Schlaf", "beim Schlafen"], ["speichert", "merkt"], ["dein Gehirn", "der Kopf"]],
-      "explain": "본문에서는 자는 동안 뇌가 배운 것을 저장한다고 해요. Gehirn(뇌)을 Kopf(머리)로, speichern(저장하다)을 sich merken(기억해 두다)으로, 'was du gelernt hast'를 Lernstoff(학습 내용)로 바꿨어요. 첫 번째 선택지는 Schlaf, gelernt를 그대로 쓰면서 반대 내용을 말해요."
+      "explain": "본문에서는 자는 동안 뇌가 배운 것을 저장한다고 해요. Gehirn(뇌)을 Kopf(머리)로, speichern(저장하다)을 sich merken(기억해 두다)으로, im Schlaf를 beim Schlafen으로 바꿨어요. 첫 번째 선택지는 Schlaf, gelernt를 그대로 쓰지만 '잊어버린다'고 해서 내용이 반대예요."
     },
     {
       "type": "rf",
@@ -146,11 +146,11 @@
     {
       "type": "rf",
       "kind": "detail",
-      "q": "Bei großer Prüfungsangst soll man laut Text mit anderen Menschen reden.",
+      "q": "Wer vor Prüfungen große Angst hat, soll mit anderen Menschen reden.",
       "answer": 0,
       "evidence": "solltest du mit jemandem sprechen: mit deinen Eltern oder einem Lehrer",
-      "pairs": [["mit jemandem sprechen", "mit anderen Menschen reden"], ["vor jeder Prüfung nicht schlafen kannst oder wenn dir schlecht wird", "Bei großer Prüfungsangst"]],
-      "explain": "본문은 시험 전마다 잠을 못 자거나 속이 안 좋아지면 누군가와 이야기하라고 해요. 이런 심한 증상을 문제에서는 '큰 시험 불안'으로, sprechen을 reden으로 바꿔 말했어요. 조금 긴장하는 것은 정상이라고 했으니, 모든 긴장이 아니라 심한 경우를 말하는 거예요."
+      "pairs": [["mit jemandem sprechen", "mit anderen Menschen reden"], ["vor jeder Prüfung nicht schlafen kannst oder wenn dir schlecht wird", "vor Prüfungen große Angst hat"]],
+      "explain": "본문은 시험 전마다 잠을 못 자거나 속이 안 좋아지면 누군가와 이야기하라고 해요. 이런 심한 증상을 문제에서는 '시험이 많이 두렵다'로, sprechen을 reden으로 바꿔 말했어요. 조금 긴장하는 것은 정상이라고 했으니, 모든 긴장이 아니라 심한 경우를 말하는 거예요."
     }
   ],
   "grammar": [
