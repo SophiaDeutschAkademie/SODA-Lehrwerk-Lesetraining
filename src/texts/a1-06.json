@@ -63,7 +63,7 @@
       "q": "Am Montag kann man keine Bücher zurückgeben.",
       "answer": 1,
       "evidence": "Den Rückgabeautomaten am Eingang können Sie immer benutzen – 24 Stunden am Tag, auch am Sonntag und am Montag.",
-      "pairs": [["auch am Sonntag und am Montag", "Am Montag"], ["ist die Bibliothek geschlossen", "kann man keine Bücher zurückgeben"]],
+      "pairs": [["können Sie immer benutzen", "kann man keine Bücher zurückgeben"], ["auch am Sonntag und am Montag", "Am Montag"]],
       "explain": "월요일에는 도서관이 닫혀 있지만, 입구의 반납기는 하루 24시간, 일요일과 월요일에도 이용할 수 있어요. 그래서 월요일에도 책을 반납할 수 있어요. '월요일 휴관'만 보고 답하면 틀려요." }
   ],
   "grammar": [
