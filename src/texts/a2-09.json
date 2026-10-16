@@ -178,7 +178,7 @@
     {
       "title": "과거형 – 규칙 동사와 불규칙 동사",
       "term": "Präteritum",
-      "explain": "글로 쓴 이야기에서는 지난 일을 주로 과거형으로 써요. 규칙 동사는 어간에 -te를 붙여요: stellen → stellte, klopfen → klopfte. 어간이 -t, -d로 끝나는 동사와 öffnen 같은 동사는 -ete가 돼요: warten → wartete, öffnen → öffnete. 불규칙 동사는 어간의 모음이 바뀌고 -te가 붙지 않아요: kommen → kam, nehmen → nahm, sehen → sah, rufen → rief. denken → dachte, kennen → kannte처럼 모음이 바뀌면서 -te도 붙는 동사도 있어요. 분리동사는 현재형처럼 접두사가 문장 끝으로 가요: Er stellte seine Tasche ab. ich와 er/sie/es는 형태가 같아요(ich kam, er kam).",
+      "explain": "글로 쓴 이야기에서는 지난 일을 주로 과거형으로 써요. 규칙 동사는 어간에 -te를 붙이고(stellen → stellte, klopfen → klopfte), 어간이 -t, -d 등으로 끝나면 -ete를 붙여요(warten → wartete, öffnen → öffnete). 불규칙 동사는 어간의 모음이 바뀌고 -te가 붙지 않아요: kommen → kam, nehmen → nahm, sehen → sah, rufen → rief. denken → dachte, kennen → kannte처럼 모음이 바뀌면서 -te도 붙는 동사도 있어요. 분리동사는 현재형처럼 접두사가 문장 끝으로 가요: Er stellte seine Tasche ab. ich와 er/sie/es는 형태가 같아요(ich kam, er kam).",
       "pattern": "규칙: 어간 + -(e)te (stellte, wartete) · 불규칙: 모음 변화 (kam, nahm, rief) · 모음 변화 + -te (dachte, kannte)",
       "examples": [
         {

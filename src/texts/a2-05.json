@@ -113,7 +113,7 @@
       "tip": "본문의 Darauf는 바로 앞의 두 질문(건강한가? 공간이 충분한가?)을 가리켜요. 이렇게 da(r)-는 앞 문장 전체를 받을 수 있어요. 'Woran denken Sie?'(무엇을 생각하세요?)와 'An wen denken Sie?'(누구를 생각하세요?)의 차이에 주의하세요. 본문의 '…, darum finden die Bienen überall Blüten'에서 darum은 '그래서'라는 뜻의 접속부사로, deshalb와 같은 뜻이에요. 이때는 um das라는 뜻이 아니에요." },
     { "title": "seit + 3격: 언제부터 지금까지",
       "term": "Präposition seit + Dativ",
-      "explain": "seit는 과거의 어느 때부터 지금까지 계속되는 일을 말할 때 써요. 뒤에는 항상 3격이 와요: seit drei Jahren, seit meiner Kindheit, seit dem ersten Tag. 복수 3격에는 -n이 붙어요: drei Jahre → seit drei Jahren(복수형이 이미 -n이나 -s로 끝나면 그대로예요). 질문은 Seit wann …?으로 해요. 중요한 점은 동사의 시제예요. 한국어로는 '3년 전부터 양봉가로 일했어요'처럼 과거로 말하지만, 독일어에서는 그 일이 지금도 계속되므로 현재형을 써요: Seit drei Jahren bin ich Imkerin.",
+      "explain": "seit는 과거의 어느 때부터 지금까지 계속되는 일을 말할 때 써요. 뒤에는 항상 3격이 와요: seit drei Jahren, seit meiner Kindheit, seit dem ersten Tag. 복수 3격에는 -n이 붙어요: drei Jahre → seit drei Jahren(복수형이 이미 -n이나 -s로 끝나면 그대로예요). 질문은 Seit wann …?으로 해요. 중요한 점은 동사의 시제예요. 한국어로는 '3년 전부터 양봉가로 일했어요'처럼 과거로 말할 때가 많지만, 독일어에서는 그 일이 지금도 계속되므로 현재형을 써요: Seit drei Jahren bin ich Imkerin.",
       "pattern": "seit + 3격 + 현재형 동사",
       "examples": [
         { "de": "Frau Ruf, seit wann sind Sie Imkerin?",

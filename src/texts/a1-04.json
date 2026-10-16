@@ -299,7 +299,7 @@
     {
       "title": "시각과 하루의 때",
       "term": "Uhrzeiten und Tageszeiten",
-      "explain": "'몇 시에'라고 할 때는 'um + 시각'을 써요: um drei Uhr, um halb drei(2시 반), um 20 Uhr. '~까지'는 bis예요: bis 13 Uhr. 하루의 때는 'am + 명사'로 말해요: am Morgen, am Nachmittag, am Abend. 그런데 밤은 in der Nacht예요. morgens, abends처럼 -s를 붙이면 '아침마다, 저녁마다'라는 뜻이 돼요.",
+      "explain": "'~시에'라고 할 때는 'um + 시각'을 써요: um drei Uhr, um halb drei(2시 반), um 20 Uhr. '~까지'는 bis예요: bis 13 Uhr. 하루의 때는 'am + 명사'로 말해요: am Morgen, am Nachmittag, am Abend. 그런데 밤은 in der Nacht예요. morgens, abends처럼 -s를 붙이면 '아침마다, 저녁마다'라는 뜻이 돼요.",
       "pattern": "um drei Uhr · um halb drei (2:30) · bis 13 Uhr · am Nachmittag · am Abend · morgens",
       "examples": [
         {
@@ -357,7 +357,7 @@
           ]
         }
       ],
-      "tip": "halb drei는 3시 반이 아니라 2시 반이에요. 글이나 공식 안내에서는 13 Uhr, 20 Uhr처럼 24시간제로 말하는 경우가 많아요."
+      "tip": "halb drei는 3시 반이 아니라 2시 반이에요. 글이나 공식 안내에서는 13 Uhr, 20 Uhr처럼 24시간제로 말하는 경우가 많아요. am Morgen의 Morgen은 명사라서 대문자로 쓰지만, morgens는 부사라서 소문자로 써요. 예문의 Morgens는 문장 맨 앞이라서 대문자예요."
     }
   ],
   "vocab": [

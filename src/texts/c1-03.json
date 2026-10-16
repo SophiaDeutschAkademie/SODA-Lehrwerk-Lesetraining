@@ -7,7 +7,12 @@
   "type": "Kommentar / Gastbeitrag",
   "typeKo": "신문 기고문 (논평)",
   "intro": "공공 박물관의 입장료를 없애야 한다고 주장하는 기고문이에요.",
-  "focus": ["wenn 없는 조건문 (동사 첫 자리 · Sollte …)", "es sei denn · vorausgesetzt(, dass)", "논증에서의 접속법 2식", "양보 → 반박 구조 (Gewiss …, doch …)"],
+  "focus": [
+    "wenn 없는 조건문 (동사 첫 자리 · Sollte …)",
+    "es sei denn · vorausgesetzt(, dass)",
+    "논증에서의 접속법 2식",
+    "양보 → 반박 구조 (Gewiss …, doch …)"
+  ],
   "paragraphs": [
     {
       "style": "meta",
@@ -52,7 +57,16 @@
       ],
       "answer": 1,
       "evidence": "Bei Museen hingegen nehmen wir genau das als selbstverständlich hin.",
-      "pairs": [["nehmen wir genau das als selbstverständlich hin", "nicht mehr hinterfragen"], ["Der Aufschrei wäre gewaltig", "wie merkwürdig eine Praxis ist"]],
+      "pairs": [
+        [
+          "nehmen wir genau das als selbstverständlich hin",
+          "nicht mehr hinterfragen"
+        ],
+        [
+          "Der Aufschrei wäre gewaltig",
+          "wie merkwürdig eine Praxis ist"
+        ]
+      ],
       "explain": "도서관이 입장료를 받으면 모두가 분노할 텐데, 박물관에서는 똑같은 일을 당연하게 받아들인다는 대비예요. 익숙해져서 의문을 품지 않게 된 관행이 사실은 이상하다는 것을 보여 주려는 장치예요. 도서관 요금을 실제로 요구하거나 과거 사실을 말하는 것이 아니에요."
     },
     {
@@ -61,7 +75,16 @@
       "q": "Der Autor räumt ein, dass der Betrieb eines Museums mit hohen Ausgaben verbunden ist.",
       "answer": 0,
       "evidence": "Gewiss, Museen kosten Geld, und zwar viel.",
-      "pairs": [["Gewiss, Museen kosten Geld, und zwar viel.", "mit hohen Ausgaben verbunden"]],
+      "pairs": [
+        [
+          "Gewiss",
+          "räumt ein"
+        ],
+        [
+          "Museen kosten Geld, und zwar viel",
+          "der Betrieb eines Museums mit hohen Ausgaben verbunden ist"
+        ]
+      ],
       "explain": "Gewiss(물론)로 시작하는 문장은 반대편 주장을 일단 인정하는 양보예요. '박물관은 돈이 든다, 그것도 많이'를 '높은 지출과 결부되어 있다'로 바꿔 말했어요. 글쓴이는 이 점을 인정한 뒤 Doch로 반박을 시작해요."
     },
     {
@@ -76,7 +99,16 @@
       ],
       "answer": 2,
       "evidence": "Das ist keine Frage der Möglichkeit, sondern des Willens.",
-      "pairs": [["keine Frage der Möglichkeit", "ließe sich sichern"], ["des Willens", "wenn die Politik dazu entschlossen wäre"]],
+      "pairs": [
+        [
+          "keine Frage der Möglichkeit",
+          "ließe sich sichern"
+        ],
+        [
+          "des Willens",
+          "wenn die Politik dazu entschlossen wäre"
+        ]
+      ],
       "explain": "바로 앞 문장에서 글쓴이는 공공 부문(die öffentliche Hand)이 문화적 책무를 끝까지 재정적으로 책임질 뜻만 있으면 구멍을 메울 수 있다고 해요. 따라서 '의지'는 정치의 의지를 말해요. 박물관이나 관람객의 의지가 아니고, 불가능하다는 뜻은 더더욱 아니에요."
     },
     {
@@ -85,8 +117,17 @@
       "q": "Nach Ansicht des Autors hätten die meisten Museen bei freiem Eintritt mit zu vielen Besuchern zu kämpfen.",
       "answer": 1,
       "evidence": "Für die große Mehrheit der Häuser gilt eher das Gegenteil: Sie wären froh über jeden zusätzlichen Besucher.",
-      "pairs": [["Sie wären froh über jeden zusätzlichen Besucher", "mit zu vielen Besuchern zu kämpfen"], ["Für die große Mehrheit der Häuser", "die meisten Museen"]],
-      "explain": "글쓴이는 과밀이 소수의 인기 박물관에만 해당할 수 있고, 대다수 박물관은 오히려 관람객이 한 명이라도 늘면 반가워할 것이라고 해요. 문제는 überfüllt라는 반론 쪽 단어를 끌어와 글쓴이의 의견인 것처럼 말해요."
+      "pairs": [
+        [
+          "Sie wären froh über jeden zusätzlichen Besucher",
+          "mit zu vielen Besuchern zu kämpfen"
+        ],
+        [
+          "Für die große Mehrheit der Häuser",
+          "die meisten Museen"
+        ]
+      ],
+      "explain": "글쓴이는 과밀이 소수의 인기 박물관에만 해당할 수 있고, 대다수 박물관은 오히려 관람객이 한 명이라도 늘면 반가워할 것이라고 해요. 이 문장은 반론에 나오는 과밀(überfüllte Säle) 이야기를 글쓴이의 의견인 것처럼 바꿔 놓은 함정이에요."
     },
     {
       "type": "mc",
@@ -94,14 +135,23 @@
       "q": "Was wird im Text über die britischen Museen ohne Eintritt gesagt?",
       "options": [
         "Sie finanzieren sich inzwischen vollständig durch Spenden.",
-        "Sie verlangen nur für Ausstellungen Geld, die zeitlich begrenzt sind.",
         "Sie haben die Besucherzahlen durch Zeitfenster begrenzen müssen.",
-        "Sie öffnen ihre Sammlungen nur an bestimmten Vormittagen kostenlos."
+        "Sie öffnen ihre Sammlungen nur an bestimmten Vormittagen kostenlos.",
+        "Sie verlangen nur für zeitlich begrenzte Ausstellungen Geld."
       ],
-      "answer": 1,
+      "answer": 3,
       "evidence": "bezahlt wird nur für Sonderschauen",
-      "pairs": [["Sonderschauen", "Ausstellungen Geld, die zeitlich begrenzt sind"], ["keinen Eintritt für ihre Dauerausstellungen", "nur für Ausstellungen"]],
-      "explain": "Sonderschau(특별전)는 기간이 정해진 전시예요. 그래서 '기간이 한정된 전시에만 돈을 받는다'가 정답이에요. 기부는 카페·상점과 함께 자체 수입의 일부일 뿐이고, 시간대별 입장은 영국이 아니라 혼잡 대책으로 제안된 것이에요. 화요일 오전은 글쓴이가 묘사한 장면일 뿐이에요."
+      "pairs": [
+        [
+          "bezahlt wird nur für Sonderschauen",
+          "nur für zeitlich begrenzte Ausstellungen Geld"
+        ],
+        [
+          "über Cafés, Läden und Spenden erhebliche Eigenmittel",
+          "vollständig durch Spenden"
+        ]
+      ],
+      "explain": "Sonderschau(특별전)는 기간이 정해진 전시이므로 '기간이 한정된 전시에만 돈을 받는다'가 정답이에요. 기부는 카페·상점과 함께 자체 수입의 일부일 뿐이고, 시간대별 입장(Zeitfenster)은 영국 이야기가 아니라 붐빌 때를 위한 대책으로 나와요. 화요일 오전은 관람 풍경을 묘사한 장면일 뿐이에요."
     },
     {
       "type": "rfn",
@@ -109,7 +159,12 @@
       "q": "In Großbritannien hat die Zahl der Museumsbesucher seit der Abschaffung des Eintritts stark zugenommen.",
       "answer": 2,
       "evidence": null,
-      "pairs": [["Sie gehören zu den meistbesuchten der Welt", "seit der Abschaffung des Eintritts stark zugenommen"]],
+      "pairs": [
+        [
+          "Sie gehören zu den meistbesuchten der Welt",
+          "seit der Abschaffung des Eintritts stark zugenommen"
+        ]
+      ],
       "explain": "본문은 영국의 박물관들이 세계에서 가장 많이 찾는 곳에 속한다고만 해요. 입장료를 없앤 뒤 관람객이 늘었는지, 얼마나 늘었는지는 말하지 않아요. meistbesucht라는 단어 때문에 증가 추세를 넘겨짚기 쉽지만, 본문에는 이전과의 비교가 없어요."
     },
     {
@@ -118,13 +173,26 @@
       "q": "Was ist mit „die unsichtbare Schwelle“ im Text gemeint?",
       "options": [
         "die Treppenstufen am Eingang, die für ältere Besucher ein Hindernis sind",
-        "die innere Hürde, die das Bezahlen aufbaut und die spontane Besuche verhindert",
+        "die innere Hürde, die durch das Bezahlen entsteht und spontane Besuche verhindert",
         "die Preisgrenze, ab der Familien sich den Eintritt nicht mehr leisten können",
         "die Wartezeit an der Kasse, die viele Besucher abschreckt"
       ],
       "answer": 1,
       "evidence": "Wer zahlt, erwartet eine Gegenleistung, plant den Besuch wie einen Theaterabend und kommt entsprechend selten.",
-      "pairs": [["unsichtbare Schwelle", "innere Hürde"], ["plant den Besuch wie einen Theaterabend und kommt entsprechend selten", "spontane Besuche verhindert"]],
+      "pairs": [
+        [
+          "unsichtbare Schwelle",
+          "innere Hürde"
+        ],
+        [
+          "Wer zahlt, erwartet eine Gegenleistung",
+          "die durch das Bezahlen entsteht"
+        ],
+        [
+          "plant den Besuch wie einen Theaterabend und kommt entsprechend selten",
+          "spontane Besuche verhindert"
+        ]
+      ],
       "explain": "Schwelle는 원래 문지방이지만 여기서는 비유예요. 돈을 내면 방문을 연극 관람처럼 계획하게 되어 자주 오지 않게 된다는 심리적인 문턱, 즉 즉흥적인 방문을 막는 마음속 장벽을 뜻해요. 가족의 비용 부담은 바로 앞에서 다룬 '보이는' 장벽이고, 글쓴이는 보이지 않는 문턱이 '더 무겁다'고 해요."
     },
     {
@@ -135,12 +203,21 @@
         "Museen sollten ihren Anspruch aufgeben, allen Menschen zu gehören.",
         "Ohne Eintritt könnte das Museum endlich einlösen, was es sich selbst seit jeher zum Ziel gesetzt hat.",
         "Museen haben schon immer allen gehört, weil sie mit öffentlichen Mitteln finanziert werden.",
-        "Das Museum wird erst dann zu einem öffentlichen Ort, wenn alle Bürger dafür bezahlen."
+        "Ein Ort für alle wird das Museum erst, wenn jeder Besucher an der Kasse seinen Beitrag leistet."
       ],
       "answer": 1,
       "evidence": "Erst dann wird aus dem Museum das, was es dem Anspruch nach immer sein wollte: ein Ort, der allen gehört.",
-      "pairs": [["was es dem Anspruch nach immer sein wollte", "was es sich selbst seit jeher zum Ziel gesetzt hat"], ["Erst dann", "Ohne Eintritt könnte das Museum endlich"]],
-      "explain": "dem Anspruch nach(이상에 따르면)는 박물관이 스스로 내세운 목표를 뜻하고, erst dann은 매표소가 사라진 뒤에야 비로소 그 목표가 실현된다는 말이에요. 이미 모두의 것이라는 선택지는 '그제야(erst dann)'와 맞지 않아요."
+      "pairs": [
+        [
+          "was es dem Anspruch nach immer sein wollte",
+          "was es sich selbst seit jeher zum Ziel gesetzt hat"
+        ],
+        [
+          "Erst dann",
+          "Ohne Eintritt könnte das Museum endlich"
+        ]
+      ],
+      "explain": "dem Anspruch nach(이상에 따르면)는 박물관이 스스로 내세운 목표를 뜻하고, erst dann은 매표소가 사라진 뒤에야 비로소 그 목표가 실현된다는 말이에요. 이미 모두의 것이라는 선택지는 '그제야(erst dann)'와 맞지 않고, 관람객이 모두 매표소에서 돈을 내야 한다는 선택지는 글쓴이의 주장과 정반대예요."
     },
     {
       "type": "mc",
@@ -154,23 +231,45 @@
       ],
       "answer": 0,
       "evidence": "an dem ohnehin die Hälfte der Häuser geschlossen ist",
-      "pairs": [["die Hälfte der Häuser geschlossen ist", "viele Museen gar nicht geöffnet haben"], ["nicht der Montag", "nicht in Frage"]],
+      "pairs": [
+        [
+          "die Hälfte der Häuser geschlossen ist",
+          "viele Museen gar nicht geöffnet haben"
+        ],
+        [
+          "nicht der Montag",
+          "nicht in Frage"
+        ]
+      ],
       "explain": "글쓴이는 월요일에는 어차피 박물관 절반이 문을 닫는다고 해요. geschlossen(닫힌)을 nicht geöffnet(열지 않은)로, die Hälfte der Häuser를 viele Museen으로 바꿔 말했어요. 관람객 수나 가족의 시간, 특별전 준비는 본문에 나오지 않는 이유예요."
     },
     {
       "type": "mc",
       "kind": "detail",
-      "q": "Unter welcher Bedingung hält der Autor eine Unterstützung finanzschwacher Kommunen durch das Land für verzichtbar?",
+      "q": "Unter welcher Bedingung könnte das Land nach Ansicht des Autors darauf verzichten, finanzschwache Kommunen zu unterstützen?",
       "options": [
-        "wenn die Kommunen den freien Eintritt aus eigenen Mitteln bezahlen wollen",
-        "wenn die Besucherzahlen an den kostenlosen Tagen nicht steigen",
-        "wenn die Gesellschaft bereit wäre zu akzeptieren, dass der Zugang zur Kultur vom Wohnort abhängt",
-        "wenn die Museen genügend Eigenmittel über Cafés und Läden erwirtschaften"
+        "wenn sich zeigt, dass die Besucherzahlen an den kostenlosen Tagen deutlich steigen",
+        "wenn verhindert werden soll, dass der Wohnort über kulturelle Teilhabe entscheidet",
+        "wenn die Gesellschaft bereit ist hinzunehmen, dass der Zugang zur Kultur davon bestimmt wird, wo man lebt",
+        "wenn sich der freie Eintritt in Großbritannien bewährt hat"
       ],
       "answer": 2,
       "evidence": "es sei denn, wir nähmen in Kauf, dass kulturelle Teilhabe künftig vom Wohnort abhängt",
-      "pairs": [["es sei denn, wir nähmen in Kauf", "wenn die Gesellschaft bereit wäre zu akzeptieren"], ["kulturelle Teilhabe", "der Zugang zur Kultur"]],
-      "explain": "es sei denn은 '~라면 모를까'라는 뜻으로 유일한 예외 조건을 말해요. 글쓴이는 문화적 참여가 사는 곳에 따라 좌우되는 것을 감수할 때만 주 정부의 지원이 불필요하다고 해요. 물론 이것은 받아들일 수 없는 조건이라는 뜻이 담긴 반어적 표현이에요. 자체 재원이 있는 지자체는 애초에 지원 대상이 아니에요."
+      "pairs": [
+        [
+          "es sei denn, wir nähmen in Kauf",
+          "wenn die Gesellschaft bereit ist hinzunehmen"
+        ],
+        [
+          "kulturelle Teilhabe künftig vom Wohnort abhängt",
+          "der Zugang zur Kultur davon bestimmt wird, wo man lebt"
+        ],
+        [
+          "Kommunen, die das nicht aus eigener Kraft stemmen können",
+          "finanzschwache Kommunen"
+        ]
+      ],
+      "explain": "es sei denn은 '~라면 모를까'라는 뜻으로 유일한 예외 조건을 나타내요. 글쓴이는 형편이 어려운 지자체를 주 정부가 지원해야 한다고 하면서, 예외는 문화적 참여가 사는 곳에 따라 좌우되는 것을 우리가 감수하는 경우뿐이라고 해요. 관람객 수 증가는 무료입장을 넓히는 조건이고, '사는 곳이 문화 참여를 좌우하지 않게 하려면'은 거꾸로 지원이 꼭 필요한 경우예요."
     }
   ],
   "grammar": [
@@ -183,19 +282,70 @@
         {
           "de": "Fiele der Eintritt weg, entstünde eine Lücke, die sich schließen ließe, vorausgesetzt, die öffentliche Hand wäre bereit, den Kulturauftrag, den sie den Museen erteilt hat, auch vollständig zu finanzieren.",
           "ko": "입장료가 없어지면 재정에 구멍이 생기겠지만, 그 구멍은 메울 수 있습니다. 공공 부문이 박물관에 부여한 문화적 책무를 끝까지 재정적으로 책임질 뜻만 있다면 말입니다.",
-          "mark": ["Fiele der Eintritt weg", "entstünde"],
-          "parts": [["Fiele der Eintritt weg,", "종속절"], ["entstünde", "동사"], ["eine Lücke,", "주어"], ["die sich schließen ließe,", "관계절"], ["vorausgesetzt, die öffentliche Hand wäre bereit, den Kulturauftrag, den sie den Museen erteilt hat, auch vollständig zu finanzieren.", "종속절"]]
+          "mark": [
+            "Fiele der Eintritt weg",
+            "entstünde"
+          ],
+          "parts": [
+            [
+              "Fiele der Eintritt weg,",
+              "종속절"
+            ],
+            [
+              "entstünde",
+              "동사"
+            ],
+            [
+              "eine Lücke,",
+              "주어"
+            ],
+            [
+              "die sich schließen ließe,",
+              "관계절"
+            ],
+            [
+              "vorausgesetzt, die öffentliche Hand wäre bereit, den Kulturauftrag, den sie den Museen erteilt hat, auch vollständig zu finanzieren.",
+              "종속절"
+            ]
+          ]
         },
         {
           "de": "Fällt die Kasse weg, verändert sich das Verhältnis zum Haus grundlegend.",
           "ko": "매표소가 사라지면 박물관과 맺는 관계가 근본적으로 달라집니다.",
-          "mark": ["Fällt die Kasse weg", "verändert"],
-          "parts": [["Fällt die Kasse weg,", "종속절"], ["verändert", "동사"], ["sich", "재귀대명사"], ["das Verhältnis zum Haus", "주어"], ["grundlegend.", "부사어(방법)"]]
+          "mark": [
+            "Fällt die Kasse weg",
+            "verändert"
+          ],
+          "parts": [
+            [
+              "Fällt die Kasse weg,",
+              "종속절"
+            ],
+            [
+              "verändert",
+              "동사"
+            ],
+            [
+              "sich",
+              "재귀대명사"
+            ],
+            [
+              "das Verhältnis zum Haus",
+              "주어"
+            ],
+            [
+              "grundlegend.",
+              "부사어(방법)"
+            ]
+          ]
         },
         {
           "de": "Sollte sich zeigen, dass die Besucherzahlen an diesen Tagen deutlich steigen – und alles spricht dafür –, ließe sich der freie Eintritt schrittweise ausweiten.",
           "ko": "그날들의 관람객 수가 뚜렷이 늘어나는 것으로 드러난다면 – 모든 정황이 그렇게 될 것임을 말해 줍니다 – 무료입장을 단계적으로 넓혀 갈 수 있을 것입니다.",
-          "mark": ["Sollte sich zeigen", "ließe sich"]
+          "mark": [
+            "Sollte sich zeigen",
+            "ließe sich"
+          ]
         }
       ],
       "tip": "동사가 첫 자리에 오는 문장은 의문문과 모양이 같아요. 뒤에 쉼표와 주절이 이어지는지 보고 구별하세요. 현재형(Fällt …)은 일반적 조건, 접속법 2식(Fiele …)은 가정적 조건이에요."
@@ -209,18 +359,49 @@
         {
           "de": "Kommunen, die das nicht aus eigener Kraft stemmen können, müssten vom Land unterstützt werden, es sei denn, wir nähmen in Kauf, dass kulturelle Teilhabe künftig vom Wohnort abhängt.",
           "ko": "자체 힘으로 이를 감당할 수 없는 지자체는 주 정부의 지원을 받아야 합니다. 문화적 참여가 앞으로 사는 곳에 따라 좌우되는 것을 우리가 감수하겠다면 모를까요.",
-          "mark": ["es sei denn, wir nähmen in Kauf"],
-          "parts": [["Kommunen,", "주어"], ["die das nicht aus eigener Kraft stemmen können,", "관계절"], ["müssten", "동사"], ["vom Land", "부사어"], ["unterstützt werden,", "동사(끝)"], ["es sei denn, wir nähmen in Kauf, dass kulturelle Teilhabe künftig vom Wohnort abhängt.", "종속절"]]
+          "mark": [
+            "es sei denn, wir nähmen in Kauf"
+          ],
+          "parts": [
+            [
+              "Kommunen,",
+              "주어"
+            ],
+            [
+              "die das nicht aus eigener Kraft stemmen können,",
+              "관계절"
+            ],
+            [
+              "müssten",
+              "동사"
+            ],
+            [
+              "vom Land",
+              "부사어"
+            ],
+            [
+              "unterstützt werden,",
+              "동사(끝)"
+            ],
+            [
+              "es sei denn, wir nähmen in Kauf, dass kulturelle Teilhabe künftig vom Wohnort abhängt.",
+              "종속절"
+            ]
+          ]
         },
         {
           "de": "vorausgesetzt, die öffentliche Hand wäre bereit, den Kulturauftrag, den sie den Museen erteilt hat, auch vollständig zu finanzieren",
           "ko": "공공 부문이 박물관에 부여한 문화적 책무를 끝까지 재정적으로 책임질 뜻만 있다면",
-          "mark": ["vorausgesetzt, die öffentliche Hand wäre bereit"]
+          "mark": [
+            "vorausgesetzt, die öffentliche Hand wäre bereit"
+          ]
         },
         {
           "de": "Das mag für einige wenige Publikumsmagneten zutreffen, vorausgesetzt, man besucht sie an einem Sonntag im Juli.",
           "ko": "소수의 인기 박물관에는 그 말이 맞을지도 모릅니다. 7월의 어느 일요일에 찾아간다면 말입니다.",
-          "mark": ["vorausgesetzt, man besucht sie"]
+          "mark": [
+            "vorausgesetzt, man besucht sie"
+          ]
         }
       ],
       "tip": "es sei denn은 wenn … nicht로 바꿔 쓸 수 있어요. 'es sei denn, wir nähmen es in Kauf'는 'wenn wir es nicht in Kauf nähmen'과 같은 뜻이에요. 접속법 2식(nähmen)은 그 예외가 비현실적이라는 뉘앙스를 더해요."
@@ -234,18 +415,41 @@
         {
           "de": "Es wäre an der Zeit, diese Gewohnheit zu überdenken.",
           "ko": "이 관행을 다시 생각해 볼 때가 되었습니다.",
-          "mark": ["wäre"],
-          "parts": [["Es", "주어"], ["wäre", "동사"], ["an der Zeit,", "보어"], ["diese Gewohnheit zu überdenken.", "zu 부정사구"]]
+          "mark": [
+            "wäre"
+          ],
+          "parts": [
+            [
+              "Es",
+              "주어"
+            ],
+            [
+              "wäre",
+              "동사"
+            ],
+            [
+              "an der Zeit,",
+              "보어"
+            ],
+            [
+              "diese Gewohnheit zu überdenken.",
+              "zu 부정사구"
+            ]
+          ]
         },
         {
           "de": "Es wäre ein Fehler, hier auf einen Schlag alles zu verlangen.",
           "ko": "여기서 단번에 모든 것을 요구하는 것은 잘못일 것입니다.",
-          "mark": ["wäre"]
+          "mark": [
+            "wäre"
+          ]
         },
         {
           "de": "Niemand käme auf die Idee, für den Zugang zu einem Park Eintritt zu verlangen.",
           "ko": "공원에 들어가는 데 입장료를 받자는 생각은 아무도 하지 않을 것입니다.",
-          "mark": ["käme"]
+          "mark": [
+            "käme"
+          ]
         }
       ],
       "tip": "강변화 동사의 접속법 2식(käme, fiele, entstünde, nähme)은 격식 있는 글에서 würde + 동사원형보다 선호돼요. 말할 때는 würde kommen처럼 풀어 쓰는 경우가 많아요."
@@ -259,44 +463,132 @@
         {
           "de": "Gewiss, Museen kosten Geld, und zwar viel.",
           "ko": "물론 박물관은 돈이 듭니다. 그것도 많이 듭니다.",
-          "mark": ["Gewiss"]
+          "mark": [
+            "Gewiss"
+          ]
         },
         {
           "de": "Doch der Anteil der Eintrittsgelder an den Gesamteinnahmen ist bei den meisten öffentlichen Häusern erstaunlich gering; den weitaus größten Teil tragen ohnehin Bund, Länder und Kommunen, also wir alle.",
           "ko": "그러나 대부분의 공공 박물관에서 전체 수입 가운데 입장료가 차지하는 비중은 놀라울 만큼 작습니다. 훨씬 큰 몫은 어차피 연방과 주와 지자체, 즉 우리 모두가 부담합니다.",
-          "mark": ["Doch"]
+          "mark": [
+            "Doch"
+          ]
         },
         {
           "de": "Das mag für einige wenige Publikumsmagneten zutreffen, vorausgesetzt, man besucht sie an einem Sonntag im Juli.",
           "ko": "소수의 인기 박물관에는 그 말이 맞을지도 모릅니다. 7월의 어느 일요일에 찾아간다면 말입니다.",
-          "mark": ["mag", "zutreffen"],
-          "parts": [["Das", "주어"], ["mag", "동사"], ["für einige wenige Publikumsmagneten", "전치사 목적어"], ["zutreffen,", "동사(끝)"], ["vorausgesetzt, man besucht sie an einem Sonntag im Juli.", "종속절"]]
+          "mark": [
+            "mag",
+            "zutreffen"
+          ],
+          "parts": [
+            [
+              "Das",
+              "주어"
+            ],
+            [
+              "mag",
+              "동사"
+            ],
+            [
+              "für einige wenige Publikumsmagneten",
+              "전치사 목적어"
+            ],
+            [
+              "zutreffen,",
+              "동사(끝)"
+            ],
+            [
+              "vorausgesetzt, man besucht sie an einem Sonntag im Juli.",
+              "종속절"
+            ]
+          ]
         }
       ],
       "tip": "mögen은 여기서 '좋아하다'가 아니라 '~일지도 모른다'는 양보의 뜻이에요. Das mag sein, aber …(그럴지도 모르지만 …)로 외워 두면 좋아요."
     }
   ],
   "vocab": [
-    { "de": "der Eintritt (Sg.)", "ko": "입장(료)" },
-    { "de": "wohlgemerkt", "ko": "분명히 말해 두지만, 유의할 것은" },
-    { "de": "der Aufschrei, -e", "ko": "격한 항의, 아우성" },
-    { "de": "berechtigt", "ko": "정당한, 타당한" },
-    { "de": "erwerben (erwirbt, erwarb, hat erworben)", "ko": "구입하다, 취득하다" },
-    { "de": "überdenken (überdenkt, überdachte, hat überdacht)", "ko": "다시 생각하다, 재고하다" },
-    { "de": "das Depot, -s", "ko": "수장고, 보관 창고" },
-    { "de": "die Einnahmen (Pl.)", "ko": "수입" },
-    { "de": "die Kommune, -n", "ko": "지방자치단체" },
-    { "de": "der Einwand, -¨e", "ko": "반론, 이의" },
-    { "de": "überfüllt", "ko": "과밀한, 꽉 찬" },
-    { "de": "der Andrang (Sg.)", "ko": "혼잡, 쇄도" },
-    { "de": "erprobt", "ko": "검증된, 시험을 거친" },
-    { "de": "die Dauerausstellung, -en", "ko": "상설 전시" },
-    { "de": "erwirtschaften + Akk.", "ko": "(수익을) 벌어들이다" },
-    { "de": "das Hindernis, -se", "ko": "장애물, 장벽" },
-    { "de": "die Schwelle, -n", "ko": "문턱, 문지방" },
-    { "de": "die Gegenleistung, -en", "ko": "반대급부, 대가" },
-    { "de": "stemmen + Akk.", "ko": "(어려운 일을) 감당하다, 해내다" },
-    { "de": "die Teilhabe (Sg.)", "ko": "참여, 향유" }
+    {
+      "de": "der Eintritt (Sg.)",
+      "ko": "입장(료)"
+    },
+    {
+      "de": "wohlgemerkt",
+      "ko": "분명히 말해 두지만, 유의할 것은"
+    },
+    {
+      "de": "der Aufschrei, -e",
+      "ko": "격한 항의, 아우성"
+    },
+    {
+      "de": "berechtigt",
+      "ko": "정당한, 타당한"
+    },
+    {
+      "de": "erwerben (erwirbt, erwarb, hat erworben)",
+      "ko": "구입하다, 취득하다"
+    },
+    {
+      "de": "überdenken (überdenkt, überdachte, hat überdacht)",
+      "ko": "다시 생각하다, 재고하다"
+    },
+    {
+      "de": "das Depot, -s",
+      "ko": "수장고, 보관 창고"
+    },
+    {
+      "de": "die Einnahmen (Pl.)",
+      "ko": "수입"
+    },
+    {
+      "de": "die Kommune, -n",
+      "ko": "지방자치단체"
+    },
+    {
+      "de": "der Einwand, -¨e",
+      "ko": "반론, 이의"
+    },
+    {
+      "de": "überfüllt",
+      "ko": "과밀한, 꽉 찬"
+    },
+    {
+      "de": "der Andrang (Sg.)",
+      "ko": "혼잡, 쇄도"
+    },
+    {
+      "de": "erprobt",
+      "ko": "검증된, 시험을 거친"
+    },
+    {
+      "de": "die Dauerausstellung, -en",
+      "ko": "상설 전시"
+    },
+    {
+      "de": "erwirtschaften + Akk.",
+      "ko": "(수익을) 벌어들이다"
+    },
+    {
+      "de": "das Hindernis, -se",
+      "ko": "장애물, 장벽"
+    },
+    {
+      "de": "die Schwelle, -n",
+      "ko": "문턱, 문지방"
+    },
+    {
+      "de": "die Gegenleistung, -en",
+      "ko": "반대급부, 대가"
+    },
+    {
+      "de": "stemmen + Akk.",
+      "ko": "(어려운 일을) 감당하다, 해내다"
+    },
+    {
+      "de": "die Teilhabe (Sg.)",
+      "ko": "참여, 향유"
+    }
   ],
   "phrases": [
     {

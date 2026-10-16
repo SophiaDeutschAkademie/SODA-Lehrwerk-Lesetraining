@@ -94,8 +94,8 @@
     {
       "title": "4격과 부정관사 einen/eine/ein",
       "term": "Akkusativ mit unbestimmtem Artikel",
-      "explain": "verkaufen, suchen, verschenken, haben, brauchen 같은 동사의 목적어는 4격이에요. 부정관사는 4격에서 남성 명사 앞에서만 모양이 바뀌어요: ein → einen. 여성(eine)과 중성(ein)은 1격과 같아요. 그래서 'einen Babysitter'(남성), 'eine Stunde'(여성), 'ein Sofa'(중성)가 돼요. 광고에서는 주어 ich를 빼고 동사로 바로 시작하는 경우가 많아요: Verkaufe ein Kinderfahrrad.",
-      "pattern": "남성: einen Babysitter · 여성: eine Stunde · 중성: ein Sofa",
+      "explain": "verkaufen, suchen, verschenken, haben, brauchen 같은 동사의 목적어는 4격이에요. 부정관사는 4격에서 남성 명사 앞에서만 모양이 바뀌어요: ein → einen. 여성(eine)과 중성(ein)은 1격과 같아요. 그래서 'einen Babysitter'(남성), 'eine Babysitterin'(여성), 'ein Sofa'(중성)가 돼요. 광고에서는 주어 ich를 빼고 동사로 바로 시작하는 경우가 많은데, 동사는 ich 형태(-e) 그대로예요: Ich verkaufe ein Kinderfahrrad. → Verkaufe ein Kinderfahrrad.",
+      "pattern": "남성: einen Babysitter · 여성: eine Babysitterin · 중성: ein Sofa",
       "examples": [
         {
           "de": "Suche einen Babysitter für Dienstag und Donnerstag, von 15 bis 18 Uhr.",
@@ -115,8 +115,8 @@
     {
       "title": "kein과 nicht",
       "term": "Negation: kein vs. nicht",
-      "explain": "명사를 부정할 때는 kein을 써요. 부정관사가 있는 명사나 관사가 없는 명사 앞에 kein이 와요: ein Auto → kein Auto, einen Kratzer → keinen Kratzer, Aufzug → kein Aufzug. kein은 부정관사처럼 어미가 변해요. 동사, 형용사, 부사어, 정관사가 있는 명사를 부정할 때는 nicht를 써요. 'nicht neu'에서는 형용사를, 'nicht am Wochenende'에서는 부사어를 부정해요.",
-      "pattern": "kein + 명사 (ein Auto → kein Auto) · nicht + 동사/형용사/부사어",
+      "explain": "부정관사가 있는 명사나 관사 없이 쓰는 명사를 부정할 때는 kein을 써요: ein Auto → kein Auto, einen Kratzer → keinen Kratzer, Erfahrung → keine Erfahrung. kein은 부정관사처럼 어미가 변해요. 동사, 형용사, 부사어, 그리고 정관사나 소유관사가 있는 명사는 nicht로 부정해요. 'nicht neu'에서는 형용사를, 'nicht am Wochenende'에서는 부사어를 부정해요.",
+      "pattern": "kein + 명사: ein Auto → kein Auto · nicht + 형용사/부사어: nicht neu, nicht am Wochenende",
       "examples": [
         {
           "de": "Sie brauchen kein Auto – ich wohne direkt neben dem Supermarkt.",
@@ -133,16 +133,16 @@
         {
           "de": "Ich komme zu Ihnen nach Hause, aber nicht am Wochenende.",
           "ko": "댁으로 찾아가요. 하지만 주말은 안 돼요.",
-          "mark": ["nicht"],
+          "mark": ["nicht am Wochenende"],
           "parts": [["Ich", "주어"], ["komme", "동사"], ["zu Ihnen nach Hause,", "부사어(장소)"], ["aber", "접속사"], ["nicht", "부정어"], ["am Wochenende.", "부사어(시간)"]]
         }
       ],
-      "tip": "'Ich habe nicht ein Auto.'는 틀린 문장이에요. 부정관사 ein이 있던 자리에는 반드시 kein을 써요: Ich habe kein Auto."
+      "tip": "'차가 없어요'를 'Ich habe nicht ein Auto.'라고 하면 틀려요. 부정관사 ein 자리에는 kein을 써요: Ich habe kein Auto. 광고 C의 'kein Aufzug!'는 동사 없이 짧게 쓴 말이라서 1격이에요. es gibt를 넣어 문장으로 쓰면 4격이 돼요: Es gibt keinen Aufzug."
     },
     {
       "title": "숫자와 가격",
       "term": "Zahlen und Preise",
-      "explain": "가격은 '숫자 + Euro'로 말해요: 60 Euro, 15 Euro. Euro는 복수에서도 모양이 같아요. 'pro Stunde'는 '한 시간에', 'kostenlos'는 '무료'라는 뜻이에요. 범위는 'von … bis …'로 말해요: von 4 bis 7 Jahren, von 15 bis 18 Uhr. 'ab 18 Uhr'는 '18시부터'예요. 전화번호는 숫자를 하나씩 또는 두 개씩 끊어서 읽어요.",
+      "explain": "가격은 '숫자 + Euro'로 말해요: 60 Euro, 15 Euro. 숫자 뒤에서는 복수라도 Euro를 그대로 써요(60 Euros가 아니에요). 'pro Stunde'는 '한 시간에', 'kostenlos'는 '무료'라는 뜻이에요. 범위는 'von … bis …'로 말해요: von 4 bis 7 Jahren, von 15 bis 18 Uhr. 'ab 18 Uhr'는 '18시부터'예요. 전화번호는 숫자를 하나씩 또는 두 개씩 끊어서 읽어요.",
       "pattern": "60 Euro · 12 Euro pro Stunde · von 15 bis 18 Uhr · ab 18 Uhr",
       "examples": [
         {
@@ -158,7 +158,7 @@
           "parts": [["Eine Stunde", "주어"], ["kostet", "동사"], ["15 Euro,", "4격 목적어"], ["die erste Stunde", "주어"], ["ist", "동사"], ["kostenlos.", "보어"]]
         }
       ],
-      "tip": "독일어에서는 21부터 99까지 일의 자리를 먼저 말해요: 48 = achtundvierzig(8+40), 32 = zweiunddreißig(2+30)."
+      "tip": "독일어에서는 13부터 19까지, 그리고 21부터 99까지의 수에서 일의 자리를 먼저 말해요: 15 = fünfzehn(5+10), 48 = achtundvierzig(8+40), 32 = zweiunddreißig(2+30). 21부터 99까지는 일의 자리와 십의 자리 사이에 und를 넣어요."
     }
   ],
   "vocab": [

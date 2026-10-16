@@ -177,7 +177,7 @@
     {
       "title": "부정대명사 – jemand, niemand, etwas, nichts, alle, manche, man",
       "term": "Indefinitpronomen",
-      "explain": "누구인지, 무엇인지 정확히 말하지 않을 때 부정대명사를 써요. 사람에는 jemand(누군가)와 niemand(아무도 ~않다), 사물에는 etwas(무언가)와 nichts(아무것도 ~않다)를 써요. etwas와 nichts는 형태가 변하지 않고, jemand와 niemand는 4격·3격에서 jemanden, jemandem처럼 어미가 붙기도 해요. alle(모두), viele(많은 사람), manche(몇몇, 어떤)는 복수예요. 혼자 쓰기도 하고(Nicht alle haben so viel Glück) 명사 앞에 쓰기도 해요(Manche Sachen). vieles(많은 것)는 단수 형태로 '여러 가지 물건·일'을 뜻해요. man(사람들, 누구나)은 주어로만 쓰고, 동사는 3인칭 단수예요.",
+      "explain": "누구인지, 무엇인지 정확히 말하지 않을 때 부정대명사를 써요. 사람에는 jemand(누군가)와 niemand(아무도 ~않다), 사물에는 etwas(무언가)와 nichts(아무것도 ~않다)를 써요. etwas와 nichts는 형태가 변하지 않고, jemand와 niemand는 4격·3격에서 jemanden, jemandem처럼 어미가 붙기도 해요. alle(모두), viele(많은 사람), manche(몇몇, 어떤)는 복수이고, 혼자 쓰기도 하고(Nicht alle haben so viel Glück) 명사 앞에 쓰기도 해요(Manche Sachen). vieles(많은 것)는 단수 형태로 '여러 가지 물건·일'을 뜻해요. man(사람들, 누구나)은 주어로만 쓰고, 동사는 3인칭 단수예요.",
       "pattern": "jemand / niemand (사람) · etwas / nichts (사물) · alle / viele / manche (복수) · vieles (많은 것) · man (주어)",
       "examples": [
         {
@@ -258,7 +258,7 @@
     {
       "title": "3격 목적어와 4격 목적어가 함께 올 때",
       "term": "Dativ- und Akkusativobjekt im Satz",
-      "explain": "geben, bringen, zeigen 같은 동사는 목적어를 두 개 가질 수 있어요. 3격 목적어는 보통 사람이나 동물(누구에게?), 4격 목적어는 보통 물건(무엇을?)이에요: dem Hamster(3격) frisches Wasser(4격) geben. jemandem die Hand schütteln(~와 악수하다)도 같은 모양이에요: mir(3격) die Hand(4격). 둘 다 명사이면 보통 3격이 먼저 오고 4격이 뒤에 와요: Sie gibt dem Hamster frisches Wasser. 강조하고 싶은 목적어는 1번 자리로 보낼 수 있어요: Dem Hamster habe ich … gegeben.",
+      "explain": "geben, bringen, zeigen 같은 동사는 3격 목적어(보통 사람·동물, 누구에게?)와 4격 목적어(보통 물건, 무엇을?)를 함께 가질 수 있어요: dem Hamster(3격) frisches Wasser(4격) geben. jemandem die Hand schütteln(~와 악수하다)도 같은 모양이에요: mir(3격) die Hand(4격). 둘 다 명사이면 보통 3격이 먼저 오고 4격이 뒤에 와요: Sie gibt dem Hamster frisches Wasser. 강조하고 싶은 목적어는 1번 자리로 보낼 수 있어요: Dem Hamster habe ich … gegeben.",
       "pattern": "주어 + 동사 + 3격 명사(사람) + 4격 명사(물건)",
       "examples": [
         {
@@ -351,7 +351,7 @@
     {
       "title": "목적어가 대명사일 때의 어순",
       "term": "Objekte als Pronomen: Wortstellung",
-      "explain": "앞에서 이미 말한 명사는 다시 말할 때 인칭대명사로 바꿔요: den Ring → ihn, den Gegenstand → ihn, die Sachen → sie. 대명사 목적어는 보통 명사 목적어나 시간 표현보다 앞에 와요: Der Mann hat ihn noch am selben Abend abgeholt. / Er hat mir dreimal die Hand geschüttelt. 목적어가 두 개일 때는 이렇게 정리할 수 있어요. 둘 다 명사이면 3격 + 4격(Sie gibt dem Mann den Schirm), 하나만 대명사이면 대명사가 먼저(Sie gibt ihm den Schirm. / Sie gibt ihn dem Mann.), 둘 다 대명사이면 4격 + 3격(Sie gibt ihn ihm)이에요. 앞 문장의 명사를 강조해서 가리킬 때는 지시대명사 den, die, das를 1번 자리에 둘 수 있어요: Und der Hamster? Den hat … ein Mädchen abgeholt.",
+      "explain": "앞에서 이미 말한 명사는 다시 말할 때 인칭대명사로 바꿔요: den Ring → ihn, den Gegenstand → ihn, die Sachen → sie. 대명사 목적어는 보통 명사 목적어나 시간 표현보다 앞에 와요: Der Mann hat ihn noch am selben Abend abgeholt. / Er hat mir dreimal die Hand geschüttelt. 목적어가 두 개이면, 둘 다 명사일 때는 3격 + 4격(Sie gibt dem Mann den Schirm), 하나만 대명사일 때는 대명사가 먼저(Sie gibt ihm den Schirm. / Sie gibt ihn dem Mann.), 둘 다 대명사일 때는 4격 + 3격(Sie gibt ihn ihm)이에요. 앞 문장의 명사를 강조해서 가리킬 때는 지시대명사 den, die, das를 1번 자리에 둘 수 있어요: Und der Hamster? Den hat … ein Mädchen abgeholt.",
       "pattern": "명사 + 명사: 3격 + 4격 · 대명사 + 명사: 대명사 먼저 · 대명사 + 대명사: 4격 + 3격 (ihn ihm)",
       "examples": [
         {

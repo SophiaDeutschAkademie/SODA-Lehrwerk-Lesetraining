@@ -174,7 +174,7 @@
     {
       "title": "최상급 – am -sten / der, die, das -ste",
       "term": "Superlativ",
-      "explain": "최상급은 셋 이상을 비교해서 '가장 ~한'이라고 말할 때 써요. 뒤에 명사가 없을 때, 즉 sein 동사의 보어나 부사로 쓸 때는 'am + 형용사 + -sten'이에요: Das Leben in Hamburg ist am teuersten. 명사 앞에서는 관사 뒤에 '형용사 + -st- + 형용사 어미'를 써요: die günstigsten Mieten, mein größtes Problem. 명사가 분명하면 생략할 수도 있어요: die sonnigste (Stadt) der drei Städte. groß → am größten, viel → am meisten(die meisten Jobs)은 불규칙하고, alt → am ältesten처럼 -t, -z 등으로 끝나는 짧은 형용사는 -est-가 돼요.",
+      "explain": "최상급은 셋 이상을 비교해서 '가장 ~한'이라고 말할 때 써요. 명사 앞에서는 관사 뒤에 '형용사 + -st- + 형용사 어미'를 써요: die günstigsten Mieten, mein größtes Problem. 명사 없이 sein 동사의 보어나 부사로 쓸 때는 'am + 형용사 + -sten'을 써요: Das Leben in Hamburg ist am teuersten. 하지만 어떤 명사인지 분명하면 명사만 빼고 관사 형태를 그대로 쓸 수도 있어요: Freiburg ist die sonnigste (Stadt) der drei Städte. groß → am größten, viel → am meisten(die meisten Jobs)은 불규칙하고, alt → am ältesten처럼 -t, -z 등으로 끝나는 짧은 형용사는 -est-가 돼요.",
       "pattern": "am + 형용사 + -(e)sten / der·die·das, mein … + 형용사 + -(e)st- + 어미",
       "examples": [
         {
@@ -310,7 +310,7 @@
     {
       "title": "형용사 어미변화 – 부정관사 뒤",
       "term": "Adjektivdeklination nach unbestimmtem Artikel",
-      "explain": "부정관사 ein/eine, 그리고 ein과 같은 어미를 갖는 kein과 소유관사(mein, dein …) 뒤의 형용사 어미예요. ein에는 남성 1격과 중성 1·4격에서 어미가 없어서, 이때는 형용사가 성을 보여 줘요: ein kleiner Garten(남성 -er), ein kleines Zimmer, mein größtes Problem(중성 -es). 여성은 1격과 4격 모두 -e예요: eine günstige Stadt. 남성 4격은 -en(einen netten Freund)이고, 3격은 모두 -en이에요: in einer netten WG, mit einem kleinen Stipendium. kein과 소유관사 뒤의 복수도 늘 -en이에요: meine netten Freunde.",
+      "explain": "부정관사 ein/eine 뒤, 그리고 ein과 어미가 같은 kein과 소유관사(mein, dein …) 뒤에서는 형용사 어미가 이렇게 바뀌어요. ein에는 남성 1격과 중성 1·4격에서 어미가 없어서, 이때는 형용사가 성을 보여 줘요: ein kleiner Garten(남성 -er), ein kleines Zimmer, mein größtes Problem(중성 -es). 여성은 1격과 4격 모두 -e예요: eine günstige Stadt. 남성 4격은 -en(einen netten Freund)이고, 3격과 2격은 모두 -en이에요: in einer netten WG, mit einem kleinen Stipendium. kein과 소유관사 뒤의 복수도 늘 -en이에요: meine netten Freunde.",
       "pattern": "ein + -er (남성 1격) · eine + -e (여성 1·4격) · ein + -es (중성 1·4격) · 남성 4격, 3격, 복수(keine, meine) -en",
       "examples": [
         {

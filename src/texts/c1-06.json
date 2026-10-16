@@ -280,8 +280,8 @@
     {
       "title": "화법조동사가 있는 수동태",
       "term": "Passiv mit Modalverb (auch Vergangenheit, Konjunktiv II)",
-      "explain": "수동태는 'werden + 과거분사'로 만들어요. 여기에 화법조동사가 더해지면 화법조동사가 인칭변화를 하고, 문장 끝에는 '과거분사 + werden'이 와요: muss entsorgt werden(폐기되어야 해요), können gespendet werden(기부될 수 있어요). 과거에 가능했던 일을 말할 때는 접속법 2식 hätte를 쓰고, 끝에 '과거분사 + werden + können'이 모여요: hätte vermieden werden können(피할 수 있었을 거예요). 나란히 이어지는 수동문에서는 공통된 werden을 마지막에 한 번만 쓰기도 해요.",
-      "pattern": "화법조동사 + … + 과거분사 + werden  /  hätte + … + 과거분사 + werden + können",
+      "explain": "수동태는 'werden + 과거분사'로 만들어요. 화법조동사가 더해지면 화법조동사가 인칭변화를 하고, 문장 끝에는 '과거분사 + werden'이 와요: muss entsorgt werden(폐기되어야 해요), können gespendet werden(기부될 수 있어요). 실제로는 일어나지 않은 과거의 가능성은 'hätte + 과거분사 + werden + 화법조동사'로 말해요: hätte vermieden werden können(피할 수 있었을 텐데 실제로는 피하지 못했어요). 이때 화법조동사는 과거분사(gekonnt) 대신 동사원형(können)으로 써요. 나란히 이어지는 수동문에서는 공통된 화법조동사와 werden을 한 번만 쓰기도 해요.",
+      "pattern": "화법조동사 + … + 과거분사 + werden  /  hätte + … + 과거분사 + werden + 화법조동사(동사원형)",
       "examples": [
         {
           "de": "Ein erheblicher Teil davon hätte vermieden werden können.",
@@ -342,12 +342,12 @@
           ]
         }
       ],
-      "tip": "종속절에서는 인칭변화한 동사가 맨 끝이 아니라 동사원형 묶음 앞에 와요: …, dass ein Teil hätte vermieden werden können."
+      "tip": "과거에 실제로 가능했던 일은 화법조동사의 과거형으로 말해요: Der Verlust konnte vermieden werden(손실을 피할 수 있었어요). 종속절에서는 hätte가 맨 끝이 아니라 동사 묶음(vermieden werden können) 앞에 와요: …, dass ein Teil hätte vermieden werden können."
     },
     {
       "title": "zu + 현재분사 수식어 (Gerundivum)",
       "term": "Gerundivum (zu + Partizip I als Attribut)",
-      "explain": "'zu + 현재분사'를 관사와 명사 사이에 넣어 형용사처럼 쓰는 형태예요. 뜻은 수동이면서 '~해야 할' 또는 '~할 수 있는'이에요: die zu entsorgenden Waren = die Waren, die entsorgt werden müssen(폐기되어야 할 상품). 부정어 nicht가 붙으면 '~할 수 없는'이 돼요: eine nicht zu unterschätzende Rolle(과소평가할 수 없는 역할). 분사는 형용사 어미변화를 그대로 따르고, 분리동사는 zu가 접두어와 어간 사이에 들어가요(die abzugebenden Waren).",
+      "explain": "'zu + 현재분사'를 관사와 명사 사이에 넣어 형용사처럼 쓰는 형태예요. 뜻은 수동이면서 '~해야 할' 또는 '~할 수 있는'이에요: die zu entsorgenden Waren = die Waren, die entsorgt werden müssen(폐기되어야 할 상품). 부정어 nicht가 붙으면 '~해서는 안 되는, ~할 수 없는'이 돼요: eine nicht zu unterschätzende Rolle(과소평가할 수 없는 역할). 분사는 형용사 어미변화를 그대로 따르고, 분리동사는 zu가 접두사와 어간 사이에 들어가요(die abzugebenden Waren).",
       "pattern": "관사 + (nicht/noch …) + zu + 현재분사 + 형용사 어미 + 명사",
       "examples": [
         {
@@ -359,7 +359,7 @@
           "parts": [
             [
               "Dass die zu entsorgenden Waren häufig noch einwandfrei sind,",
-              "종속절"
+              "주어"
             ],
             [
               "ändert",
@@ -413,7 +413,7 @@
     {
       "title": "확장된 분사 수식어",
       "term": "erweitertes Partizipialattribut",
-      "explain": "관사와 명사 사이에 분사와 그 분사에 딸린 말(전치사구, 부사, 목적어)이 길게 들어가는 구조예요. 읽을 때는 먼저 관사와 명사를 찾고, 그 사이를 관계절로 바꿔 보면 돼요: das auf nahezu jeder Verpackung angegebene Mindesthaltbarkeitsdatum = das Mindesthaltbarkeitsdatum, das auf nahezu jeder Verpackung angegeben ist. 과거분사는 '~된'(수동·완료), 현재분사는 '~하는'(능동·진행)의 뜻이에요. 전문적인 글에서는 관계절 대신 이 구조를 즐겨 써요.",
+      "explain": "관사와 명사 사이에 분사와 그 분사에 딸린 말(전치사구, 부사, 목적어)이 길게 들어가는 구조예요. 읽을 때는 먼저 관사와 명사를 찾고, 그 사이를 관계절로 바꿔 보면 돼요: das auf nahezu jeder Verpackung angegebene Mindesthaltbarkeitsdatum = das Mindesthaltbarkeitsdatum, das auf nahezu jeder Verpackung angegeben ist. 현재분사는 '~하는'(능동·진행)의 뜻이에요. 과거분사는 4격 목적어를 갖는 동사이면 '~된'(수동)의 뜻이고(die weggeworfenen Lebensmittel = 버려진 식품), sein으로 현재완료를 만드는 동사이면 '~한'(완료)의 뜻이에요(übrig gebliebene Speisen = 남은 음식). 전문적인 글에서는 관계절 대신 이 구조를 즐겨 써요.",
       "pattern": "관사 + [전치사구/부사 + 분사 + 어미] + 명사",
       "examples": [
         {

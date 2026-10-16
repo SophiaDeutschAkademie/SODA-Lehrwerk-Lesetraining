@@ -95,7 +95,7 @@
       "tip": "Können Sie mir … schicken?도 틀리지 않지만, Könnten Sie …?가 더 정중해요. 원하는 것을 말할 때도 Ich will … 대신 Ich hätte gern …이라고 하면 훨씬 공손하게 들려요: Ich möchte mein Geld nicht zurück, sondern ich hätte gern die richtige Jacke. 이 문장의 möchte도 원래 mögen의 접속법 2식이에요." },
     { "title": "dass 종속절",
       "term": "dass-Sätze",
-      "explain": "dass는 종속접속사예요. '~라는 것, ~하다는 것'이라는 뜻으로, 주절의 동사가 말하는 내용을 담아요. 주절과 dass 절 사이에는 항상 쉼표를 찍고, dass 절의 변화한 동사는 문장 끝으로 가요. 알게 된 사실(feststellen, dass), 감정(Es tut uns leid, dass / Ich finde es schade, dass), 바람(Wir hoffen, dass)을 말할 때 자주 써요. dass 절 안에 화법조동사나 현재완료가 있으면 변화한 동사가 맨 끝에 와요: … dass Sie … bekommen haben und … warten mussten.",
+      "explain": "dass는 종속접속사예요. '~라는 것, ~하다는 것'이라는 뜻이고, dass 절은 주절에서 '무엇을'이나 '무엇이'에 해당하는 내용을 말해요. 주절과 dass 절 사이에는 항상 쉼표를 찍고, dass 절의 변화한 동사는 문장 끝으로 가요. 알게 된 사실(feststellen, dass), 감정(Es tut uns leid, dass / Ich finde es schade, dass), 바람(Wir hoffen, dass)을 말할 때 자주 써요. dass 절 안에 화법조동사나 현재완료가 있으면 변화한 동사가 맨 끝에 와요: … dass Sie … bekommen haben und … warten mussten.",
       "pattern": "주절, dass + … + 동사(끝)",
       "examples": [
         { "de": "Leider habe ich beim Auspacken festgestellt, dass in dem Paket eine blaue Jacke in Größe L war.",
