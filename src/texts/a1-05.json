@@ -44,12 +44,12 @@
     {
       "type": "mc",
       "kind": "match",
-      "q": "Frau Özdemir arbeitet nachmittags. Sie braucht an zwei Tagen in der Woche jemanden für ihr kleines Kind. Welche Anzeige passt?",
+      "q": "Frau Özdemir arbeitet am Nachmittag. Sie sucht für ihren kleinen Sohn an zwei Tagen in der Woche eine Babysitterin. Welche Anzeige passt?",
       "options": ["Anzeige A", "Anzeige B", "Anzeige C", "Anzeige D", "keine Anzeige"],
       "answer": 4,
       "evidence": "Suche einen Babysitter für Dienstag und Donnerstag, von 15 bis 18 Uhr.",
-      "pairs": [["Suche einen Babysitter", "braucht an zwei Tagen in der Woche jemanden"]],
-      "explain": "광고 B도 베이비시터 이야기지만, 광고를 낸 사람이 베이비시터를 '찾는' 광고예요. 외즈데미르 씨도 아이를 봐 줄 사람을 찾고 있으니까 두 사람 다 찾는 쪽이에요. 베이비시터를 해 주겠다는 광고는 없어요. 그래서 정답은 '맞는 광고 없음'이에요."
+      "pairs": [["Suche einen Babysitter", "sucht für ihren kleinen Sohn an zwei Tagen in der Woche eine Babysitterin"], ["Dienstag und Donnerstag", "an zwei Tagen in der Woche"]],
+      "explain": "광고 B에도 베이비시터, 두 요일, 오후 시간이 나오지만, 광고를 낸 사람 자신이 베이비시터를 '찾는(Suche)' 쪽이에요. 외즈데미르 씨도 베이비시터를 찾고 있으니까 두 사람은 서로 도울 수 없어요. 베이비시터를 '해 주겠다'는 광고는 없으니까 정답은 '맞는 광고 없음'이에요."
     },
     {
       "type": "mc",

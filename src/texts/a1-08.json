@@ -167,7 +167,7 @@
     {
       "title": "위치를 말하는 전치사 + 3격 (Wo?)",
       "term": "Präpositionen mit Dativ: Wo? (an, auf, in, neben, hinter, über, zwischen, gegenüber)",
-      "explain": "'어디에 있어요?'(Wo?)라고 물을 때, 위치를 말하는 전치사 뒤에는 3격이 와요. der/das → dem, die → der, ein → einem, eine → einer로 바뀌어요. in + dem은 im으로 줄여 써요. gegenüber(맞은편에)는 항상 3격과 함께 써요.",
+      "explain": "'어디에 있어요?'(Wo?)라고 물을 때, 위치를 말하는 전치사 뒤에는 3격이 와요. der/das → dem, die → der, ein → einem, eine → einer로 바뀌어요. in + dem은 im, an + dem은 am으로 줄여 써요(im Stadtpark). gegenüber(맞은편에)는 항상 3격과 함께 써요.",
       "pattern": "Wo? → an / auf / in / neben / hinter / über / zwischen / gegenüber + 3격",
       "examples": [
         {
@@ -229,12 +229,12 @@
           ]
         }
       ],
-      "tip": "움직이는 방향(Wohin?)을 말할 때는 같은 전치사 뒤에 4격이 와요. 본문의 Geh über die Brücke(다리를 건너가세요)는 방향이라서 4격 die Brücke예요. Über dem Tisch(테이블 위에)는 위치라서 3격이에요."
+      "tip": "움직이는 방향(Wohin?)을 말할 때는 같은 전치사 뒤에 4격이 와요. 본문의 Geh über die Brücke(다리를 건너가세요)는 방향이라서 4격 die Brücke예요. Über dem Tisch(테이블 위에)는 위치라서 3격이에요. gegenüber는 이 구별이 없고 항상 3격이에요."
     },
     {
       "title": "du에게 쓰는 명령형",
       "term": "Imperativ (du-Form)",
-      "explain": "친한 사람 한 명에게 부탁하거나 지시할 때 써요. 현재형 du 형태에서 du와 어미 -st를 빼면 돼요(du gehst → Geh!, du kommst → Komm!). 동사는 1번 자리에 오고 주어 du는 쓰지 않아요. e → i로 모음이 바뀌는 동사는 바뀐 모양을 그대로 써요(du nimmst → Nimm!). 분리동사의 앞부분은 문장 끝으로 가요(Steig … aus!, Ruf … an!).",
+      "explain": "친한 사람 한 명에게 부탁하거나 지시할 때 써요. 현재형 du 형태에서 du와 어미 -st를 빼면 돼요(du gehst → Geh!, du kommst → Komm!). 동사는 1번 자리에 오고 주어 du는 쓰지 않아요. e → i로 모음이 바뀌는 동사는 바뀐 모양을 그대로 써요(du nimmst → Nimm!). 하지만 a → ä는 명령형에서 원래 모음으로 돌아가요(du fährst → Fahr!). 분리동사의 앞부분은 문장 끝으로 가요(Steig … aus!, Ruf … an!).",
       "pattern": "동사(du 형태에서 -st를 뺀 모양) + … (+ 분리 전철)",
       "examples": [
         {
@@ -302,12 +302,12 @@
           ]
         }
       ],
-      "tip": "du 명령형에는 보통 -e를 붙이지 않아요(Geh!, Komm!, Bring!). nimm, iss, lies처럼 모음이 바뀌는 동사에는 절대 -e를 붙이지 않아요. 같은 내용을 Sie에게는 Nehmen Sie …!, 여러 명에게는 Nehmt …!라고 해요."
+      "tip": "회화에서는 du 명령형에 보통 -e를 붙이지 않아요(Geh!, Komm!, Bring!). 다만 어간이 -d/-t로 끝나는 동사는 -e가 꼭 필요하고(Warte!, Arbeite!), nimm, iss, lies처럼 모음이 바뀌는 동사에는 절대 -e를 붙이지 않아요. 같은 내용을 Sie에게는 Nehmen Sie …!, 여러 명에게는 Nehmt …!라고 해요."
     },
     {
       "title": "순서를 말하는 표현: zuerst, dann, danach, zum Schluss",
       "term": "Reihenfolge: zuerst – dann – danach – zum Schluss",
-      "explain": "길을 설명하거나 일을 순서대로 말할 때 써요. zuerst는 '먼저', dann은 '그다음에', danach는 '그 뒤에', zum Schluss는 '마지막으로'라는 뜻이에요. 이 표현들은 보통 문장 맨 앞 1번 자리에 와요. 그러면 동사가 바로 뒤 2번 자리에 오고, 주어는 동사 뒤로 가요.",
+      "explain": "길을 설명하거나 일을 순서대로 말할 때 써요. zuerst는 '먼저', dann은 '그다음에', danach는 '그 뒤에', zum Schluss는 '마지막으로'라는 뜻이에요. 모두 시간을 나타내는 부사어예요. 이 표현들은 보통 문장 맨 앞 1번 자리에 와요. 그러면 동사가 바로 뒤 2번 자리에 오고, 주어는 동사 뒤로 가요(Zuerst gehst du …).",
       "pattern": "Zuerst / Dann / Danach / Zum Schluss + 동사 + 주어 …",
       "examples": [
         {
@@ -373,10 +373,24 @@
           "ko": "그다음에 작은 다리가 나와요.",
           "mark": [
             "Danach"
+          ],
+          "parts": [
+            [
+              "Danach",
+              "부사어(시간)"
+            ],
+            [
+              "kommt",
+              "동사"
+            ],
+            [
+              "eine kleine Brücke.",
+              "주어"
+            ]
           ]
         }
       ],
-      "tip": "dann과 danach는 뜻이 거의 같아요. dann은 '그러면'이라는 뜻으로도 써요: Du findest den Stand nicht? Dann ruf mich an."
+      "tip": "dann과 danach는 뜻이 거의 같아요. dann은 '그러면'이라는 뜻으로도 써요: Du findest den Stand nicht? Dann ruf mich an. 명령형 앞에 dann이 붙어도 명령형 모양은 그대로예요."
     }
   ],
   "vocab": [

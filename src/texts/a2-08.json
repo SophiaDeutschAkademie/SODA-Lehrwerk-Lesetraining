@@ -84,12 +84,12 @@
       "options": [
         "ein Mann kurz vor seiner Hochzeit",
         "eine Mitarbeiterin des Fundbüros",
-        "ein Jugendlicher, der zur Schule geht"
+        "jemand, der noch zur Schule geht"
       ],
       "answer": 2,
       "evidence": "Ein Schüler fand den Ring und brachte ihn ins Fundbüro.",
-      "pairs": [["Ein Schüler", "ein Jugendlicher, der zur Schule geht"], ["fand den Ring", "hat den Hochzeitsring gefunden"]],
-      "explain": "반지를 발견한 사람은 한 학생(Schüler)이에요. 이것을 '학교에 다니는 청소년'으로 바꿔 말했어요. 결혼을 앞둔 남자는 반지를 잃어버린 사람이고, 브뤼크 씨는 반지를 돌려준 사람이에요."
+      "pairs": [["Ein Schüler", "jemand, der noch zur Schule geht"], ["fand den Ring", "hat den Hochzeitsring gefunden"]],
+      "explain": "반지를 발견한 사람은 한 학생(Schüler)이에요. 이것을 '아직 학교에 다니는 사람'으로 바꿔 말했어요. 결혼을 앞둔 남자는 반지를 잃어버린 사람이고, 브뤼크 씨는 반지를 돌려준 사람이에요."
     },
     {
       "type": "mc",

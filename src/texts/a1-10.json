@@ -148,8 +148,8 @@
     {
       "title": "모음이 바뀌는 동사 (du, er/sie/es)",
       "term": "Verben mit Vokalwechsel",
-      "explain": "몇몇 불규칙 동사는 현재형에서 du와 er/sie/es일 때 어간의 모음이 바뀌어요. a → ä (fahren → fährt, schlafen → schläft, laufen → läuft), e → i (essen → isst), e → ie (lesen → liest, sehen → sieht)예요. ich, wir, ihr, sie(복수)에서는 모음이 바뀌지 않아요. 본문의 ich fahre와 er fährt를 비교해 보세요.",
-      "pattern": "ich fahre – du fährst – er/sie/es fährt · ich lese – du liest – er/sie/es liest",
+      "explain": "몇몇 불규칙 동사는 현재형에서 du와 er/sie/es일 때 어간의 모음이 바뀌어요. a → ä (fahren → fährt, schlafen → schläft), au → äu (laufen → läuft), e → i (essen → isst, treffen → trifft), e → ie (lesen → liest, sehen → sieht)예요. ich, wir, ihr, sie(복수)에서는 모음이 바뀌지 않아요. 본문의 ich fahre와 er fährt를 비교해 보세요.",
+      "pattern": "ich fahre – du fährst – er/sie/es fährt · ich lese – du liest – er/sie/es liest · wir fahren – ihr fahrt – sie fahren",
       "examples": [
         {
           "de": "Er fährt schnell, ich fahre langsam!",
@@ -216,15 +216,45 @@
           "mark": [
             "läuft",
             "schläft"
+          ],
+          "parts": [
+            [
+              "Sie",
+              "주어"
+            ],
+            [
+              "läuft",
+              "동사"
+            ],
+            [
+              "nie,",
+              "부사어(빈도)"
+            ],
+            [
+              "sie",
+              "주어"
+            ],
+            [
+              "schläft",
+              "동사"
+            ],
+            [
+              "lieber",
+              "부사어"
+            ],
+            [
+              "lange.",
+              "부사어(시간)"
+            ]
           ]
         }
       ],
-      "tip": "essen과 lesen은 어간이 s로 끝나서 du 형태와 er 형태가 같아요: du isst = er isst, du liest = er liest. 이런 동사는 사전에서 3인칭 단수 형태를 함께 외우는 것이 좋아요."
+      "tip": "essen과 lesen은 어간이 s 소리로 끝나서 du 형태와 er 형태가 같아요: du isst = er isst, du liest = er liest. 이런 동사는 사전에서 3인칭 단수 형태를 함께 외우는 것이 좋아요."
     },
     {
       "title": "gern – lieber – am liebsten",
       "term": "gern – lieber – am liebsten (Steigerung)",
-      "explain": "gern은 동사와 함께 써서 '~하기를 좋아해요'라는 뜻을 나타내요(Ich lese gern). 비교급은 lieber(더 좋아해요), 최상급은 am liebsten(제일 좋아해요)이에요. 모양이 완전히 달라지니까 세 개를 한 묶음으로 외워요. 보통 동사와 주어 뒤에 와요.",
+      "explain": "gern은 부사예요. 동사와 함께 써서 '~하기를 좋아해요'라는 뜻을 나타내요(Ich lese gern). 비교급은 lieber(더 좋아해요), 최상급은 am liebsten(제일 좋아해요)이에요. 모양이 완전히 달라지니까 세 개를 한 묶음으로 외워요. 보통 동사와 주어 뒤에 와요. 비교 대상은 als로 말해요(lieber Bücher als Comics).",
       "pattern": "gern (좋아해요) → lieber (더 좋아해요) → am liebsten (제일 좋아해요)",
       "examples": [
         {
@@ -271,6 +301,32 @@
           "mark": [
             "gern",
             "am liebsten"
+          ],
+          "parts": [
+            [
+              "Kuchen",
+              "4격 목적어"
+            ],
+            [
+              "esse",
+              "동사"
+            ],
+            [
+              "ich",
+              "주어"
+            ],
+            [
+              "gern,",
+              "부사어"
+            ],
+            [
+              "am liebsten",
+              "부사어"
+            ],
+            [
+              "Käsekuchen.",
+              "4격 목적어"
+            ]
           ]
         },
         {
@@ -299,12 +355,12 @@
           ]
         }
       ],
-      "tip": "Ich esse gern Kuchen은 Ich mag Kuchen과 뜻이 거의 같아요. 하지만 '~하기'를 좋아한다고 말할 때는 동사 + gern을 써요: Ich schwimme gern(수영하기를 좋아해요)."
+      "tip": "Ich esse gern Kuchen은 Ich mag Kuchen과 뜻이 거의 같아요. 하지만 '~하기'를 좋아한다고 말할 때는 동사 + gern을 써요: Ich schwimme gern(수영하기를 좋아해요). gern 대신 gerne라고 써도 돼요. 뜻은 같아요."
     },
     {
       "title": "빈도 부사: immer, oft, manchmal, nie",
       "term": "Häufigkeitsadverbien",
-      "explain": "얼마나 자주 하는지 말하는 부사예요. immer(항상) – oft(자주) – manchmal(가끔) – nie(한 번도 … 않다) 순서로 빈도가 낮아져요. 보통 동사와 주어 뒤에 와요(Ich schlafe immer lange). 문장 맨 앞 1번 자리에 둘 수도 있어요. 그러면 동사가 2번 자리에 오고 주어는 그 뒤로 가요(Manchmal arbeite ich …). nie는 그 자체가 부정이라서 nicht를 또 쓰지 않아요.",
+      "explain": "얼마나 자주 하는지 말하는 부사예요. immer(항상) – oft(자주) – manchmal(가끔) – nie(한 번도 … 않다) 순서로 빈도가 낮아져요. 보통 동사와 주어 뒤에 와요(Ich schlafe immer lange). 문장 맨 앞 1번 자리에 둘 수도 있어요. 그러면 동사가 2번 자리에 오고 주어는 그 뒤로 가요(Manchmal arbeite ich …). nie는 그 자체가 부정이라서 nicht를 또 쓰지 않아요(Sie läuft nie).",
       "pattern": "주어 + 동사 + immer / oft / manchmal / nie … · Manchmal + 동사 + 주어 …",
       "examples": [
         {

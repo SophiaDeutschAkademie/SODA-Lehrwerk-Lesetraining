@@ -94,9 +94,9 @@
           "mark": ["Für sie"],
           "parts": [["Für sie", "부사어"], ["gibt", "동사"], ["es", "주어"], ["Spiele und Limonade.", "4격 목적어"]] }
       ],
-      "tip": "euch와 uns는 3격과 4격의 모양이 같아요(mit euch, auf euch). mir와 mich는 앞의 전치사를 보면 구별할 수 있어요: bei mir(3격), für mich(4격)." },
+      "tip": "euch와 uns는 3격과 4격의 모양이 같아요(mit euch, auf euch). mir와 mich는 앞의 전치사를 보면 구별할 수 있어요: bei mir(3격), für mich(4격). 전치사가 없으면 동사를 봐요: schreiben은 '~에게' 3격(Schreibt mir), anrufen은 4격(Ruft mich an)이에요." },
     { "title": "ihr에게 쓰는 명령형", "term": "Imperativ (ihr-Form)",
-      "explain": "친한 사람 여러 명에게 부탁하거나 지시할 때 쓰는 명령형이에요. 현재형 ihr 형태(ihr bringt, ihr schreibt)에서 ihr만 빼면 돼요. 동사가 1번 자리에 오고, 주어는 쓰지 않아요. 분리동사의 앞부분은 문장 끝으로 가요(Bringt … mit). bitte를 넣으면 더 부드러워요.",
+      "explain": "친한 사람 여러 명에게 부탁하거나 지시할 때 쓰는 명령형이에요. 현재형 ihr 형태(ihr bringt, ihr schreibt, ihr nehmt)에서 ihr만 빼면 돼요. 동사가 1번 자리에 오고, 주어 ihr는 쓰지 않아요. 분리동사의 앞부분은 문장 끝으로 가요(Bringt … mit). bitte를 넣으면 더 부드러워요.",
       "pattern": "동사(ihr 형태, ihr 생략) + … (+ 분리 전철)",
       "examples": [
         { "de": "Nehmt die Linie 12 und fahrt bis zur Haltestelle „Rosenplatz“.", "ko": "12번 버스를 타고 ‘로젠플라츠’ 정류장까지 오세요.",
@@ -106,7 +106,7 @@
           "mark": ["Bringt", "mit"],
           "parts": [["Bringt", "동사"], ["lieber", "부사어"], ["eure Lieblingsmusik oder einen Salat", "4격 목적어"], ["mit.", "동사(끝)"]] }
       ],
-      "tip": "같은 내용을 du에게는 Bring … mit!, Sie에게는 Bringen Sie … mit!이라고 해요. ihr 명령형은 세 가지 중에서 가장 만들기 쉬워요." }
+      "tip": "같은 내용을 du에게는 Bring … mit!, Sie에게는 Bringen Sie … mit!이라고 해요. ihr 명령형은 현재형과 모양이 같아서 세 가지 중에서 가장 만들기 쉬워요. 다만 Kommt ihr?(의문문)와 Kommt!(명령형)는 ihr가 있고 없고로 구별해요." }
   ],
   "vocab": [
     { "de": "feiern", "ko": "축하하다, 파티를 하다" },

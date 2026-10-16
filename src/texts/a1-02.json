@@ -83,11 +83,11 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wer ist die jüngste Person auf dem Foto?",
-      "options": ["der Mann von Paula", "die Kinder vom Onkel", "das Kind von Paula"],
+      "options": ["der Mann von Paula", "ein Kind vom Onkel", "das Kind von Paula"],
       "answer": 2,
       "evidence": "Ihr Baby heißt Emil und ist erst drei Monate alt.",
       "pairs": [["Ihr Baby", "das Kind von Paula"], ["erst drei Monate alt", "die jüngste Person"]],
-      "explain": "파울라의 아기 에밀은 겨우 3개월이라서 사진에서 가장 어린 사람이에요. 삼촌의 아이들은 학교에 있어서 사진에 없어요."
+      "explain": "파울라의 아기(Baby) 에밀은 겨우 3개월이라서 사진에서 가장 어린 사람이에요. 'Ihr Baby'를 'das Kind von Paula'로 바꿔 말했어요. 삼촌의 아이들은 학교에 있어서 사진에 없으니까 답이 될 수 없어요."
     },
     {
       "type": "rf",
@@ -95,8 +95,8 @@
       "q": "Lena sitzt neben ihrer Schwester.",
       "answer": 1,
       "evidence": "Ich mache das Foto!",
-      "pairs": [["Ich mache das Foto!", "sitzt neben ihrer Schwester"]],
-      "explain": "레나는 사진을 찍는 사람이라서 사진 속에 없어요. 파울라 옆에는 남편이 앉아 있어요."
+      "pairs": [["Ich mache das Foto!", "Lena sitzt"], ["Rechts sitzt meine Schwester Paula mit ihrem Mann", "neben ihrer Schwester"]],
+      "explain": "레나는 글을 쓴 사람이고, 마지막에 'Ich mache das Foto!(제가 사진을 찍고 있어요!)'라고 해요. 사진을 찍는 사람은 사진 속에 없으니까 레나가 언니 옆에 앉아 있다는 말은 틀려요. 파울라 옆에 앉아 있는 사람은 남편이에요."
     }
   ],
   "grammar": [

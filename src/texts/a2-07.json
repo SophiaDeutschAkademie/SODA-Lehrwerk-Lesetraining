@@ -77,7 +77,7 @@
     {
       "type": "rf",
       "kind": "detail",
-      "q": "Sophie braucht ungefähr eine Stunde, um von Freiburg in den Schwarzwald zu kommen.",
+      "q": "Von Freiburg in den Schwarzwald braucht Sophie ungefähr eine Stunde.",
       "answer": 1,
       "evidence": "am Wochenende fahre ich mit der Bahn in zwanzig Minuten in die Berge",
       "pairs": [["in zwanzig Minuten", "ungefähr eine Stunde"], ["in die Berge", "in den Schwarzwald"]],

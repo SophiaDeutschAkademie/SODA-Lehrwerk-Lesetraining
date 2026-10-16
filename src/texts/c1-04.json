@@ -18,7 +18,7 @@
       "ko": "어머니는 상자 몇 개와 함께 무엇을 어느 상자에 넣을지 적은 목록을 남겨 두었어요. 그릇은 벼룩시장으로. 책은 도서관으로. 옷은 적십자로. 어머니 본인은 오고 싶어 하지 않았어요. 자기는 그걸 못 하겠다고 전화로 말했고, 저는 더 묻지 않았어요. 그래서 저는 혼자 방들을 앞에서 뒤로 차례차례 치워 나갔어요. 집을 비울 때 으레 그러듯이요. 부엌은 금방 끝났어요. 거실은 더 느렸어요. 서랍을 두 개에 하나꼴로 열어 보고는 웬 단추 하나를 몇 분씩 손에 쥐고 있었거든요. 침실은 마지막으로 남겨 두었어요."
     },
     {
-      "de": "Der Koffer stand auf dem Schrank, hinter einer Reihe von Hutschachteln, so weit hinten, dass ich die Trittleiter holen musste. Braunes Leder, zwei Messingschlösser, keins davon abgeschlossen. Hatte ich ihn je gesehen? Vielleicht als Kind, von unten, als dunklen Umriss an der Zimmerdecke. Aufs Bett gestellt, wirkte er kleiner, als ich gedacht hatte. Ich wischte mir den Staub von den Händen und klappte ihn auf. Briefe. Ein ganzer Koffer voller Briefe, gebündelt mit Garn, die Bündel nach Jahren geordnet, das älteste von 1961. Die Handschrift kannte ich nicht. Mein Großvater hatte eine steile, ungeduldige Schrift gehabt; diese hier war rund und sorgfältig, als hätte jemand Zeit gehabt. Sehr viel Zeit.",
+      "de": "Der Koffer stand auf dem Schrank, hinter einer Reihe von Hutschachteln, so weit hinten, dass ich die Trittleiter holen musste. Braunes Leder, zwei Messingschlösser, keins davon abgeschlossen. Hatte ich ihn je gesehen? Vielleicht als Kind, von unten, als dunklen Umriss unter der Zimmerdecke. Aufs Bett gestellt, wirkte er kleiner, als ich gedacht hatte. Ich wischte mir den Staub von den Händen und klappte ihn auf. Briefe. Ein ganzer Koffer voller Briefe, gebündelt mit Garn, die Bündel nach Jahren geordnet, das älteste von 1961. Die Handschrift kannte ich nicht. Mein Großvater hatte eine steile, ungeduldige Schrift gehabt; diese hier war rund und sorgfältig, als hätte jemand Zeit gehabt. Sehr viel Zeit.",
       "ko": "여행 가방은 옷장 위, 모자 상자들이 늘어선 뒤편에 있었어요. 너무 깊숙이 있어서 접이식 사다리를 가져와야 했어요. 갈색 가죽에 놋쇠 잠금장치가 두 개, 어느 쪽도 잠겨 있지 않았어요. 제가 이걸 본 적이 있던가요? 어쩌면 어릴 때, 아래에서, 천장 가까이의 어두운 윤곽으로 보았을지도요. 침대 위에 올려놓고 보니 가방은 생각했던 것보다 작아 보였어요. 저는 손에 묻은 먼지를 닦고 뚜껑을 열었어요. 편지였어요. 가방 가득 편지가 실로 묶여 있었고, 묶음은 연도별로 정리되어 있었어요. 가장 오래된 것은 1961년 것이었어요. 모르는 필체였어요. 할아버지는 가파르고 성급한 글씨를 썼는데, 이 글씨는 둥글고 정성스러웠어요. 마치 쓰는 사람에게 시간이 있었던 것처럼요. 아주 많은 시간이요."
     },
     {
@@ -237,10 +237,10 @@
       "pattern": "인물의 생각(현재형) → 서술 시제(과거형·과거완료)로, 접속사·따옴표 없이",
       "examples": [
         {
-          "de": "Hatte ich ihn je gesehen? Vielleicht als Kind, von unten, als dunklen Umriss an der Zimmerdecke.",
+          "de": "Hatte ich ihn je gesehen? Vielleicht als Kind, von unten, als dunklen Umriss unter der Zimmerdecke.",
           "ko": "제가 이걸 본 적이 있던가요? 어쩌면 어릴 때, 아래에서, 천장 가까이의 어두운 윤곽으로 보았을지도요.",
           "mark": ["Hatte ich ihn je gesehen?"],
-          "parts": [["Hatte", "동사"], ["ich", "주어"], ["ihn", "4격 목적어"], ["je", "부사어(시간)"], ["gesehen?", "동사(끝)"], ["Vielleicht als Kind, von unten, als dunklen Umriss an der Zimmerdecke.", "기타"]]
+          "parts": [["Hatte", "동사"], ["ich", "주어"], ["ihn", "4격 목적어"], ["je", "부사어(시간)"], ["gesehen?", "동사(끝)"], ["Vielleicht als Kind, von unten, als dunklen Umriss unter der Zimmerdecke.", "기타"]]
         },
         {
           "de": "Warum hatte sie ihn nicht weggeworfen? Warum hatte sie ihn nicht wenigstens versteckt, richtig versteckt?",
