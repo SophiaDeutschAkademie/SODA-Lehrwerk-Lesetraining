@@ -15,7 +15,7 @@
     },
     {
       "de": "Dass Erinnerungen nach einem bestimmten Muster verblassen, wies der Psychologe Hermann Ebbinghaus bereits im 19. Jahrhundert nach. Für seine 1885 veröffentlichte Untersuchung „Über das Gedächtnis“ wählte er einen ungewöhnlichen Weg: Er machte sich selbst zur Versuchsperson. Um auszuschließen, dass bereits bekannte Wörter die Ergebnisse verfälschten, lernte er lange Reihen sinnloser Silben wie „dax“ oder „zuk“ auswendig. Anschließend prüfte er in festgelegten Abständen, wie viel davon noch abrufbar war. Das Ergebnis ist heute als Vergessenskurve bekannt: Kurz nach dem Lernen geht ein großer Teil des Gelernten verloren, danach flacht die Kurve ab. Was die ersten Tage übersteht, bleibt vergleichsweise stabil.",
-      "ko": "기억이 일정한 패턴에 따라 희미해진다는 사실은 심리학자 헤르만 에빙하우스가 이미 19세기에 입증했습니다. 1885년에 발표한 연구 「기억에 관하여」를 위해 그는 특이한 방법을 택했습니다. 자기 자신을 피험자로 삼은 것입니다. 이미 알고 있는 단어들이 결과를 왜곡하지 않도록 그는 ‘dax’나 ‘zuk’ 같은 무의미한 음절을 길게 나열한 목록을 외웠습니다. 그런 다음 정해진 간격을 두고 그중 얼마나 아직 떠올릴 수 있는지 확인했습니다. 그 결과는 오늘날 망각 곡선으로 알려져 있습니다. 학습 직후에 배운 것의 상당 부분이 사라지고, 그 뒤로는 곡선이 완만해집니다. 처음 며칠을 견뎌 낸 것은 비교적 안정적으로 남습니다."
+      "ko": "기억이 일정한 패턴에 따라 희미해진다는 사실은 심리학자 헤르만 에빙하우스가 이미 19세기에 입증했습니다. 1885년에 발표한 연구 「기억에 관하여」를 위해 에빙하우스는 특이한 방법을 택했습니다. 자기 자신을 피험자로 삼은 것입니다. 이미 알고 있는 단어들이 결과를 왜곡하지 않도록 ‘dax’나 ‘zuk’ 같은 무의미한 음절을 길게 나열한 목록을 외웠습니다. 그런 다음 정해진 간격을 두고 그중 얼마나 아직 떠올릴 수 있는지 확인했습니다. 그 결과는 오늘날 망각 곡선으로 알려져 있습니다. 학습 직후에 배운 것의 상당 부분이 사라지고, 그 뒤로는 곡선이 완만해집니다. 처음 며칠을 견뎌 낸 것은 비교적 안정적으로 남습니다."
     },
     {
       "de": "Aus derselben Untersuchung stammt eine zweite, weniger bekannte Erkenntnis: Ebbinghaus stellte fest, dass er sich die Silbenreihen leichter merken konnte, wenn er die Wiederholungen über mehrere Tage verteilte, statt sie an einem einzigen Tag zu bündeln. Die moderne Forschung bestätigt diesen Befund. Die in kurzer Zeit eingepaukten Wörter sind zwar für die Prüfung am nächsten Morgen noch verfügbar, danach aber schnell wieder verschwunden. Wer dieselben Wörter dagegen in wachsenden Abständen wiederholt – nach einem Tag, nach drei Tagen, nach einer Woche –, prägt sie sich dauerhaft ein. Jedes Abrufen, das ein wenig Mühe kostet, festigt die Gedächtnisspur.",
@@ -233,7 +233,7 @@
       "examples": [
         {
           "de": "Für seine 1885 veröffentlichte Untersuchung „Über das Gedächtnis“ wählte er einen ungewöhnlichen Weg: Er machte sich selbst zur Versuchsperson.",
-          "ko": "1885년에 발표한 연구 「기억에 관하여」를 위해 그는 특이한 방법을 택했어요. 자기 자신을 피험자로 삼은 것이에요.",
+          "ko": "1885년에 발표한 연구 「기억에 관하여」를 위해 에빙하우스는 특이한 방법을 택했어요. 자기 자신을 피험자로 삼은 것이에요.",
           "mark": ["wählte", "machte"]
         },
         {
@@ -288,7 +288,7 @@
       "de": "etwas auswendig lernen",
       "ko": "~을 암기하다, 외우다",
       "ex": "lernte er lange Reihen sinnloser Silben wie „dax“ oder „zuk“ auswendig.",
-      "exko": "그는 ‘dax’나 ‘zuk’ 같은 무의미한 음절을 길게 나열한 목록을 외웠어요."
+      "exko": "에빙하우스는 ‘dax’나 ‘zuk’ 같은 무의미한 음절을 길게 나열한 목록을 외웠어요."
     },
     {
       "de": "verloren gehen",

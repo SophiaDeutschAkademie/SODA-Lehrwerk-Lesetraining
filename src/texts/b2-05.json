@@ -227,7 +227,7 @@
     {
       "title": "관계대명사 deren과 지시대명사 jener",
       "term": "Relativpronomen deren / Demonstrativpronomen jener",
-      "explain": "deren은 여성 단수와 복수의 2격 관계대명사예요. 여기서는 '이모의'라는 뜻으로 소유를 나타내는데, ihr Haus(그의 집)이라고 쓰면 한나의 집인지 이모의 집인지 모호해지기 때문에 deren Haus(이모의 집)으로 분명히 해요. deren 뒤의 명사에는 관사를 붙이지 않아요. jener/jene/jenes는 '저 ~, 바로 그 ~'라는 뜻의 지시대명사로, 정관사처럼 어미변화를 해요. 글말에서 앞에 나온 것을 다시 가리키며 강조할 때 써요.",
+      "explain": "deren은 여성 단수와 복수의 2격 관계대명사예요. 여기서는 '이모의'라는 뜻으로 소유를 나타내는데, ihr Haus(그녀의 집)라고 쓰면 한나의 집인지 이모의 집인지 모호해지기 때문에 deren Haus(이모의 집)로 분명히 해요. deren 뒤의 명사에는 관사를 붙이지 않아요. jener/jene/jenes는 '저 ~, 바로 그 ~'라는 뜻의 지시대명사로, 정관사처럼 어미변화를 해요. 글말에서 앞에 나온 것을 다시 가리키며 강조할 때 써요.",
       "pattern": "deren + 명사(관사 없음) = 그 여성/그들의 ~ · jener/jene/jenes + 명사 = 바로 그 ~",
       "examples": [
         {

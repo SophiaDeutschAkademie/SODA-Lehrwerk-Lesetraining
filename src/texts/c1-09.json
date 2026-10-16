@@ -45,18 +45,18 @@
   "questions": [
     {
       "type": "mc",
-      "kind": "paraphrase",
-      "q": "Was will der Autor mit dem Satz „Das sage ich nicht mit Stolz, sondern so, wie andere sagen, dass sie Linkshänder sind“ ausdrücken?",
+      "kind": "detail",
+      "q": "Wie stellt der Autor zu Beginn seine Vorliebe für Listen dar?",
       "options": [
-        "Er schämt sich für seine Gewohnheit und möchte sie ändern.",
-        "Er sieht seine Vorliebe für Listen als angeborene Eigenschaft, die er weder lobt noch bedauert.",
-        "Er hält Listenschreiben für eine Fähigkeit, die so selten ist wie Linkshändigkeit.",
-        "Er findet, dass Linkshänder häufiger Listen schreiben als Rechtshänder."
+        "als eine Gewohnheit, für die er sich schämt und die er ändern möchte",
+        "als eine seltene Fähigkeit, auf die er stolz ist",
+        "als eine Eigenart, die er nüchtern feststellt, weil sie sich ohnehin nicht ablegen lässt",
+        "als eine Angewohnheit, die er von seinen Eltern übernommen hat"
       ],
-      "answer": 1,
+      "answer": 2,
       "evidence": "Es ist eben so, man kann nichts dagegen tun.",
-      "pairs": [["Es ist eben so, man kann nichts dagegen tun", "angeborene Eigenschaft, die er weder lobt noch bedauert"]],
-      "explain": "왼손잡이라는 사실을 말하듯 한다는 비유는, 목록 습관이 자랑도 부끄러움도 아닌 타고난 성질이라는 뜻이에요. 바로 뒤에 '원래 그렇고 어쩔 수 없다'고 덧붙여요. 습관을 바꾸고 싶다는 뜻은 본문 어디에도 없어요."
+      "pairs": [["Das sage ich nicht mit Stolz", "nüchtern feststellt"], ["man kann nichts dagegen tun", "sich ohnehin nicht ablegen lässt"]],
+      "explain": "글쓴이는 자랑스럽게 말하는 것이 아니라, 왼손잡이라는 사실을 말하듯 담담하게 말한다고 해요. 바로 뒤에 '원래 그렇고 어쩔 수 없다'고 덧붙이지요. 부끄러워하거나 바꾸고 싶어 한다는 내용, 부모에게서 물려받았다는 내용은 본문에 없어요."
     },
     {
       "type": "rfn",
