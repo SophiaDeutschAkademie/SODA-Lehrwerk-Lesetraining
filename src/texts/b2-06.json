@@ -60,7 +60,7 @@
       "q": "Handwerksbetriebe können ihre Ausrüstung problemlos mit öffentlichen Verkehrsmitteln befördern.",
       "answer": 1,
       "evidence": "und auch Handwerker können ihr Werkzeug nicht in der Straßenbahn transportieren.",
-      "pairs": [["ihr Werkzeug", "ihre Ausrüstung"], ["in der Straßenbahn", "mit öffentlichen Verkehrsmitteln"], ["nicht … transportieren", "problemlos … befördern"]],
+      "pairs": [["ihr Werkzeug", "ihre Ausrüstung"], ["in der Straßenbahn", "mit öffentlichen Verkehrsmitteln"], ["nicht in der Straßenbahn transportieren", "problemlos mit öffentlichen Verkehrsmitteln befördern"]],
       "explain": "본문은 기술자들이 공구를 트램에 싣고 다닐 수 없다고 해요. 문제는 '문제없이 대중교통으로 운반할 수 있다'고 하므로 본문과 반대예요."
     },
     {
