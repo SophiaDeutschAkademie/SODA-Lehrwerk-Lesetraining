@@ -7,11 +7,11 @@
   "type": "Essay",
   "typeKo": "에세이",
   "intro": "신뢰가 무엇이며 왜 사회가 신뢰 없이는 돌아가지 않는지 성찰하는 글이에요.",
-  "focus": ["상관어 es · darauf · davon + 종속절", "일반화 관계절 (wer …, der … / was …, das …)", "양보절 (so … auch, wie … auch immer, selbst wenn)", "접속법 2식 비현실 조건"],
+  "focus": ["상관어 es · darauf + 종속절", "일반화 관계절 (wer …, der … / was …, das …)", "양보절 (so … auch, wie … auch immer, selbst wenn)", "접속법 2식 비현실 조건"],
   "paragraphs": [
     {
       "de": "Wer morgens das Haus verlässt, hat bereits mehr Vertrauen aufgebracht, als ihm bewusst ist. Er verlässt sich darauf, dass die Brötchen beim Bäcker nicht verdorben sind, dass der Busfahrer nüchtern ist, dass die Ärztin, die ihm am Nachmittag ein Medikament verschreibt, weiß, was sie tut. Nichts davon hat er geprüft, und nichts davon könnte er prüfen, ohne dass sein Tag darüber zerfiele. Es gehört zu den stillen Voraussetzungen des Alltags, dass wir ständig Dinge für wahr halten, von deren Wahrheit wir uns nicht überzeugt haben. Vertrauen ist, so gesehen, kein Gefühl, das wir uns leisten, sondern eine Bedingung, ohne die wir nicht handeln könnten.",
-      "ko": "아침에 집을 나서는 사람은 이미 자신이 의식하는 것보다 더 많은 신뢰를 쏟아부은 상태입니다. 그는 빵집의 빵이 상하지 않았다는 것, 버스 기사가 술에 취해 있지 않다는 것, 오후에 약을 처방해 줄 의사가 자기 일을 제대로 안다는 것을 믿고 의지합니다. 그중 어느 것도 그는 확인하지 않았고, 하루가 그 때문에 무너지지 않고서는 어느 것도 확인할 수 없을 것입니다. 우리가 그 진실성을 스스로 확인하지 않은 일들을 끊임없이 사실로 받아들인다는 것은 일상의 조용한 전제 가운데 하나입니다. 그렇게 보면 신뢰는 우리가 누리는 감정이 아니라 그것 없이는 행동할 수 없는 조건입니다."
+      "ko": "아침에 집을 나서는 사람은 이미 자신이 의식하는 것보다 더 많은 신뢰를 쏟아부은 상태입니다. 그는 빵집의 빵이 상하지 않았다는 것, 버스 기사가 술에 취해 있지 않다는 것, 오후에 약을 처방해 줄 의사가 자기 일을 제대로 안다는 것을 믿고 의지합니다. 그중 어느 것도 그는 확인하지 않았고, 어느 것도 하루가 그 때문에 엉망이 되지 않고서는 확인할 수 없을 것입니다. 우리가 그 진실성을 스스로 확인하지 않은 일들을 끊임없이 사실로 받아들인다는 것은 일상의 조용한 전제 가운데 하나입니다. 그렇게 보면 신뢰는 우리가 누리는 감정이 아니라 그것 없이는 행동할 수 없는 조건입니다."
     },
     {
       "de": "Der Soziologe Niklas Luhmann hat Vertrauen als einen Mechanismus beschrieben, der soziale Komplexität reduziert. Die Formulierung klingt spröde, trifft aber den Kern. Die Welt bietet in jedem Augenblick mehr Möglichkeiten, als ein Einzelner überblicken kann; wollte man jede davon ernsthaft in Betracht ziehen, käme man zu keiner Entscheidung mehr. Vertrauen schließt Möglichkeiten aus. Wer vertraut, tut so, als wäre die Zukunft weniger offen, als sie tatsächlich ist – und gewinnt gerade dadurch die Fähigkeit, in ihr zu handeln. Dass dieses Vorgehen riskant ist, liegt auf der Hand. Vertrauen ist ein Vorschuss, der nicht gedeckt ist, eine Wette darauf, dass der andere sich so verhalten wird, wie man es erwartet.",
@@ -34,7 +34,7 @@
       "ko": "그에 비해 불신은 더 안전한 태도처럼 보입니다. 그러나 불신은 더 비싼 태도입니다. 아무도 남을 믿지 않는 사회는 모든 약속을 보증하고, 모든 성과를 검사하고, 모든 계약을 생각할 수 있는 온갖 경우에 대비해 무장시켜야 하며, 자기 힘의 상당 부분을 자기 자신으로부터 자신을 보호하는 데 씁니다. 개별 사례에서 불신의 이유가 아무리 그럴듯하더라도, 전체로 보면 불신은 사회를 마비시킵니다. 신뢰가 없는 곳에서는 행동하는 대신 대비하고, 시작하는 대신 기다립니다. 서로에 대한 신뢰가 높은 사회가 경제적으로도 더 유연한 것은 우연이 아닙니다. 그런 사회는 다른 곳에서는 없어서는 안 될 일들을 생략합니다."
     },
     {
-      "de": "Es wäre naiv, daraus zu folgern, man solle einfach jedem vertrauen. Vertrauen, das keine Enttäuschung kennt, ist nicht Vertrauen, sondern Ahnungslosigkeit. Worauf es ankommt, ist etwas anderes: die Bereitschaft, den ersten Schritt ungesichert zu tun, und die Fähigkeit, enttäuscht zu werden, ohne daraus eine Regel zu machen. Wer das kann, der hat verstanden, dass die Verletzlichkeit, die er in Kauf nimmt, derselbe Riss ist, durch den andere zu ihm gelangen. Ob sich der Vorschuss am Ende auszahlt, weiß niemand im Voraus. Dass es ohne ihn nicht geht, weiß jeder, der morgens das Haus verlässt.",
+      "de": "Es wäre naiv, daraus zu folgern, man solle einfach jedem vertrauen. Vertrauen, das keine Enttäuschung kennt, ist nicht Vertrauen, sondern Ahnungslosigkeit. Worauf es ankommt, ist etwas anderes: die Bereitschaft, den ersten Schritt ohne Absicherung zu tun, und die Fähigkeit, enttäuscht zu werden, ohne daraus eine Regel zu machen. Wer das kann, der hat verstanden, dass die Verletzlichkeit, die er in Kauf nimmt, derselbe Riss ist, durch den andere zu ihm gelangen. Ob sich der Vorschuss am Ende auszahlt, weiß niemand im Voraus. Dass es ohne ihn nicht geht, weiß jeder, der morgens das Haus verlässt.",
       "ko": "여기서 그저 누구나 믿어야 한다는 결론을 끌어낸다면 순진한 일일 것입니다. 실망을 모르는 신뢰는 신뢰가 아니라 무지입니다. 중요한 것은 다른 데 있습니다. 아무 보장 없이 첫걸음을 내딛으려는 마음가짐, 그리고 실망하더라도 그것을 규칙으로 삼지 않는 능력입니다. 그럴 수 있는 사람은 자신이 감수하는 상처받기 쉬움이 바로 다른 사람들이 자신에게 다가오는 틈이라는 것을 이해한 사람입니다. 그 선지급이 결국 보답받을지는 아무도 미리 알지 못합니다. 그러나 그것 없이는 안 된다는 것은 아침에 집을 나서는 사람이라면 누구나 압니다."
     }
   ],
@@ -52,7 +52,7 @@
       "answer": 1,
       "evidence": "Vertrauen ist, so gesehen, kein Gefühl, das wir uns leisten, sondern eine Bedingung, ohne die wir nicht handeln könnten.",
       "pairs": [["kein Gefühl, das wir uns leisten", "weniger eine Frage der Empfindung"], ["eine Bedingung, ohne die wir nicht handeln könnten", "eine praktische Notwendigkeit des täglichen Handelns"]],
-      "explain": "'sich etwas leisten'은 여유가 있어서 누린다는 뜻인데, 글쓴이는 신뢰가 그런 감정이 아니라 행동의 전제 조건이라고 해요. 즉 감정의 문제라기보다 일상이 돌아가기 위한 필수 조건이라는 뜻이에요. 사치라는 해석은 부정된 쪽을 택한 거예요."
+      "explain": "'sich etwas leisten'은 여유가 있어서 누린다는 뜻인데, 글쓴이는 신뢰가 그런 감정이 아니라 행동의 전제 조건이라고 해요. 즉 감정의 문제라기보다 일상이 돌아가기 위한 필수 조건이라는 뜻이에요. '사치'라는 선택지는 글쓴이가 부정한 쪽을 그대로 택한 것이라 틀려요."
     },
     {
       "type": "rfn",
@@ -124,7 +124,7 @@
       "answer": 0,
       "evidence": "Selbst wenn es enttäuscht wird, hat es etwas sichtbar gemacht, was Kontrolle verbirgt – nämlich wie der andere sich verhält, wenn niemand hinsieht.",
       "pairs": [["hat es etwas sichtbar gemacht", "erfährt man selbst bei enttäuschtem Vertrauen etwas"], ["was Kontrolle verbirgt", "was man durch Kontrolle nie erfahren hätte"]],
-      "explain": "신뢰가 저버려지더라도 통제가 감추는 것, 곧 아무도 보지 않을 때 상대가 어떻게 행동하는지가 드러난다고 해요. 'sichtbar machen'을 'erfahren'으로, 'verbirgt'를 'nie erfahren hätte'로 바꿔 표현했어요."
+      "explain": "신뢰가 저버려지더라도 통제가 감추는 것, 곧 아무도 보지 않을 때 상대가 어떻게 행동하는지가 드러난다고 해요. 본문의 'sichtbar machen'(드러내다)을 문제에서는 'erfahren'(알게 되다)으로, 'verbirgt'(감춘다)를 'nie erfahren hätte'(결코 알 수 없었을 것이다)로 바꿔 표현했어요."
     },
     {
       "type": "mc",
@@ -168,10 +168,10 @@
   ],
   "grammar": [
     {
-      "title": "상관어 es · darauf · davon + 종속절",
-      "term": "Korrelate (es, dass …; darauf, dass …; davon, ob …)",
-      "explain": "주절에 있는 상관어가 뒤에 오는 종속절을 미리 가리켜요. 동사가 전치사를 지배하면 'da(r) + 전치사' 형태를 써요: sich verlassen auf → verlässt sich darauf, dass …; verzichten auf → verzichtet darauf, sich abzusichern. dass절이 주어일 때 1번 자리를 비우지 않으려고 es를 앞에 두기도 해요: Es gehört zu den Voraussetzungen, dass …. 반대로 dass절이 문장 맨 앞에 오면 상관어가 필요 없어요: Dass Vertrauen verletzlich macht, ist ….",
-      "pattern": "동사 + darauf/davon/dazu … , dass/ob/zu 부정사 …  ·  Es + 동사 …, dass …",
+      "title": "상관어 es · darauf + 종속절",
+      "term": "Korrelate (es, dass …; darauf, dass …; darauf, … zu + Inf.)",
+      "explain": "주절에 있는 상관어가 뒤에 오는 종속절이나 zu 부정사구를 미리 가리켜요. 동사가 전치사를 지배하면 'da(r) + 전치사' 형태를 써요: sich verlassen auf → verlässt sich darauf, dass …; verzichten auf → verzichtet darauf, sich abzusichern; eine Wette auf → eine Wette darauf, dass …. dass절이 주어일 때는 1번 자리를 비우지 않으려고 es를 앞에 두기도 해요: Es gehört zu den Voraussetzungen, dass …. 반대로 dass절이 문장 맨 앞에 오면 상관어가 필요 없어요: Dass Vertrauen verletzlich macht, ist ….",
+      "pattern": "동사/명사 + darauf/davon/dazu … , dass/ob/zu 부정사 …  ·  Es + 동사 …, dass …",
       "examples": [
         {
           "de": "Er verlässt sich darauf, dass die Brötchen beim Bäcker nicht verdorben sind, dass der Busfahrer nüchtern ist, dass die Ärztin, die ihm am Nachmittag ein Medikament verschreibt, weiß, was sie tut.",
@@ -221,7 +221,7 @@
     {
       "title": "양보절: so … auch, wie … auch immer, selbst wenn",
       "term": "Konzessivsätze (so … auch, wie … auch immer, selbst wenn, auch wenn)",
-      "explain": "양보절은 '~에도 불구하고, 아무리 ~라도'라는 뜻이에요. 'so + 형용사/부사 + 주어 + … + auch'는 '아무리 ~할지라도'를 뜻하고 동사는 절 끝에 와요: So unvernünftig das auch klingen mag, …. 'wie + 형용사 + … + auch immer'도 같은 뜻이에요: Wie plausibel die Gründe auch immer sein mögen, …. 이런 절에는 mögen이 자주 함께 쓰여요. 'selbst wenn'과 'auch wenn'은 '설령 ~하더라도'예요: Selbst wenn es enttäuscht wird, …. 양보절이 앞에 오면 주절은 보통 동사로 시작하고, 긴 문장에서는 'so … auch, so …'처럼 so로 받기도 해요.",
+      "explain": "양보절은 '~에도 불구하고, 아무리 ~라도'라는 뜻이에요. 'so + 형용사/부사 + 주어 + … + auch'는 '아무리 ~할지라도'를 뜻하고 동사는 절 끝에 와요: So unvernünftig das auch klingen mag, …. 'wie + 형용사 + … + auch immer'도 같은 뜻이에요: Wie plausibel die Gründe auch immer sein mögen, …. 이런 절에는 화법조동사 mögen이 자주 함께 쓰여요. 'selbst wenn'과 'auch wenn'은 '설령 ~하더라도'예요: Selbst wenn es enttäuscht wird, …. 양보절이 앞에 오면 주절은 보통 동사로 시작하고, 'so … auch' 뒤에서는 'so wenig …'처럼 주절을 다시 so로 받기도 해요.",
       "pattern": "So/Wie + 형용사 + 주어 + … + auch (immer) + 동사, (so) + 주절  ·  Selbst wenn + …, 주절",
       "examples": [
         {
@@ -241,7 +241,7 @@
           "mark": ["Selbst wenn es enttäuscht wird"]
         }
       ],
-      "tip": "obwohl은 사실을 인정하며 양보하고(실제로 그렇지만), 'so … auch'와 'wie … auch immer'는 정도가 어떠하든 상관없다는 뜻이에요."
+      "tip": "obwohl은 실제 사실을 인정하면서 양보해요(실제로 그렇지만). 'so … auch'와 'wie … auch immer'는 정도가 어떠하든 상관없다는 뜻이고, 'selbst wenn'은 아직 일어나지 않은 경우까지 가정해요."
     },
     {
       "title": "접속법 2식 비현실 조건과 wollte man …",

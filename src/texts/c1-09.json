@@ -7,7 +7,7 @@
   "type": "Kolumne",
   "typeKo": "개인 칼럼",
   "intro": "할 일 목록에 빠져 사는 칼럼니스트가 자신의 습관을 스스로 비웃으며 쓴 글이에요.",
-  "focus": ["분리·비분리 접두사 동사 (über-, um-, unter-, durch-, wieder-)", "관용 표현 (Redewendungen)", "구어체 생략문과 도치", "비현실 조건문 (접속법 2식)"],
+  "focus": ["분리·비분리 접두사 동사 (über-, um-, unter-, durch-, wieder-)", "관용 표현 (Redewendungen)", "구어체 생략문과 짧은 문장", "비현실 조건문 (접속법 2식)"],
   "paragraphs": [
     {
       "de": "Ich bin ein Listenmensch. Das sage ich nicht mit Stolz, sondern so, wie andere sagen, dass sie Linkshänder sind: Es ist eben so, man kann nichts dagegen tun. Mein Tag beginnt nicht mit Kaffee, sondern mit einem Blatt Papier, auf das ich schreibe, was ich an diesem Tag alles schaffen werde. Alles. Das Blatt ist dann sehr voll und ich bin sehr zufrieden, und das, bevor ich auch nur einen Punkt erledigt habe.",
@@ -15,7 +15,7 @@
     },
     {
       "de": "Gestern zum Beispiel: Steuererklärung anfangen. Keller aufräumen. Zahnarzttermin vereinbaren. Den Artikel über Prokrastination zu Ende lesen. Tante Hilde zurückrufen. Joggen. Der Tag hatte, wie alle Tage, vierundzwanzig Stunden, aber meine Liste hatte offenbar achtundvierzig.",
-      "ko": "어제를 예로 들면 이래요. 세금 신고 시작하기. 지하실 정리하기. 치과 예약하기. 미루는 습관에 관한 기사 끝까지 읽기. 힐데 이모에게 다시 전화하기. 조깅. 그날은 여느 날처럼 스물네 시간이었는데, 제 목록은 아무래도 마흔여덟 시간짜리였나 봐요."
+      "ko": "어제를 예로 들면 이래요. 세금 신고 시작하기. 지하실 정리하기. 치과 예약하기. 미루는 습관에 관한 기사 끝까지 읽기. 힐데 이모에게 다시 전화하기. 조깅. 그날은 여느 날처럼 스물네 시간이었는데, 제 목록은 아무래도 마흔여덟 시간짜리였던 모양이에요."
     },
     {
       "de": "Nun muss ich etwas gestehen. Wenn ich am Nachmittag merke, dass ich die Liste nicht durchbekomme, schreibe ich Dinge darauf, die ich längst erledigt habe. „Frühstücken.“ Abgehakt. „Zeitung durchblättern.“ Abgehakt. „Liste schreiben.“ Abgehakt – mit besonderem Schwung. Ich weiß, das ist Betrug, und ich weiß auch, wen ich damit betrüge. Aber dieses kleine Häkchen setzt etwas in mir frei, das sich wie Leistung anfühlt, und ich bin nicht bereit, darauf zu verzichten, nur weil es unverdient ist.",
@@ -180,8 +180,8 @@
     {
       "title": "분리·비분리 접두사 동사: über-, um-, unter-, durch-, wieder-",
       "term": "trennbare und untrennbare Präfixverben",
-      "explain": "über-, um-, unter-, durch-, wieder- 같은 접두사는 분리될 수도 있고 안 될 수도 있어요. 분리되면 접두사에 강세가 있고 과거분사에 -ge-가 들어가요: úmsortieren → umsortiert(um|sortieren은 -ieren 동사라 ge-가 없어요), dúrchsehen → durchgesehen, dúrchbekommen → durchbekommen. 분리되지 않으면 강세가 어간에 있고 과거분사에 ge-가 없어요: umgéhen → umgangen('피해 가다'), überschätzen → überschätzt('과대평가하다'), unterstéllen → unterstellt('근거 없이 ~라고 여기다')가 그 예예요. 같은 모양의 동사가 분리 여부에 따라 뜻이 달라지기도 해요. úmgehen은 'mit etwas 다루다', umgéhen은 '피하다'이고, übersetzen은 '건네주다', übersétzen은 '번역하다'예요. 구체적·공간적인 뜻이면 대개 분리, 추상적인 뜻이면 대개 비분리예요.",
-      "pattern": "분리: 접두사 강세, ge-가 접두사 뒤 (durch|gesehen) / 비분리: 어간 강세, ge- 없음 (überschätzt)",
+      "explain": "über-, um-, unter-, durch-, wieder- 같은 접두사는 분리될 수도 있고 안 될 수도 있어요. 분리동사이면 접두사에 강세가 있고, 과거분사에서 ge-가 접두사와 어간 사이에 들어가요: dúrchsehen → durchgesehen, úmschreiben → umgeschrieben. 비분리동사이면 강세가 어간에 있고 과거분사에 ge-가 없어요: umgéhen → umgangen('피해 가다'), überschätzen → überschätzt('과대평가하다'), unterstéllen → unterstellt('근거 없이 ~라고 여기다')가 그 예예요. 같은 모양의 동사가 분리 여부에 따라 뜻이 달라지기도 해요. úmgehen은 'mit etwas 다루다', umgéhen은 '피하다'이고, úmschreiben은 '고쳐 쓰다', umschréiben은 '풀어서 말하다'예요. 구체적·공간적인 뜻이면 대개 분리, 추상적인 뜻이면 대개 비분리예요. 참고로 um|sortieren(-ieren 동사)과 durch|bekommen(bekommen 자체에 ge-가 없음)은 분리동사인데도 과거분사에 ge-가 없어요: umsortiert, durchbekommen.",
+      "pattern": "분리: 접두사 강세, 접두사 + ge + 어간 (durchgesehen) / 비분리: 어간 강세, ge- 없음 (überschätzt)",
       "examples": [
         {
           "de": "Ich erledige den unwichtigsten Punkt zuerst, um den wichtigsten umgehen zu können.",
@@ -201,7 +201,7 @@
           "parts": [["wer das erwartet,", "주어"], ["überschätzt", "동사"], ["sie.", "4격 목적어"]]
         }
       ],
-      "tip": "wieder-는 wiederholen(반복하다, 비분리)과 wieder|holen(다시 가져오다, 분리)처럼 뜻이 갈려요. 본문의 zurück|rufen, auf|räumen, ab|haken, über|gehen(넘어가다)은 모두 분리동사예요."
+      "tip": "wieder-도 마찬가지예요. wiederhólen은 '반복하다'(비분리), wíeder|holen은 '다시 가져오다'(분리)예요. 본문의 'ein Rest, der auf den nächsten Tag übergeht'에서 über|gehen은 '넘어가다'라는 구체적인 뜻이라 분리동사이고, 비분리 übergéhen은 '무시하고 지나치다'라는 뜻이에요."
     },
     {
       "title": "관용 표현",
@@ -285,7 +285,7 @@
     { "de": "umgehen (umging, hat umgangen) + Akk.", "ko": "피해 가다, 우회하다" },
     { "de": "durch|sehen (sieht durch, sah durch, hat durchgesehen)", "ko": "훑어보다, 살펴보다" },
     { "de": "um|sortieren", "ko": "다시 정리하다, 재분류하다" },
-    { "de": "aufrichtig", "ko": "진심으로, 솔직한" },
+    { "de": "aufrichtig", "ko": "진심 어린, 솔직한" },
     { "de": "vor|rechnen + Dat.", "ko": "(~에게) 계산해서 보여 주다" },
     { "de": "unterstellen + Dat.", "ko": "(~에게 근거 없이) ~라고 여기다, 넘겨짚다" },
     { "de": "der Einwand, -¨e", "ko": "이의, 반론" },

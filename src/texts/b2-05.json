@@ -27,8 +27,8 @@
       "ko": "이 소설의 가장 큰 강점은 언어에 있습니다. 렐링은 간결하고 정확하게 씁니다. 불필요한 문장이 하나도 없고, 우연히 놓인 형용사도 없습니다. 많은 작가가 인물을 긴 내면 독백으로 설명하는 반면에, 렐링은 사물이 말하게 합니다. 녹슨 자전거 벨, 빗물받이에서 나는 바람 소리, 바닷바람이 창턱에 남기는 제목 속의 그 소금 같은 것들이지요. 그렇게 독자를 놓아주지 않는 분위기가 만들어집니다. 이 마을의 냄새가 느껴지고, 소리가 들립니다."
     },
     {
-      "de": "Trotz dieser Qualitäten hat das Buch einen Durchhänger. Zwar ist das Tempo im ersten Drittel genau richtig, im Mittelteil jedoch zieht sich die Handlung. Hanna sortiert Briefe, Hanna geht am Strand spazieren, Hanna sortiert wieder Briefe. Wenngleich diese Wiederholung vermutlich gewollt ist – der Stillstand der Figur soll spürbar werden –, verlangt sie dem Leser einiges an Geduld ab. Hinzu kommt, dass die Nebenfiguren blass bleiben. Rieke und Ole sind eher Stichwortgeber als eigenständige Charaktere; was sie außerhalb ihrer Begegnungen mit Hanna bewegt, erfährt man nicht. Ein Verlag, der etwas strenger lektoriert hätte, hätte dem Roman an dieser Stelle gutgetan.",
-      "ko": "이런 장점에도 불구하고 이 책에는 처지는 구간이 있습니다. 처음 3분의 1에서는 속도가 딱 알맞지만, 중반부에서는 줄거리가 늘어집니다. 한나는 편지를 정리하고, 한나는 해변을 산책하고, 한나는 다시 편지를 정리합니다. 이 반복은 아마 의도된 것이겠지만(인물이 멈춰 서 있다는 느낌을 주려는 것이지요), 독자에게 상당한 인내심을 요구합니다. 여기에 더해 주변 인물들이 희미하게 남습니다. 리케와 올레는 독자적인 인물이라기보다는 대화의 실마리를 던져 주는 역할에 가깝고, 한나와의 만남 바깥에서 그들을 움직이는 것이 무엇인지는 알 수 없습니다. 조금 더 엄격하게 편집했을 출판사였다면 이 지점에서 소설에 도움이 되었을 것입니다."
+      "de": "Trotz dieser Qualitäten hat das Buch einen Durchhänger. Zwar ist das Tempo im ersten Drittel genau richtig, im Mittelteil jedoch zieht sich die Handlung. Hanna sortiert Briefe, Hanna geht am Strand spazieren, Hanna sortiert wieder Briefe. Wenngleich diese Wiederholung vermutlich gewollt ist – der Stillstand der Figur soll spürbar werden –, verlangt sie dem Leser einiges an Geduld ab. Hinzu kommt, dass die Nebenfiguren blass bleiben. Hanna ist in jeder Szene greifbar, wohingegen Rieke und Ole eher Stichwortgeber als eigenständige Charaktere sind; was sie außerhalb ihrer Begegnungen mit Hanna bewegt, erfährt man nicht. Ein strengeres Lektorat hätte dem Roman an dieser Stelle gutgetan.",
+      "ko": "이런 장점에도 불구하고 이 책에는 처지는 구간이 있습니다. 처음 3분의 1에서는 속도가 딱 알맞지만, 중반부에서는 줄거리가 늘어집니다. 한나는 편지를 정리하고, 한나는 해변을 산책하고, 한나는 다시 편지를 정리합니다. 이 반복은 아마 의도된 것이겠지만(인물이 멈춰 서 있다는 느낌을 주려는 것이지요), 독자에게 상당한 인내심을 요구합니다. 여기에 더해 주변 인물들이 희미하게 남습니다. 한나는 모든 장면에서 생생하게 그려지는 반면에, 리케와 올레는 독자적인 인물이라기보다는 대화의 실마리를 던져 주는 역할에 가깝고, 한나와의 만남 바깥에서 그들을 움직이는 것이 무엇인지는 알 수 없습니다. 조금 더 엄격한 편집이 이 지점에서 소설에 도움이 되었을 것입니다."
     },
     {
       "de": "Dennoch: Wer sich durch den Mittelteil hindurchgelesen hat, wird belohnt. Das letzte Drittel gehört zum Besten, was in diesem Jahr auf Deutsch erschienen ist. Hier verdichtet sich alles, was vorher nur angedeutet wurde – die Schuld, die Hanna aus dem Dorf getrieben hat, die Frage, ob Heimat ein Ort oder eine Entscheidung ist.",
@@ -182,13 +182,18 @@
     {
       "title": "대조 접속어 – 반면에",
       "term": "Adversative Konnektoren (während, wohingegen, jedoch, aber)",
-      "explain": "대조는 서로 다른 두 가지를 나란히 놓고 비교하는 관계예요. 양보와 달리 '기대와 반대'가 아니라 '차이'를 보여 줘요. während와 wohingegen은 종속접속사로 동사가 종속절 끝에 와요. während는 시간('~하는 동안')이 아니라 대조('~하는 반면에')로도 쓰이는데, 문맥으로 구별해요. jedoch는 접속부사로 1번 자리나 문장 중간에 올 수 있고, 문장 중간에 오면 어순에 영향을 주지 않아요. aber는 등위접속사로 0번 자리에 와요.",
-      "pattern": "Während + … + 동사(끝), 주절 · …, jedoch … · …, aber …",
+      "explain": "대조는 서로 다른 두 가지를 나란히 놓고 비교하는 관계예요. 양보와 달리 '기대와 반대'가 아니라 '차이'를 보여 줘요. während와 wohingegen은 종속접속사로 동사가 종속절 끝에 와요. während는 시간('~하는 동안')뿐 아니라 대조('~하는 반면에')로도 쓰이는데, 문맥으로 구별해요. wohingegen은 대조로만 쓰이고 보통 주절 뒤에 와요. jedoch는 접속부사로 1번 자리나 문장 중간에 올 수 있고, 문장 중간에 오면 어순에 영향을 주지 않아요. aber는 등위접속사로 0번 자리에 와요.",
+      "pattern": "Während + … + 동사(끝), 주절 · 주절, wohingegen + … + 동사(끝) · …, jedoch … · …, aber …",
       "examples": [
         {
           "de": "Während viele Autorinnen und Autoren ihre Figuren in langen inneren Monologen erklären, lässt Reling die Dinge sprechen: eine verrostete Fahrradklingel, das Geräusch des Windes in den Dachrinnen, das titelgebende Salz, das die Meeresluft auf der Fensterbank hinterlässt.",
           "ko": "많은 작가가 인물을 긴 내면 독백으로 설명하는 반면에, 렐링은 사물이 말하게 합니다. 녹슨 자전거 벨, 빗물받이에서 나는 바람 소리, 바닷바람이 창턱에 남기는 제목 속의 그 소금 같은 것들이지요.",
           "mark": ["Während", "erklären", "lässt"]
+        },
+        {
+          "de": "Hanna ist in jeder Szene greifbar, wohingegen Rieke und Ole eher Stichwortgeber als eigenständige Charaktere sind; was sie außerhalb ihrer Begegnungen mit Hanna bewegt, erfährt man nicht.",
+          "ko": "한나는 모든 장면에서 생생하게 그려지는 반면에, 리케와 올레는 독자적인 인물이라기보다는 대화의 실마리를 던져 주는 역할에 가깝고, 한나와의 만남 바깥에서 그들을 움직이는 것이 무엇인지는 알 수 없습니다.",
+          "mark": ["wohingegen", "sind"]
         },
         {
           "de": "„Salz auf der Fensterbank“ ist kein perfekter Roman, aber ein ehrlicher.",
@@ -250,7 +255,7 @@
     { "de": "sich ziehen (zieht sich, zog sich, hat sich gezogen)", "ko": "(지루하게) 늘어지다, 길게 끌다" },
     { "de": "der Stillstand (Sg.)", "ko": "정지, 멈춤" },
     { "de": "blass", "ko": "희미한, 인상이 약한; 창백한" },
-    { "de": "lektorieren", "ko": "(출판사에서 원고를) 편집하다, 교정하다" },
+    { "de": "das Lektorat, -e", "ko": "(출판사의) 원고 편집, 편집부" },
     { "de": "sich verdichten", "ko": "응축되다, 짙어지다" },
     { "de": "an|deuten", "ko": "암시하다" }
   ],
@@ -288,8 +293,8 @@
     {
       "de": "jemandem/etwas guttun",
       "ko": "~에게 좋다, 도움이 되다",
-      "ex": "Ein Verlag, der etwas strenger lektoriert hätte, hätte dem Roman an dieser Stelle gutgetan.",
-      "exko": "조금 더 엄격하게 편집했을 출판사였다면 이 지점에서 소설에 도움이 되었을 것입니다."
+      "ex": "Ein strengeres Lektorat hätte dem Roman an dieser Stelle gutgetan.",
+      "exko": "조금 더 엄격한 편집이 이 지점에서 소설에 도움이 되었을 것입니다."
     }
   ]
 }

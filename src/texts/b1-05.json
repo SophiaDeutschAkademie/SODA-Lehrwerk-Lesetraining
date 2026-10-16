@@ -120,18 +120,13 @@
       "explain": "그녀는 자기 연주를 아무도 듣지 않기를 바라면서 밤에만 쳐요. 즉 밤에는 아무도 방해받지 않을 거라고 생각하는 거예요. 세 번째 선택지는 hoffen, hören 같은 단어를 그대로 쓰지만 내용이 반대예요."
     },
     {
-      "type": "mc",
+      "type": "rf",
       "kind": "gist",
-      "q": "Was erkennt der Erzähler am Ende der Geschichte?",
-      "options": [
-        "Frau Lindner hatte die anderen absichtlich ignoriert, weil sie ihre Ruhe wollte.",
-        "Alle im Haus hatten Frau Lindner falsch beurteilt, weil niemand nach dem Grund gefragt hatte.",
-        "Herr Kowalczyk hatte als Einziger gewusst, dass Frau Lindner nichts hört."
-      ],
-      "answer": 1,
-      "evidence": "wir hatten nicht gefragt, warum sie schwieg",
-      "pairs": [["hatten nicht gefragt, warum sie schwieg", "niemand nach dem Grund gefragt hatte"], ["hatte unsere Grüße nie gehört", "falsch beurteilt"]],
-      "explain": "린트너 씨는 인사를 듣지 못했을 뿐인데 모두가 그녀를 거만하다고 잘못 판단했고, 아무도 그녀가 왜 말이 없는지 묻지 않았어요. 일부러 무시했다는 것은 사실과 반대이고, 코발치크 씨도 다른 사람들처럼 몰랐어요."
+      "q": "Am Ende versteht der Erzähler, dass die Hausbewohner Frau Lindner zu Unrecht für unhöflich gehalten hatten.",
+      "answer": 0,
+      "evidence": "Frau Lindner hatte unsere Grüße nie gehört.",
+      "pairs": [["hatte unsere Grüße nie gehört", "zu Unrecht für unhöflich gehalten"], ["hatten nicht gefragt, warum sie schwieg", "die Hausbewohner"]],
+      "explain": "린트너 씨는 인사를 듣지 못했을 뿐인데 모두가 그녀를 거만하다고 잘못 판단했고, 아무도 그녀가 왜 말이 없는지 묻지 않았어요. 그래서 '이웃들이 그녀를 부당하게 무례하다고 여겼다'는 이야기의 결말과 맞아요."
     }
   ],
   "grammar": [
@@ -179,7 +174,7 @@
           "mark": ["der nur den Kopf geschüttelt hatte"]
         }
       ],
-      "tip": "in das sie mich führte: führen은 '어디로' 데려가는 동작이라 in + 4격(das)이에요. auf dem Noten lagen: liegen은 '어디에' 있는 상태라 auf + 3격(dem)이에요. 말할 때는 „Mit der redet keiner“처럼 관계대명사를 지시대명사로 문장 앞에 쓰기도 해요."
+      "tip": "in das sie mich führte: führen은 '어디로' 데려가는 동작이라 in + 4격(das)이에요. auf dem Noten lagen: liegen은 '어디에' 있는 상태라 auf + 3격(dem)이에요. „Mit der redet keiner“의 der는 관계대명사가 아니라 앞에 나온 사람을 가리키는 지시대명사예요. 말할 때 자주 써요."
     },
     {
       "title": "남성 약변화 명사 – der Student, den Studenten",
@@ -234,7 +229,7 @@
     { "de": "das Treppenhaus, -¨er", "ko": "계단실, 계단이 있는 공간" },
     { "de": "begegnen (ist begegnet) + Dat.", "ko": "~와 마주치다" },
     { "de": "zurück|grüßen", "ko": "인사에 답하다, 인사를 받아 주다" },
-    { "de": "der Stock, Stockwerke", "ko": "층" },
+    { "de": "der Stock (Sg.) / das Stockwerk, -e", "ko": "층" },
     { "de": "das Erdgeschoss, -e", "ko": "1층 (지면과 같은 층)" },
     { "de": "den Kopf schütteln", "ko": "고개를 젓다" },
     { "de": "die Decke, -n", "ko": "천장" },

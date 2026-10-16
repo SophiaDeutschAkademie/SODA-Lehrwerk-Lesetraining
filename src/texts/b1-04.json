@@ -7,7 +7,7 @@
   "type": "Ratgeber im Kundenmagazin",
   "typeKo": "고객 잡지의 생활 정보 글",
   "intro": "겨울에 난방비를 아끼면서 곰팡이 없이 환기하는 방법을 알려 주는 글이에요.",
-  "focus": ["um … zu / damit", "ohne … zu / statt … zu", "sollte(n)으로 권하기", "지시대명사 man"],
+  "focus": ["um … zu / damit", "ohne … zu / statt … zu", "sollte(n)으로 권하기", "부정대명사 man"],
   "paragraphs": [
     {
       "de": "Im Winter stehen viele Mieterinnen und Mieter vor demselben Problem: Die Wohnung soll warm bleiben, aber die Luft wird nach ein paar Stunden stickig, und an den Fenstern sammelt sich Wasser. Wer dann die Heizung einfach höher dreht, ohne zu lüften, spart kein Geld, sondern riskiert Schimmel. Mit ein paar einfachen Regeln lässt sich beides erreichen: frische Luft und eine warme Wohnung.",
@@ -241,7 +241,7 @@
     }
   ],
   "vocab": [
-    { "de": "die Mieterin, -nen", "ko": "(여성) 세입자" },
+    { "de": "der Mieter, -", "ko": "세입자 (여성형: die Mieterin, -nen)" },
     { "de": "stickig", "ko": "(공기가) 탁한, 답답한" },
     { "de": "der Schimmel (Sg.)", "ko": "곰팡이" },
     { "de": "lüften", "ko": "환기하다" },
@@ -266,8 +266,8 @@
       "exko": "겨울이 되면 많은 세입자가 같은 문제를 겪습니다"
     },
     {
-      "de": "sich (Dat.) etwas lassen + Inf. (lässt sich erreichen)",
-      "ko": "~될 수 있다, ~이 가능하다",
+      "de": "sich erreichen lassen (etwas lässt sich erreichen)",
+      "ko": "달성될 수 있다, 이룰 수 있다 (sich lassen + 동사원형 = ~될 수 있다)",
       "ex": "Mit ein paar einfachen Regeln lässt sich beides erreichen",
       "exko": "몇 가지 간단한 규칙만 지키면 두 가지를 모두 얻을 수 있습니다"
     },

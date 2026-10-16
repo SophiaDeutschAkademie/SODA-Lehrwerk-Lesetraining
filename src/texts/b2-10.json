@@ -15,11 +15,11 @@
     },
     {
       "de": "Mit 38 Prozent lebt mehr als ein Drittel der Befragten in einer WG. An zweiter Stelle folgt das Elternhaus: 22 Prozent wohnen noch bei den Eltern, meist aufgrund der hohen Mieten. Knapp ein Fünftel (19 Prozent) hat eine eigene Wohnung, 14 Prozent leben im Wohnheim, und 7 Prozent wohnen mit Partnerin oder Partner zusammen – halb so viele wie im Wohnheim. Innerhalb der letzten vier Jahre hat sich an dieser Rangfolge wenig geändert; lediglich der Anteil derjenigen, die bei den Eltern wohnen, ist um drei Prozentpunkte gestiegen.",
-      "ko": "응답자의 38%, 즉 3분의 1이 넘는 사람이 WG에서 삽니다. 2위는 부모 집입니다. 22%가 아직 부모와 함께 살고 있는데, 대부분 높은 월세 때문입니다. 5분의 1에 조금 못 미치는 19%는 자기 집에서 혼자 살고, 14%는 기숙사에서, 7%는 파트너와 함께 삽니다. 파트너와 사는 비율은 기숙사에 사는 비율의 절반입니다. 지난 4년 동안 이 순위에는 거의 변화가 없었습니다. 다만 부모 집에 사는 사람의 비율만 3%포인트 올랐습니다."
+      "ko": "응답자의 38%, 즉 3분의 1이 넘는 사람이 WG에서 삽니다. 2위는 부모 집입니다. 22%가 아직 부모와 함께 살고 있는데, 대부분 높은 월세 때문입니다. 5분의 1에 조금 못 미치는 19%는 독립된 집에서 혼자 살고, 14%는 기숙사에서, 7%는 파트너와 함께 삽니다. 파트너와 사는 비율은 기숙사에 사는 비율의 절반입니다. 지난 4년 동안 이 순위에는 거의 변화가 없었습니다. 부모 집에 사는 사람의 비율만 3%포인트 올랐을 뿐입니다."
     },
     {
       "de": "Spürbar gestiegen sind dagegen die Mieten. Ein WG-Zimmer kostet im Schnitt 420 Euro warm; bei der letzten Befragung vor vier Jahren waren es 350 Euro. Das entspricht einem Anstieg um 70 Euro oder 20 Prozent. Am günstigsten wohnt, wer einen Wohnheimplatz hat: Hier liegt die Miete bei 310 Euro und damit um 110 Euro unter dem Preis eines WG-Zimmers. Alleinlebende zahlen am meisten: Eine eigene Wohnung kostet mit 560 Euro ein Drittel mehr als ein WG-Zimmer. Infolge dieser Entwicklung wendet mehr als die Hälfte derjenigen, die zur Miete wohnen (53 Prozent), über 40 Prozent des monatlichen Budgets fürs Wohnen auf; vor vier Jahren traf das auf 41 Prozent zu.",
-      "ko": "반면 월세는 눈에 띄게 올랐습니다. WG 방 하나는 관리비 포함 평균 420유로입니다. 4년 전 지난 조사 때는 350유로였습니다. 70유로, 즉 20%가 오른 것입니다. 가장 저렴하게 사는 사람은 기숙사 자리를 얻은 사람입니다. 기숙사 월세는 310유로로 WG 방 값보다 110유로 낮습니다. 혼자 사는 사람이 가장 많이 냅니다. 자기 집 하나는 560유로로 WG 방보다 3분의 1 더 비쌉니다. 이런 변화의 결과로 월세를 내는 응답자 가운데 절반이 넘는 53%가 월 예산의 40% 이상을 주거비로 씁니다. 4년 전에는 이 비율이 41%였습니다."
+      "ko": "반면 월세는 눈에 띄게 올랐습니다. WG 방 하나는 관리비 포함 평균 420유로입니다. 4년 전 지난 조사 때는 350유로였습니다. 70유로, 즉 20%가 오른 것입니다. 가장 저렴하게 사는 사람은 기숙사 자리를 얻은 사람입니다. 기숙사 월세는 310유로로 WG 방값보다 110유로 낮습니다. 혼자 사는 사람이 가장 많이 냅니다. 혼자 쓰는 집은 560유로로 WG 방보다 3분의 1 더 비쌉니다. 이런 변화의 결과로 월세를 내는 응답자 가운데 절반이 넘는 53%가 월 예산의 40% 이상을 주거비로 씁니다. 4년 전에는 이 비율이 41%였습니다."
     },
     {
       "de": "Auch die Wege zur Hochschule werden länger. Zwar erreichen 61 Prozent der Befragten den Campus innerhalb einer halben Stunde, doch 28 Prozent sind zwischen 30 und 60 Minuten unterwegs, und gut jeder Zehnte (11 Prozent) braucht länger als eine Stunde – pro Strecke. Besonders betroffen sind diejenigen, die im Elternhaus wohnen: Unter ihnen ist fast jeder Dritte länger als eine Stunde unterwegs. Angesichts dieser Zahlen überrascht es nicht, dass lange Fahrtzeiten im Vergleich zur letzten Befragung deutlich häufiger als Problem genannt werden.",
@@ -38,11 +38,11 @@
     {
       "type": "rfn",
       "kind": "detail",
-      "q": "Fast vier von zehn Befragten teilen sich eine Wohnung mit anderen Studierenden.",
+      "q": "Fast vier von zehn Befragten teilen sich eine Wohnung mit anderen.",
       "answer": 0,
       "evidence": "Mit 38 Prozent lebt mehr als ein Drittel der Befragten in einer WG.",
       "pairs": [["38 Prozent", "Fast vier von zehn"], ["in einer WG", "teilen sich eine Wohnung mit anderen"]],
-      "explain": "응답자의 38%가 WG에서 산다고 해요. 38%는 '10명 중 거의 4명'이고, WG는 다른 사람들과 집을 나눠 쓰는 주거 형태예요. 그래서 Ja예요."
+      "explain": "응답자의 38%가 WG에서 산다고 해요. 38%는 '10명 중 거의 4명'이고, WG는 다른 사람들과 집을 나눠 쓰는 주거 형태이므로 맞는 설명이에요."
     },
     {
       "type": "mc",
@@ -65,7 +65,7 @@
       "answer": 1,
       "evidence": "lediglich der Anteil derjenigen, die bei den Eltern wohnen, ist um drei Prozentpunkte gestiegen.",
       "pairs": [["ist um drei Prozentpunkte gestiegen", "zurückgegangen"], ["bei den Eltern wohnen", "zu Hause bei der Familie leben"]],
-      "explain": "본문은 부모 집에 사는 사람의 비율이 3%포인트 올랐다고 해요. 문제는 '줄었다(zurückgegangen)'고 하므로 반대예요. 'in den letzten vier Jahren'은 본문의 'Innerhalb der letzten vier Jahre'를 그대로 가져온 함정이에요."
+      "explain": "본문은 부모 집에 사는 사람의 비율이 3%포인트 올랐다고 해요. 문제는 '줄었다(zurückgegangen)'고 하므로 반대예요. 'in den letzten vier Jahren'은 본문의 'Innerhalb der letzten vier Jahre'를 거의 그대로 가져온 함정이에요."
     },
     {
       "type": "mc",
@@ -187,7 +187,7 @@
         },
         {
           "de": "Hier liegt die Miete bei 310 Euro und damit um 110 Euro unter dem Preis eines WG-Zimmers.",
-          "ko": "기숙사 월세는 310유로로 WG 방 값보다 110유로 낮습니다.",
+          "ko": "기숙사 월세는 310유로로 WG 방값보다 110유로 낮습니다.",
           "mark": ["liegt", "bei 310 Euro", "um 110 Euro unter"],
           "parts": [["Hier", "부사어(장소)"], ["liegt", "동사"], ["die Miete", "주어"], ["bei 310 Euro", "전치사 목적어"], ["und damit um 110 Euro unter dem Preis eines WG-Zimmers.", "부사어"]]
         },
@@ -232,7 +232,7 @@
       "examples": [
         {
           "de": "Alleinlebende zahlen am meisten: Eine eigene Wohnung kostet mit 560 Euro ein Drittel mehr als ein WG-Zimmer.",
-          "ko": "혼자 사는 사람이 가장 많이 냅니다. 자기 집 하나는 560유로로 WG 방보다 3분의 1 더 비쌉니다.",
+          "ko": "혼자 사는 사람이 가장 많이 냅니다. 혼자 쓰는 집은 560유로로 WG 방보다 3분의 1 더 비쌉니다.",
           "mark": ["Alleinlebende"]
         },
         {

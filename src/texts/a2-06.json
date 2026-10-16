@@ -60,7 +60,7 @@
     },
     {
       "style": "h",
-      "de": "Wann solltest du Hilfe holen?",
+      "de": "Wann solltest du dir Hilfe holen?",
       "ko": "언제 도움을 구해야 할까요?"
     },
     {
@@ -182,7 +182,7 @@
       "pattern": "주어 + sollte(st) + … + 동사원형(문장 끝)",
       "examples": [
         {
-          "de": "Wann solltest du Hilfe holen?",
+          "de": "Wann solltest du dir Hilfe holen?",
           "ko": "언제 도움을 구해야 할까요?",
           "mark": ["solltest", "holen"],
           "parts": [["Wann", "의문사"], ["solltest", "동사"], ["du", "주어"], ["Hilfe", "4격 목적어"], ["holen?", "동사(끝)"]]

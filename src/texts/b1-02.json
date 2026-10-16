@@ -11,7 +11,7 @@
   "paragraphs": [
     {
       "de": "Im Jahr 1886 hatte Carl Benz aus Mannheim ein Patent für seinen Motorwagen erhalten. Zwei Jahre später interessierten sich jedoch nur wenige Menschen für die Erfindung. Längere Fahrten hatte bis dahin niemand gewagt, und viele hielten das laute Fahrzeug für ein gefährliches Spielzeug. Seine Frau Bertha dagegen glaubte fest an die neue Technik.",
-      "ko": "1886년에 만하임의 카를 벤츠는 자신의 모토르바겐으로 특허를 받았습니다. 그러나 2년이 지난 뒤에도 이 발명에 관심을 보이는 사람은 거의 없었습니다. 그때까지 긴 거리를 달려 볼 엄두를 낸 사람은 아무도 없었고, 많은 사람이 이 시끄러운 탈것을 위험한 장난감으로 여겼습니다. 반면 그의 아내 베르타는 새 기술을 굳게 믿었습니다."
+      "ko": "1886년에 만하임의 카를 벤츠는 자신이 만든 모토르바겐에 대한 특허를 받았습니다. 그러나 2년이 지난 뒤에도 이 발명에 관심을 보이는 사람은 거의 없었습니다. 그때까지 긴 거리를 달려 볼 엄두를 낸 사람은 아무도 없었고, 많은 사람이 이 시끄러운 탈것을 위험한 장난감으로 여겼습니다. 반면 그의 아내 베르타는 새 기술을 굳게 믿었습니다."
     },
     {
       "de": "Im August 1888 fasste sie einen mutigen Entschluss: Sie wollte mit dem Wagen von Mannheim nach Pforzheim fahren, eine Strecke von rund 100 Kilometern. Bevor sie losfuhr, erzählte sie ihrem Mann nichts von dem Plan. Nur ihre beiden Söhne, damals noch Jugendliche, nahm sie mit. Nachdem die drei Mannheim verlassen hatten, zeigte sich schnell, dass die Reise kein einfacher Ausflug war.",
@@ -158,7 +158,7 @@
       "examples": [
         {
           "de": "Im Jahr 1886 hatte Carl Benz aus Mannheim ein Patent für seinen Motorwagen erhalten.",
-          "ko": "1886년에 만하임의 카를 벤츠는 자신의 모토르바겐으로 특허를 받았습니다.",
+          "ko": "1886년에 만하임의 카를 벤츠는 자신이 만든 모토르바겐에 대한 특허를 받았습니다.",
           "mark": ["hatte", "erhalten"],
           "parts": [["Im Jahr 1886", "부사어(시간)"], ["hatte", "동사"], ["Carl Benz aus Mannheim", "주어"], ["ein Patent für seinen Motorwagen", "4격 목적어"], ["erhalten.", "동사(끝)"]]
         },

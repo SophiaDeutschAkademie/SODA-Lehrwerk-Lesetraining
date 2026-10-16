@@ -143,13 +143,19 @@
       "explain": "dem Anspruch nach(이상에 따르면)는 박물관이 스스로 내세운 목표를 뜻하고, erst dann은 매표소가 사라진 뒤에야 비로소 그 목표가 실현된다는 말이에요. 이미 모두의 것이라는 선택지는 '그제야(erst dann)'와 맞지 않아요."
     },
     {
-      "type": "rfn",
+      "type": "mc",
       "kind": "detail",
-      "q": "Der Autor schlägt vor, den kostenlosen Museumstag auf den Montag zu legen, weil dann weniger Besucher kommen.",
-      "answer": 1,
-      "evidence": "und zwar nicht der Montag, an dem ohnehin die Hälfte der Häuser geschlossen ist, sondern ein Samstag oder Sonntag",
-      "pairs": [["nicht der Montag", "auf den Montag zu legen"], ["sondern ein Samstag oder Sonntag", "weil dann weniger Besucher kommen"]],
-      "explain": "글쓴이는 분명히 월요일이 '아니라' 토요일이나 일요일을 제안해요. 월요일은 박물관 절반이 어차피 문을 닫는 날이기 때문이에요. 문제는 Montag라는 단어를 가져와 제안을 반대로 바꾸고, 본문에 없는 이유를 덧붙였어요."
+      "q": "Warum kommt der Montag für den Autor als kostenloser Museumstag nicht in Frage?",
+      "options": [
+        "weil an diesem Tag ohnehin viele Museen gar nicht geöffnet haben",
+        "weil am Montag erfahrungsgemäß die wenigsten Besucher kommen",
+        "weil Familien nur am Wochenende Zeit für einen Museumsbesuch haben",
+        "weil die Museen den Montag für den Aufbau von Sonderschauen brauchen"
+      ],
+      "answer": 0,
+      "evidence": "an dem ohnehin die Hälfte der Häuser geschlossen ist",
+      "pairs": [["die Hälfte der Häuser geschlossen ist", "viele Museen gar nicht geöffnet haben"], ["nicht der Montag", "nicht in Frage"]],
+      "explain": "글쓴이는 월요일에는 어차피 박물관 절반이 문을 닫는다고 해요. geschlossen(닫힌)을 nicht geöffnet(열지 않은)로, die Hälfte der Häuser를 viele Museen으로 바꿔 말했어요. 관람객 수나 가족의 시간, 특별전 준비는 본문에 나오지 않는 이유예요."
     },
     {
       "type": "mc",

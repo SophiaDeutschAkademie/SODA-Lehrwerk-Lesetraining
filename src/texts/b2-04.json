@@ -7,7 +7,7 @@
   "type": "Interview",
   "typeKo": "잡지 인터뷰",
   "intro": "회화 복원가가 자신의 일과 그 일의 원칙에 대해 이야기하는 인터뷰예요.",
-  "focus": ["수동태 대체형 (sich lassen · sein + zu · -bar/-lich)", "기능동사 구문", "종속절 어순"],
+  "focus": ["sich lassen + 동사원형", "sein + zu + 동사원형", "-bar/-lich 형용사", "기능동사 구문"],
   "paragraphs": [
     {
       "de": "Marlene Vogt restauriert seit über zwanzig Jahren Gemälde, zuerst in einem Museum, heute in ihrer eigenen Werkstatt in Bamberg. Ein Gespräch über Geduld, Grenzen und die Frage, wem ein Bild eigentlich gehört.",
@@ -104,7 +104,7 @@
       "answer": 0,
       "evidence": "Die nächste Generation wird andere Methoden zur Verfügung haben, und sie soll unsere Entscheidungen korrigieren können.",
       "pairs": [["Die nächste Generation", "eines Tages von anderen"], ["unsere Entscheidungen korrigieren", "ihre eigene Arbeit eines Tages von anderen verändert wird"]],
-      "explain": "포크트는 다음 세대가 다른 방법을 쓰게 될 것이고 지금의 결정을 바로잡을 수 있어야 한다고 말해요. 즉 자신의 작업이 나중에 다른 사람들에 의해 바뀔 것을 예상하고 오히려 바라고 있어요."
+      "explain": "포크트는 다음 세대가 다른 방법을 쓰게 될 것이고 지금의 결정을 바로잡을 수 있어야 한다고 말해요. 즉 자신의 작업이 나중에 다른 사람들에 의해 바뀔 것을 예상하고 오히려 바라고 있어요. '다음 세대'를 '언젠가 다른 사람들'로, '결정을 바로잡다'를 '작업을 바꾸다'로 바꿔 말했어요."
     },
     {
       "type": "mc",
@@ -202,7 +202,7 @@
     {
       "title": "수동태 대체형 – sein + zu + 동사원형",
       "term": "Passiversatz: sein + zu + Infinitiv",
-      "explain": "sein + zu + 동사원형은 문맥에 따라 '~될 수 있다'(können + 수동태) 또는 '~되어야 한다'(müssen + 수동태)라는 뜻이에요. 어느 쪽인지는 문맥으로 판단해요. nur teilweise abzunehmen sind는 '일부만 걷어 낼 수 있다'(가능)이고, muss rückgängig zu machen sein처럼 화법조동사가 함께 오면 그 뜻이 더해져요. 주어는 행위의 대상이에요.",
+      "explain": "sein + zu + 동사원형은 문맥에 따라 '~될 수 있다'(können + 수동태) 또는 '~되어야 한다'(müssen + 수동태)라는 뜻이에요. 어느 쪽인지는 문맥으로 판단해요. nur teilweise abzunehmen sind는 '일부만 걷어 낼 수 있다'(가능)라는 뜻이에요. muss rückgängig zu machen sein처럼 앞에 화법조동사가 오면 '되돌릴 수 있는 상태여야 한다'처럼 두 뜻이 겹쳐요. 주어는 행위의 대상이에요.",
       "pattern": "주어 + ist/sind + zu + 동사원형 = kann/muss + 과거분사 + werden",
       "examples": [
         {
@@ -222,7 +222,7 @@
     {
       "title": "수동태 대체형 – -bar와 -lich로 끝나는 형용사",
       "term": "Passiversatz: Adjektive auf -bar / -lich",
-      "explain": "동사 어간에 -bar를 붙이면 '~될 수 있는'이라는 뜻의 형용사가 돼요. erlernbar(배울 수 있는), wahrnehmbar(감지할 수 있는), erkennbar(알아볼 수 있는)처럼요. 이 형용사는 können + 수동태와 같은 뜻이에요. -lich로 끝나는 형용사도 같은 역할을 할 때가 있어요. nachvollziehbar 같은 긴 형태도 자주 쓰여요. 부정은 nicht나 접두사 un-으로 해요(unerkennbar).",
+      "explain": "동사 어간에 -bar를 붙이면 '~될 수 있는'이라는 뜻의 형용사가 돼요. erlernbar(배울 수 있는), wahrnehmbar(감지할 수 있는), erkennbar(알아볼 수 있는)처럼요. 이 형용사는 können + 수동태와 같은 뜻이에요. -lich로 끝나는 형용사도 같은 역할을 할 때가 있어요(verständlich = kann verstanden werden, unerklärlich = kann nicht erklärt werden). nachvollziehbar 같은 긴 형태도 자주 쓰여요. 부정은 nicht나 접두사 un-으로 해요(unerkennbar).",
       "pattern": "동사 어간 + -bar = ~될 수 있는 (kann … werden)",
       "examples": [
         {
