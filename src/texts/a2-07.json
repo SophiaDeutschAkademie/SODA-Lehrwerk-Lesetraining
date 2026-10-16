@@ -303,6 +303,31 @@
               "보어"
             ]
           ]
+        },
+        {
+          "de": "Hier gibt es die meisten Jobs für Studierende und viele gute Museen.",
+          "ko": "이곳에는 학생 아르바이트 자리가 가장 많고, 좋은 박물관도 많아요.",
+          "mark": [
+            "die meisten Jobs"
+          ],
+          "parts": [
+            [
+              "Hier",
+              "부사어(장소)"
+            ],
+            [
+              "gibt",
+              "동사"
+            ],
+            [
+              "es",
+              "주어"
+            ],
+            [
+              "die meisten Jobs für Studierende und viele gute Museen.",
+              "4격 목적어"
+            ]
+          ]
         }
       ],
       "tip": "der alte Hafen (남성 1격 → -e) ↔ die günstigsten Mieten, die meisten Jobs (복수 4격 → -en). 정관사 뒤의 복수는 격과 상관없이 늘 -en이에요. 관사가 없거나 viele 뒤에 오는 복수는 1격·4격에서 -e예요: kleine Konzerte, alte Fabriken, viele gute Museen."
