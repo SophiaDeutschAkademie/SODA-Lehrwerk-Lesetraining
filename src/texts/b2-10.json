@@ -67,8 +67,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was sagt der Text über die Miete für ein WG-Zimmer?",
-      "options": ["Sie ist in den vergangenen vier Jahren um 20 Euro gestiegen.", "Sie liegt heute um ein Fünftel höher als bei der letzten Umfrage.", "Sie liegt heute 110 Euro über dem Preis einer eigenen Wohnung."],
-      "answer": 1,
+      "options": ["Sie liegt heute um ein Fünftel höher als bei der letzten Umfrage.", "Sie ist in den vergangenen vier Jahren um 20 Euro gestiegen.", "Sie liegt heute 110 Euro über dem Preis einer eigenen Wohnung."],
+      "answer": 0,
       "evidence": "Das entspricht einem Anstieg um 70 Euro oder 20 Prozent.",
       "pairs": [["20 Prozent", "ein Fünftel"], ["bei der letzten Befragung vor vier Jahren", "bei der letzten Umfrage"]],
       "explain": "WG 방값은 350유로에서 420유로로 70유로, 즉 20% 올랐어요. 20%는 5분의 1이에요. '20 Euro'는 '20 Prozent'와 숫자만 같은 함정이고, 110유로 차이는 혼자 쓰는 집이 아니라 기숙사와 비교한 수치예요."
@@ -87,8 +87,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Welche Gruppe hat laut Umfrage besonders häufig lange Fahrtwege?",
-      "options": ["Studierende, die in einer WG weit außerhalb der Stadt leben", "Studierende, die allein in einer eigenen Wohnung leben", "Studierende, die noch nicht von zu Hause ausgezogen sind"],
-      "answer": 2,
+      "options": ["Studierende, die in einer WG weit außerhalb der Stadt leben", "Studierende, die noch nicht von zu Hause ausgezogen sind", "Studierende, die allein in einer eigenen Wohnung leben"],
+      "answer": 1,
       "evidence": "Besonders betroffen sind diejenigen, die im Elternhaus wohnen: Unter ihnen ist fast jeder Dritte länger als eine Stunde unterwegs.",
       "pairs": [["die im Elternhaus wohnen", "die noch nicht von zu Hause ausgezogen sind"], ["Besonders betroffen", "besonders häufig lange Fahrtwege"]],
       "explain": "본문은 부모 집에 사는 사람들이 특히 영향을 받고, 그중 거의 3분의 1이 한 시간 넘게 길에서 보낸다고 해요. '부모 집에 산다'를 '아직 집에서 독립하지 않았다'로 바꿔 말했어요."
@@ -97,8 +97,8 @@
       "type": "mc",
       "kind": "meaning",
       "q": "Was bedeutet „Mehrfachnennungen waren möglich“ im Text?",
-      "options": ["Die Befragten durften mehr als einen Wunsch ankreuzen.", "Die Umfrage wurde im selben Semester mehrmals wiederholt.", "Viele Befragte nannten in der Umfrage dieselben Wünsche."],
-      "answer": 0,
+      "options": ["Die Umfrage wurde im selben Semester mehrmals wiederholt.", "Die Befragten durften mehr als einen Wunsch ankreuzen.", "Viele Befragte nannten in der Umfrage dieselben Wünsche."],
+      "answer": 1,
       "evidence": "Mehrfachnennungen waren möglich",
       "pairs": [["Mehrfachnennungen", "mehr als einen Wunsch ankreuzen"]],
       "explain": "Mehrfachnennung은 설문에서 한 사람이 여러 항목을 고를 수 있다는 뜻이에요. 그래서 72%, 45%, 31%를 더하면 100%가 넘어요. 조사를 여러 번 했다는 뜻이 아니에요."
@@ -116,8 +116,8 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was ist mit dem Satz „Bis dahin, so die Leiterin der Befragung, Prof. Dr. Annette Kurz, bleibe vielen Studierenden nur die Wahl zwischen einem teuren Zimmer in der Stadt und einem langen Weg vom Land“ gemeint?",
-      "options": ["Immer mehr Studierende ziehen aufs Land, weil sie sich die Zimmer in der Stadt nicht mehr leisten können.", "Solange kein weiteres Wohnheim steht, müssen viele entweder hohe Mieten oder lange Pendelzeiten hinnehmen.", "Studierende sollten vor der Zimmersuche entscheiden, ob sie lieber in der Stadt oder auf dem Land leben wollen."],
-      "answer": 1,
+      "options": ["Solange kein weiteres Wohnheim steht, müssen viele entweder hohe Mieten oder lange Pendelzeiten hinnehmen.", "Immer mehr Studierende ziehen aufs Land, weil sie sich die Zimmer in der Stadt nicht mehr leisten können.", "Studierende sollten vor der Zimmersuche entscheiden, ob sie lieber in der Stadt oder auf dem Land leben wollen."],
+      "answer": 0,
       "evidence": "Bis dahin, so die Leiterin der Befragung, Prof. Dr. Annette Kurz, bleibe vielen Studierenden nur die Wahl zwischen einem teuren Zimmer in der Stadt und einem langen Weg vom Land.",
       "pairs": [["Bis dahin", "Solange kein weiteres Wohnheim steht"], ["einem teuren Zimmer in der Stadt", "hohe Mieten"], ["einem langen Weg vom Land", "lange Pendelzeiten"]],
       "explain": "'Bis dahin'은 앞 문장의 새 기숙사 건설이 이루어질 때까지를 가리켜요. '선택만 남는다'는 것은 둘 중 하나의 불이익을 받아들일 수밖에 없다는 뜻이에요. 시골로 이사 간다거나 미리 결정하라는 권고는 문장에 없어요."

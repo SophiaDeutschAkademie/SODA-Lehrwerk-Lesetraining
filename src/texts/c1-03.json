@@ -82,8 +82,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was wird im Text über die britischen Museen ohne Eintritt gesagt?",
-      "options": ["Sie finanzieren sich inzwischen vollständig durch Spenden.", "Sie haben die Besucherzahlen durch Zeitfenster begrenzen müssen.", "Sie öffnen ihre Sammlungen nur an bestimmten Vormittagen kostenlos.", "Sie verlangen nur für zeitlich begrenzte Ausstellungen Geld."],
-      "answer": 3,
+      "options": ["Sie verlangen nur für zeitlich begrenzte Ausstellungen Geld.", "Sie finanzieren sich inzwischen vollständig durch Spenden.", "Sie haben die Besucherzahlen durch Zeitfenster begrenzen müssen.", "Sie öffnen ihre Sammlungen nur an bestimmten Vormittagen kostenlos."],
+      "answer": 0,
       "evidence": "bezahlt wird nur für Sonderschauen",
       "pairs": [["bezahlt wird nur für Sonderschauen", "nur für zeitlich begrenzte Ausstellungen Geld"], ["über Cafés, Läden und Spenden erhebliche Eigenmittel", "vollständig durch Spenden"]],
       "explain": "Sonderschau(특별전)는 기간이 정해진 전시이므로 '기간이 한정된 전시에만 돈을 받는다'가 정답이에요. 기부는 카페·상점과 함께 자체 수입의 일부일 뿐이고, 시간대별 입장(Zeitfenster)은 영국 이야기가 아니라 붐빌 때를 위한 대책으로 나와요. 화요일 오전은 관람 풍경을 묘사한 장면일 뿐이에요."
@@ -111,8 +111,8 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Erst dann wird aus dem Museum das, was es dem Anspruch nach immer sein wollte: ein Ort, der allen gehört.“?",
-      "options": ["Museen sollten ihren Anspruch aufgeben, allen Menschen zu gehören, und mehr Eintritt verlangen.", "Ohne Eintritt würde das Museum endlich das Ziel erreichen, das es sich seit jeher setzt.", "Museen haben schon immer allen gehört, weil sie mit öffentlichen Mitteln finanziert werden.", "Ein Ort für alle wird das Museum erst, wenn jeder an der Kasse seinen Beitrag leistet."],
-      "answer": 1,
+      "options": ["Museen sollten ihren Anspruch aufgeben, allen Menschen zu gehören, und mehr Eintritt verlangen.", "Museen haben schon immer allen gehört, weil sie mit öffentlichen Mitteln finanziert werden.", "Ohne Eintritt würde das Museum endlich das Ziel erreichen, das es sich seit jeher setzt.", "Ein Ort für alle wird das Museum erst, wenn jeder an der Kasse seinen Beitrag leistet."],
+      "answer": 2,
       "evidence": "Erst dann wird aus dem Museum das, was es dem Anspruch nach immer sein wollte: ein Ort, der allen gehört.",
       "pairs": [["was es dem Anspruch nach immer sein wollte", "das Ziel erreichen, das es sich seit jeher setzt"], ["Erst dann", "Ohne Eintritt würde das Museum endlich"]],
       "explain": "dem Anspruch nach(이상에 따르면)는 박물관이 스스로 내세운 목표를 뜻하고, erst dann은 매표소가 사라진 뒤에야 비로소 그 목표가 실현된다는 말이에요. 이미 모두의 것이라는 선택지는 '그제야(erst dann)'와 맞지 않고, 관람객이 모두 매표소에서 돈을 내야 한다는 선택지는 글쓴이의 주장과 정반대예요."
@@ -121,8 +121,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Warum kommt der Montag für den Autor als kostenloser Museumstag nicht in Frage?",
-      "options": ["weil an diesem Tag ohnehin viele Museen gar nicht geöffnet haben", "weil am Montag erfahrungsgemäß die wenigsten Besucher kommen", "weil Familien nur am Wochenende Zeit für einen Museumsbesuch haben", "weil die Museen den Montag für den Aufbau von Sonderschauen brauchen"],
-      "answer": 0,
+      "options": ["weil am Montag erfahrungsgemäß die wenigsten Besucher kommen", "weil Familien nur am Wochenende Zeit für einen Museumsbesuch haben", "weil die Museen den Montag für den Aufbau von Sonderschauen brauchen", "weil an diesem Tag ohnehin viele Museen gar nicht geöffnet haben"],
+      "answer": 3,
       "evidence": "an dem ohnehin die Hälfte der Häuser geschlossen ist",
       "pairs": [["die Hälfte der Häuser geschlossen ist", "viele Museen gar nicht geöffnet haben"], ["nicht der Montag", "nicht in Frage"]],
       "explain": "글쓴이는 월요일에는 어차피 박물관 절반이 문을 닫는다고 해요. geschlossen(닫힌)을 nicht geöffnet(열지 않은)로, die Hälfte der Häuser를 viele Museen으로 바꿔 말했어요. 관람객 수나 가족의 시간, 특별전 준비는 본문에 나오지 않는 이유예요."
@@ -131,8 +131,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Unter welcher Bedingung könnte das Land nach Ansicht des Autors darauf verzichten, finanzschwache Kommunen zu unterstützen?",
-      "options": ["wenn sich zeigt, dass die Besucherzahlen an den kostenlosen Tagen deutlich steigen", "wenn verhindert werden soll, dass der Wohnort über kulturelle Teilhabe entscheidet", "wenn die Gesellschaft hinnimmt, dass der Zugang zur Kultur vom Wohnort bestimmt wird", "wenn sich der freie Eintritt in Großbritannien auch langfristig und finanziell bewährt hat"],
-      "answer": 2,
+      "options": ["wenn sich zeigt, dass die Besucherzahlen an den kostenlosen Tagen deutlich steigen", "wenn verhindert werden soll, dass der Wohnort über kulturelle Teilhabe entscheidet", "wenn sich der freie Eintritt in Großbritannien auch langfristig und finanziell bewährt hat", "wenn die Gesellschaft hinnimmt, dass der Zugang zur Kultur vom Wohnort bestimmt wird"],
+      "answer": 3,
       "evidence": "es sei denn, wir nähmen in Kauf, dass kulturelle Teilhabe künftig vom Wohnort abhängt",
       "pairs": [["es sei denn, wir nähmen in Kauf", "wenn die Gesellschaft hinnimmt"], ["kulturelle Teilhabe künftig vom Wohnort abhängt", "der Zugang zur Kultur vom Wohnort bestimmt wird"], ["Kommunen, die das nicht aus eigener Kraft stemmen können", "finanzschwache Kommunen"]],
       "explain": "es sei denn은 '~라면 모를까'라는 뜻으로 유일한 예외 조건을 나타내요. 글쓴이는 형편이 어려운 지자체를 주 정부가 지원해야 한다고 하면서, 예외는 문화적 참여가 사는 곳에 따라 좌우되는 것을 우리가 감수하는 경우뿐이라고 해요. 관람객 수 증가는 무료입장을 넓히는 조건이고, '사는 곳이 문화 참여를 좌우하지 않게 하려면'은 거꾸로 지원이 꼭 필요한 경우예요."

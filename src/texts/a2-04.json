@@ -80,8 +80,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was stimmt mit der gelieferten Jacke nicht?",
-      "options": ["Sie hat die richtige Größe, aber eine andere Farbe.", "Sie hat die richtige Farbe, ist aber viel zu klein.", "Farbe und Größe sind beide anders als bestellt."],
-      "answer": 2,
+      "options": ["Farbe und Größe sind beide anders als bestellt.", "Sie hat die richtige Größe, aber eine andere Farbe.", "Sie hat die richtige Farbe, ist aber viel zu klein."],
+      "answer": 0,
       "evidence": "dass in dem Paket eine blaue Jacke in Größe L war",
       "pairs": [["eine grüne Winterjacke in Größe M bestellt", "als bestellt"], ["eine blaue Jacke in Größe L", "Farbe und Größe sind beide anders"]],
       "explain": "주문한 것은 초록색 M이고, 온 것은 파란색 L이에요. 색깔과 사이즈가 둘 다 달라요. 첫 번째 선택지는 사이즈가 맞다고, 두 번째 선택지는 색깔이 맞다고 해서 틀려요. 재킷은 너무 작은 것이 아니라 너무 커요(viel zu groß)."
@@ -100,8 +100,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wozu braucht Herr Brenner das Rücksendeetikett?",
-      "options": ["Damit er für die Rücksendung nichts bezahlen muss.", "Damit die neue Jacke schneller bei ihm ankommt.", "Damit er die Jacke im Geschäft umtauschen kann."],
-      "answer": 0,
+      "options": ["Damit die neue Jacke schneller bei ihm ankommt.", "Damit er für die Rücksendung nichts bezahlen muss.", "Damit er die Jacke im Geschäft umtauschen kann."],
+      "answer": 1,
       "evidence": "damit ich die falsche Jacke kostenlos zurückschicken kann",
       "pairs": [["kostenlos zurückschicken", "für die Rücksendung nichts bezahlen muss"]],
       "explain": "반송 라벨이 있으면 잘못 온 재킷을 무료로(kostenlos) 돌려보낼 수 있어요. kostenlos를 '아무것도 지불할 필요가 없다'(nichts bezahlen muss)로 바꿔 말했어요. 라벨은 새 재킷의 배송 속도와는 관계가 없어요."

@@ -77,8 +77,8 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Hier weiß man, woher die Kartoffeln kommen“?",
-      "options": ["Die Kartoffeln werden im Laden selbst angebaut.", "Die Kunden kennen die Herkunft der Lebensmittel.", "Die Kunden holen die Kartoffeln selbst vom Hof ab."],
-      "answer": 1,
+      "options": ["Die Kunden kennen die Herkunft der Lebensmittel.", "Die Kartoffeln werden im Laden selbst angebaut.", "Die Kunden holen die Kartoffeln selbst vom Hof ab."],
+      "answer": 0,
       "evidence": "Obst, Eier, Käse und Fleisch werden von Höfen aus der Region geliefert, meistens früh am Morgen.",
       "pairs": [["woher die Kartoffeln kommen", "die Herkunft der Lebensmittel"], ["von Höfen aus der Region geliefert", "kennen die Herkunft"]],
       "explain": "물건이 이 지역 농장에서 바로 오기 때문에 손님들은 식료품이 어디에서 왔는지 알 수 있다는 뜻이에요. 감자는 하나의 예일 뿐이고, 가게에서 직접 재배한다거나 손님이 농장에 가서 가져온다는 말은 없어요."
@@ -87,8 +87,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was erfährt man über das Café?",
-      "options": ["Es wurde von einer Firma aus der Kreisstadt gebaut.", "Es ist nur vormittags für Rentner geöffnet.", "Es entstand, als das Gebäude renoviert wurde."],
-      "answer": 2,
+      "options": ["Es wurde von einer Firma aus der Kreisstadt gebaut.", "Es entstand, als das Gebäude renoviert wurde.", "Es ist nur vormittags für Rentner geöffnet."],
+      "answer": 1,
       "evidence": "Während des Umbaus wurde in einer Ecke des Ladens ein kleines Café eingerichtet.",
       "pairs": [["Während des Umbaus", "als das Gebäude renoviert wurde"], ["eingerichtet", "entstand"]],
       "explain": "Umbau(개축 공사) 중에 카페가 마련되었다고 하므로 '건물을 수리할 때 생겼다'가 맞아요. 오전에는 어르신들이, 오후에는 아이들이 이용하니 '오전에만'은 틀리고, 어느 회사가 지었다는 말은 본문에 없어요."
@@ -106,8 +106,8 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was will Karin Vogel mit dem Satz „Das kann kein Supermarkt an der Autobahn ersetzen“ sagen?",
-      "options": ["Ein großer Supermarkt außerhalb des Dorfes bietet keinen Ort für Begegnungen.", "Der Dorfladen hat mehr Produkte als ein Supermarkt an der Autobahn.", "Die Genossenschaft möchte bald einen zweiten Laden an der Autobahn eröffnen."],
-      "answer": 0,
+      "options": ["Der Dorfladen hat mehr Produkte als ein Supermarkt an der Autobahn.", "Die Genossenschaft möchte bald einen zweiten Laden an der Autobahn eröffnen.", "Ein großer Supermarkt außerhalb des Dorfes bietet keinen Ort für Begegnungen."],
+      "answer": 2,
       "evidence": "Hier trifft man Nachbarn, hier bekommt man Hilfe, hier wird geredet.",
       "pairs": [["Hier trifft man Nachbarn", "Ort für Begegnungen"]],
       "explain": "바로 앞 문장에서 가게는 이웃을 만나고 도움을 받고 이야기를 나누는 곳이라고 해요. 그런 역할은 마을 밖 대형 슈퍼마켓이 대신할 수 없다는 뜻이에요. 상품 수나 두 번째 가게 이야기는 본문에 없어요."

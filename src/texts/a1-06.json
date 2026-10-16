@@ -89,8 +89,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wie lange darf man eine DVD zu Hause haben?",
-      "options": ["sieben Tage", "vier Wochen", "24 Stunden"],
-      "answer": 0,
+      "options": ["vier Wochen", "24 Stunden", "sieben Tage"],
+      "answer": 2,
       "evidence": "DVDs nur eine Woche",
       "pairs": [["eine Woche", "sieben Tage"], ["behalten", "zu Hause haben"]],
       "explain": "DVD는 1주일만 빌릴 수 있어요. 1주일은 7일이에요. 4주는 책을 빌리는 기간이고, 24시간은 반납기가 열려 있는 시간이에요."

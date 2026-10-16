@@ -44,8 +44,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wie lange ist der Laden am Tag offen?",
-      "options": ["drei Stunden", "zehn Stunden", "sieben Stunden"],
-      "answer": 2,
+      "options": ["drei Stunden", "sieben Stunden", "zehn Stunden"],
+      "answer": 1,
       "evidence": "Bis 13 Uhr verkauft sie Brot, Kuchen und Kaffee.",
       "pairs": [["Um sechs Uhr macht sie den Laden auf", "offen"], ["Bis 13 Uhr", "sieben Stunden"]],
       "explain": "가게는 6시에 문을 열고(aufmachen) 13시까지 팔아요. 6시부터 13시까지는 7시간이에요. 3시간은 작업실에서 빵을 굽는 시간(3시부터 6시까지)이고, 10시간은 일을 시작해서 퇴근할 때까지의 시간(3시부터 13시까지)이라서 함정이에요."

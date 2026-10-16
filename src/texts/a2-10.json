@@ -64,8 +64,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wie kommt Jae-min nach Lübeck?",
-      "options": ["Er fliegt direkt nach Lübeck und fährt dann mit dem Taxi weiter.", "Er landet in einer anderen Stadt und fährt dann mit der Bahn weiter.", "Er fliegt bis Hamburg, und die Hoffmanns holen ihn dort mit dem Auto ab."],
-      "answer": 1,
+      "options": ["Er fliegt direkt nach Lübeck und fährt dann mit dem Taxi weiter.", "Er fliegt bis Hamburg, und die Hoffmanns holen ihn dort mit dem Auto ab.", "Er landet in einer anderen Stadt und fährt dann mit der Bahn weiter."],
+      "answer": 2,
       "evidence": "Mein Flugzeug landet morgens in Hamburg, von dort nehme ich den Zug.",
       "pairs": [["landet morgens in Hamburg", "landet in einer anderen Stadt"], ["nehme ich den Zug", "fährt dann mit der Bahn weiter"]],
       "explain": "비행기는 함부르크에 착륙하고 거기서 기차를 탄다고 해요. Hamburg를 '다른 도시'로, Zug를 Bahn으로 바꿔 표현했어요. 세 번째 선택지는 Hamburg, abholen 같은 본문 단어를 쓰지만, 재민은 함부르크에서 기차를 타고 뤼베크 역에서 데리러 와 주는지 묻는 거예요."
@@ -74,8 +74,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was macht Jae-min, wenn ihn niemand am Bahnhof abholt?",
-      "options": ["Er fährt mit einem Taxi zur Familie.", "Er wartet am Bahnhof auf die Familie.", "Er ruft die Familie Hoffmann an."],
-      "answer": 0,
+      "options": ["Er wartet am Bahnhof auf die Familie.", "Er fährt mit einem Taxi zur Familie.", "Er ruft die Familie Hoffmann an."],
+      "answer": 1,
       "evidence": "Wenn nicht, ist das kein Problem – ich werde dann ein Taxi nehmen.",
       "pairs": [["Wenn nicht", "wenn ihn niemand am Bahnhof abholt"], ["ein Taxi nehmen", "mit einem Taxi zur Familie"]],
       "explain": "아무도 데리러 오지 않으면 택시를 타겠다고 해요. 'Wenn nicht'는 앞 문장의 '누군가 데리러 오는지'를 받아서 '그렇지 않으면'이라는 뜻이에요. 기다리거나 전화하겠다는 말은 없어요."
@@ -84,8 +84,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was möchte Jae-min über die Schule wissen?",
-      "options": ["wo die Schule liegt und wie er dorthin kommen kann", "wann die Schule losgeht und was er dafür braucht", "welche Fächer es gibt und wie viele Schüler kommen"],
-      "answer": 1,
+      "options": ["wann die Schule losgeht und was er dafür braucht", "wo die Schule liegt und wie er dorthin kommen kann", "welche Fächer es gibt und wie viele Schüler kommen"],
+      "answer": 0,
       "evidence": "Wissen Sie schon, wann der Unterricht anfängt? Und könnten Sie mir schreiben, was ich für die Schule mitbringen soll?",
       "pairs": [["wann der Unterricht anfängt", "wann die Schule losgeht"], ["was ich für die Schule mitbringen soll", "was er dafür braucht"]],
       "explain": "재민은 수업이 언제 시작하는지와 학교에 무엇을 가져가야 하는지를 물어요. 'der Unterricht fängt an(수업이 시작된다)'을 'die Schule geht los(학교가 시작된다)'로, mitbringen sollen을 brauchen으로 바꿔 말했어요. 학교에 어떤 과목이 있는지, 학생이 몇 명 오는지는 편지에서 묻지 않아요."

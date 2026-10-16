@@ -101,8 +101,8 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Sie bezahlen entweder pro Minute oder pro Stunde – je nachdem, was für Sie günstiger ist.“?",
-      "options": ["Man muss vor der Fahrt wählen, ob man pro Minute oder Stunde zahlt.", "Für jede Fahrt gilt die Abrechnungsart, die am wenigsten kostet.", "Der Preis pro Minute ist je nach Tageszeit unterschiedlich hoch."],
-      "answer": 1,
+      "options": ["Man muss vor der Fahrt wählen, ob man pro Minute oder Stunde zahlt.", "Der Preis pro Minute ist je nach Tageszeit unterschiedlich hoch.", "Für jede Fahrt gilt die Abrechnungsart, die am wenigsten kostet."],
+      "answer": 2,
       "evidence": "Am Ende der Fahrt rechnet die App automatisch den niedrigeren Preis ab.",
       "pairs": [["je nachdem, was für Sie günstiger ist", "die am wenigsten kostet"], ["entweder pro Minute oder pro Stunde", "Abrechnungsart"]],
       "explain": "'둘 중 더 저렴한 쪽으로 낸다'는 말이에요. 다음 문장에서 앱이 자동으로 더 낮은 가격으로 정산한다고 하니, 고객이 미리 고를 필요가 없어요. 시간대에 따라 가격이 다르다는 말은 본문에 없어요."
@@ -120,8 +120,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was erfährt man über den Vielfahrertarif?",
-      "options": ["Er lohnt sich für Leute, die das Auto oft brauchen.", "Er ist kostenlos, wenn man mehr als 9 Stunden fährt.", "Er enthält eine Kaution, die man am Ende zurückbekommt."],
-      "answer": 0,
+      "options": ["Er ist kostenlos, wenn man mehr als 9 Stunden fährt.", "Er enthält eine Kaution, die man am Ende zurückbekommt.", "Er lohnt sich für Leute, die das Auto oft brauchen."],
+      "answer": 2,
       "evidence": "Wer häufig fährt, spart mit dem Vielfahrertarif: Er kostet zwar 9 Euro im Monat, aber dafür ist jede Minute deutlich billiger.",
       "pairs": [["Wer häufig fährt, spart", "lohnt sich für Leute, die das Auto oft brauchen"], ["kostet zwar 9 Euro im Monat", "kostenlos"]],
       "explain": "'자주 운전하는 사람은 다빈도 요금제로 절약한다'를 '차가 자주 필요한 사람에게 유리하다'로 바꿔 말했어요. 이 요금제는 월 9유로가 들기 때문에 무료가 아니에요. 보증금 이야기는 기본 요금제에 나오고, 거기에도 보증금은 없어요."

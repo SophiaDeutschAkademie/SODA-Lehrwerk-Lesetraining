@@ -78,8 +78,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Warum fragt Frau Schuster nach einem Parkplatz?",
-      "options": ["Sie fährt auf jeden Fall mit dem Auto an den Bodensee.", "Sie weiß noch nicht sicher, ob sie mit dem Auto anreist.", "Sie möchte ihre eigenen Räder im Auto transportieren."],
-      "answer": 1,
+      "options": ["Sie weiß noch nicht sicher, ob sie mit dem Auto anreist.", "Sie fährt auf jeden Fall mit dem Auto an den Bodensee.", "Sie möchte ihre eigenen Räder im Auto transportieren."],
+      "answer": 0,
       "evidence": "Falls wir mit dem Auto kommen, bräuchten wir auch einen Parkplatz.",
       "pairs": [["Falls wir mit dem Auto kommen", "weiß noch nicht sicher, ob sie mit dem Auto anreist"], ["bräuchten wir auch einen Parkplatz", "nach einem Parkplatz"]],
       "explain": "falls는 '만약 ~라면'이라는 뜻으로, 확실하지 않은 조건을 나타내요. 그래서 슈스터 씨가 차로 갈지 아직 확실히 모른다는 것을 알 수 있어요. 자전거는 빌리고 싶다고 했지, 가져간다는 말은 없어요."
@@ -88,8 +88,8 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Ich werde Ihnen die Wohnung bis Freitag reservieren.“?",
-      "options": ["Frau Mertens hält die Wohnung noch einige Tage lang für die Familie frei.", "Die Familie kann die Wohnung nur bis Freitag benutzen und muss dann gehen.", "Frau Mertens hat die Wohnung schon verbindlich an die Familie vermietet."],
-      "answer": 0,
+      "options": ["Die Familie kann die Wohnung nur bis Freitag benutzen und muss dann gehen.", "Frau Mertens hält die Wohnung noch einige Tage lang für die Familie frei.", "Frau Mertens hat die Wohnung schon verbindlich an die Familie vermietet."],
+      "answer": 1,
       "evidence": "Ich werde Ihnen die Wohnung bis Freitag reservieren.",
       "pairs": [["bis Freitag reservieren", "einige Tage lang für die Familie frei"], ["Falls Sie sich für die Wohnung entscheiden", "schon verbindlich an die Familie vermietet"]],
       "explain": "'금요일까지 예약해 두겠다'는 말은 그때까지 다른 사람에게 주지 않고 비워 두겠다는 뜻이에요. 다음 문장에서 '결정하시면 계약서를 보내겠다'고 하니 아직 확정된 계약은 아니에요. 금요일은 숙박 기간이 아니라 예약을 잡아 두는 기한이에요."
@@ -107,8 +107,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was erfährt man über die Reinigung der Wohnung?",
-      "options": ["Die Gäste müssen die Wohnung vor ihrer Abreise selbst reinigen.", "Frau Mertens putzt die Wohnung jeden Tag selbst, auch am Wochenende.", "Bevor neue Gäste einziehen, wird die Wohnung von anderen geputzt."],
-      "answer": 2,
+      "options": ["Bevor neue Gäste einziehen, wird die Wohnung von anderen geputzt.", "Die Gäste müssen die Wohnung vor ihrer Abreise selbst reinigen.", "Frau Mertens putzt die Wohnung jeden Tag selbst, auch am Wochenende."],
+      "answer": 0,
       "evidence": "Wir lassen die Wohnung vor jeder Ankunft gründlich reinigen, damit sich alle Gäste wohlfühlen.",
       "pairs": [["Wir lassen die Wohnung vor jeder Ankunft gründlich reinigen", "wird die Wohnung von anderen geputzt"], ["vor jeder Ankunft", "Bevor neue Gäste einziehen"]],
       "explain": "'Wir lassen die Wohnung reinigen'은 메르텐스 씨 부부가 직접 청소하는 게 아니라 다른 사람에게 청소를 시킨다는 뜻이에요. 'vor jeder Ankunft'(도착 전마다)를 '새 손님이 들어오기 전에'로 바꿔 말했어요. 매일 청소한다거나 손님이 직접 청소한다는 내용은 없어요."

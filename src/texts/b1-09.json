@@ -93,8 +93,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Bei wem gähnen wir am ehesten mit?",
-      "options": ["bei Menschen, die uns emotional nahestehen", "bei Fremden, die wir zum ersten Mal sehen", "bei Leuten, die gerade besonders müde sind"],
-      "answer": 0,
+      "options": ["bei Fremden, die wir zum ersten Mal sehen", "bei Leuten, die gerade besonders müde sind", "bei Menschen, die uns emotional nahestehen"],
+      "answer": 2,
       "evidence": "Je enger die Beziehung zu einer Person ist, desto eher gähnen wir mit.",
       "pairs": [["Je enger die Beziehung zu einer Person ist", "Menschen, die uns emotional nahestehen"], ["bei Fremden", "bei Fremden, die wir zum ersten Mal sehen"]],
       "explain": "'관계가 가까울수록 더 쉽게 따라 한다'를 '우리와 가까운 사람'으로 바꿔 말했어요. 모르는 사람보다 가족과 친한 친구에게서 더 자주 옮는다고 했으니 Fremde는 반대예요. 피곤한 사람 이야기는 본문에 없어요."
@@ -122,8 +122,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was steht im Text über Hunde?",
-      "options": ["Sie gähnen nur aus Mitgefühl mit ihren Besitzerinnen und Besitzern.", "Sie lassen sich ab und zu von ihren Halterinnen und Haltern anstecken.", "Sie gähnen immer mit, wenn ihre Besitzerinnen und Besitzer gähnen."],
-      "answer": 1,
+      "options": ["Sie lassen sich ab und zu von ihren Halterinnen und Haltern anstecken.", "Sie gähnen nur aus Mitgefühl mit ihren Besitzerinnen und Besitzern.", "Sie gähnen immer mit, wenn ihre Besitzerinnen und Besitzer gähnen."],
+      "answer": 0,
       "evidence": "Auch Hunde gähnen manchmal mit, wenn ihre Besitzerinnen und Besitzer gähnen.",
       "pairs": [["gähnen manchmal mit, wenn ihre Besitzerinnen und Besitzer gähnen", "lassen sich ab und zu von ihren Halterinnen und Haltern anstecken"], ["Ob das wirklich Mitgefühl ist, weiß niemand genau", "aus Mitgefühl"]],
       "explain": "'주인이 하품하면 가끔 따라서 하품한다'를 '이따금 주인에게서 하품이 옮는다'로 바꿔 말했어요. manchmal은 ab und zu로, Besitzer(주인)는 Halter(동물을 기르는 사람)로 바뀌었어요. 공감 때문이라고 단정하는 것과 '항상(immer)' 따라 한다는 것은 틀려요. 정말 공감인지는 아무도 모르고, 개는 '가끔'만 따라 해요."

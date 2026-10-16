@@ -100,8 +100,8 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was will Tim Albers mit dem Satz „Niemand hatte mich vorher gefragt“ sagen?",
-      "options": ["Er war nicht an der Entscheidung beteiligt, obwohl sie ihn betraf.", "Er wusste nicht, dass sein Kollege einen Hund ins Büro mitbringt.", "Seine Kollegen interessierten sich nicht für seine Meinung zum Artikel."],
-      "answer": 0,
+      "options": ["Er wusste nicht, dass sein Kollege einen Hund ins Büro mitbringt.", "Er war nicht an der Entscheidung beteiligt, obwohl sie ihn betraf.", "Seine Kollegen interessierten sich nicht für seine Meinung zum Artikel."],
+      "answer": 1,
       "evidence": "Vor zwei Jahren brachte ein Kollege seinen Hund mit, und ich musste schließlich das Zimmer wechseln.",
       "pairs": [["Niemand hatte mich vorher gefragt", "nicht an der Entscheidung beteiligt"]],
       "explain": "동료가 개를 데려오는 일은 알레르기가 있는 그에게 직접 영향을 주는데, 아무도 미리 의견을 묻지 않았다는 불만이에요. 그래서 '자기와 관련된 결정인데 참여하지 못했다'가 맞아요. 기사에 대한 의견이나 개의 존재를 몰랐다는 이야기가 아니에요."
@@ -110,8 +110,8 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Ein Kompromiss kostet etwas Mühe, aber er lohnt sich“?",
-      "options": ["Feste Regeln für Hunde sind teuer, deshalb verzichten viele Firmen darauf.", "Eine Lösung für beide Seiten zu finden ist anstrengend, zahlt sich aber aus.", "Ein Verbot ist am Ende die einfachste und beste Lösung für alle Beteiligten."],
-      "answer": 1,
+      "options": ["Eine Lösung für beide Seiten zu finden ist anstrengend, zahlt sich aber aus.", "Feste Regeln für Hunde sind teuer, deshalb verzichten viele Firmen darauf.", "Ein Verbot ist am Ende die einfachste und beste Lösung für alle Beteiligten."],
+      "answer": 0,
       "evidence": "Ohne Regeln gäbe es schnell Streit, und am Ende könnten alle verlieren",
       "pairs": [["kostet etwas Mühe", "ist anstrengend"], ["lohnt sich", "zahlt sich aber aus"], ["Kompromiss", "Lösung für beide Seiten"]],
       "explain": "Mühe는 돈이 아니라 수고를 뜻하고, sich lohnen(=정답의 zahlt sich aus)은 '그만한 가치가 있다'는 뜻이에요. 양쪽을 위한 해결책을 찾는 일은 힘들지만 그 수고보다 얻는 것이 많다는 말이에요. 페트라 랑 씨는 금지에 반대하므로 금지가 최선이라는 선택지는 틀려요."

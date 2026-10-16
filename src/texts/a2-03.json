@@ -59,8 +59,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Warum hat sich Elif am Vormittag gefreut?",
-      "options": ["Ein nervöses Tier ist durch sie ruhig geworden.", "Frau Dr. Sommer hat sie vor allen Mitarbeitern gelobt.", "Sie durfte zum ersten Mal einen Hund behandeln."],
-      "answer": 0,
+      "options": ["Frau Dr. Sommer hat sie vor allen Mitarbeitern gelobt.", "Ein nervöses Tier ist durch sie ruhig geworden.", "Sie durfte zum ersten Mal einen Hund behandeln."],
+      "answer": 1,
       "evidence": "nach zehn Minuten war er ruhig. Darüber habe ich mich richtig gefreut!",
       "pairs": [["hat die ganze Zeit gezittert", "nervöses Tier"], ["war er ruhig", "ruhig geworden"]],
       "explain": "내내 떨던 큰 개가 엘리프가 옆에 앉아 말을 걸자 10분 뒤에 조용해졌고, 엘리프는 그 일(darüber)이 기뻤어요. '떨었다'(gezittert)를 '불안한'(nervös)으로 바꿔 표현했어요. 칭찬을 받았다거나 개를 치료했다는 내용은 본문에 없어요."

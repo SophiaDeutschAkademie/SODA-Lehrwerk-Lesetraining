@@ -49,8 +49,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wie lange lernt Jiwoo schon Deutsch?",
-      "options": ["sechs Monate", "zwölf Monate", "zwei Jahre"],
-      "answer": 1,
+      "options": ["zwölf Monate", "sechs Monate", "zwei Jahre"],
+      "answer": 0,
       "evidence": "Seit einem Jahr lerne ich Deutsch.",
       "pairs": [["Seit einem Jahr", "zwölf Monate"], ["seit sechs Monaten", "sechs Monate"]],
       "explain": "본문에 'Seit einem Jahr lerne ich Deutsch.(1년 전부터 독일어를 배워요.)'라고 나와요. 1년은 12개월이에요. 'sechs Monate(6개월)'는 본문에 그대로 나오는 말이지만 쾰른에 산 기간이라서 함정이에요."
@@ -68,8 +68,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was macht Jiwoo am Wochenende?",
-      "options": ["Sie macht Sport im Freien.", "Sie sieht Fußball im Stadion.", "Sie kocht gern für Freunde."],
-      "answer": 0,
+      "options": ["Sie sieht Fußball im Stadion.", "Sie kocht gern für Freunde.", "Sie macht Sport im Freien."],
+      "answer": 2,
       "evidence": "Am Wochenende spiele ich Fußball im Park.",
       "pairs": [["spiele ich Fußball", "macht Sport"], ["im Park", "im Freien"]],
       "explain": "본문에서는 주말에 공원에서 축구를 한다고 해요. 축구는 운동(Sport)이고 공원은 야외(im Freien)니까 첫 번째가 정답이에요. 축구를 경기장에서 '본다(sehen)'거나 친구를 위해 요리한다는 말은 본문에 없어요."

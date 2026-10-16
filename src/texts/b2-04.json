@@ -73,8 +73,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wie findet die Restauratorin heraus, ob der Firnis ohne Risiko entfernt werden kann?",
-      "options": ["Sie untersucht das Bild zuerst unter Infrarotlicht auf Risse im Firnis.", "Sie testet das Lösungsmittel an einer kleinen Stelle am Rand des Bildes.", "Sie vergleicht die Farben des Kragens und des Himmels mit dem Original."],
-      "answer": 1,
+      "options": ["Sie untersucht das Bild zuerst unter Infrarotlicht auf Risse im Firnis.", "Sie vergleicht die Farben des Kragens und des Himmels mit dem Original.", "Sie testet das Lösungsmittel an einer kleinen Stelle am Rand des Bildes."],
+      "answer": 2,
       "evidence": "Ob ein Firnis sich gefahrlos entfernen lässt, zeigt sich erst bei einer kleinen Probe am Bildrand.",
       "pairs": [["gefahrlos entfernen lässt", "ohne Risiko entfernt werden kann"], ["einer kleinen Probe am Bildrand", "an einer kleinen Stelle am Rand des Bildes"]],
       "explain": "바니시를 안전하게 제거할 수 있는지는 그림 가장자리에서 작은 시험을 해 봐야 알 수 있다고 해요. 적외선 조사는 밑그림을 보기 위한 것이고, 옷깃과 하늘의 색은 변색의 예로만 나와요."
@@ -102,8 +102,8 @@
       "type": "mc",
       "kind": "meaning",
       "q": "Was bedeutet „die Unterzeichnung“ im Text?",
-      "options": ["die Signatur des Malers in der unteren Ecke des Bildes", "die Vorzeichnung, die unter den Farbschichten liegt", "die schriftliche Bestätigung, dass ein Bild echt ist"],
-      "answer": 1,
+      "options": ["die Vorzeichnung, die unter den Farbschichten liegt", "die Signatur des Malers in der unteren Ecke des Bildes", "die schriftliche Bestätigung, dass ein Bild echt ist"],
+      "answer": 0,
       "evidence": "also die Skizze, die der Maler vor dem eigentlichen Malen auf die Grundierung gesetzt hat.",
       "pairs": [["die Skizze, die der Maler vor dem eigentlichen Malen auf die Grundierung gesetzt hat", "die Vorzeichnung, die unter den Farbschichten liegt"]],
       "explain": "본문은 Unterzeichnung을 화가가 본격적으로 그리기 전에 바탕칠 위에 그려 둔 스케치라고 직접 설명해요. 일상어에서 Unterzeichnung은 '서명'이라는 뜻이지만, 여기서는 그 뜻이 아니에요."
@@ -131,8 +131,8 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was will Frau Vogt mit dem Satz „Wo der Maler eine ungeschickte Hand gemalt hat, bleibt die Hand ungeschickt“ sagen?",
-      "options": ["Fehler des Künstlers werden bewusst nicht korrigiert.", "Unerfahrene Restauratoren verschlechtern ein Bild oft.", "Manche Schäden am Bild lassen sich nicht mehr beheben."],
-      "answer": 0,
+      "options": ["Unerfahrene Restauratoren verschlechtern ein Bild oft.", "Manche Schäden am Bild lassen sich nicht mehr beheben.", "Fehler des Künstlers werden bewusst nicht korrigiert."],
+      "answer": 2,
       "evidence": "Wo der Maler eine ungeschickte Hand gemalt hat, bleibt die Hand ungeschickt.",
       "pairs": [["bleibt die Hand ungeschickt", "werden bewusst nicht korrigiert"], ["eine ungeschickte Hand gemalt", "Fehler des Künstlers"]],
       "explain": "화가가 서툴게 그린 손은 서툰 채로 남는다는 말은, 화가의 약점이나 실수를 일부러 고치지 않는다는 원칙을 구체적인 예로 표현한 거예요. 여기서 Hand는 복원가의 손이 아니라 그림 속의 손이에요."
@@ -141,8 +141,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was ist nach Ansicht der Restauratorin am schwersten zu erwerben?",
-      "options": ["die Ausdauer, lange ohne sichtbaren Fortschritt zu arbeiten", "das Wissen über Chemie und die Wirkung von Lösungsmitteln", "eine ruhige Hand beim Auftragen der Farbe auf die Fehlstellen"],
-      "answer": 0,
+      "options": ["das Wissen über Chemie und die Wirkung von Lösungsmitteln", "eine ruhige Hand beim Auftragen der Farbe auf die Fehlstellen", "die Ausdauer, lange ohne sichtbaren Fortschritt zu arbeiten"],
+      "answer": 2,
       "evidence": "Was sich kaum lernen lässt, ist Geduld.",
       "pairs": [["kaum lernen lässt", "am schwersten zu erwerben"], ["Geduld", "Ausdauer, lange ohne sichtbaren Fortschritt zu arbeiten"]],
       "explain": "거의 배울 수 없는 것은 인내심이라고 해요. 인내심을 '눈에 보이는 진척 없이 오래 계속 일하는 능력'으로 풀어 썼어요. 화학 지식과 안정된 손은 '모두 배울 수 있다'고 한 것들이에요."

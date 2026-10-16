@@ -59,8 +59,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was hat die Familie am Dienstag gemacht?",
-      "options": ["Sie war mit dem Fahrrad unterwegs.", "Sie hat eine lange Zugfahrt gemacht.", "Sie hat am Strand im Meer gebadet."],
-      "answer": 0,
+      "options": ["Sie hat eine lange Zugfahrt gemacht.", "Sie hat am Strand im Meer gebadet.", "Sie war mit dem Fahrrad unterwegs."],
+      "answer": 2,
       "evidence": "Am Dienstag haben wir eine Radtour gemacht.",
       "pairs": [["eine Radtour gemacht", "mit dem Fahrrad unterwegs"]],
       "explain": "화요일에 가족은 자전거 여행(Radtour)을 했어요. 이것을 '자전거를 타고 다녔다'(mit dem Fahrrad unterwegs)로 바꿔 말했어요. 기차는 뤼겐섬까지 올 때 탔고, 바다에서 물놀이는 오늘 아이들이 하고 있어요."
@@ -78,8 +78,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Warum war die Familie gestern nass?",
-      "options": ["Die Kinder haben im Meer gebadet.", "Sie war bei Regen ohne Schirm.", "Im Museum war es kalt und nass."],
-      "answer": 1,
+      "options": ["Die Kinder haben im Meer gebadet.", "Im Museum war es kalt und nass.", "Sie war bei Regen ohne Schirm."],
+      "answer": 2,
       "evidence": "Es hat den ganzen Tag geregnet, und wir hatten keinen Schirm dabei.",
       "pairs": [["geregnet", "bei Regen"], ["hatten keinen Schirm dabei", "ohne Schirm"]],
       "explain": "어제는 하루 종일 비가 왔는데 우산이 없었어요. '비가 왔다'(geregnet)를 '비가 올 때'(bei Regen)로, '우산을 안 가지고 있었다'(keinen Schirm dabei)를 '우산 없이'(ohne Schirm)로 바꿔 말했어요. 바다에서 물놀이는 오늘 하는 일이고, 박물관 안은 비를 맞지 않는 곳이에요(drinnen war es trocken)."

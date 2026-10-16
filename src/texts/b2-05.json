@@ -72,8 +72,8 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was ist mit der Formulierung „lässt Reling die Dinge sprechen“ gemeint?",
-      "options": ["Die Autorin zeigt Gefühle an Dingen und Geräuschen, anstatt die Figuren zu erklären.", "Die Autorin lässt die Gegenstände in ihrem Roman wie Menschen miteinander sprechen.", "Die Autorin verzichtet weitgehend auf Dialoge und lässt die Figuren oft schweigen."],
-      "answer": 0,
+      "options": ["Die Autorin lässt die Gegenstände in ihrem Roman wie Menschen miteinander sprechen.", "Die Autorin zeigt Gefühle an Dingen und Geräuschen, anstatt die Figuren zu erklären.", "Die Autorin verzichtet weitgehend auf Dialoge und lässt die Figuren oft schweigen."],
+      "answer": 1,
       "evidence": "Während viele Autorinnen und Autoren ihre Figuren in langen inneren Monologen erklären, lässt Reling die Dinge sprechen: eine verrostete Fahrradklingel, das Geräusch des Windes in den Dachrinnen, das titelgebende Salz, das die Meeresluft auf der Fensterbank hinterlässt.",
       "pairs": [["lässt Reling die Dinge sprechen", "zeigt Gefühle an Dingen und Geräuschen"], ["ihre Figuren in langen inneren Monologen erklären", "statt die Figuren zu erklären"]],
       "explain": "앞부분과 대조해서 읽어야 해요. 많은 작가가 인물을 긴 내면 독백으로 설명하는 반면에, 렐링은 자전거 벨, 바람 소리, 소금 같은 사물로 분위기와 감정을 전달해요. 사물이 실제로 말을 한다거나 대화가 없다는 뜻이 아니에요."
@@ -92,8 +92,8 @@
       "type": "mc",
       "kind": "intent",
       "q": "Wie bewertet die Rezension die Wiederholungen im Mittelteil?",
-      "options": ["Sie sind ein handwerklicher Fehler, den die Autorin nicht bemerkt hat.", "Sie sind gelungen, weil sie den Stillstand der Figur spürbar machen.", "Sie sind wohl beabsichtigt, machen die Lektüre aber trotzdem mühsam."],
-      "answer": 2,
+      "options": ["Sie sind wohl beabsichtigt, machen die Lektüre aber trotzdem mühsam.", "Sie sind ein handwerklicher Fehler, den die Autorin nicht bemerkt hat.", "Sie sind gelungen, weil sie den Stillstand der Figur spürbar machen."],
+      "answer": 0,
       "evidence": "Wenngleich diese Wiederholung vermutlich gewollt ist – der Stillstand der Figur soll spürbar werden –, verlangt sie dem Leser einiges an Geduld ab.",
       "pairs": [["vermutlich gewollt", "wohl beabsichtigt"], ["verlangt sie dem Leser einiges an Geduld ab", "machen die Lektüre aber trotzdem mühsam"]],
       "explain": "wenngleich(비록 ~이지만)로 시작하는 양보문이에요. 서평은 반복이 아마 의도된 것(vermutlich gewollt)이라고 인정하면서도, 독자에게 상당한 인내심을 요구한다고 비판해요. 의도를 알아보는 것과 결과를 좋게 평가하는 것은 다르므로, 본문의 Stillstand, spürbar를 그대로 가져온 '성공적'이라는 선택지는 함정이에요."
@@ -111,8 +111,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was sagt die Rezension über das letzte Drittel des Romans?",
-      "options": ["Es steht den besten deutschsprachigen Neuerscheinungen dieses Jahres nicht nach.", "Erst dort werden Rieke und Ole zu eigenständigen Figuren mit eigener Vorgeschichte.", "Es ist genauso zäh und langatmig wie der Mittelteil und verlangt viel Geduld."],
-      "answer": 0,
+      "options": ["Erst dort werden Rieke und Ole zu eigenständigen Figuren mit eigener Vorgeschichte.", "Es ist genauso zäh und langatmig wie der Mittelteil und verlangt viel Geduld.", "Es steht den besten deutschsprachigen Neuerscheinungen dieses Jahres nicht nach."],
+      "answer": 2,
       "evidence": "Das letzte Drittel gehört zum Besten, was in diesem Jahr auf Deutsch erschienen ist.",
       "pairs": [["gehört zum Besten, was in diesem Jahr auf Deutsch erschienen ist", "steht den besten deutschsprachigen Neuerscheinungen dieses Jahres nicht nach"]],
       "explain": "마지막 3분의 1은 올해 독일어로 출간된 작품 가운데 최고 수준에 속한다고 해요. 이것을 '올해 나온 독일어 신간 가운데 최고의 작품들에 뒤지지 않는다'로 바꿔 말했어요. 주변 인물인 리케와 올레는 희미하게 남는다(blass bleiben)고 했으니 나중에 독자적인 인물이 된다는 말은 맞지 않고, 늘어진다는 평가는 중반부에 대한 것이에요."
@@ -121,8 +121,8 @@
       "type": "mc",
       "kind": "intent",
       "q": "Zu welchem Gesamturteil kommt die Rezension?",
-      "options": ["Vom Kauf wird abgeraten, weil die Schwächen des Buchs überwiegen.", "Der Roman wird trotz deutlicher Mängel zur Lektüre empfohlen.", "Der Roman wird als makelloses Meisterwerk des Jahres gefeiert."],
-      "answer": 1,
+      "options": ["Vom Kauf wird abgeraten, weil die Schwächen des Buchs überwiegen.", "Der Roman wird als makelloses Meisterwerk des Jahres gefeiert.", "Der Roman wird trotz deutlicher Mängel zur Lektüre empfohlen."],
+      "answer": 2,
       "evidence": "„Salz auf der Fensterbank“ ist kein perfekter Roman, aber ein ehrlicher.",
       "pairs": [["kein perfekter Roman, aber ein ehrlicher", "trotz deutlicher Mängel"], ["Lesenswert", "zur Lektüre empfohlen"]],
       "explain": "서평은 '완벽한 소설은 아니지만 정직한 소설'이라고 하고 '읽을 만하다'(lesenswert)로 끝나요. 중반부와 주변 인물에 대한 비판을 분명히 하면서도 결론은 추천이에요. 완벽하다고도, 사지 말라고도 하지 않아요."

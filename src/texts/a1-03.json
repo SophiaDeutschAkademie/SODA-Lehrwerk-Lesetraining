@@ -84,8 +84,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Warum gehen die drei nicht schwimmen?",
-      "options": ["Aylin muss den ganzen Tag arbeiten.", "Das Wetter ist am Samstag schlecht.", "Das Freibad ist am Samstag geschlossen."],
-      "answer": 1,
+      "options": ["Aylin muss den ganzen Tag arbeiten.", "Das Freibad ist am Samstag geschlossen.", "Das Wetter ist am Samstag schlecht."],
+      "answer": 2,
       "evidence": "Am Samstag regnet es den ganzen Tag.",
       "pairs": [["regnet es", "Das Wetter ist am Samstag schlecht"]],
       "explain": "벤은 토요일에 하루 종일 비가 온다고 해요. 비가 오는 것을 '날씨가 나쁘다'로 바꿔 말했어요. 'den ganzen Tag'은 본문에 있지만 아일린이 일하는 시간이 아니라 비가 오는 시간이에요."
@@ -103,8 +103,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wann treffen sich die drei am Samstag?",
-      "options": ["um 16.15 Uhr", "um 17.30 Uhr", "um 20.15 Uhr"],
-      "answer": 0,
+      "options": ["um 17.30 Uhr", "um 16.15 Uhr", "um 20.15 Uhr"],
+      "answer": 1,
       "evidence": "Um Viertel nach vier?",
       "pairs": [["Um Viertel nach vier?", "um 16.15 Uhr"], ["halb sechs", "17.30 Uhr"]],
       "explain": "벤이 'Viertel nach vier(4시 15분)'에 만나자고 하고, 아일린이 'Perfekt.'라고 동의해요. 4시 15분은 16.15 Uhr예요. 17.30 Uhr(halb sechs)는 영화가 시작하는 시간이고, 20.15 Uhr(Viertel nach acht)는 두 번째 상영 시간이에요."

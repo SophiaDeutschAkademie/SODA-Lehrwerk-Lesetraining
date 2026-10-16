@@ -50,8 +50,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wann beginnt die Party?",
-      "options": ["am Mittwochabend um 19 Uhr", "am Samstag um 7 Uhr abends", "am 14. Juni um 12 Uhr mittags"],
-      "answer": 1,
+      "options": ["am Samstag um 7 Uhr abends", "am Mittwochabend um 19 Uhr", "am 14. Juni um 12 Uhr mittags"],
+      "answer": 0,
       "evidence": "Die Party beginnt um 19 Uhr bei mir zu Hause.",
       "pairs": [["um 19 Uhr", "um 7 Uhr abends"], ["am Samstag, dem 14. Juni", "am Samstag"]],
       "explain": "파티는 6월 14일 토요일 19시에 시작해요. 19시는 저녁 7시예요. 수요일은 답장을 보내야 하는 기한이고, 12는 버스 노선 번호예요."
@@ -78,8 +78,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Nora möchte keine Geschenke. Was sollen die Gäste lieber mitbringen?",
-      "options": ["ein paar Spiele für die Kinder", "etwas Limonade für die Kinder", "Essen oder Musik für die Party"],
-      "answer": 2,
+      "options": ["ein paar Spiele für die Kinder", "Essen oder Musik für die Party", "etwas Limonade für die Kinder"],
+      "answer": 1,
       "evidence": "Bringt lieber eure Lieblingsmusik oder einen Salat mit.",
       "pairs": [["einen Salat", "Essen"], ["Lieblingsmusik", "Musik für die Party"]],
       "explain": "노라는 선물 대신 좋아하는 음악이나 샐러드를 가져오라고 해요. 샐러드를 '음식'(Essen)으로 바꿔 말했어요. 놀이와 레모네이드는 손님이 가져오는 것이 아니라 노라가 아이들을 위해 준비하는 것이에요."

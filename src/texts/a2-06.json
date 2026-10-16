@@ -92,8 +92,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Warum ist Schlaf beim Lernen so wichtig?",
-      "options": ["Weil man im Schlaf vergisst, was man gelernt hat.", "Weil sich der Kopf beim Schlafen das Gelernte merkt.", "Weil müde Schüler am Morgen schneller lernen können."],
-      "answer": 1,
+      "options": ["Weil sich der Kopf beim Schlafen das Gelernte merkt.", "Weil man im Schlaf vergisst, was man gelernt hat.", "Weil müde Schüler am Morgen schneller lernen können."],
+      "answer": 0,
       "evidence": "Im Schlaf speichert dein Gehirn, was du gelernt hast.",
       "pairs": [["Im Schlaf", "beim Schlafen"], ["speichert", "merkt"], ["dein Gehirn", "der Kopf"]],
       "explain": "본문에서는 자는 동안 뇌가 배운 것을 저장한다고 해요. Gehirn(뇌)을 Kopf(머리)로, speichern(저장하다)을 sich merken(기억해 두다)으로, im Schlaf를 beim Schlafen으로 바꿨어요. 첫 번째 선택지는 Schlaf, gelernt를 그대로 쓰지만 '잊어버린다'고 해서 내용이 반대예요."
@@ -111,8 +111,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Warum soll man sich zum Lernen mit anderen treffen?",
-      "options": ["Weil man beim Erklären merkt, ob man ein Thema kann.", "Weil Freunde schwere Themen besser erklären können.", "Weil man in der Gruppe weniger Pausen machen muss."],
-      "answer": 0,
+      "options": ["Weil Freunde schwere Themen besser erklären können.", "Weil man in der Gruppe weniger Pausen machen muss.", "Weil man beim Erklären merkt, ob man ein Thema kann."],
+      "answer": 2,
       "evidence": "Wenn du etwas erklären kannst, hast du es wirklich verstanden.",
       "pairs": [["Wenn du etwas erklären kannst", "beim Erklären"], ["hast du es wirklich verstanden", "ob man ein Thema kann"]],
       "explain": "본문은 무언가를 설명할 수 있으면 그것을 정말로 이해한 것이라고 해요. 즉 설명해 보면 자기가 그 주제를 정말 아는지 확인할 수 있다는 뜻이에요. 두 번째 선택지는 erklären, schwer를 다시 쓰지만, 친구가 대신 설명해 준다는 내용은 본문에 없어요."

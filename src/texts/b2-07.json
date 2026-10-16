@@ -48,8 +48,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wie kam es dazu, dass Clara den Weinberg übernahm?",
-      "options": ["Ihr Großvater hatte sie seit Jahren darum gebeten, den Betrieb weiterzuführen.", "Nach einem Unfall des Großvaters half sie zunächst nur für kurze Zeit aus.", "Sie hatte ihre Stelle in Frankfurt verloren und suchte eine neue Aufgabe."],
-      "answer": 1,
+      "options": ["Ihr Großvater hatte sie seit Jahren darum gebeten, den Betrieb weiterzuführen.", "Sie hatte ihre Stelle in Frankfurt verloren und suchte eine neue Aufgabe.", "Nach einem Unfall des Großvaters half sie zunächst nur für kurze Zeit aus."],
+      "answer": 2,
       "evidence": "Der Großvater war gestürzt, und niemand wusste, wer die Lese übernehmen sollte. Clara nahm zwei Wochen Urlaub.",
       "pairs": [["war gestürzt", "Unfall"], ["nahm zwei Wochen Urlaub", "zunächst nur für kurze Zeit"]],
       "explain": "할아버지가 넘어지셔서 수확을 맡을 사람이 없자 클라라는 2주 휴가를 냈어요. 즉 처음에는 잠시 돕는 것이었어요. 할아버지가 부탁했다거나 그녀가 일자리를 잃었다는 말은 본문에 없어요."
@@ -58,8 +58,8 @@
       "type": "mc",
       "kind": "meaning",
       "q": "Was bedeutet es, dass der Großvater Clara „den Betrieb überschrieben“ hat?",
-      "options": ["Er hat ihr die Abläufe im Betrieb schriftlich erklärt.", "Er hat den Betrieb zu Ehren seiner Enkelin umbenannt.", "Er hat ihr das Eigentum am Betrieb rechtlich übertragen."],
-      "answer": 2,
+      "options": ["Er hat ihr das Eigentum am Betrieb rechtlich übertragen.", "Er hat ihr die Abläufe im Betrieb schriftlich erklärt.", "Er hat den Betrieb zu Ehren seiner Enkelin umbenannt."],
+      "answer": 0,
       "evidence": "Inzwischen hat der Großvater ihr den Betrieb überschrieben.",
       "pairs": [["überschrieben", "rechtlich übertragen"]],
       "explain": "jemandem etwas überschreiben은 재산이나 사업체의 소유권을 공식적으로 넘긴다는 뜻이에요. 그래서 제목의 '상속인(Erbin)'과 이어져요. 'schreiben'이 들어 있다고 해서 글로 설명했다는 뜻은 아니에요."
@@ -106,8 +106,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wie steht Josef Feld heute zur Arbeit seiner Enkelin?",
-      "options": ["Er respektiert ihre Arbeit, lobt sie aber nur zurückhaltend.", "Er kritisiert, dass sie zu vieles anders macht als er damals.", "Er zweifelt weiterhin daran, dass sie die Arbeit lange durchhält."],
-      "answer": 0,
+      "options": ["Er kritisiert, dass sie zu vieles anders macht als er damals.", "Er respektiert ihre Arbeit, lobt sie aber nur zurückhaltend.", "Er zweifelt weiterhin daran, dass sie die Arbeit lange durchhält."],
+      "answer": 1,
       "evidence": "und manches macht sie besser. Das sage ich ihr nur nicht zu oft.",
       "pairs": [["manches macht sie besser", "respektiert ihre Arbeit"], ["Das sage ich ihr nur nicht zu oft", "lobt sie aber nur zurückhaltend"]],
       "explain": "할아버지는 손녀가 어떤 일은 자기보다 더 잘한다고 인정하지만, 그 말을 자주 하지는 않는다고 해요. 그녀가 못 버틸 거라는 생각은 '처음에'만 했던 것이고, 다르게 한다는 말도 비난이 아니에요."
@@ -116,8 +116,8 @@
       "type": "mc",
       "kind": "intent",
       "q": "Wie stellt der Text Claras Neuanfang dar?",
-      "options": ["als riskante Entscheidung, die sie wahrscheinlich bereuen wird", "mit Sympathie, aber ohne zu verschweigen, was sie aufgegeben hat", "als unbeschwertes Leben auf dem Land, fern von Stress und Sorgen"],
-      "answer": 1,
+      "options": ["mit Sympathie, aber ohne zu verschweigen, was sie aufgegeben hat", "als riskante Entscheidung, die sie wahrscheinlich bereuen wird", "als unbeschwertes Leben auf dem Land, fern von Stress und Sorgen"],
+      "answer": 0,
       "evidence": "Was Clara zurückgelassen hat, zählt sie ohne Bedauern auf: ein Gehalt, von dem sie heute nur träumen kann, eine Wohnung mit Blick auf die Skyline, Freunde, die sie nur noch selten sieht.",
       "pairs": [["Was Clara zurückgelassen hat", "was sie aufgegeben hat"]],
       "explain": "글은 클라라의 새 출발을 호의적으로 그리면서도 그녀가 포기한 월급, 집, 친구들을 분명히 나열해요. 클라라는 이것들을 '아쉬움 없이(ohne Bedauern)' 열거하므로 후회할 결정이라는 묘사는 맞지 않고, 힘든 수작업과 기후변화의 어려움도 나오므로 걱정 없는 전원생활이라는 묘사도 틀려요."

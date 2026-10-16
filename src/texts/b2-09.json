@@ -76,8 +76,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was vermutet Marta, als der Bus auch um Viertel vor acht noch nicht da ist?",
-      "options": ["dass die Linie wegen zu weniger Fahrgäste ersatzlos eingestellt wurde", "dass der Bus technische Probleme hat oder der Busfahrer ausgefallen ist", "dass sie den Bus wegen des langen Besuchs bei der Tante verpasst hat"],
-      "answer": 1,
+      "options": ["dass der Bus technische Probleme hat oder der Busfahrer ausgefallen ist", "dass die Linie wegen zu weniger Fahrgäste ersatzlos eingestellt wurde", "dass sie den Bus wegen des langen Besuchs bei der Tante verpasst hat"],
+      "answer": 0,
       "evidence": "Der Bus wird eine Panne gehabt haben, überlegte sie. Oder der Fahrer wird krank geworden sein, und niemand hat ihn ersetzen können.",
       "pairs": [["eine Panne gehabt haben", "technische Probleme"], ["krank geworden sein", "ausgefallen"]],
       "explain": "마르타는 버스가 고장 났거나 기사가 아파서 대체할 사람이 없을 거라고 추측해요. '고장(eine Panne)'을 'technische Probleme'로, '아파서(krank geworden)'를 '근무할 수 없게 되었다(ausgefallen)'로 바꿔 말했어요. 노선 폐지는 노인이 나중에 하는 말이고, 마르타는 19시 32분 전에 이미 정류장에 있었으므로 버스를 놓친 것도 아니에요."
@@ -86,8 +86,8 @@
       "type": "mc",
       "kind": "meaning",
       "q": "Was bedeutet „Auf dem Land muss man das wohl in Kauf nehmen“ im Text?",
-      "options": ["Solche Verspätungen muss man auf dem Land vermutlich hinnehmen.", "Auf dem Land muss man für den Bus wahrscheinlich mehr bezahlen.", "Auf dem Land muss man sich wohl irgendwann ein eigenes Auto kaufen."],
-      "answer": 0,
+      "options": ["Auf dem Land muss man für den Bus wahrscheinlich mehr bezahlen.", "Solche Verspätungen muss man auf dem Land vermutlich hinnehmen.", "Auf dem Land muss man sich wohl irgendwann ein eigenes Auto kaufen."],
+      "answer": 1,
       "evidence": "Auf dem Land muss man das wohl in Kauf nehmen.",
       "pairs": [["in Kauf nehmen", "hinnehmen"], ["wohl", "vermutlich"]],
       "explain": "여기서 das는 버스가 몇 분 늦는 일을 가리켜요. 'etwas in Kauf nehmen'은 원하지 않는 일을 어쩔 수 없이 받아들인다는 뜻의 기능동사 구문이에요. 'Kauf'라는 단어가 들어 있지만 무엇을 사거나 돈을 더 내는 것과는 관계가 없어요."
@@ -125,8 +125,8 @@
       "type": "mc",
       "kind": "detail",
       "q": "Warum kommt der alte Mann jeden Abend zur Haltestelle?",
-      "options": ["Er fuhr die Linie jahrzehntelang und kann die Gewohnheit nicht ablegen.", "Er hofft, dass der Bus eines Tages wieder fährt und er darin mitfahren kann.", "Seine Frau schickt ihn jeden Abend, damit er an die frische Luft kommt."],
-      "answer": 0,
+      "options": ["Er hofft, dass der Bus eines Tages wieder fährt und er darin mitfahren kann.", "Er fuhr die Linie jahrzehntelang und kann die Gewohnheit nicht ablegen.", "Seine Frau schickt ihn jeden Abend, damit er an die frische Luft kommt."],
+      "answer": 1,
       "evidence": "„Ich habe den Bus hier dreißig Jahre lang gefahren. Jeden Abend um 19.32 Uhr. Seit ich in Rente bin, komme ich um diese Zeit hierher. Man kann so etwas nicht einfach abstellen.“",
       "pairs": [["dreißig Jahre lang gefahren", "die Linie jahrzehntelang"], ["nicht einfach abstellen", "die Gewohnheit nicht ablegen"]],
       "explain": "노인은 30년 동안 이 버스를 몰았고, 은퇴 후에도 그 시간이면 여기로 오며, 그런 것은 그냥 끌 수 없다고 해요. '30년'을 '수십 년'으로, '끌 수 없다'를 '습관을 버릴 수 없다'로 바꿔 말했어요. 버스가 다시 다니기를 바란다는 말은 없어요."
