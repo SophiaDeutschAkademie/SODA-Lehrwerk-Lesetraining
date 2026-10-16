@@ -7,7 +7,12 @@
   "type": "Reportage",
   "typeKo": "르포르타주(현장 기사)",
   "intro": "프랑크푸르트의 컨설턴트에서 모젤의 포도 재배자가 된 젊은 여성의 르포예요.",
-  "focus": ["was · wo(r)- · wer … der 관계절", "현재형 서술과 회상", "분사구·명사구 문두", "동격"],
+  "focus": [
+    "was · wo(r)- · wer … der 관계절",
+    "현재형 서술과 회상",
+    "분사구·명사구 문두",
+    "동격"
+  ],
   "paragraphs": [
     {
       "de": "Sechs Uhr morgens, der Nebel hängt noch im Tal. Clara Feld, 29, steht auf einem Hang, der so steil ist, dass man ihn eher hinaufklettert als hinaufgeht. Die Schere in der Hand, arbeitet sie sich Rebstock für Rebstock nach oben. Unter ihr glänzt die Mosel, über ihr wärmt die erste Sonne den Schieferboden. „Wer hier arbeitet, der braucht kein Fitnessstudio mehr“, sagt sie und lacht.",
@@ -41,7 +46,16 @@
       "q": "In ihrem alten Job war Clara häufig auf Reisen.",
       "answer": 0,
       "evidence": "flog fast jede Woche zu Kunden",
-      "pairs": [["flog fast jede Woche zu Kunden", "häufig auf Reisen"], ["als Unternehmensberaterin", "In ihrem alten Job"]],
+      "pairs": [
+        [
+          "flog fast jede Woche zu Kunden",
+          "häufig auf Reisen"
+        ],
+        [
+          "als Unternehmensberaterin",
+          "In ihrem alten Job"
+        ]
+      ],
       "explain": "본문은 그녀가 거의 매주 고객을 만나러 비행기를 탔다고 해요. '거의 매주 비행기를 탔다'를 '자주 출장을 다녔다(häufig auf Reisen)'로 바꿔 말했어요."
     },
     {
@@ -55,13 +69,22 @@
       ],
       "answer": 1,
       "evidence": "Der Großvater war gestürzt, und niemand wusste, wer die Lese übernehmen sollte. Clara nahm zwei Wochen Urlaub.",
-      "pairs": [["war gestürzt", "Unfall"], ["nahm zwei Wochen Urlaub", "zunächst nur für kurze Zeit"]],
+      "pairs": [
+        [
+          "war gestürzt",
+          "Unfall"
+        ],
+        [
+          "nahm zwei Wochen Urlaub",
+          "zunächst nur für kurze Zeit"
+        ]
+      ],
       "explain": "할아버지가 넘어지셔서 수확을 맡을 사람이 없자 클라라는 2주 휴가를 냈어요. 즉 처음에는 잠시 돕는 것이었어요. 할아버지가 부탁했다거나 그녀가 일자리를 잃었다는 말은 본문에 없어요."
     },
     {
       "type": "mc",
       "kind": "meaning",
-      "q": "Was bedeutet „den Betrieb überschrieben“ im Text?",
+      "q": "Was bedeutet es, dass der Großvater Clara „den Betrieb überschrieben“ hat?",
       "options": [
         "Er hat ihr die Abläufe im Betrieb schriftlich erklärt.",
         "Er hat den Betrieb nach ihr benannt.",
@@ -69,7 +92,12 @@
       ],
       "answer": 2,
       "evidence": "Inzwischen hat der Großvater ihr den Betrieb überschrieben.",
-      "pairs": [["überschrieben", "rechtlich übertragen"]],
+      "pairs": [
+        [
+          "überschrieben",
+          "rechtlich übertragen"
+        ]
+      ],
       "explain": "jemandem etwas überschreiben은 재산이나 사업체의 소유권을 공식적으로 넘긴다는 뜻이에요. 그래서 제목의 '상속인(Erbin)'과 이어져요. 'schreiben'이 들어 있다고 해서 글로 설명했다는 뜻은 아니에요."
     },
     {
@@ -78,7 +106,16 @@
       "q": "Auf Claras Weinberg erledigen heute überwiegend Maschinen die Arbeit.",
       "answer": 1,
       "evidence": "Maschinen kommen hier kaum zum Einsatz",
-      "pairs": [["kaum zum Einsatz", "überwiegend"], ["geschieht von Hand", "Maschinen die Arbeit"]],
+      "pairs": [
+        [
+          "kaum zum Einsatz",
+          "überwiegend"
+        ],
+        [
+          "geschieht von Hand",
+          "Maschinen die Arbeit"
+        ]
+      ],
       "explain": "본문은 이곳에서 기계가 거의 쓰이지 않고 모든 일이 손으로 이루어진다고 해요. 'Maschinen'이라는 단어는 나오지만 내용은 반대이므로 Nein이에요."
     },
     {
@@ -92,7 +129,16 @@
       ],
       "answer": 1,
       "evidence": "„Ich habe gelernt, in Jahren zu denken, nicht in Quartalen“, sagt Clara.",
-      "pairs": [["in Jahren zu denken", "erst nach langer Zeit"], ["nicht in Quartalen", "anders als in ihrem früheren Beruf"]],
+      "pairs": [
+        [
+          "in Jahren zu denken",
+          "erst nach langer Zeit"
+        ],
+        [
+          "nicht in Quartalen",
+          "anders als in ihrem früheren Beruf"
+        ]
+      ],
       "explain": "Quartal(분기)은 기업에서 쓰는 3개월 단위예요. 컨설턴트 시절에는 짧은 기간으로 생각했지만 포도 재배에서는 결과가 오래 걸려서 연 단위로 생각하게 되었다는 뜻이에요. 바로 뒤 문장 '5월의 실수는 10월에야 보인다'가 이를 뒷받침해요."
     },
     {
@@ -106,7 +152,16 @@
       ],
       "answer": 2,
       "evidence": "Als ihr Großvater den Betrieb führte, begann die Lese meist Mitte Oktober; heute holt Clara die ersten Trauben oft schon im September herein.",
-      "pairs": [["schon im September", "mehrere Wochen eher"], ["Als ihr Großvater den Betrieb führte", "als früher"]],
+      "pairs": [
+        [
+          "schon im September",
+          "mehrere Wochen eher"
+        ],
+        [
+          "Als ihr Großvater den Betrieb führte",
+          "als früher"
+        ]
+      ],
       "explain": "예전에는 수확이 10월 중순에 시작되었지만 지금은 9월에 시작되는 경우가 많다고 해요. 즉 몇 주 더 일찍 시작하는 거예요. 물 부족은 본문에 나오지만 수확 시기를 옮긴 이유로 제시되지는 않았어요."
     },
     {
@@ -115,7 +170,12 @@
       "q": "Clara wohnt inzwischen im Haus ihres Großvaters.",
       "answer": 2,
       "evidence": null,
-      "pairs": [["kommt Josef Feld, 88, aus dem Haus", "im Haus ihres Großvaters"]],
+      "pairs": [
+        [
+          "kommt Josef Feld, 88, aus dem Haus",
+          "im Haus ihres Großvaters"
+        ]
+      ],
       "explain": "할아버지가 집에서 나온다는 말과 클라라가 프랑크푸르트의 집을 두고 왔다는 말은 있지만, 그녀가 지금 어디에 사는지는 본문 어디에도 나오지 않아요. 그래서 '본문에 언급 없음'이에요."
     },
     {
@@ -129,7 +189,16 @@
       ],
       "answer": 0,
       "evidence": "und manches macht sie besser. Das sage ich ihr nur nicht zu oft.",
-      "pairs": [["manches macht sie besser", "respektiert, wie sie den Betrieb führt"], ["Das sage ich ihr nur nicht zu oft", "lobt sie aber nur zurückhaltend"]],
+      "pairs": [
+        [
+          "manches macht sie besser",
+          "respektiert, wie sie den Betrieb führt"
+        ],
+        [
+          "Das sage ich ihr nur nicht zu oft",
+          "lobt sie aber nur zurückhaltend"
+        ]
+      ],
       "explain": "할아버지는 손녀가 어떤 일은 자기보다 더 잘한다고 인정하지만, 그 말을 자주 하지는 않는다고 해요. 그녀가 못 버틸 거라는 생각은 '처음에'만 했던 것이고, 다르게 한다는 말도 비난이 아니에요."
     },
     {
@@ -143,7 +212,12 @@
       ],
       "answer": 1,
       "evidence": "Was Clara zurückgelassen hat, zählt sie ohne Bedauern auf: ein Gehalt, von dem sie heute nur träumen kann, eine Wohnung mit Blick auf die Skyline, Freunde, die sie nur noch selten sieht.",
-      "pairs": [["Was Clara zurückgelassen hat", "was sie dafür aufgegeben hat"], ["ohne Bedauern", "mit Sympathie"]],
+      "pairs": [
+        [
+          "Was Clara zurückgelassen hat",
+          "was sie dafür aufgegeben hat"
+        ]
+      ],
       "explain": "글은 클라라의 새 출발을 호의적으로 그리지만, 월급과 집과 친구 같은 포기한 것들도 분명히 나열하고, 힘든 육체노동과 기후변화의 어려움도 보여 줘요. 그래서 후회할 결정이라거나 걱정 없는 전원생활이라는 묘사는 맞지 않아요."
     }
   ],
@@ -157,19 +231,65 @@
         {
           "de": "Wer hier arbeitet, der braucht kein Fitnessstudio mehr",
           "ko": "여기서 일하는 사람은 헬스장이 더는 필요 없어요",
-          "mark": ["Wer", "der"],
-          "parts": [["Wer hier arbeitet,", "종속절"], ["der", "주어"], ["braucht", "동사"], ["kein Fitnessstudio", "4격 목적어"], ["mehr", "부사어"]]
+          "mark": [
+            "Wer",
+            "der"
+          ],
+          "parts": [
+            [
+              "Wer hier arbeitet,",
+              "종속절"
+            ],
+            [
+              "der",
+              "주어"
+            ],
+            [
+              "braucht",
+              "동사"
+            ],
+            [
+              "kein Fitnessstudio",
+              "4격 목적어"
+            ],
+            [
+              "mehr",
+              "부사어"
+            ]
+          ]
         },
         {
           "de": "Das, wovon ältere Winzer früher nur in Ausnahmejahren erzählten, ist für sie Normalität.",
           "ko": "나이 든 포도 재배자들이 예전에는 예외적인 해에나 이야기하던 일이 그녀에게는 일상입니다.",
-          "mark": ["Das, wovon"],
-          "parts": [["Das, wovon ältere Winzer früher nur in Ausnahmejahren erzählten,", "주어"], ["ist", "동사"], ["für sie", "부사어"], ["Normalität.", "보어"]]
+          "mark": [
+            "Das, wovon"
+          ],
+          "parts": [
+            [
+              "Das, wovon ältere Winzer früher nur in Ausnahmejahren erzählten,",
+              "주어"
+            ],
+            [
+              "ist",
+              "동사"
+            ],
+            [
+              "für sie",
+              "부사어"
+            ],
+            [
+              "Normalität.",
+              "보어"
+            ]
+          ]
         },
         {
           "de": "Dafür hat sie etwas gewonnen, wofür es in ihrem alten Leben kein Wort gab.",
           "ko": "대신 그녀는 예전 삶에는 가리킬 말조차 없던 무언가를 얻었습니다.",
-          "mark": ["etwas", "wofür"]
+          "mark": [
+            "etwas",
+            "wofür"
+          ]
         }
       ],
       "tip": "선행사가 구체적인 명사이면 der/die/das를 써요(ein Gehalt, von dem …). alles·nichts·etwas 뒤에는 das가 아니라 was가 와요."
@@ -182,17 +302,29 @@
         {
           "de": "Rund zwei Hektar bewirtschaftet sie heute, fast alles in Steillage.",
           "ko": "오늘날 그녀는 약 2헥타르를 경작하는데, 거의 전부가 급경사지입니다.",
-          "mark": ["bewirtschaftet", "heute"]
+          "mark": [
+            "bewirtschaftet",
+            "heute"
+          ]
         },
         {
           "de": "Damals saß sie in einem Frankfurter Büroturm, beriet als Unternehmensberaterin Firmen bei Umstrukturierungen und flog fast jede Woche zu Kunden.",
           "ko": "당시 그녀는 프랑크푸르트의 고층 사무실에 앉아 경영 컨설턴트로서 기업들의 구조조정을 자문했고, 거의 매주 고객을 만나러 비행기를 탔습니다.",
-          "mark": ["Damals", "saß", "beriet", "flog"]
+          "mark": [
+            "Damals",
+            "saß",
+            "beriet",
+            "flog"
+          ]
         },
         {
           "de": "Fast siebzig Jahre lang hat er diesen Hang bewirtschaftet; heute machen die Knie den Aufstieg nicht mehr mit.",
           "ko": "거의 70년 동안 그는 이 비탈을 일구었지만, 이제는 무릎이 더 이상 오르막을 감당하지 못합니다.",
-          "mark": ["hat", "bewirtschaftet", "heute machen"]
+          "mark": [
+            "hat",
+            "bewirtschaftet",
+            "heute machen"
+          ]
         }
       ],
       "tip": "회상 부분에서 완결된 사건은 과거형(saß, flog), 지금까지 이어지는 결과는 현재완료(hat überschrieben, hat bewirtschaftet)로 쓰는 경향이 있어요."
@@ -206,18 +338,49 @@
         {
           "de": "Die Schere in der Hand, arbeitet sie sich Rebstock für Rebstock nach oben.",
           "ko": "가위를 손에 든 채 그녀는 포도나무 한 그루 한 그루를 따라 위로 올라갑니다.",
-          "mark": ["Die Schere in der Hand,"],
-          "parts": [["Die Schere in der Hand,", "기타"], ["arbeitet", "동사"], ["sie", "주어"], ["sich", "재귀대명사"], ["Rebstock für Rebstock", "부사어(방법)"], ["nach oben.", "부사어(장소)"]]
+          "mark": [
+            "Die Schere in der Hand,"
+          ],
+          "parts": [
+            [
+              "Die Schere in der Hand,",
+              "기타"
+            ],
+            [
+              "arbeitet",
+              "동사"
+            ],
+            [
+              "sie",
+              "주어"
+            ],
+            [
+              "sich",
+              "재귀대명사"
+            ],
+            [
+              "Rebstock für Rebstock",
+              "부사어(방법)"
+            ],
+            [
+              "nach oben.",
+              "부사어(장소)"
+            ]
+          ]
         },
         {
           "de": "Auf einen Stock gestützt, kommt Josef Feld, 88, aus dem Haus und setzt sich auf die Bank.",
           "ko": "지팡이에 몸을 기댄 채 요제프 펠트(88)가 집에서 나와 벤치에 앉습니다.",
-          "mark": ["Auf einen Stock gestützt,"]
+          "mark": [
+            "Auf einen Stock gestützt,"
+          ]
         },
         {
           "de": "Verändert hat sich auch der Kalender.",
           "ko": "달력도 달라졌습니다.",
-          "mark": ["Verändert"]
+          "mark": [
+            "Verändert"
+          ]
         }
       ],
       "tip": "이런 구는 문어체·기사체 표현이에요. 말할 때는 'Sie hat die Schere in der Hand und arbeitet sich nach oben'처럼 두 문장으로 풀어 써요."
@@ -231,37 +394,112 @@
         {
           "de": "Clara Feld, 29, steht auf einem Hang, der so steil ist, dass man ihn eher hinaufklettert als hinaufgeht.",
           "ko": "클라라 펠트(29)는 걸어 오른다기보다 기어오른다고 해야 할 만큼 가파른 비탈에 서 있습니다.",
-          "mark": ["Clara Feld, 29,"],
-          "parts": [["Clara Feld, 29,", "주어"], ["steht", "동사"], ["auf einem Hang,", "부사어(장소)"], ["der so steil ist, dass man ihn eher hinaufklettert als hinaufgeht.", "관계절"]]
+          "mark": [
+            "Clara Feld, 29,"
+          ],
+          "parts": [
+            [
+              "Clara Feld, 29,",
+              "주어"
+            ],
+            [
+              "steht",
+              "동사"
+            ],
+            [
+              "auf einem Hang,",
+              "부사어(장소)"
+            ],
+            [
+              "der so steil ist, dass man ihn eher hinaufklettert als hinaufgeht.",
+              "관계절"
+            ]
+          ]
         },
         {
           "de": "An der Mosel, einem der ältesten Weinbaugebiete Deutschlands, ist der Klimawandel längst angekommen",
           "ko": "독일에서 가장 오래된 포도 재배 지역 중 하나인 모젤에도 기후변화는 이미 와 있습니다",
-          "mark": ["einem der ältesten Weinbaugebiete Deutschlands"]
+          "mark": [
+            "einem der ältesten Weinbaugebiete Deutschlands"
+          ]
         }
       ],
       "tip": "한국어에서는 '스물아홉 살의 클라라 펠트'처럼 앞에 붙이지만, 독일어 동격은 이름 뒤에 와요."
     }
   ],
   "vocab": [
-    { "de": "der Hang, -¨e", "ko": "비탈, 경사면" },
-    { "de": "steil", "ko": "가파른" },
-    { "de": "der Rebstock, -¨e", "ko": "포도나무" },
-    { "de": "der Schiefer (Sg.)", "ko": "점판암" },
-    { "de": "die Unternehmensberaterin, -nen", "ko": "경영 컨설턴트(여성)" },
-    { "de": "die Umstrukturierung, -en", "ko": "구조조정" },
-    { "de": "die Lese, -n", "ko": "(포도) 수확" },
-    { "de": "stürzen (ist gestürzt)", "ko": "넘어지다, 추락하다" },
-    { "de": "überschreiben (überschreibt, überschrieb, hat überschrieben)", "ko": "(재산을) 명의 이전하다, 넘겨주다" },
-    { "de": "bewirtschaften", "ko": "(농지를) 경작하다, 운영하다" },
-    { "de": "die Steillage, -n", "ko": "급경사 포도밭" },
-    { "de": "der Trieb, -e", "ko": "(식물의) 순, 새 가지" },
-    { "de": "an|fallen (fällt an, fiel an, ist angefallen)", "ko": "(일이) 생기다, 발생하다" },
-    { "de": "reifen (ist gereift)", "ko": "익다" },
-    { "de": "die Säure, -n", "ko": "산, 산미" },
-    { "de": "der Winzer, -", "ko": "포도 재배자, 와인 생산자" },
-    { "de": "durch|halten (hält durch, hielt durch, hat durchgehalten)", "ko": "버티다, 견디다" },
-    { "de": "das Bedauern (Sg.)", "ko": "아쉬움, 유감" }
+    {
+      "de": "der Hang, -¨e",
+      "ko": "비탈, 경사면"
+    },
+    {
+      "de": "steil",
+      "ko": "가파른"
+    },
+    {
+      "de": "der Rebstock, -¨e",
+      "ko": "포도나무"
+    },
+    {
+      "de": "der Schiefer (Sg.)",
+      "ko": "점판암"
+    },
+    {
+      "de": "die Unternehmensberaterin, -nen",
+      "ko": "경영 컨설턴트(여성)"
+    },
+    {
+      "de": "die Umstrukturierung, -en",
+      "ko": "구조조정"
+    },
+    {
+      "de": "die Lese, -n",
+      "ko": "(포도) 수확"
+    },
+    {
+      "de": "stürzen (ist gestürzt)",
+      "ko": "넘어지다, 추락하다"
+    },
+    {
+      "de": "überschreiben (überschreibt, überschrieb, hat überschrieben)",
+      "ko": "(재산을) 명의 이전하다, 넘겨주다"
+    },
+    {
+      "de": "bewirtschaften",
+      "ko": "(농지를) 경작하다, 운영하다"
+    },
+    {
+      "de": "die Steillage, -n",
+      "ko": "급경사 포도밭"
+    },
+    {
+      "de": "der Trieb, -e",
+      "ko": "(식물의) 순, 새 가지"
+    },
+    {
+      "de": "an|fallen (fällt an, fiel an, ist angefallen)",
+      "ko": "(일이) 생기다, 발생하다"
+    },
+    {
+      "de": "reifen (ist gereift)",
+      "ko": "익다"
+    },
+    {
+      "de": "die Säure, -n",
+      "ko": "산, 산미"
+    },
+    {
+      "de": "der Winzer, -",
+      "ko": "포도 재배자, 와인 생산자"
+    },
+    {
+      "de": "durch|halten (hält durch, hielt durch, hat durchgehalten)",
+      "ko": "버티다, 견디다"
+    },
+    {
+      "de": "das Bedauern (Sg.)",
+      "ko": "아쉬움, 유감"
+    }
   ],
   "phrases": [
     {

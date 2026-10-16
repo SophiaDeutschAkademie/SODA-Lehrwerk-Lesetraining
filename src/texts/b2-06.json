@@ -63,9 +63,9 @@
       "kind": "detail",
       "q": "Was könnte laut Text mit den heutigen Parkflächen in der Innenstadt geschehen?",
       "options": [
-        "Sie würden für den Lieferverkehr und für Handwerker reserviert.",
+        "Sie könnten für den Lieferverkehr und für Handwerker reserviert werden.",
         "Sie könnten begrünt und für Radfahrer und Fußgänger umgestaltet werden.",
-        "Sie würden zu Stellplätzen für Menschen mit Behinderung."
+        "Sie könnten in Stellplätze für Menschen mit Behinderung umgewandelt werden."
       ],
       "answer": 1,
       "evidence": "Wo heute Autos parken, könnten Bäume gepflanzt, Bänke aufgestellt und Radwege verbreitert werden.",
@@ -112,16 +112,16 @@
       "kind": "detail",
       "q": "Warum sind viele Pendler dem Text zufolge auf das Auto angewiesen?",
       "options": [
-        "weil die Innenstadt für sie bereits gesperrt ist",
+        "weil sie schwere Einkäufe nicht mit dem Fahrrad nach Hause bringen können",
         "weil sie Werkzeug und Waren transportieren müssen",
-        "weil Busse und Bahnen außerhalb der Stadt nur selten fahren"
+        "weil Busse und Bahnen außerhalb der Stadt nur einmal pro Stunde fahren"
       ],
       "answer": 2,
       "evidence": "solange der Nahverkehr dort lediglich im Stundentakt fährt",
       "pairs": [
         [
           "lediglich im Stundentakt",
-          "nur selten"
+          "nur einmal pro Stunde"
         ],
         [
           "aus dem Umland",
@@ -132,7 +132,7 @@
           "Busse und Bahnen"
         ]
       ],
-      "explain": "본문은 외곽 지역의 대중교통이 한 시간에 한 대만 다니는 한 통근자들이 자동차로만 직장에 갈 수 있다고 해요. '한 시간 간격(im Stundentakt)'을 '드물게(selten)'로 바꿔 말했어요. 공구 운반은 통근자가 아니라 기술자 이야기예요."
+      "explain": "본문은 외곽 지역의 대중교통이 한 시간에 한 대만 다니는 한 통근자들이 자동차로만 직장에 갈 수 있다고 해요. '한 시간 간격(im Stundentakt)'을 '한 시간에 한 번(einmal pro Stunde)'으로, '외곽 지역(Umland)'을 '도시 밖(außerhalb der Stadt)'으로 바꿔 말했어요. 무거운 짐은 쇼핑하는 손님, 공구와 물건 운반은 기술자와 배송 차량에 관한 이야기예요."
     },
     {
       "type": "rfn",
@@ -151,7 +151,7 @@
     {
       "type": "mc",
       "kind": "paraphrase",
-      "q": "Was bedeutet der Satz „Betrachtet man beide Seiten, so wird deutlich, dass sich die Frage nicht mit einem einfachen Ja oder Nein beantworten lässt.“?",
+      "q": "Was bedeutet der Satz „Betrachtet man beide Seiten, so wird deutlich, dass sich die Frage nicht mit einem einfachen Ja oder Nein beantworten lässt“?",
       "options": [
         "Beide Seiten müssen erst befragt werden, bevor eine Entscheidung fallen kann.",
         "Keine der beiden Seiten hat überzeugende Argumente, deshalb bleibt die Frage offen.",
@@ -174,7 +174,7 @@
     {
       "type": "mc",
       "kind": "gist",
-      "q": "Welches Vorgehen empfiehlt der Text am Ende?",
+      "q": "Was empfiehlt der Text am Ende?",
       "options": [
         "die Sperrungen allmählich auszuweiten und zugleich bessere Alternativen zum Auto anzubieten",
         "die gesamte Innenstadt sofort zu sperren und Ausnahmen später zu regeln",
@@ -197,11 +197,11 @@
     {
       "type": "mc",
       "kind": "paraphrase",
-      "q": "Was ist mit dem Satz „Ein Verbot über Nacht wäre deshalb der falsche Weg.“ gemeint?",
+      "q": "Was ist mit dem Satz „Ein Verbot über Nacht wäre deshalb der falsche Weg“ gemeint?",
       "options": [
         "Fahrverbote, die nur nachts gelten, bringen wenig.",
         "Eine plötzliche, vollständige Sperrung wäre ein Fehler.",
-        "Ein Verbot sollte erst nach einer langen Übergangszeit wieder aufgehoben werden."
+        "Ein Fahrverbot in der Innenstadt wäre grundsätzlich falsch."
       ],
       "answer": 1,
       "evidence": "Ein Verbot über Nacht wäre deshalb der falsche Weg.",
@@ -215,7 +215,7 @@
           "ein Fehler"
         ]
       ],
-      "explain": "'über Nacht'는 여기서 '밤에'가 아니라 '하룻밤 사이에, 갑자기'라는 뜻의 관용 표현이에요. 그래서 '갑작스러운 전면 금지는 잘못이다'가 맞아요. 야간 운행 금지로 이해하면 단어 뜻에 속은 거예요."
+      "explain": "'über Nacht'는 여기서 '밤에'가 아니라 '하룻밤 사이에, 갑자기'라는 뜻의 관용 표현이에요. 그래서 '갑작스러운 전면 금지는 잘못이다'가 맞고, 야간 운행 금지로 이해하면 단어 뜻에 속은 거예요. 글쓴이는 금지 자체가 아니라 갑작스러운 금지에 반대하므로 운행 금지가 원칙적으로 잘못이라는 해석도 틀려요."
     },
     {
       "type": "mc",

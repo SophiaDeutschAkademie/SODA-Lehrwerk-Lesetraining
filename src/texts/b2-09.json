@@ -85,7 +85,7 @@
     {
       "type": "mc",
       "kind": "detail",
-      "q": "Was vermutet Marta zunächst, als der Bus ausbleibt?",
+      "q": "Was vermutet Marta, als der Bus auch um Viertel vor acht noch nicht da ist?",
       "options": [
         "dass die Linie wegen zu weniger Fahrgäste eingestellt wurde",
         "dass der Bus technische Probleme hat oder der Fahrer ausgefallen ist",
@@ -103,7 +103,7 @@
           "ausgefallen"
         ]
       ],
-      "explain": "마르타는 버스가 고장 났거나 기사가 아파서 대체할 사람이 없을 거라고 추측해요. 'Panne'를 'technische Probleme'로, '아프다'를 'ausgefallen'으로 바꿔 말했어요. 노선 폐지는 노인이 나중에 말하는 내용이에요."
+      "explain": "마르타는 버스가 고장 났거나 기사가 아파서 대체할 사람이 없을 거라고 추측해요. '고장(eine Panne)'을 'technische Probleme'로, '아파서(krank geworden)'를 '근무할 수 없게 되었다(ausgefallen)'로 바꿔 말했어요. 노선 폐지는 노인이 나중에 하는 말이고, 마르타는 19시 32분 전에 이미 정류장에 있었으므로 버스를 놓친 것도 아니에요."
     },
     {
       "type": "mc",
@@ -112,7 +112,7 @@
       "options": [
         "Solche Unannehmlichkeiten muss man auf dem Land vermutlich hinnehmen.",
         "Auf dem Land muss man für den Bus wahrscheinlich mehr bezahlen.",
-        "Auf dem Land sollte man lieber selbst etwas einkaufen gehen."
+        "Auf dem Land muss man sich wohl ein eigenes Auto kaufen."
       ],
       "answer": 0,
       "evidence": "Auf dem Land muss man das wohl in Kauf nehmen.",
@@ -126,16 +126,16 @@
           "vermutlich"
         ]
       ],
-      "explain": "'etwas in Kauf nehmen'은 원하지 않는 일을 어쩔 수 없이 받아들인다는 뜻의 기능동사 구문이에요. 'Kauf'라는 단어가 들어 있지만 사는 것이나 돈을 내는 것과는 관계가 없어요."
+      "explain": "여기서 das는 버스가 몇 분 늦는 일을 가리켜요. 'etwas in Kauf nehmen'은 원하지 않는 일을 어쩔 수 없이 받아들인다는 뜻의 기능동사 구문이에요. 'Kauf'라는 단어가 들어 있지만 무엇을 사거나 돈을 더 내는 것과는 관계가 없어요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was erfährt Marta von dem alten Mann über den Bus?",
       "options": [
-        "Dass er heute ausnahmsweise ausfällt, weil der Fahrer krank ist.",
-        "Dass er seit Wochen immer erst gegen Mitternacht kommt.",
-        "Dass er angeblich schon länger nicht mehr verkehrt."
+        "dass er heute ausnahmsweise ausfällt, weil der Fahrer krank ist",
+        "dass er seit Wochen immer erst gegen Mitternacht kommt",
+        "dass er angeblich schon länger nicht mehr verkehrt"
       ],
       "answer": 2,
       "evidence": "„Der soll seit Wochen nicht mehr fahren“, sagte er.",
@@ -169,20 +169,16 @@
     {
       "type": "rfn",
       "kind": "detail",
-      "q": "Marta könnte den letzten Zug noch erreichen, wenn sie sofort zum Bahnhof liefe.",
+      "q": "Wenn Marta sofort zu Fuß losginge, wäre sie noch rechtzeitig zum letzten Zug am Bahnhof.",
       "answer": 1,
       "evidence": "zu Fuß würde sie den letzten Zug nicht mehr erreichen",
       "pairs": [
         [
-          "zu Fuß würde sie den letzten Zug nicht mehr erreichen",
-          "könnte den letzten Zug noch erreichen"
-        ],
-        [
-          "Bis zum Bahnhof waren es gut acht Kilometer",
-          "sofort zum Bahnhof liefe"
+          "würde sie den letzten Zug nicht mehr erreichen",
+          "wäre sie noch rechtzeitig zum letzten Zug am Bahnhof"
         ]
       ],
-      "explain": "본문은 역까지 족히 8킬로미터라서 걸어서는 마지막 기차를 탈 수 없을 거라고 해요. 'den letzten Zug'와 'Bahnhof'는 본문 단어지만 내용은 반대예요."
+      "explain": "본문은 역까지 족히 8킬로미터라서 걸어서는 마지막 기차를 탈 수 없을 거라고 해요. 문제는 지금 바로 걸어서 출발하면 마지막 기차 시간에 맞춰 역에 도착할 거라고 하므로 본문과 반대예요. 'zu Fuß', 'letzten Zug', 'Bahnhof'는 본문 단어지만 내용은 맞지 않아요."
     },
     {
       "type": "mc",
@@ -220,15 +216,11 @@
       "evidence": "Sie dachte an die Zeitungsmeldung, die sie nie gelesen hatte, an den kranken Fahrer, den es nicht gab.",
       "pairs": [
         [
-          "die Zeitungsmeldung, die sie nie gelesen hatte",
-          "erfundenen Gründen"
-        ],
-        [
           "den kranken Fahrer, den es nicht gab",
           "erfundenen Gründen"
         ]
       ],
-      "explain": "마르타는 자기가 읽은 적도 없는 신문 기사와 존재하지도 않는 아픈 운전기사를 떠올려요. 즉 버스가 오지 않는 이유를 스스로 지어내서 믿었다는 것을 깨닫는 거예요. 노인의 말을 믿지 않는다거나 기사를 실제로 기억해 낸다는 뜻은 아니에요."
+      "explain": "마르타는 '존재하지도 않는 아픈 운전기사(den kranken Fahrer, den es nicht gab)'를 떠올려요. 버스가 오지 않는 이유를 스스로 지어내 설명하고 있었다는 것을 깨닫는 거예요. 그녀는 관련 신문 기사를 읽은 적이 없으므로 기사를 정확히 기억해 낸다는 것도, 노인의 말을 믿지 않고 자기 추측을 고집한다는 것도 맞지 않아요."
     },
     {
       "type": "mc",
