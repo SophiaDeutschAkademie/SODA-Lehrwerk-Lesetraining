@@ -23,8 +23,8 @@
       "ko": "이모 집에 너무 오래 있었다는 것은 그녀도 알고 있었어요. 하지만 이모는 할 이야기가 너무 많았고, 마르타는 차마 더 일찍 일어설 수가 없었어요. 뭐, 할 수 없지요, 하고 그녀는 생각했어요. 버스가 몇 분 늦는 거겠지요. 시골에서는 이 정도는 감수해야 하는 모양이에요."
     },
     {
-      "de": "Um Viertel vor acht war der Bus immer noch nicht da. Marta ging ein paar Schritte die Straße hinunter und wieder zurück. Irgendwo bellte ein Hund. Er wird eine Panne gehabt haben, überlegte sie. Oder der Fahrer wird krank geworden sein, und niemand hat ihn ersetzen können. So etwas kam vor, das hatte sie oft genug in der Zeitung gelesen.",
-      "ko": "일곱 시 사십오 분이 되어도 버스는 여전히 오지 않았어요. 마르타는 길을 따라 몇 걸음 내려갔다가 다시 돌아왔어요. 어디선가 개가 짖었어요. 고장이 났겠지요, 하고 그녀는 생각했어요. 아니면 기사가 아파서 대신할 사람을 못 구했을 거예요. 그런 일은 종종 있었고, 신문에서도 충분히 자주 읽은 터였어요."
+      "de": "Um Viertel vor acht war der Bus immer noch nicht da. Marta ging ein paar Schritte die Straße hinunter und wieder zurück. Irgendwo bellte ein Hund. Der Bus wird eine Panne gehabt haben, überlegte sie. Oder der Fahrer wird krank geworden sein, und niemand hat ihn ersetzen können. So etwas kam vor, das hatte sie oft genug in der Zeitung gelesen.",
+      "ko": "일곱 시 사십오 분이 되어도 버스는 여전히 오지 않았어요. 마르타는 길을 따라 몇 걸음 내려갔다가 다시 돌아왔어요. 어디선가 개가 짖었어요. 버스가 고장 났겠지요, 하고 그녀는 생각했어요. 아니면 기사가 아파서 대신할 사람을 못 구했을 거예요. 그런 일은 종종 있었고, 신문에서도 충분히 자주 읽은 터였어요."
     },
     {
       "de": "Dann hörte sie Schritte. Von der Dorfseite her kam ein alter Mann in einer dunkelblauen Jacke, langsam, die Hände auf dem Rücken. Er blieb neben dem Haltestellenschild stehen und nickte ihr zu, als träfen sie sich hier jeden Abend.",
@@ -92,7 +92,7 @@
         "dass sie den Bus wegen des langen Besuchs bei der Tante verpasst hat"
       ],
       "answer": 1,
-      "evidence": "Er wird eine Panne gehabt haben, überlegte sie. Oder der Fahrer wird krank geworden sein, und niemand hat ihn ersetzen können.",
+      "evidence": "Der Bus wird eine Panne gehabt haben, überlegte sie. Oder der Fahrer wird krank geworden sein, und niemand hat ihn ersetzen können.",
       "pairs": [
         [
           "eine Panne gehabt haben",
@@ -329,15 +329,15 @@
       "pattern": "werden + … + 과거분사 + haben/sein",
       "examples": [
         {
-          "de": "Er wird eine Panne gehabt haben, überlegte sie.",
-          "ko": "고장이 났겠지요, 하고 그녀는 생각했어요.",
+          "de": "Der Bus wird eine Panne gehabt haben, überlegte sie.",
+          "ko": "버스가 고장 났겠지요, 하고 그녀는 생각했어요.",
           "mark": [
             "wird",
             "gehabt haben"
           ],
           "parts": [
             [
-              "Er",
+              "Der Bus",
               "주어"
             ],
             [
@@ -375,7 +375,7 @@
           ]
         }
       ],
-      "tip": "'Er wird eine Panne gehabt haben'은 'Er hat wahrscheinlich eine Panne gehabt'와 같은 뜻이에요. 'Er muss eine Panne gehabt haben'보다 확신이 조금 약해요."
+      "tip": "'Der Bus wird eine Panne gehabt haben'은 'Der Bus hat wahrscheinlich eine Panne gehabt'와 같은 뜻이에요. 'Der Bus muss eine Panne gehabt haben'보다 확신이 조금 약해요."
     },
     {
       "title": "과거형으로 이야기 서술하기",

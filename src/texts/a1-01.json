@@ -39,11 +39,11 @@
     {
       "type": "rf",
       "kind": "detail",
-      "q": "Jiwoo wohnt schon ein halbes Jahr in Köln.",
+      "q": "Jiwoo lebt schon ein halbes Jahr in Köln.",
       "answer": 0,
       "evidence": "In Köln wohne ich seit sechs Monaten.",
-      "pairs": [["seit sechs Monaten", "schon ein halbes Jahr"]],
-      "explain": "본문의 'seit sechs Monaten(6개월 전부터)'을 문제에서는 'schon ein halbes Jahr(벌써 반년)'로 바꿔 말했어요. 6개월은 반년이니까 맞는 내용이에요."
+      "pairs": [["wohne", "lebt"], ["seit sechs Monaten", "schon ein halbes Jahr"]],
+      "explain": "본문의 'In Köln wohne ich seit sechs Monaten.(쾰른에서는 6개월째 살고 있어요.)'을 문제에서는 'lebt schon ein halbes Jahr(벌써 반년째 살고 있다)'로 바꿔 말했어요. wohnen과 leben은 둘 다 '살다'라는 뜻이고, 6개월은 반년이니까 맞는 내용이에요."
     },
     {
       "type": "mc",
