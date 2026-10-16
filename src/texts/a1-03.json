@@ -133,7 +133,7 @@
     {
       "title": "화법조동사와 틀 구조",
       "term": "Modalverben und Satzklammer",
-      "explain": "können(할 수 있다), müssen(해야 한다), wollen(하려고 하다), möchten(하고 싶다)은 화법조동사예요. 화법조동사는 2번 자리에서 주어에 맞게 변하고, 본동사는 동사원형 그대로 문장 끝에 가요. 두 동사가 문장을 감싸는 이 구조를 틀 구조(Satzklammer)라고 해요. 1번 자리에 dann 같은 다른 말이 오면 주어는 화법조동사 뒤에 와요(Dann können wir …). ich와 er/sie/es는 형태가 같고, können, müssen, wollen은 단수에서 모음이 바뀌어요: ich/er kann – wir können, ich/er muss – wir müssen, ich/er will – wir wollen, ich/sie möchte – wir möchten.",
+      "explain": "können(할 수 있다), müssen(해야 한다), wollen(하려고 하다), möchten(하고 싶다) 같은 화법조동사는 2번 자리에서 주어에 맞게 변하고, 본동사는 동사원형 그대로 문장 끝에 가요. 두 동사가 문장을 감싸는 이 구조를 틀 구조(Satzklammer)라고 해요. 1번 자리에 dann 같은 다른 말이 오면 주어는 화법조동사 뒤에 와요(Dann können wir …). ich와 er/sie/es는 형태가 같아요(ich/er kann, ich/sie möchte). können, müssen, wollen은 단수에서 모음이 바뀌어요: wir können – ich kann, wir müssen – ich muss, wir wollen – ich will.",
       "pattern": "1번 자리 + 화법조동사 + … + 동사원형(문장 끝)",
       "examples": [
         {
@@ -154,7 +154,7 @@
     {
       "title": "시간 표현: halb, Viertel nach, Viertel vor",
       "term": "Uhrzeiten (offiziell und inoffiziell)",
-      "explain": "halb, Viertel nach, Viertel vor는 일상 대화에서 쓰는 12시간제 표현이에요. 'Viertel nach acht'는 8시 15분, 'Viertel vor acht'는 7시 45분이에요. 'halb sechs'는 6시까지 반 시간이 남았다는 뜻이라서 5시 반이에요. 안내문에서 많이 쓰고 대화에서도 자주 쓰는 24시간제로 바꾸면 오후의 Viertel nach vier는 16.15 Uhr(sechzehn Uhr fünfzehn)예요. '~시에'는 um, '~시부터'는 ab으로 말해요(um halb sechs, ab 13 Uhr).",
+      "explain": "일상 대화에서는 12시간제로 'Viertel nach acht'(8시 15분), 'Viertel vor acht'(7시 45분)처럼 말해요. 'halb sechs'는 6시까지 반 시간이 남았다는 뜻이라서 5시 반이에요. 오후의 Viertel nach vier를 24시간제로 말하면 16.15 Uhr(sechzehn Uhr fünfzehn)예요. 24시간제는 안내문뿐 아니라 대화에서도 자주 써요. '~시에'는 um, '~시부터'는 ab으로 말해요(um halb sechs, ab 13 Uhr).",
       "pattern": "um halb sechs (5:30) · um Viertel nach vier (4:15) · um Viertel vor sieben (6:45) · ab 13 Uhr",
       "examples": [
         {

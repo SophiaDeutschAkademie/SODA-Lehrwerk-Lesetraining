@@ -103,7 +103,7 @@
     {
       "title": "소유관사 mein/sein/ihr/unser",
       "term": "Possessivartikel",
-      "explain": "소유관사는 '나의, 그의, 그녀의, 우리의'처럼 누구의 것인지 말해 줘요. ich → mein, du → dein, er/es → sein, sie(그녀) → ihr, wir → unser, ihr(너희) → euer, sie(그들) → ihr, Sie(존칭) → Ihr예요. 어미는 ein, kein과 같아요: 1격에서는 여성 명사와 복수 앞에 -e를 붙이고(meine Oma, meine Eltern), 남성·중성 명사 앞에는 어미가 없어요(mein Vater, ihr Baby). 4격에서는 남성 명사 앞에서만 -en이 붙고 나머지는 1격과 같아요(meinen Vater, unsere Familie). 3격에서는 여성 명사 앞에 -er, 남성·중성 명사 앞에 -em이 붙어요(hinter meiner Oma, mit ihrem Mann).",
+      "explain": "소유관사는 '나의, 그의, 그녀의, 우리의'처럼 누구의 것인지 말해 줘요. ich → mein, du → dein, er/es → sein, sie(그녀) → ihr, wir → unser, ihr(너희) → euer, sie(그들) → ihr, Sie(존칭) → Ihr예요. 어미는 부정관사 ein과 같은 방식으로 붙어요. 1격에서는 여성 명사와 복수 앞에 -e를 붙이고(meine Oma, meine Eltern), 남성·중성 명사 앞에는 어미가 없어요(mein Vater, ihr Baby). 4격에서는 남성 명사 앞에서만 -en이 붙고(meinen Vater), 3격에서는 여성 명사 앞에 -er, 남성·중성 명사 앞에 -em이 붙어요(hinter meiner Oma, mit ihrem Mann).",
       "pattern": "1격: mein Vater · ihr Baby · meine Oma · meine Eltern / 4격: meinen Vater · unsere Familie / 3격: meiner Oma · ihrem Mann",
       "examples": [
         {
