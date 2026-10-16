@@ -22,7 +22,7 @@ LEVELS = {
     "B2": dict(words=(380, 500), questions=9, grammar=4, vocab=18, phrases=6, mc=3, ngram=4),
     "C1": dict(words=(520, 700), questions=10, grammar=4, vocab=20, phrases=8, mc=4, ngram=4),
 }
-KINDS = {"detail", "gist", "match", "paraphrase", "meaning", "intent"}
+KINDS = {"detail", "gist", "match", "paraphrase", "meaning", "intent", "inference"}
 ROLES = {
     "주어", "동사", "동사(끝)", "4격 목적어", "3격 목적어", "2격 목적어", "전치사 목적어", "보어",
     "부사어", "부사어(시간)", "부사어(장소)", "부사어(방법)", "부사어(이유)", "부사어(빈도)",

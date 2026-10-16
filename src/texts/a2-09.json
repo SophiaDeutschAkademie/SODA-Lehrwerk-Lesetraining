@@ -57,44 +57,39 @@
     {
       "type": "rf",
       "kind": "detail",
-      "q": "Herr Kowalski wusste, dass niemand in der Wohnung war, und rief trotzdem „Hallo?“.",
+      "q": "Herr Kowalski rief „Hallo?“, aber er wusste, dass niemand in der Wohnung war.",
       "answer": 0,
       "evidence": "Trotzdem rief er leise: „Hallo?“",
-      "pairs": [["natürlich nicht, er wohnte ja allein", "wusste, dass niemand in der Wohnung war"], ["Trotzdem rief er leise", "rief trotzdem"]],
-      "explain": "그는 혼자 살기 때문에 아무도 문을 열어 줄 수 없다는 걸 알았어요(natürlich nicht, er wohnte ja allein). 그런데도(trotzdem) '여보세요?'라고 외쳤어요. '혼자 살았다'를 '집에 아무도 없다는 것을 알았다'로 바꿔 말했어요."
+      "pairs": [["er wohnte ja allein", "wusste, dass niemand in der Wohnung war"], ["Trotzdem", "aber"]],
+      "explain": "그는 혼자 살기 때문에 아무도 문을 열어 줄 수 없다는 걸 알았어요(er wohnte ja allein). 그런데도(trotzdem) '여보세요?'라고 외쳤어요. 문제는 '혼자 살았다'를 '집에 아무도 없다는 것을 알았다'로, trotzdem을 aber로 바꿔서 같은 내용을 말해요."
     },
     {
-      "type": "mc",
+      "type": "rf",
       "kind": "detail",
-      "q": "Was sagte der Mann vom Schlüsseldienst am Telefon?",
-      "options": [
-        "Er kommt in weniger als einer Viertelstunde.",
-        "Er braucht noch mehr als eine halbe Stunde.",
-        "Er kann heute Nacht nicht mehr kommen."
-      ],
-      "answer": 1,
+      "q": "Der Mann vom Schlüsseldienst sagte am Telefon, dass er noch mehr als eine halbe Stunde braucht.",
+      "answer": 0,
       "evidence": "„In vierzig Minuten bin ich da“, sagte der Mann am Telefon.",
-      "pairs": [["In vierzig Minuten bin ich da", "braucht noch mehr als eine halbe Stunde"]],
-      "explain": "전화 속 남자는 40분 뒤에 도착한다고 했어요. 40분은 30분보다 기니까 '아직 30분 이상 걸린다'가 맞아요. 15분(Viertelstunde)보다 적게 걸린다는 말은 틀렸고, 못 온다는 말도 없어요."
+      "pairs": [["In vierzig Minuten bin ich da", "noch mehr als eine halbe Stunde braucht"]],
+      "explain": "전화 속 남자는 40분 뒤에 도착한다고 했어요. 40분은 30분(eine halbe Stunde)보다 기니까 '아직 30분 이상 걸린다'는 맞는 설명이에요. 시간을 숫자 그대로가 아니라 다른 말로 바꿔 표현했어요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Warum lachte der Mann vom Schlüsseldienst?",
       "options": [
-        "Weil Herr Kowalski vor dem falschen Haus stand.",
+        "Weil Herr Kowalski an der falschen Tür war.",
         "Weil das Schloss wirklich kaputt war.",
         "Weil Herr Kowalski keine Mütze trug."
       ],
       "answer": 0,
       "evidence": "„Aber das ist nicht Ihre Tür. Sie wohnen in Nummer 14. Das hier ist Nummer 12.“",
-      "pairs": [["das ist nicht Ihre Tür", "vor dem falschen Haus stand"], ["Das Schloss ist in Ordnung", "das Schloss wirklich kaputt war"]],
-      "explain": "수리공은 자물쇠는 멀쩡하고 이 문은 코발스키 씨의 문이 아니라고 말해요. 즉 그는 엉뚱한 집 앞에 서 있었던 거예요. 두 번째 선택지는 kaputt라는 단어를 다시 쓰지만 본문 내용과 반대예요."
+      "pairs": [["das ist nicht Ihre Tür", "an der falschen Tür"], ["Das Schloss ist in Ordnung", "das Schloss wirklich kaputt war"]],
+      "explain": "수리공은 자물쇠는 멀쩡하고 이 문은 코발스키 씨의 문이 아니라고 말해요. 즉 그는 엉뚱한 문 앞에 서 있었던 거예요. 두 번째 선택지는 kaputt라는 단어를 다시 쓰지만 본문 내용과 반대예요."
     },
     {
       "type": "mc",
       "kind": "detail",
-      "q": "Warum hat Herr Kowalski die Häuser verwechselt?",
+      "q": "Warum stand Herr Kowalski vor dem falschen Haus?",
       "options": [
         "Weil es in der Siedlung keine Hausnummern gab.",
         "Weil er noch ganz neu in der Straße war und die Häuser sich ähnlich sahen.",
@@ -110,14 +105,14 @@
       "kind": "detail",
       "q": "Warum kaufte Herr Kowalski wahrscheinlich ein großes Schild?",
       "options": [
-        "Damit der Schlüsseldienst sein Haus beim nächsten Mal schneller findet.",
-        "Damit er sein eigenes Haus in Zukunft sofort erkennt.",
-        "Damit seine Freunde das neue Haus leichter finden."
+        "Er wollte dem Schlüsseldienst beim nächsten Mal den Weg zeigen.",
+        "Er wollte den Nachbarn in der neuen Siedlung seine Hausnummer zeigen.",
+        "Er wollte sein eigenes Haus in Zukunft sofort erkennen."
       ],
-      "answer": 1,
+      "answer": 2,
       "evidence": "am nächsten Morgen kaufte er ein großes Schild mit seiner Hausnummer",
-      "pairs": [["sahen alle Häuser gleich aus", "sein eigenes Haus in Zukunft sofort erkennt"]],
-      "explain": "본문에 이유가 직접 나오지는 않아요. 하지만 집들이 모두 똑같이 생겨서 집을 헷갈린 뒤에 자기 번지수가 적힌 큰 표지판을 샀으니, 앞으로는 자기 집을 바로 알아보려는 뜻이에요. 수리공이나 친구를 위해서라는 내용은 본문에 없어요."
+      "pairs": [["sahen alle Häuser gleich aus", "sein eigenes Haus in Zukunft sofort erkennen"]],
+      "explain": "본문에 이유가 직접 나오지는 않아요. 하지만 집들이 모두 똑같이 생겨서 집을 헷갈린 뒤에 자기 번지수가 적힌 큰 표지판을 샀으니, 앞으로는 자기 집을 바로 알아보려는 뜻이에요. 수리공이나 이웃을 위해서라는 내용은 본문에 없어요."
     }
   ],
   "grammar": [

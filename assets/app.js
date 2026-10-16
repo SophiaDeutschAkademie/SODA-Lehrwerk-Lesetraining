@@ -23,7 +23,7 @@
     { id: 'wortschatz', ko: '어휘', de: 'Wortschatz' }
   ];
   var KIND = { detail: '세부 내용', gist: '중심 내용', match: '연결하기', paraphrase: '바꿔 말하기',
-    meaning: '표현의 의미', intent: '글쓴이의 의도' };
+    meaning: '표현의 의미', intent: '글쓴이의 의도', inference: '추론' };
   var FIXED = { rf: ['Richtig', 'Falsch'], rfn: ['Ja', 'Nein', 'Text sagt dazu nichts'] };
   var LETTERS = 'ABCDEFG';
 

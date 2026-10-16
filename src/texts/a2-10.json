@@ -94,13 +94,13 @@
       "q": "Was möchte Jae-min über die Schule wissen?",
       "options": [
         "wo die Schule liegt und wie er dorthin kommt",
-        "zu welchem Zeitpunkt der Unterricht beginnt und welche Sachen er braucht",
+        "wann die Schule wieder losgeht und welche Sachen er braucht",
         "ob er in der Schule eine Uniform tragen muss"
       ],
       "answer": 1,
       "evidence": "Wissen Sie schon, wann der Unterricht anfängt? Und könnten Sie mir schreiben, was ich für die Schule mitbringen soll?",
-      "pairs": [["wann der Unterricht anfängt", "zu welchem Zeitpunkt der Unterricht beginnt"], ["was ich für die Schule mitbringen soll", "welche Sachen er braucht"]],
-      "explain": "재민은 수업이 언제 시작하는지와 학교에 무엇을 가져가야 하는지를 물어요. wann을 'zu welchem Zeitpunkt(어느 시점에)'로, anfangen을 beginnen으로, mitbringen sollen을 brauchen으로 바꿔 말했어요. 교복은 독일에 없다고 재민이 이미 생각하고 있으니, 입어야 하는지 묻는 것은 아니에요."
+      "pairs": [["wann der Unterricht anfängt", "wann die Schule wieder losgeht"], ["was ich für die Schule mitbringen soll", "welche Sachen er braucht"]],
+      "explain": "재민은 수업이 언제 시작하는지와 학교에 무엇을 가져가야 하는지를 물어요. 'der Unterricht fängt an(수업이 시작된다)'을 'die Schule geht los(학교가 시작된다)'로, mitbringen sollen을 brauchen으로 바꿔 말했어요. 교복은 독일에 없다고 재민이 이미 생각하고 있으니, 입어야 하는지 묻는 것은 아니에요."
     },
     {
       "type": "rf",
