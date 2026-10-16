@@ -185,7 +185,7 @@
           "de": "Wann solltest du dir Hilfe holen?",
           "ko": "언제 도움을 구해야 할까요?",
           "mark": ["solltest", "holen"],
-          "parts": [["Wann", "의문사"], ["solltest", "동사"], ["du", "주어"], ["Hilfe", "4격 목적어"], ["holen?", "동사(끝)"]]
+          "parts": [["Wann", "의문사"], ["solltest", "동사"], ["du", "주어"], ["dir", "재귀대명사"], ["Hilfe", "4격 목적어"], ["holen?", "동사(끝)"]]
         },
         {
           "de": "Du solltest deshalb mindestens sieben Stunden schlafen – auch vor der Prüfung!",
