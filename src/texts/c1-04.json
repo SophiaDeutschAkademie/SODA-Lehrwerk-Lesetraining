@@ -27,7 +27,7 @@
     },
     {
       "de": "Ich las nicht alles. Ich las genug. Die Briefe hörten 1974 auf, nicht abrupt, sondern wie etwas, das leiser wird. Meine Mutter war damals zwölf. Mein Großvater lebte noch zwanzig Jahre. Und meine Großmutter hatte den Koffer behalten, verstaut hinter Hutschachteln, aber nicht abgeschlossen, dreißig Jahre, vierzig, fünfzig. Warum hatte sie ihn nicht weggeworfen? Warum hatte sie ihn nicht wenigstens versteckt, richtig versteckt? Oder war das hier, auf dem Schrank, in Sichtweite jedes Kindes mit einer Leiter, ihre Art gewesen, ihn aufzubewahren, ohne ihn zu verbergen? Vielleicht hatte sie gewollt, dass irgendwann jemand die Leiter holte. Vielleicht auch nicht. Man konnte sie nicht mehr fragen.",
-      "ko": "다 읽지는 않았어요. 충분히 읽었어요. 편지는 1974년에 끝났어요. 갑자기가 아니라 무언가가 점점 잦아들듯이요. 어머니는 그때 열두 살이었어요. 할아버지는 그 뒤로도 20년을 더 사셨어요. 그리고 할머니는 그 가방을 간직했어요. 모자 상자 뒤에 넣어 두되 잠그지는 않은 채로, 30년, 40년, 50년을요. 왜 버리지 않았을까요? 왜 최소한 숨기지는 않았을까요, 제대로 숨기지는? 아니면 여기 옷장 위, 사다리만 있으면 어느 아이든 볼 수 있는 곳에 두는 것이 할머니 나름의 방식이었을까요? 감추지 않으면서 간직하는 방식이요. 어쩌면 할머니는 언젠가 누군가가 사다리를 가져오기를 바랐는지도 몰라요. 어쩌면 아닐 수도 있고요. 이제는 물어볼 수 없었어요."
+      "ko": "다 읽지는 않았어요. 충분히 읽었어요. 편지는 1974년에 끝났어요. 갑자기가 아니라 무언가가 점점 잦아들듯이요. 어머니는 그때 열두 살이었어요. 할아버지는 그 뒤로도 20년을 더 사셨어요. 그리고 할머니는 그 가방을 간직했어요. 모자 상자 뒤에 넣어 두되 잠그지는 않은 채로, 30년, 40년, 50년을요. 왜 버리지 않았을까요? 왜 최소한 숨기지라도 않았을까요, 그것도 제대로 숨기지 않았을까요? 아니면 여기 옷장 위, 사다리만 있으면 어느 아이든 볼 수 있는 곳에 두는 것이 할머니 나름의 방식이었을까요? 감추지 않으면서 간직하는 방식이요. 어쩌면 할머니는 언젠가 누군가가 사다리를 가져오기를 바랐는지도 몰라요. 어쩌면 아닐 수도 있고요. 이제는 물어볼 수 없었어요."
     },
     {
       "de": "Und plötzlich fielen mir Dinge ein, die ich nie verstanden hatte. Wie sie bei dem Wort Lissabon einmal das Messer weggelegt und aus dem Fenster gesehen hatte, lange, bis meine Mutter sie anstieß. Wie sie jedes Jahr im Februar für ein paar Tage sehr still geworden war. Die Postkarte mit der gelben Straßenbahn, die jahrzehntelang am Kühlschrank gehangen hatte und von der sie behauptete, eine Nachbarin habe sie geschickt. Kleinigkeiten, die mir damals nichts bedeutet hatten. Jetzt bekamen sie ein Gewicht, das mir nicht gefiel. Sie war doch glücklich gewesen, oder? War sie das nicht?",
@@ -150,7 +150,7 @@
     {
       "type": "mc",
       "kind": "intent",
-      "q": "Welche Wirkung haben die Fragen „Sie war doch glücklich gewesen, oder? War sie das nicht?“ am Ende des sechsten Absatzes?",
+      "q": "Welche Wirkung haben die Fragen „Sie war doch glücklich gewesen, oder? War sie das nicht?“?",
       "options": [
         "Sie zeigen, dass die Erzählerin an einem Bild zweifelt, das sie bisher für sicher gehalten hat.",
         "Sie richten sich an die Mutter, die die Frage später beantworten soll.",
@@ -182,7 +182,7 @@
     {
       "title": "분사구문 – 종속절을 짧게 줄이기",
       "term": "Partizipialsatz (verkürzter Nebensatz)",
-      "explain": "분사구문은 종속절에서 접속사와 주어, 그리고 sein/haben을 빼고 분사만 남긴 구조예요. 'Als ich im Flur angekommen war, blieb ich stehen'이 Im Flur angekommen, blieb ich stehen이 돼요. 분사구문의 숨은 주어는 반드시 주절의 주어와 같아야 해요. 'Den ersten Brief in der Hand, …'처럼 분사조차 없이 '명사 + 전치사구'만으로 상황을 그리는 구문도 같은 역할을 해요(haltend가 생략된 것으로 볼 수 있어요). 문학적인 문체에서 장면을 압축해 보여 줄 때 써요.",
+      "explain": "분사구문은 종속절에서 접속사와 주어, 그리고 sein/haben을 빼고 분사만 남긴 구조예요. 'Als ich im Flur angekommen war, blieb ich stehen'이 Im Flur angekommen, blieb ich stehen이 돼요. 분사구문의 숨은 주어는 반드시 주절의 주어와 같아야 해요. 'Den ersten Brief in der Hand, …'처럼 분사조차 없이 '4격 명사구 + 전치사구'만으로 상황을 그리는 구문도 같은 역할을 해요(haltend 같은 분사가 생략된 것으로 볼 수 있어요). 문학적인 문체에서 장면을 압축해 보여 줄 때 써요.",
       "pattern": "(부사어 +) 과거분사 / 명사구 + 전치사구, + 동사 + 주어 …",
       "examples": [
         {
@@ -239,7 +239,7 @@
         },
         {
           "de": "Warum hatte sie ihn nicht weggeworfen? Warum hatte sie ihn nicht wenigstens versteckt, richtig versteckt?",
-          "ko": "왜 버리지 않았을까요? 왜 최소한 숨기지는 않았을까요, 제대로 숨기지는?",
+          "ko": "왜 버리지 않았을까요? 왜 최소한 숨기지라도 않았을까요, 그것도 제대로 숨기지 않았을까요?",
           "mark": ["Warum hatte sie ihn nicht weggeworfen?"]
         },
         {
@@ -248,7 +248,7 @@
           "mark": ["doch", "oder?"]
         }
       ],
-      "tip": "간접화법(Sie könne das nicht, hatte sie gesagt)은 접속법 1식을 쓰고 말한 사람을 밝혀요. 체험 화법은 직설법 과거형을 쓰고 '생각했다'는 말을 생략해요. 둘을 구별하세요."
+      "tip": "간접화법(Sie könne das nicht, hatte sie gesagt)은 접속법 1식을 쓰고 누가 말했는지 밝혀요. 체험 화법은 직설법 과거형을 쓰고 '~라고 생각했다'는 말을 생략해요. 둘을 구별하세요."
     },
     {
       "title": "도치와 생략의 문체",

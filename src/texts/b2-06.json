@@ -6,7 +6,7 @@
   "titleKo": "자동차 없는 도심 – 진보인가, 과도한 간섭인가?",
   "type": "Erörterung",
   "typeKo": "논설문(찬반 논증)",
-  "intro": "자동차 없는 도심의 찬반 근거를 살피고 절충안을 제시하는 논설문이에요.",
+  "intro": "자동차 없는 도심을 둘러싼 찬성과 반대 근거를 따져 보는 논설문이에요.",
   "focus": ["wenn 없는 조건문", "sofern · vorausgesetzt, dass", "논증 연결어", "접속법 2식"],
   "paragraphs": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "de": "Für eine Sperrung spricht zum einen die bessere Luft: Wird der Durchgangsverkehr aus dem Zentrum verbannt, sinkt die Belastung durch Feinstaub und Stickoxide spürbar. Zum anderen verschwindet mit den Motoren auch der Lärm, unter dem viele Anwohner seit Jahren leiden. Darüber hinaus gewinnen die Städte Platz: Wo heute Autos parken, könnten Bäume gepflanzt, Bänke aufgestellt und Radwege verbreitert werden. Nicht zuletzt sinkt die Zahl der Unfälle, sofern sich Fußgänger und Radfahrer die Straße nicht länger mit dem Autoverkehr teilen müssen. Befürworter versprechen sich davon eine höhere Lebensqualität: Kinder könnten gefahrlos spielen, Cafés ihre Tische auf die Straße stellen, und der Weg durch die Stadt würde wieder zum Vergnügen.",
-      "ko": "통행 제한에 찬성하는 근거는 첫째로 더 깨끗한 공기입니다. 통과 차량을 도심에서 몰아내면 미세먼지와 질소산화물로 인한 오염 부담이 눈에 띄게 줄어듭니다. 둘째로, 엔진 소리와 함께 많은 주민이 수년째 시달려 온 소음도 사라집니다. 그 밖에도 도시는 공간을 얻게 됩니다. 지금 자동차가 주차된 자리에 나무를 심고 벤치를 놓고 자전거 도로를 넓힐 수 있을 것입니다. 보행자와 자전거 이용자가 더 이상 자동차와 도로를 나눠 쓰지 않아도 된다면 사고 건수가 줄어든다는 점도 빼놓을 수 없습니다. 찬성하는 사람들은 이를 통해 삶의 질이 높아지기를 기대합니다. 아이들은 위험 없이 놀 수 있고, 카페는 테이블을 거리에 내놓을 수 있으며, 도시를 걷는 길은 다시 즐거움이 될 것입니다."
+      "ko": "통행 제한에 찬성하는 근거는 첫째로 더 깨끗한 공기입니다. 통과 차량을 도심에서 몰아내면 미세먼지와 질소산화물로 인한 오염 부담이 눈에 띄게 줄어듭니다. 둘째로, 자동차 엔진이 사라지면 많은 주민이 수년째 시달려 온 소음도 함께 사라집니다. 그 밖에도 도시는 공간을 얻게 됩니다. 지금 자동차가 주차된 자리에 나무를 심고 벤치를 놓고 자전거 도로를 넓힐 수 있을 것입니다. 보행자와 자전거 이용자가 더 이상 자동차와 도로를 나눠 쓰지 않아도 된다면 사고 건수가 줄어든다는 점도 빼놓을 수 없습니다. 찬성하는 사람들은 이를 통해 삶의 질이 높아지기를 기대합니다. 아이들은 위험 없이 놀 수 있고, 카페는 테이블을 거리에 내놓을 수 있으며, 도시를 걷는 길은 다시 즐거움이 될 것입니다."
     },
     {
       "de": "Demgegenüber stehen gewichtige Einwände. Ältere Menschen und Menschen mit Behinderung sind häufig auf das Auto angewiesen; fällt diese Möglichkeit weg, bleibt ihnen der Weg ins Zentrum unter Umständen ganz versperrt. Der Einzelhandel befürchtet außerdem Umsatzeinbußen, da Kundinnen und Kunden mit schweren Einkaufstaschen kaum aufs Fahrrad umsteigen dürften. Hinzu kommt der Lieferverkehr: Geschäfte, Restaurants und Arztpraxen müssen weiterhin beliefert werden, und auch Handwerker können ihr Werkzeug nicht in der Straßenbahn transportieren. Pendler aus dem Umland schließlich erreichen ihren Arbeitsplatz oft nur mit dem Auto, solange der Nahverkehr dort lediglich im Stundentakt fährt.",
@@ -193,12 +193,12 @@
           "mark": ["sofern", "teilen müssen"]
         }
       ],
-      "tip": "sofern은 '그 조건이 충족되는 한'이라는 뜻이라서, 가능성이 낮은 경우를 가정하는 falls(만일 ~라면)와 느낌이 달라요."
+      "tip": "sofern은 '그 조건이 충족되는 한'이라는 뜻으로 조건 자체를 강조하고, falls는 '혹시 ~라면'처럼 그 일이 일어날지 불확실할 때 써요."
     },
     {
       "title": "논증 연결어",
       "term": "Argumentationskonnektoren (zum einen … zum anderen, darüber hinaus, demgegenüber, einerseits … andererseits)",
-      "explain": "논설문에서는 근거를 나열하고 대립시키는 연결어가 글의 뼈대를 만들어요. zum einen … zum anderen과 einerseits … andererseits는 두 가지를 짝지어 제시하고, darüber hinaus·zudem·hinzu kommt는 근거를 하나 더 보태요. demgegenüber는 '그에 반해'라는 뜻으로 반대 입장을 시작할 때 써요. 이 연결어들은 모두 1번 자리를 차지하는 접속부사라서 바로 뒤에 동사가 와요.",
+      "explain": "논설문에서는 근거를 나열하고 대립시키는 연결어가 글의 뼈대를 만들어요. zum einen … zum anderen과 einerseits … andererseits는 두 가지를 짝지어 제시하고, darüber hinaus와 zudem은 근거를 하나 더 보태요. 같은 역할을 'Hinzu kommt …'라는 문장으로 하기도 해요. demgegenüber는 '그에 반해'라는 뜻으로 반대 입장을 시작할 때 써요. 이 연결어들은 1번 자리를 차지하는 접속부사라서 바로 뒤에 동사가 와요.",
       "pattern": "접속부사 + 동사 + 주어 …",
       "examples": [
         {

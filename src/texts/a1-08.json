@@ -13,7 +13,7 @@
     { "de": "am Sonntag verkaufe ich auf dem Flohmarkt im Stadtpark alte Bücher und Kleidung. Komm doch vorbei! Du findest meinen Stand ganz leicht.",
       "ko": "일요일에 저는 슈타트파크 공원 벼룩시장에서 헌책과 옷을 팔아요. 꼭 들러 주세요! 제 가판대는 아주 쉽게 찾을 수 있어요." },
     { "de": "Nimm die U-Bahn (Linie 3) und steig an der Haltestelle „Stadtpark“ aus. Zuerst gehst du fünf Minuten geradeaus. Dann siehst du eine große Kirche. An der Kirche geh nach links. Danach kommt eine kleine Brücke. Geh über die Brücke – jetzt bist du schon auf dem Flohmarkt.",
-      "ko": "지하철(3호선)을 타고 ‘슈타트파크’ 역에서 내리세요. 먼저 5분 동안 쭉 직진해요. 그러면 큰 교회가 보여요. 교회에서 왼쪽으로 가세요. 그다음에 작은 다리가 나와요. 다리를 건너세요. 그러면 벌써 벼룩시장 안이에요." },
+      "ko": "지하철(3호선)을 타고 ‘슈타트파크’ 역에서 내리세요. 먼저 5분 동안 쭉 직진해요. 그러면 큰 교회가 보여요. 교회에서 왼쪽으로 가세요. 그다음에 작은 다리가 나와요. 다리를 건너세요. 그러면 바로 벼룩시장이에요." },
     { "de": "Zum Schluss siehst du rechts ein Eiscafé. Mein Stand ist direkt neben dem Eiscafé, gegenüber dem Spielplatz. Ich stehe zwischen einem Bücherstand und einem Stand mit Lampen.",
       "ko": "마지막으로 오른쪽에 아이스크림 가게가 보여요. 제 가판대는 아이스크림 가게 바로 옆, 놀이터 맞은편에 있어요. 저는 책 가판대와 램프 가판대 사이에 있어요." },
     { "de": "Über dem Tisch hängt ein rotes Tuch gegen die Sonne. Hinter dem Tisch warte ich auf dich. Bring mir bitte einen Kaffee mit – ich bin ab 7 Uhr da! Du findest den Stand nicht? Dann ruf mich an.",
@@ -35,7 +35,7 @@
       "answer": 2,
       "evidence": "steig an der Haltestelle „Stadtpark“ aus",
       "pairs": [["an der Haltestelle „Stadtpark“", "an der Station „Stadtpark“"]],
-      "explain": "다나는 ‘슈타트파크’ 역(Haltestelle)에서 내려요. 문제에서는 Haltestelle 대신 Station이라고 했어요. 교회는 내린 뒤에 걸어가다가 보이는 곳이고, 벼룩시장까지는 더 걸어가야 해요." },
+      "explain": "다나는 ‘슈타트파크’ 역(Haltestelle)에서 내려요. 문제에서는 Haltestelle 대신 같은 뜻의 Station을 썼어요. 교회는 내린 뒤에 걸어가다가 보이는 곳이고, 벼룩시장까지는 더 걸어가야 해요." },
     { "type": "rf", "kind": "detail",
       "q": "Der Flohmarkt ist vor der Brücke.",
       "answer": 1,
@@ -61,7 +61,7 @@
       "answer": 0,
       "evidence": "ich bin ab 7 Uhr da!",
       "pairs": [["ab 7 Uhr", "schon am frühen Morgen"]],
-      "explain": "루카스는 7시부터 거기 있다고 해요. 아침 7시는 이른 아침이에요. 그래서 다나에게 커피를 부탁하는 거예요." }
+      "explain": "루카스는 7시부터 거기 있다고 해요(ab 7 Uhr). 아침 7시는 이른 아침이에요. 그래서 다나에게 커피를 부탁해요." }
   ],
   "grammar": [
     { "title": "위치를 말하는 전치사 + 3격 (Wo?)", "term": "Präpositionen mit Dativ: Wo? (an, auf, in, neben, hinter, über, zwischen, gegenüber)",

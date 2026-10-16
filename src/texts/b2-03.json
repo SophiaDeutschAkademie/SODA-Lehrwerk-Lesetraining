@@ -18,7 +18,7 @@
       "ko": "7분. 예전 같았으면 그 시간에 구름을 세거나 시간표를 살펴보거나, 맞은편 남자가 왜 20도 날씨에 목도리를 두르고 있는지 궁금해했을 거예요. 그러고 나서 버스 안에서는 창밖을 내다봤겠지요. 지루해했을 거예요. 오늘날에는 그것이 더 이상 선택지가 아닌 것처럼 보여요. 아무것도 하지 않는 2분, 누가 아직 그걸 견딜 수 있을까요? 계산대 앞 줄에서, 병원 대기실에서, 심지어 에스컬레이터 위에서까지, 어디서나 아주 작은 빈틈도 곧바로 메워져요. 마치 지루함이 서둘러 예방 접종을 받아야 하는 전염병이라도 되는 것처럼요. 그리고 어쩌다 휴대폰 없이 서 있는 사람은 마치 무언가를 잃어버리기라도 한 듯 어색하게 주위를 두리번거려요."
     },
     {
-      "de": "Dabei genießt die Langeweile einen erstaunlich guten Ruf – zumindest in der Forschung. Psychologen vermuten seit Längerem, dass die besten Einfälle gerade dann entstehen, wenn der Kopf nichts zu tun hat. Kreativität, so heißt es, braucht Leerlauf. Wer sich langweilt, lässt seine Gedanken schweifen und stößt dabei auf Verbindungen, die ihm bei konzentrierter Arbeit entgangen wären. Unter der Dusche, auf dem Spaziergang, im Wartezimmer des Zahnarztes: Dort sind angeblich mehr gute Ideen entstanden als in sämtlichen Besprechungsräumen der Welt zusammen. Ob das stimmt? Ich weiß es nicht. Aber hätte der Erfinder des Rades damals ein Handy gehabt, säßen wir heute vermutlich noch im Gras – und würden wischen.",
+      "de": "Dabei genießt die Langeweile einen erstaunlich guten Ruf – zumindest in der Forschung. Psychologen vermuten seit Längerem, dass die besten Einfälle gerade dann entstehen, wenn der Kopf nichts zu tun hat. Kreativität, so heißt es, braucht Leerlauf. Wer sich langweilt, lässt seine Gedanken schweifen und stößt dabei auf Verbindungen, die ihm bei konzentrierter Arbeit entgangen wären. Unter der Dusche, beim Spazierengehen, im Wartezimmer des Zahnarztes: Dort sind angeblich mehr gute Ideen entstanden als in sämtlichen Besprechungsräumen der Welt zusammen. Ob das stimmt? Ich weiß es nicht. Aber hätte der Erfinder des Rades damals ein Handy gehabt, säßen wir heute vermutlich noch im Gras – und würden wischen.",
       "ko": "그런데 지루함은 놀랄 만큼 평판이 좋아요. 적어도 학계에서는요. 심리학자들은 오래전부터 머리가 할 일이 없을 때 바로 최고의 착상이 떠오른다고 추측해 왔어요. 창의성에는 공회전이 필요하다고들 해요. 지루해하는 사람은 생각이 자유롭게 떠돌게 두고, 그러다가 집중해서 일할 때는 놓쳤을 연결 고리를 발견해요. 샤워 중에, 산책길에, 치과 대기실에서. 그런 곳에서 세상의 모든 회의실을 합친 것보다 더 많은 좋은 아이디어가 나왔다고 해요. 그게 사실일까요? 저는 모르겠어요. 하지만 바퀴를 발명한 사람이 그 시절에 휴대폰을 갖고 있었다면, 우리는 아마 지금도 풀밭에 앉아 화면을 넘기고 있을 거예요."
     },
     {
@@ -52,7 +52,7 @@
       "answer": 0,
       "evidence": "Ich übrigens auch nicht – ich war damit beschäftigt, das Foto eines Frühstücks zu betrachten, das ein entfernter Bekannter drei Stunden zuvor gegessen hatte.",
       "pairs": [["Ich übrigens auch nicht", "nicht anders verhalten hat als die übrigen Wartenden"]],
-      "explain": "글쓴이는 '저 역시 마찬가지였어요'라고 하면서 자기도 하늘 대신 휴대폰 속 아침 식사 사진을 보고 있었다고 털어놓아요. 즉 다른 사람들과 똑같이 행동했다는 뜻이에요."
+      "explain": "글쓴이는 '저 역시 마찬가지였어요'라고 하면서 자기도 하늘 대신 휴대폰 속 아침 식사 사진을 보고 있었다고 털어놓아요. 즉 다른 사람들과 똑같이 행동했다는 뜻이에요. 본문의 Ich übrigens auch nicht를 '다르게 행동하지 않았다'로 바꿔 말했어요."
     },
     {
       "type": "mc",
@@ -198,7 +198,7 @@
     {
       "title": "비현실 비교문 – 마치 ~인 것처럼",
       "term": "Irreale Vergleichssätze (als ob / als wenn / als + Konjunktiv II)",
-      "explain": "실제로는 그렇지 않은데 마치 그런 것처럼 보일 때 써요. als ob나 als wenn 뒤에는 종속절 어순이라 접속법 2식 동사가 문장 끝에 와요. 접속사 als만 쓰면 동사가 als 바로 뒤에 와요. 세 형태의 뜻은 같고, als + 동사 형태가 글말에서 더 세련되게 들려요. 비교하는 내용이 현재의 일이면 접속법 2식 현재(hinge, wäre, müsste), 이미 끝난 일이면 접속법 2식 과거(verloren hätte)를 써요.",
+      "explain": "실제로는 그렇지 않은데 마치 그런 것처럼 보일 때 써요. als ob나 als wenn 뒤에는 종속절 어순이라 접속법 2식 동사가 문장 끝에 와요. 접속사 als만 쓰면 동사가 als 바로 뒤에 와요. 세 형태의 뜻은 같고, als + 동사 형태가 글말에서 더 세련되게 들려요. 비교하는 내용이 주절과 같은 시점의 일이면 접속법 2식 현재(hinge, wäre, müsste), 그보다 앞서 끝난 일이면 접속법 2식 과거(verloren hätte)를 써요.",
       "pattern": "…, als ob / als wenn + … + 접속법 2식(문장 끝) · …, als + 접속법 2식 + …",
       "examples": [
         {
@@ -259,7 +259,7 @@
     { "de": "sich impfen lassen", "ko": "예방 접종을 받다" },
     { "de": "verlegen", "ko": "어색해하는, 당황한" },
     { "de": "der Einfall, -¨e", "ko": "착상, 떠오르는 생각" },
-    { "de": "entgehen (entgeht, entging, ist entgangen) + Dat.", "ko": "(누구의 주의를) 벗어나다, 놓치게 되다" },
+    { "de": "jemandem entgehen (entgeht, entging, ist entgangen)", "ko": "(누구의) 눈에 띄지 않다, (누가) 놓치다" },
     { "de": "angeblich", "ko": "~라고들 하는, 소문에 따르면" },
     { "de": "der Tausch, -e", "ko": "교환, 거래" },
     { "de": "beschließen (beschließt, beschloss, hat beschlossen)", "ko": "결심하다, 결정하다" },

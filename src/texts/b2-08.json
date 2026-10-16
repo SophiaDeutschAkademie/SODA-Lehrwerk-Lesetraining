@@ -11,7 +11,7 @@
   "paragraphs": [
     {
       "de": "Dreckige Teller im Spülbecken, fremde Haare in der Dusche, ein Mitbewohner, der nachts Freunde mitbringt: In fast jeder Wohngemeinschaft gibt es Dinge, über die man sich ärgert. Meist bleibt es bei kleinen Reibereien. Manchmal aber schaukelt sich der Ärger so hoch, dass am Ende jemand auszieht. Drei typische Fälle – und was eine Mediatorin dazu rät.",
-      "ko": "싱크대에 쌓인 더러운 접시, 샤워실에 떨어진 남의 머리카락, 밤늦게 친구들을 데려오는 룸메이트. 거의 모든 셰어하우스(WG)에는 화가 나는 일들이 있어요. 대개는 작은 마찰로 끝나요. 하지만 때로는 화가 점점 커져서 결국 누군가 이사를 나가기도 해요. 전형적인 세 가지 사례, 그리고 그에 대한 조정 전문가의 조언이에요."
+      "ko": "싱크대에 쌓인 더러운 접시, 샤워실에 떨어진 남의 머리카락, 밤에 친구들을 데려오는 룸메이트. 거의 모든 셰어하우스(WG)에는 화가 나는 일들이 있어요. 대개는 작은 마찰로 끝나요. 하지만 때로는 화가 점점 커져서 결국 누군가 이사를 나가기도 해요. 전형적인 세 가지 사례, 그리고 그에 대한 조정 전문가의 조언이에요."
     },
     {
       "style": "h",
@@ -20,7 +20,7 @@
     },
     {
       "de": "Lena (22) und Jonas (24) teilen sich seit einem Jahr eine Wohnung. Jonas kocht gern, lässt die Töpfe aber tagelang stehen, sodass Lena irgendwann selbst zum Schwamm greift. Angesprochen hat sie ihn darauf nie. Sie löst das Problem, indem sie schweigend aufräumt – und ärgert sich jedes Mal. „Ich dachte, er merkt das irgendwann von selbst“, sagt sie. Jonas dagegen war überzeugt, dass Lena einfach gern putzt.",
-      "ko": "레나(22)와 요나스(24)는 1년째 집을 함께 쓰고 있어요. 요나스는 요리를 즐겨 하지만 냄비를 며칠씩 그대로 두어서 결국 레나가 직접 수세미를 들게 돼요. 그녀는 이 일로 그에게 한 번도 말을 꺼낸 적이 없어요. 대신 말없이 치우는 식으로 문제를 해결하고, 그때마다 속으로 화를 내요. “언젠가는 스스로 알아차릴 줄 알았어요”라고 그녀는 말해요. 반면 요나스는 레나가 그냥 청소를 좋아한다고 확신하고 있었어요."
+      "ko": "레나(22)와 요나스(24)는 1년째 집을 함께 쓰고 있어요. 요나스는 요리를 즐겨 하지만 냄비를 며칠씩 그대로 두어서 결국 레나가 직접 수세미를 들게 돼요. 그녀는 이 일로 그에게 한 번도 말을 꺼낸 적이 없어요. 대신 말없이 치우는 식으로 문제를 해결하고, 그때마다 화가 나요. “언젠가는 스스로 알아차릴 줄 알았어요”라고 그녀는 말해요. 반면 요나스는 레나가 그냥 청소를 좋아한다고 확신하고 있었어요."
     },
     {
       "style": "h",
@@ -47,7 +47,7 @@
     },
     {
       "de": "Für Ulrike Mahler, Mediatorin an einer Beratungsstelle für Studierende, sind alle drei Fälle typisch. „Fast nie geht es wirklich um den Abwasch“, sagt sie. „Es geht darum, dass sich jemand nicht gesehen fühlt.“ Ihr erster Rat lautet deshalb, Probleme anzusprechen, solange sie noch klein sind. Wer monatelang schweigt, sammelt Wut an, sodass aus einem schmutzigen Teller am Ende ein Grundsatzstreit wird.",
-      "ko": "학생 상담소에서 조정 전문가로 일하는 울리케 말러에게 세 사례는 모두 전형적이에요. “설거지가 진짜 문제인 경우는 거의 없어요”라고 그녀는 말해요. “누군가가 자신이 무시당한다고 느끼는 것이 문제예요.” 그래서 그녀의 첫 번째 조언은 문제가 아직 작을 때 말을 꺼내라는 거예요. 몇 달씩 침묵하는 사람은 분노를 쌓아 두게 되고, 그러면 더러운 접시 하나가 결국 원칙 싸움이 돼요."
+      "ko": "학생 상담소에서 조정 전문가로 일하는 울리케 말러에게 세 사례는 모두 전형적이에요. “설거지가 진짜 문제인 경우는 거의 없어요”라고 그녀는 말해요. “누군가가 자기를 알아주지 않는다고 느끼는 것이 문제예요.” 그래서 그녀의 첫 번째 조언은 문제가 아직 작을 때 말을 꺼내라는 거예요. 몇 달씩 침묵하는 사람은 분노를 쌓아 두게 되고, 그러면 더러운 접시 하나가 결국 원칙 싸움이 돼요."
     },
     {
       "style": "h",
@@ -140,7 +140,7 @@
       "answer": 1,
       "evidence": "„Es geht darum, dass sich jemand nicht gesehen fühlt.“",
       "pairs": [["Fast nie geht es wirklich um den Abwasch", "Hinter dem Ärger über Kleinigkeiten"], ["dass sich jemand nicht gesehen fühlt", "ein tieferes Problem"]],
-      "explain": "바로 다음 문장이 뜻을 밝혀 줘요. 진짜 문제는 설거지가 아니라 누군가 무시당한다고 느끼는 것, 즉 겉으로 드러난 사소한 일 뒤에 있는 감정이에요. 설거지 싸움이 드물다는 뜻이 아니에요."
+      "explain": "바로 다음 문장이 뜻을 밝혀 줘요. 진짜 문제는 설거지가 아니라 누군가 자기를 알아주지 않는다고 느끼는 것, 즉 겉으로 드러난 사소한 일 뒤에 있는 감정이에요. 설거지 싸움이 드물다는 뜻이 아니에요."
     },
     {
       "type": "mc",
@@ -167,7 +167,7 @@
       ],
       "answer": 2,
       "evidence": "nur dann hält sich auch jeder daran",
-      "pairs": [["nur dann hält sich auch jeder daran", "weil sich dann alle eher an die Regeln halten"], ["gemeinsam ausgehandelt", "gemeinsam ausgehandelt"]],
+      "pairs": [["nur dann hält sich auch jeder daran", "weil sich dann alle eher an die Regeln halten"]],
       "explain": "본문은 규칙을 함께 협의해서 정해야만 모두가 지킨다고 해요. '낭만적이지 않다'는 청소 당번표에 대한 말이고, '혼자 책임진다는 느낌'은 당번표가 없앨 수 있는 느낌이지 협의의 이유로 제시된 것은 아니에요."
     },
     {
@@ -210,7 +210,7 @@
           "mark": ["indem", "zuschlagen"]
         }
       ],
-      "tip": "indem 절의 주어는 보통 주절의 주어와 같아요. 주어가 다르면 dadurch, dass를 쓰는 편이 자연스러워요."
+      "tip": "indem 절은 수단과 방법만 나타내요. '~하는 동안'이라는 시간의 뜻으로는 쓰지 않으니 während와 혼동하지 마세요."
     },
     {
       "title": "sodass · so … dass – 결과 말하기",
@@ -265,7 +265,7 @@
     {
       "title": "es geht um · es geht darum, dass",
       "term": "es geht um + Akk. / es geht darum, dass … (Korrelat darum)",
-      "explain": "'es geht um + 4격'은 '~이 문제다, ~이 핵심이다'라는 뜻이에요. 여기서 es는 형식 주어예요. 핵심 내용이 명사가 아니라 문장이면 상관어 darum을 쓰고 dass 절로 이어요. um 뒤의 명사를 가리키는 da(r) + 전치사 형태가 바로 상관어예요.",
+      "explain": "'es geht um + 4격'은 '~이 문제다, ~이 핵심이다'라는 뜻이에요. 여기서 es는 형식 주어예요. 핵심 내용이 명사가 아니라 문장이면 um 자리에 darum을 두고 dass 절로 이어요. 이때 darum은 뒤에 오는 dass 절을 미리 가리키는 상관어예요.",
       "pattern": "es geht um + 4격 · es geht darum, dass + … + 동사(끝)",
       "examples": [
         {
@@ -276,7 +276,7 @@
         },
         {
           "de": "„Es geht darum, dass sich jemand nicht gesehen fühlt.“",
-          "ko": "“누군가가 자신이 무시당한다고 느끼는 것이 문제예요.”",
+          "ko": "“누군가가 자기를 알아주지 않는다고 느끼는 것이 문제예요.”",
           "mark": ["darum, dass"]
         }
       ],

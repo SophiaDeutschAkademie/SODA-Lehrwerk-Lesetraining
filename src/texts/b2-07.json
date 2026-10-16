@@ -19,7 +19,7 @@
     },
     {
       "de": "Rund zwei Hektar bewirtschaftet sie heute, fast alles in Steillage. Maschinen kommen hier kaum zum Einsatz; was in flachen Lagen ein Traktor erledigt, machen an der Mosel Hände, Rücken und Knie. Das Schneiden der Reben im Winter, das Binden im Frühjahr, das Ausbrechen überflüssiger Triebe im Sommer – alles, was im Weinberg anfällt, geschieht von Hand. „Ich habe gelernt, in Jahren zu denken, nicht in Quartalen“, sagt Clara. Fehler, die man im Mai macht, sieht man erst im Oktober.",
-      "ko": "오늘날 그녀는 약 2헥타르를 경작하는데, 거의 전부가 급경사지입니다. 이곳에서는 기계를 거의 쓸 수 없습니다. 평지에서는 트랙터가 해내는 일을 모젤에서는 손과 허리와 무릎이 해냅니다. 겨울의 가지치기, 봄의 가지 묶기, 여름의 불필요한 순 제거까지, 포도밭에서 생기는 모든 일이 손으로 이루어집니다. “분기가 아니라 연 단위로 생각하는 법을 배웠어요”라고 클라라는 말합니다. 5월에 저지른 실수는 10월이 되어서야 눈에 보입니다."
+      "ko": "오늘날 그녀는 약 2헥타르를 경작하는데, 거의 전부가 급경사지입니다. 이곳에서는 기계가 거의 쓰이지 않습니다. 평지에서는 트랙터가 해내는 일을 모젤에서는 손과 허리와 무릎이 해냅니다. 겨울의 가지치기, 봄의 가지 묶기, 여름의 불필요한 순 제거까지, 포도밭에서 생기는 모든 일이 손으로 이루어집니다. “분기가 아니라 연 단위로 생각하는 법을 배웠어요”라고 클라라는 말합니다. 5월에 저지른 실수는 10월이 되어서야 눈에 보입니다."
     },
     {
       "de": "Verändert hat sich auch der Kalender. Als ihr Großvater den Betrieb führte, begann die Lese meist Mitte Oktober; heute holt Clara die ersten Trauben oft schon im September herein. An der Mosel, einem der ältesten Weinbaugebiete Deutschlands, ist der Klimawandel längst angekommen: Die Sommer sind heißer, die Trauben reifen schneller, und an manchen Hängen fehlt es an Wasser. Das, wovon ältere Winzer früher nur in Ausnahmejahren erzählten, ist für sie Normalität. Umso wichtiger ist der richtige Zeitpunkt: Bei einer zu frühen Lese fehlt dem Wein das Aroma, bei einer zu späten die Säure.",
@@ -151,7 +151,7 @@
     {
       "title": "was · wo(r)- · wer … der 관계절",
       "term": "Relativsätze mit was, wo(r)- und wer … der",
-      "explain": "관계대명사 was는 alles, nichts, etwas, das 같은 말이나 문장 전체를 받아요. 선행사가 전치사와 함께 쓰이면 wo(r)- + 전치사 형태(womit, wovon, wofür)를 써요. 'Wer …, der …'는 '~하는 사람은 누구나'라는 뜻으로, wer 절이 앞에 오고 주절은 der로 다시 받아요. 세 경우 모두 관계절의 동사는 끝에 와요.",
+      "explain": "관계대명사 was는 alles, nichts, etwas, das 같은 말이나 문장 전체를 받아요. 이런 선행사 뒤에서 관계대명사가 전치사와 함께 쓰여야 하면 wo(r)- + 전치사 형태(womit, wovon, wofür)를 써요. 'Wer …, der …'는 '~하는 사람은 누구나'라는 뜻으로, wer 절이 앞에 오고 주절은 der로 다시 받아요. 세 경우 모두 관계절의 동사는 끝에 와요.",
       "pattern": "alles / nichts / das, was … · das, wovon … · Wer …, der …",
       "examples": [
         {
@@ -217,8 +217,7 @@
         {
           "de": "Verändert hat sich auch der Kalender.",
           "ko": "달력도 달라졌습니다.",
-          "mark": ["Verändert"],
-          "parts": [["Verändert", "동사(끝)"], ["hat", "동사"], ["sich", "재귀대명사"], ["auch", "부사어"], ["der Kalender.", "주어"]]
+          "mark": ["Verändert"]
         }
       ],
       "tip": "이런 구는 문어체·기사체 표현이에요. 말할 때는 'Sie hat die Schere in der Hand und arbeitet sich nach oben'처럼 두 문장으로 풀어 써요."

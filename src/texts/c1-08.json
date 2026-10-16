@@ -14,7 +14,7 @@
       "ko": "1450년 무렵 마인츠에서 한 기술이 개발되었는데, 이 기술은 불과 수십 년 만에 유럽의 정신적 삶을 뒤바꾸게 됩니다. 마인츠의 상류 시민 가문 출신 금세공인 요하네스 구텐베르크는 이미 각각 알려져 있던 여러 방법을 하나의 새로운 전체로 결합했습니다. 원하는 수만큼 주조하고 인쇄 뒤에 다시 쓸 수 있는 금속 합금 활자, 이전에 포도주를 짤 때 쓰이던 것과 같은 압착기, 금속에 잘 붙는 끈적한 인쇄 잉크가 그것입니다. 그중 어느 것도 그 자체로는 혁명적이지 않았습니다. 혁명적인 것은 그 결합이었습니다."
     },
     {
-      "de": "Das bekannteste Erzeugnis der neuen Werkstatt war die lateinische Bibel, die um 1455 fertiggestellt wurde und heute als Gutenberg-Bibel bekannt ist. Die Auflage dürfte bei knapp zweihundert Exemplaren gelegen haben, ein Teil davon auf Pergament, der größere Teil auf Papier. Ihre Herstellung war mit erheblichen Kosten verbunden: Werkstatt, Lettern, Papier und Gehilfen mussten vorfinanziert werden, lange bevor ein einziges Exemplar verkauft werden konnte. Das nötige Kapital hatte Gutenberg sich bei dem Mainzer Kaufmann Johannes Fust geliehen. Um die Mitte der 1450er-Jahre kam es infolge der hohen Schulden zum Streit; Fust verklagte seinen Schuldner, und das Gericht entschied zu seinen Gunsten. Ein Großteil der Werkstatt war daraufhin an Fust gefallen, der das Geschäft mit Gutenbergs früherem Mitarbeiter Peter Schöffer fortführte. Der Erfinder selbst hatte von seiner Erfindung finanziell kaum profitiert.",
+      "de": "Das bekannteste Erzeugnis der neuen Werkstatt war die lateinische Bibel, die um 1455 fertiggestellt wurde und heute als Gutenberg-Bibel bekannt ist. Die Auflage dürfte bei knapp zweihundert Exemplaren gelegen haben, ein Teil davon auf Pergament, der größere Teil auf Papier. Ihre Herstellung war mit erheblichen Kosten verbunden: Werkstatt, Lettern, Papier und Gehilfen mussten vorfinanziert werden, lange bevor ein einziges Exemplar verkauft werden konnte. Das nötige Kapital hatte Gutenberg sich bei dem Mainzer Kaufmann Johannes Fust geliehen. Um die Mitte der 1450er-Jahre kam es infolge der hohen Schulden zum Streit; Fust verklagte seinen Schuldner, und das Gericht entschied zu seinen Gunsten. Ein Großteil der Werkstatt fiel daraufhin an Fust, der das Geschäft mit Gutenbergs früherem Mitarbeiter Peter Schöffer fortführte. Der Erfinder selbst profitierte finanziell kaum von seiner Erfindung.",
       "ko": "이 새로운 공방의 가장 유명한 생산물은 1455년 무렵 완성되어 오늘날 구텐베르크 성경으로 알려진 라틴어 성경입니다. 인쇄 부수는 200부에 조금 못 미쳤던 것으로 보이며, 일부는 양피지에, 더 많은 부분은 종이에 인쇄되었습니다. 제작에는 막대한 비용이 들었습니다. 공방, 활자, 종이, 일꾼의 비용을 단 한 부도 팔기 훨씬 전에 미리 마련해야 했습니다. 필요한 자본을 구텐베르크는 마인츠의 상인 요하네스 푸스트에게서 빌렸습니다. 1450년대 중반에 많은 빚 때문에 분쟁이 일어났습니다. 푸스트는 채무자인 구텐베르크를 고소했고, 법원은 푸스트의 손을 들어 주었습니다. 그 결과 공방의 대부분이 푸스트에게 넘어갔고, 푸스트는 구텐베르크의 전 직원이던 페터 쇠퍼와 함께 사업을 이어 갔습니다. 발명가 자신은 자기 발명으로 금전적인 이익을 거의 얻지 못했습니다."
     },
     {
@@ -53,11 +53,11 @@
     {
       "type": "rfn",
       "kind": "detail",
-      "q": "Von der Gutenberg-Bibel wurden mehr Exemplare auf Papier als auf Pergament gedruckt.",
+      "q": "Die Kosten für die Bibel fielen an, bevor durch den Verkauf Geld hereinkam.",
       "answer": 0,
-      "evidence": "ein Teil davon auf Pergament, der größere Teil auf Papier",
-      "pairs": [["der größere Teil auf Papier", "mehr Exemplare auf Papier als auf Pergament"]],
-      "explain": "'일부는 양피지에, 더 많은 부분은 종이에'라는 말을 '양피지보다 종이에 더 많이'라고 비교 형태로 바꿔 표현했어요."
+      "evidence": "Werkstatt, Lettern, Papier und Gehilfen mussten vorfinanziert werden, lange bevor ein einziges Exemplar verkauft werden konnte.",
+      "pairs": [["mussten vorfinanziert werden", "fielen an, bevor durch den Verkauf Geld hereinkam"]],
+      "explain": "vorfinanzieren은 수입이 생기기 전에 비용을 미리 대는 것을 뜻해요. 공방, 활자, 종이, 일꾼의 비용을 단 한 부도 팔기 훨씬 전에 마련해야 했다는 말과 같은 내용이에요."
     },
     {
       "type": "mc",
@@ -71,7 +71,7 @@
       ],
       "answer": 2,
       "evidence": "Fust verklagte seinen Schuldner, und das Gericht entschied zu seinen Gunsten.",
-      "pairs": [["das Gericht entschied zu seinen Gunsten", "setzte sich vor Gericht durch"], ["Ein Großteil der Werkstatt war daraufhin an Fust gefallen", "übernahm den größten Teil des Betriebs"]],
+      "pairs": [["das Gericht entschied zu seinen Gunsten", "setzte sich vor Gericht durch"], ["Ein Großteil der Werkstatt fiel daraufhin an Fust", "übernahm den größten Teil des Betriebs"]],
       "explain": "법원이 푸스트에게 유리하게 판결했고 공방의 대부분이 그에게 넘어갔어요. 쇠퍼와 사업을 이어 간 사람은 푸스트이지 두 사람이 함께한 것이 아니에요. 'seinen Schuldner'는 빚진 사람, 즉 구텐베르크를 가리켜요."
     },
     {
@@ -164,7 +164,7 @@
       ],
       "answer": 3,
       "evidence": "Um das Jahr 1450 wurde in Mainz eine Technik entwickelt, die das geistige Leben Europas binnen weniger Jahrzehnte umwälzen sollte.",
-      "pairs": [["das geistige Leben Europas binnen weniger Jahrzehnte umwälzen", "veränderte Wissen, Religion und Sprache in Europa"], ["hatte von seiner Erfindung finanziell kaum profitiert", "ihr Erfinder davon wenig hatte"]],
+      "pairs": [["das geistige Leben Europas binnen weniger Jahrzehnte umwälzen", "veränderte Wissen, Religion und Sprache in Europa"], ["profitierte finanziell kaum von seiner Erfindung", "ihr Erfinder davon wenig hatte"]],
       "explain": "본문은 기술의 결합, 금전적 실패, 유럽 전역으로의 확산, 종교개혁과 언어의 변화, 그리고 직지라는 더 이른 사례까지 다뤄요. 구텐베르크가 사업에 성공했다거나 한국 기술을 가져왔다는 내용은 본문과 달라요. 종교개혁은 인쇄술의 결과이지 원인이 아니에요."
     }
   ],
@@ -243,7 +243,7 @@
     {
       "title": "주어 없는 수동태와 2격 수식어",
       "term": "subjektloses Passiv (es wurde gedruckt) · Genitivattribut",
-      "explain": "독일어 수동태에는 주어가 없어도 돼요. 4격 목적어가 없는 동사(drucken을 자동사처럼 쓸 때, experimentieren)로 수동태를 만들면 '인쇄가 이루어졌다', '실험이 이루어졌다'처럼 행위 자체만 말해요: binnen einer Generation wurde … gedruckt. 1번 자리가 비면 형식 주어 es를 넣어요(Es wurde gedruckt). 또 이 글은 '~의'를 나타내는 2격 수식어를 많이 써요: das geistige Leben Europas, die Herstellung einer begrenzten Zahl von Büchern, der Ursprung des Drucks. 2격 수식어는 꾸미는 명사 뒤에 와요.",
+      "explain": "독일어 수동태에는 주어가 없어도 돼요. 4격 목적어 없이 쓰인 동사(여기서는 drucken, experimentieren)로 수동태를 만들면 '인쇄가 이루어졌어요', '실험이 이루어졌어요'처럼 행위 자체만 말해요: binnen einer Generation wurde … gedruckt. 1번 자리가 비면 형식 주어 es를 넣어요(Es wurde gedruckt). 또 이 글은 '~의'를 나타내는 2격 수식어를 많이 써요: das geistige Leben Europas, die Herstellung einer begrenzten Zahl von Büchern, der Ursprung des Drucks. 2격 수식어는 꾸미는 명사 뒤에 와요.",
       "pattern": "부사어 + wurde + … + 과거분사 (주어 없음)  ·  명사 + 2격 명사구",
       "examples": [
         {
@@ -311,7 +311,7 @@
     {
       "de": "von etwas (Dat.) profitieren",
       "ko": "~에서 이익을 얻다",
-      "ex": "Der Erfinder selbst hatte von seiner Erfindung finanziell kaum profitiert.",
+      "ex": "Der Erfinder selbst profitierte finanziell kaum von seiner Erfindung.",
       "exko": "발명가 자신은 자기 발명으로 금전적인 이익을 거의 얻지 못했습니다."
     },
     {
