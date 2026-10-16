@@ -336,7 +336,7 @@
       "title": "형용사 어미변화 – 부정관사 뒤",
       "term": "Adjektivdeklination nach unbestimmtem Artikel",
       "explain": "부정관사 ein/eine 뒤, 그리고 ein과 어미가 같은 kein과 소유관사(mein, dein …) 뒤에서는 형용사 어미가 이렇게 바뀌어요. ein에는 남성 1격과 중성 1·4격에서 어미가 없어서, 이때는 형용사가 성을 보여 줘요: ein kleiner Garten(남성 -er), ein kleines Zimmer, mein größtes Problem(중성 -es). 여성은 1격과 4격 모두 -e예요: eine günstige Stadt. 남성 4격은 -en(einen netten Freund)이고, 3격과 2격은 모두 -en이에요: in einer netten WG, mit einem kleinen Stipendium. kein과 소유관사 뒤의 복수도 늘 -en이에요: meine netten Freunde.",
-      "pattern": "ein + -er (남성 1격) · eine + -e (여성 1·4격) · ein + -es (중성 1·4격) · 남성 4격, 3격, 복수(keine, meine) -en",
+      "pattern": "ein + -er (남성 1격) · eine + -e (여성 1·4격) · ein + -es (중성 1·4격) · 남성 4격, 3격, 2격, 복수(keine, meine) -en",
       "examples": [
         {
           "de": "Ich habe nur ein kleines Stipendium, deshalb suche ich eine günstige Stadt.",

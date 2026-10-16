@@ -266,7 +266,7 @@
           ]
         }
       ],
-      "tip": "간접의문문은 직접 묻는 것보다 더 공손하게 들려요. 주절이 질문이면 끝에 물음표(?), 주절이 평서문이면 마침표(.)를 써요: Ich würde gern wissen, ob … gibt. '~인지'는 ob이고, '~라는 것'은 dass예요: Ich weiß nicht, ob es dort einen Basketballplatz gibt.(있는지 몰라요) ↔ Ich weiß, dass es dort einen Basketballplatz gibt.(있다는 걸 알아요)"
+      "tip": "간접의문문은 직접 묻는 것보다 더 공손하게 들려요. 주절이 질문이면 끝에 물음표(?), 주절이 평서문이면 마침표(.)를 써요: Ich würde gern wissen, ob … gibt. '~인지'는 ob이고, '~라는 것'은 dass예요: Ich weiß nicht, ob es dort einen Basketballplatz gibt. (있는지 몰라요) ↔ Ich weiß, dass es dort einen Basketballplatz gibt. (있다는 걸 알아요)"
     },
     {
       "title": "미래 – werden + 동사원형",
@@ -406,7 +406,7 @@
           ]
         }
       ],
-      "tip": "Sie에 대한 명령형은 '동사원형 + Sie' 순서예요: Korrigieren Sie mich! 앞에 Bitte를 붙이면 더 부드러워요."
+      "tip": "Sie에 대한 명령형은 '동사원형 + Sie' 순서예요: Korrigieren Sie mich! 앞에 Bitte를 붙이면 더 부드러워요. sein만 예외예요: Seien Sie bitte pünktlich! (Sein Sie가 아니에요.)"
     }
   ],
   "vocab": [

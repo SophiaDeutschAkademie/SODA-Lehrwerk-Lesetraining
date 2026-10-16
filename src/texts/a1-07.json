@@ -9,13 +9,13 @@
   "intro": "노라가 친구들에게 보내는 서른 살 생일 파티 초대 이메일이에요.",
   "focus": ["3격 지배 전치사", "인칭대명사 3·4격", "ihr 명령형"],
   "paragraphs": [
-    { "style": "meta", "de": "Hallo ihr Lieben,", "ko": "사랑하는 여러분, 안녕하세요!" },
+    { "style": "meta", "de": "Hallo ihr Lieben,", "ko": "여러분, 안녕하세요!" },
     { "de": "am Samstag, dem 14. Juni, werde ich 30! Das möchte ich mit euch feiern. Die Party beginnt um 19 Uhr bei mir zu Hause. Einige von euch kenne ich seit der Schule – jetzt feiern wir alle zusammen.",
       "ko": "6월 14일 토요일에 저는 서른 살이 돼요! 이날을 여러분과 함께 축하하고 싶어요. 파티는 19시에 저희 집에서 시작해요. 여러분 중 몇 명은 학교 다닐 때부터 아는 사이인데, 이제 우리 모두 함께 축하해요." },
     { "de": "Ihr kommt am besten mit dem Bus. Nehmt die Linie 12 und fahrt bis zur Haltestelle „Rosenplatz“. Von dort sind es nur fünf Minuten zu Fuß.",
       "ko": "버스를 타고 오는 게 제일 좋아요. 12번 버스를 타고 ‘로젠플라츠’ 정류장까지 오세요. 거기서 걸어서 5분밖에 안 걸려요." },
     { "de": "Wir feiern im Garten. Abends wird es kühl – bringt bitte eine Jacke mit. Eure Kinder sind natürlich auch willkommen. Für sie gibt es Spiele und Limonade.",
-      "ko": "파티는 정원에서 해요. 저녁에는 쌀쌀해지니까 재킷을 가져오세요. 여러분의 아이들도 물론 환영이에요. 아이들을 위한 놀이와 레모네이드도 있어요." },
+      "ko": "파티는 정원에서 해요. 저녁에는 쌀쌀해지니까 겉옷을 챙겨 오세요. 여러분의 아이들도 물론 환영이에요. 아이들을 위한 놀이와 레모네이드도 있어요." },
     { "de": "Bitte keine Geschenke! Bringt lieber eure Lieblingsmusik oder einen Salat mit. Mein Vater kommt extra aus Hamburg und grillt für uns. Nach dem Essen tanzen wir.",
       "ko": "선물은 가져오지 마세요! 대신 좋아하는 음악이나 샐러드를 가져오세요. 저희 아버지가 함부르크에서 일부러 오셔서 우리를 위해 고기를 구워 주실 거예요. 식사 후에는 춤을 춰요." },
     { "de": "Schreibt mir bitte bis Mittwoch: Kommt ihr? Ihr könnt mich auch anrufen. Ich freue mich auf euch!",
@@ -109,6 +109,7 @@
       "tip": "같은 내용을 du에게는 Bring … mit!, Sie에게는 Bringen Sie … mit!이라고 해요. ihr 명령형은 현재형과 모양이 같아서 세 가지 중에서 가장 만들기 쉬워요. 다만 Kommt ihr?(의문문)와 Kommt!(명령형)는 ihr가 있고 없고로 구별해요." }
   ],
   "vocab": [
+    { "de": "werden (wird, wurde, ist geworden)", "ko": "되다, ~해지다 (30 werden: 서른 살이 되다)" },
     { "de": "feiern", "ko": "축하하다, 파티를 하다" },
     { "de": "kennen (kannte, hat gekannt)", "ko": "(사람을) 알다, 아는 사이이다" },
     { "de": "einige", "ko": "몇몇, 몇 명" },
@@ -116,11 +117,10 @@
     { "de": "die Linie, -n", "ko": "(버스·지하철) 노선, ~번" },
     { "de": "der Garten, -¨", "ko": "정원, 마당" },
     { "de": "kühl", "ko": "서늘한, 쌀쌀한" },
-    { "de": "die Jacke, -n", "ko": "재킷, 겉옷" },
     { "de": "willkommen", "ko": "환영받는; (willkommen sein) 환영이다" },
     { "de": "das Geschenk, -e", "ko": "선물" },
     { "de": "grillen", "ko": "(고기 등을) 그릴에 굽다, 바비큐를 하다" },
-    { "de": "an|rufen (ruft an, rief an, hat angerufen)", "ko": "전화하다" }
+    { "de": "an|rufen + Akk. (ruft an, rief an, hat angerufen)", "ko": "~에게 전화하다" }
   ],
   "phrases": [
     { "de": "am besten", "ko": "~하는 것이 제일 좋다",

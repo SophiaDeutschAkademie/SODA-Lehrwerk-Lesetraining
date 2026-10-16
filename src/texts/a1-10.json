@@ -452,12 +452,12 @@
   ],
   "vocab": [
     {
-      "de": "das Wochenende, -n",
-      "ko": "주말"
+      "de": "schlafen (schläft, schlief, hat geschlafen)",
+      "ko": "자다 (lange schlafen: 늦잠 자다)"
     },
     {
-      "de": "schlafen (schläft, schlief, hat geschlafen)",
-      "ko": "자다"
+      "de": "fahren (fährt, fuhr, ist gefahren)",
+      "ko": "(스케이트보드·자전거 등을) 타다"
     },
     {
       "de": "der Comic, -s",
@@ -480,16 +480,16 @@
       "ko": "만나다"
     },
     {
-      "de": "der Kuchen, -",
-      "ko": "케이크"
-    },
-    {
       "de": "der Enkel, -",
       "ko": "손자"
     },
     {
       "de": "gewinnen (gewann, hat gewonnen)",
       "ko": "이기다"
+    },
+    {
+      "de": "sehen (sieht, sah, hat gesehen)",
+      "ko": "(영화·드라마 등을) 보다"
     },
     {
       "de": "der Krimi, -s",
@@ -508,7 +508,7 @@
       "exko": "일요일마다 손자 레오와 자전거를 타요."
     },
     {
-      "de": "frei haben",
+      "de": "frei|haben",
       "ko": "쉬다, 일이 없다",
       "ex": "Am Sonntag habe ich frei.",
       "exko": "일요일은 쉬어요."

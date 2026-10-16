@@ -258,7 +258,7 @@
     {
       "title": "3격 목적어와 4격 목적어가 함께 올 때",
       "term": "Dativ- und Akkusativobjekt im Satz",
-      "explain": "geben, bringen, zeigen 같은 동사는 3격 목적어(보통 사람·동물, 누구에게?)와 4격 목적어(보통 물건, 무엇을?)를 함께 가질 수 있어요: dem Hamster(3격) frisches Wasser(4격) geben. jemandem die Hand schütteln(~와 악수하다)도 같은 모양이에요: mir(3격) die Hand(4격). 둘 다 명사이면 보통 3격이 먼저 오고 4격이 뒤에 와요: Sie gibt dem Hamster frisches Wasser. 강조하고 싶은 목적어는 1번 자리로 보낼 수 있어요: Dem Hamster habe ich … gegeben.",
+      "explain": "geben, bringen, zeigen 같은 동사는 3격 목적어(보통 사람·동물, 누구에게?)와 4격 목적어(보통 물건, 무엇을?)를 함께 가질 수 있어요: dem Hamster(3격) frisches Wasser(4격) geben. jemandem die Hand schütteln(~와 악수하다)도 같은 모양이에요: mir(3격) die Hand(4격). 둘 다 명사이면 보통 3격이 먼저 오고 4격이 뒤에 와요: Sie gibt dem Hamster frisches Wasser. 앞에서 이미 나온 목적어나 강조하고 싶은 목적어는 1번 자리로 보낼 수 있어요: Dem Hamster habe ich … gegeben.",
       "pattern": "주어 + 동사 + 3격 명사(사람) + 4격 명사(물건)",
       "examples": [
         {

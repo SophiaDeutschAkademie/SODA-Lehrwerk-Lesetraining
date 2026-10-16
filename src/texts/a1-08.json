@@ -20,11 +20,11 @@
     },
     {
       "de": "am Sonntag verkaufe ich auf dem Flohmarkt im Stadtpark alte Bücher und Kleidung. Komm doch vorbei! Du findest meinen Stand ganz leicht.",
-      "ko": "일요일에 저는 슈타트파크 공원 벼룩시장에서 헌책과 옷을 팔아요. 꼭 들러 주세요! 제 가판대는 아주 쉽게 찾을 수 있어요."
+      "ko": "일요일에 저는 슈타트파르크 공원 벼룩시장에서 헌책과 헌 옷을 팔아요. 꼭 들러 주세요! 제 가판대는 아주 쉽게 찾을 수 있어요."
     },
     {
       "de": "Nimm die U-Bahn (Linie 3) und steig an der Haltestelle „Stadtpark“ aus. Zuerst gehst du fünf Minuten geradeaus. Dann siehst du eine große Kirche. Geh an der Kirche nach links. Danach kommt eine kleine Brücke. Geh über die Brücke – jetzt bist du schon auf dem Flohmarkt.",
-      "ko": "지하철(3호선)을 타고 ‘슈타트파크’ 역에서 내리세요. 먼저 5분 동안 쭉 직진해요. 그러면 큰 교회가 보여요. 교회에서 왼쪽으로 가세요. 그다음에 작은 다리가 나와요. 다리를 건너세요. 그러면 바로 벼룩시장이에요."
+      "ko": "지하철(3호선)을 타고 ‘슈타트파르크’ 역에서 내리세요. 먼저 5분 동안 쭉 직진해요. 그다음에 큰 교회가 보여요. 교회에서 왼쪽으로 가세요. 그 뒤에 작은 다리가 나와요. 다리를 건너세요. 그러면 바로 벼룩시장이에요."
     },
     {
       "de": "Zum Schluss siehst du rechts ein Eiscafé. Mein Stand ist direkt neben dem Eiscafé, gegenüber dem Spielplatz. Ich stehe zwischen einem Bücherstand und einem Stand mit Lampen.",
@@ -67,7 +67,7 @@
           "zum Lesen"
         ]
       ],
-      "explain": "루카스는 헌책과 옷을 팔아요. 옷을 '입을 것'(Sachen zum Anziehen), 책을 '읽을 것'(zum Lesen)으로 바꿔 말했어요. 램프는 옆 가판대에서 파는 것이고, 아이스크림과 커피는 루카스가 파는 물건이 아니에요."
+      "explain": "루카스는 헌책과 헌 옷을 팔아요. 옷을 '입을 것'(Sachen zum Anziehen), 책을 '읽을 것'(zum Lesen)으로 바꿔 말했어요. 램프는 옆 가판대에서 파는 것이고, 아이스크림과 커피는 루카스가 파는 물건이 아니에요."
     },
     {
       "type": "mc",
@@ -86,7 +86,7 @@
           "an der Station „Stadtpark“"
         ]
       ],
-      "explain": "다나는 ‘슈타트파크’ 역(Haltestelle)에서 내려요. 문제에서는 Haltestelle 대신 같은 뜻의 Station을 썼어요. Stadtpark는 벼룩시장이 열리는 공원 이름이기도 하지만, 역에서 내린 뒤 교회와 다리를 지나 더 걸어가야 벼룩시장이 나와요."
+      "explain": "다나는 ‘슈타트파르크’ 역(Haltestelle)에서 내려요. 문제에서는 Haltestelle 대신 같은 뜻의 Station을 썼어요. Stadtpark는 벼룩시장이 열리는 공원 이름이기도 하지만, 역에서 내린 뒤 교회와 다리를 지나 더 걸어가야 벼룩시장이 나와요."
     },
     {
       "type": "rf",
@@ -239,7 +239,7 @@
       "examples": [
         {
           "de": "Nimm die U-Bahn (Linie 3) und steig an der Haltestelle „Stadtpark“ aus.",
-          "ko": "지하철(3호선)을 타고 ‘슈타트파크’ 역에서 내리세요.",
+          "ko": "지하철(3호선)을 타고 ‘슈타트파르크’ 역에서 내리세요.",
           "mark": [
             "Nimm",
             "steig",
@@ -370,7 +370,7 @@
         },
         {
           "de": "Danach kommt eine kleine Brücke.",
-          "ko": "그다음에 작은 다리가 나와요.",
+          "ko": "그 뒤에 작은 다리가 나와요.",
           "mark": [
             "Danach"
           ],
@@ -407,12 +407,12 @@
       "ko": "옷, 의류"
     },
     {
-      "de": "die U-Bahn, -en",
-      "ko": "지하철"
+      "de": "vorbei|kommen (kommt vorbei, kam vorbei, ist vorbeigekommen)",
+      "ko": "(잠깐) 들르다"
     },
     {
       "de": "aus|steigen (steigt aus, stieg aus, ist ausgestiegen)",
-      "ko": "(차에서) 내리다"
+      "ko": "(지하철·버스 등에서) 내리다"
     },
     {
       "de": "geradeaus",
@@ -436,7 +436,7 @@
     },
     {
       "de": "das Tuch, -¨er",
-      "ko": "천, 보자기"
+      "ko": "천"
     },
     {
       "de": "hängen (hängt, hing, hat gehangen)",
@@ -445,16 +445,16 @@
   ],
   "phrases": [
     {
-      "de": "vorbei|kommen",
-      "ko": "들르다, 잠깐 오다",
-      "ex": "Komm doch vorbei!",
-      "exko": "꼭 들러 주세요!"
-    },
-    {
       "de": "nach links / nach rechts gehen",
       "ko": "왼쪽으로 / 오른쪽으로 가다",
       "ex": "Geh an der Kirche nach links.",
       "exko": "교회에서 왼쪽으로 가세요."
+    },
+    {
+      "de": "warten auf + Akk.",
+      "ko": "~를 기다리다",
+      "ex": "Hinter dem Tisch warte ich auf dich.",
+      "exko": "테이블 뒤에서 제가 기다리고 있을게요."
     },
     {
       "de": "da sein",

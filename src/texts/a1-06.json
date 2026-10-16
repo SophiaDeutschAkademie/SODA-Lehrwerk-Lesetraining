@@ -108,24 +108,24 @@
   ],
   "vocab": [
     { "de": "die Öffnungszeiten (Pl.)", "ko": "영업시간, 이용 시간" },
-    { "de": "geschlossen", "ko": "닫힌, 휴관인" },
-    { "de": "der Ausweis, -e", "ko": "증명서, (도서관) 회원증, 신분증" },
+    { "de": "geöffnet", "ko": "열려 있는, 문을 연" },
+    { "de": "der Ausweis, -e", "ko": "(도서관) 회원증, 신분증" },
     { "de": "der/die Erwachsene, -n", "ko": "성인, 어른" },
     { "de": "bezahlen", "ko": "(돈을) 내다, 지불하다" },
-    { "de": "mit|bringen (bringt mit, brachte mit, hat mitgebracht)", "ko": "가져오다, 가지고 오다" },
+    { "de": "mit|bringen (bringt mit, brachte mit, hat mitgebracht)", "ko": "가져오다, 지참하다" },
     { "de": "behalten (behält, behielt, hat behalten)", "ko": "(계속) 가지고 있다" },
     { "de": "verlängern", "ko": "연장하다" },
     { "de": "zurück|geben (gibt zurück, gab zurück, hat zurückgegeben)", "ko": "돌려주다, 반납하다" },
     { "de": "pünktlich", "ko": "제때, 시간을 지키는" },
     { "de": "der Eingang, -¨e", "ko": "입구" },
-    { "de": "leise", "ko": "조용한, 소리가 작은" }
+    { "de": "der Rückgabeautomat, -en", "ko": "(무인) 반납기" }
   ],
   "phrases": [
     { "de": "geschlossen sein", "ko": "문을 닫다, 휴관이다",
       "ex": "Am Sonntag und am Montag ist die Bibliothek geschlossen.", "exko": "일요일과 월요일은 휴관입니다." },
     { "de": "das Handy leise stellen", "ko": "휴대전화 소리를 줄이다",
       "ex": "Stellen Sie Ihr Handy leise und telefonieren Sie bitte draußen.", "exko": "휴대전화는 소리를 줄여 주시고, 통화는 밖에서 해 주시기 바랍니다." },
-    { "de": "24 Stunden am Tag", "ko": "하루 24시간, 하루 종일",
+    { "de": "24 Stunden am Tag", "ko": "하루 24시간 내내",
       "ex": "Den Rückgabeautomaten am Eingang können Sie immer benutzen – 24 Stunden am Tag, auch am Sonntag und am Montag.", "exko": "입구에 있는 반납기는 하루 24시간, 일요일과 월요일에도 언제든지 이용하실 수 있습니다." }
   ]
 }
