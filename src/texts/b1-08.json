@@ -81,7 +81,7 @@
       "options": [
         "Sie fährt auf jeden Fall mit dem Auto an den Bodensee.",
         "Sie weiß noch nicht sicher, ob sie mit dem Auto anreist.",
-        "Sie möchte ihre Fahrräder im Auto transportieren."
+        "Sie möchte ihre eigenen Fahrräder im Auto transportieren."
       ],
       "answer": 1,
       "evidence": "Falls wir mit dem Auto kommen, bräuchten wir auch einen Parkplatz.",
@@ -132,7 +132,7 @@
       "options": [
         "Die Gäste müssen die Brötchen selbst beim Bäcker abholen.",
         "Die Gäste bekommen die Brötchen nach wie vor geliefert.",
-        "Frau Mertens bringt den Gästen jeden Morgen persönlich Brötchen."
+        "Frau Mertens bringt den Gästen morgens persönlich Brötchen."
       ],
       "answer": 1,
       "evidence": "Die Brötchen können Sie sich weiterhin bringen lassen: Hängen Sie einfach am Abend den Bestellzettel an die Tür, dann hängt die Bäckerei die Tüte bis 8 Uhr daran.",
