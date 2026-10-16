@@ -45,9 +45,9 @@
       "kind": "detail",
       "q": "Wie erklären sich die Nachbarn das Verhalten von Frau Lindner?",
       "options": [
-        "Sie glauben, dass sie arrogant ist.",
-        "Sie vermuten, dass sie schlecht hört.",
-        "Sie denken, dass sie neu im Haus ist und niemanden kennt."
+        "Sie glauben, dass sie arrogant und unfreundlich ist.",
+        "Sie vermuten, dass sie seit Jahren schlecht hört.",
+        "Sie denken, dass sie neu hier ist und niemanden kennt."
       ],
       "answer": 0,
       "evidence": "Die hält sich für etwas Besseres.",
@@ -70,7 +70,7 @@
       "options": [
         "Frau Lindner hatte ihn gebeten, es für sie anzunehmen.",
         "Der Bote hatte an der Tür der Empfängerin keinen Erfolg.",
-        "Der Bote hatte die Stockwerke verwechselt."
+        "Der Bote hatte die Stockwerke im Treppenhaus verwechselt."
       ],
       "answer": 1,
       "evidence": "Er hatte ein Paket, das für Frau Lindner bestimmt war, und oben öffnete niemand.",
@@ -82,13 +82,13 @@
       "kind": "detail",
       "q": "Was passierte, als der Erzähler an Frau Lindners Tür klopfte?",
       "options": [
-        "Sie öffnete sofort, weil sie das Paket erwartete.",
-        "Sie öffnete erst, als er bereits aufgeben wollte.",
-        "Sie öffnete nicht, deshalb ließ er das Paket vor der Tür stehen."
+        "Sie öffnete sofort, weil sie das Paket schon erwartete.",
+        "Sie öffnete erst spät, als er bereits aufgeben wollte.",
+        "Sie öffnete nicht, also ließ er das Paket vor der Tür."
       ],
       "answer": 1,
       "evidence": "Erst als ich schon gehen wollte, öffnete sie.",
-      "pairs": [["Erst als ich schon gehen wollte", "erst, als er bereits aufgeben wollte"]],
+      "pairs": [["Erst als ich schon gehen wollte", "als er bereits aufgeben wollte"]],
       "explain": "화자가 한참 문을 두드린 뒤 막 돌아서려던 참에야 문이 열렸어요. schon gehen wollen을 bereits aufgeben wollen으로 바꿔 말했어요. 바로 열었다는 것은 반대 내용이고, 소포를 문 앞에 두었다는 말은 본문에 없어요."
     },
     {
@@ -96,13 +96,13 @@
       "kind": "paraphrase",
       "q": "Was will Frau Lindner mit dem Satz „Die Musik höre ich inzwischen mehr mit den Fingern als mit den Ohren“ sagen?",
       "options": [
-        "Sie erlebt die Musik heute vor allem über das Spielen selbst, weil ihr Gehör nachgelassen hat.",
+        "Da ihr Gehör nachgelassen hat, erlebt sie Musik vor allem beim Spielen.",
         "Sie kann die Musik nur noch mit den Fingern auf dem Klavier zählen.",
-        "Sie hört Musik lieber über Kopfhörer als über Lautsprecher."
+        "Sie hört Musik inzwischen lieber über Kopfhörer als über Lautsprecher."
       ],
       "answer": 0,
       "evidence": "Aber seit einigen Jahren wird mein Gehör immer schlechter.",
-      "pairs": [["mehr mit den Fingern als mit den Ohren", "vor allem über das Spielen selbst"], ["wird mein Gehör immer schlechter", "ihr Gehör nachgelassen hat"]],
+      "pairs": [["mehr mit den Fingern als mit den Ohren", "vor allem beim Spielen"], ["wird mein Gehör immer schlechter", "ihr Gehör nachgelassen hat"]],
       "explain": "청력이 점점 나빠져서 음악을 귀로 듣기보다는 피아노를 치는 손가락의 느낌으로 경험한다는 비유적인 표현이에요. 손가락으로 센다거나 헤드폰 이야기는 본문과 관계가 없어요."
     },
     {
@@ -110,9 +110,9 @@
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Da hört mir hoffentlich niemand zu“?",
       "options": [
-        "Sie möchte nachts spielen, weil die Nachbarn dann besser zuhören können.",
+        "Sie möchte nachts spielen, damit die Nachbarn besser zuhören können.",
         "Sie spielt nachts, weil sie glaubt, dass sie dann niemanden stört.",
-        "Sie hofft, dass nachts endlich jemand ihre Musik hört."
+        "Sie hofft, dass nachts endlich jemand im Haus ihrer Musik zuhört."
       ],
       "answer": 1,
       "evidence": "Deshalb spiele ich nur noch nachts.",

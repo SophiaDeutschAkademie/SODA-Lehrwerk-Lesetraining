@@ -101,9 +101,9 @@
       "kind": "detail",
       "q": "Worüber ärgert man sich in Merts WG?",
       "options": [
-        "Die Freundin eines Mitbewohners nutzt Bad und Kühlschrank mit, zahlt aber nichts für die Wohnung.",
-        "Ein Mitbewohner bringt nachts regelmäßig Freunde mit in die Wohnung.",
-        "Die Freundin eines Mitbewohners schlägt ständig die Badezimmertür zu."
+        "Die Freundin eines Mitbewohners nutzt das Bad mit, zahlt aber nichts für die Wohnung.",
+        "Ein Mitbewohner bringt nachts regelmäßig Freunde mit und stört die anderen beim Schlafen.",
+        "Die Freundin eines Mitbewohners schlägt morgens die Tür zu, wenn sie das Bad benutzt."
       ],
       "answer": 0,
       "evidence": "Sie duscht morgens als Erste, ihr Joghurt steht im Kühlschrank, an der Miete beteiligt sie sich jedoch nicht.",
@@ -114,7 +114,7 @@
         ],
         [
           "duscht morgens als Erste",
-          "nutzt Bad"
+          "nutzt das Bad mit"
         ]
       ],
       "explain": "여자친구가 욕실과 냉장고를 함께 쓰면서도 월세는 분담하지 않는다고 해요. '월세를 분담하지 않는다'를 '집에 돈을 내지 않는다'로 바꿔 말했어요. 문을 세게 닫는 사람은 여자친구가 아니라 나머지 룸메이트들이고, 밤에 친구를 데려오는 사람은 도입부의 예시예요."
@@ -143,8 +143,8 @@
       "q": "Was bedeutet „bleibt Sofia auf den Kosten sitzen“ im Text?",
       "options": [
         "Sofia bleibt beim Frühstück sitzen, um über die Kosten zu sprechen.",
-        "Sofia muss die Ausgaben allein tragen, weil niemand sie ihr erstattet.",
-        "Sofia weigert sich, weiterhin für die WG einzukaufen."
+        "Sofia muss die Ausgaben allein tragen, da niemand sie ihr erstattet.",
+        "Sofia weigert sich, weiterhin Spülmittel und Müllbeutel einzukaufen."
       ],
       "answer": 1,
       "evidence": "bleibt Sofia auf den Kosten sitzen",
@@ -175,9 +175,9 @@
       "kind": "paraphrase",
       "q": "Was meint die Mediatorin mit dem Satz „Fast nie geht es wirklich um den Abwasch“?",
       "options": [
-        "Streit über den Abwasch kommt in Wohngemeinschaften nur selten vor.",
+        "Streit über den Abwasch kommt in Wohngemeinschaften nur noch selten vor.",
         "Hinter dem Ärger über Kleinigkeiten steckt meist ein tieferes Problem.",
-        "Über den Abwasch sollte man gar nicht erst streiten."
+        "Über den Abwasch sollte man in einer Wohngemeinschaft gar nicht streiten."
       ],
       "answer": 1,
       "evidence": "„Es geht darum, dass sich jemand nicht gesehen fühlt.“",
@@ -198,9 +198,9 @@
       "kind": "detail",
       "q": "Was rät die Mediatorin als Erstes?",
       "options": [
-        "Unstimmigkeiten frühzeitig zur Sprache bringen",
-        "mit einem klärenden Gespräch warten, bis sich alle beruhigt haben",
-        "sich über Kleinigkeiten gar nicht erst ärgern"
+        "Unstimmigkeiten zur Sprache bringen, bevor sie größer werden",
+        "mit einem Gespräch warten, bis sich alle wieder beruhigt haben",
+        "sich über Kleinigkeiten im WG-Alltag gar nicht erst ärgern"
       ],
       "answer": 0,
       "evidence": "Ihr erster Rat lautet deshalb, Probleme anzusprechen, solange sie noch klein sind.",
@@ -211,29 +211,29 @@
         ],
         [
           "solange sie noch klein sind",
-          "frühzeitig"
+          "bevor sie größer werden"
         ]
       ],
-      "explain": "첫 번째 조언은 문제가 아직 작을 때 말을 꺼내라는 거예요. 'ansprechen'을 'zur Sprache bringen'으로, '아직 작을 때'를 'frühzeitig'로 바꿔 말했어요. 기다리라거나 화를 내지 말라는 조언은 본문에 없어요."
+      "explain": "첫 번째 조언은 문제가 아직 작을 때 말을 꺼내라는 거예요. 'ansprechen'을 'zur Sprache bringen'으로, '아직 작을 때'를 '커지기 전에(bevor sie größer werden)'로 바꿔 말했어요. 기다리라거나 화를 내지 말라는 조언은 본문에 없어요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Warum sollten die Regeln einer WG laut Text gemeinsam ausgehandelt werden?",
       "options": [
-        "weil ein Putzplan sonst zu unromantisch wirkt",
-        "weil sonst eine Person allein für alles zuständig ist",
-        "weil sie sonst nicht von allen befolgt werden"
+        "weil ein Putzplan sonst zu unromantisch für die WG wirkt",
+        "weil sonst eine Person allein für den Haushalt zuständig ist",
+        "weil sie sonst nicht von allen Mitbewohnern befolgt werden"
       ],
       "answer": 2,
       "evidence": "nur dann hält sich auch jeder daran",
       "pairs": [
         [
           "nur dann hält sich auch jeder daran",
-          "weil sie sonst nicht von allen befolgt werden"
+          "weil sie sonst nicht von allen Mitbewohnern befolgt werden"
         ]
       ],
-      "explain": "본문은 규칙을 한 사람이 정하지 않고 함께 협의해서 정해야만 모두가 지킨다고 해요. '그래야만 모두가 지킨다(nur dann hält sich auch jeder daran)'를 '그렇지 않으면 모두가 따르지는 않는다(sonst nicht von allen befolgt)'로 바꿔 말했어요. '낭만적이지 않다'는 청소 당번표에 대한 말이고, '혼자 책임진다는 느낌'은 당번표가 없애 주는 느낌이지 함께 협의해야 하는 이유가 아니에요."
+      "explain": "본문은 규칙을 한 사람이 정하지 않고 함께 협의해서 정해야만 모두가 지킨다고 해요. '그래야만 모두가 지킨다(nur dann hält sich auch jeder daran)'를 '그렇지 않으면 모든 룸메이트가 따르지는 않는다(sonst nicht von allen Mitbewohnern befolgt)'로 바꿔 말했어요. '낭만적이지 않다'는 청소 당번표에 대한 말이고, '혼자 책임진다는 느낌'은 당번표가 없애 주는 느낌이지 함께 협의해야 하는 이유가 아니에요."
     },
     {
       "type": "mc",

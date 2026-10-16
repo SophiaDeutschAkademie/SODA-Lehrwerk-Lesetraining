@@ -87,7 +87,7 @@
       "kind": "detail",
       "q": "Was vermutet Marta, als der Bus auch um Viertel vor acht noch nicht da ist?",
       "options": [
-        "dass die Linie wegen zu weniger Fahrgäste eingestellt wurde",
+        "dass die Linie wegen zu weniger Fahrgäste ersatzlos eingestellt wurde",
         "dass der Bus technische Probleme hat oder der Fahrer ausgefallen ist",
         "dass sie den Bus wegen des langen Besuchs bei der Tante verpasst hat"
       ],
@@ -110,9 +110,9 @@
       "kind": "meaning",
       "q": "Was bedeutet „Auf dem Land muss man das wohl in Kauf nehmen“ im Text?",
       "options": [
-        "Solche Unannehmlichkeiten muss man auf dem Land vermutlich hinnehmen.",
+        "Solche Verspätungen muss man auf dem Land vermutlich hinnehmen.",
         "Auf dem Land muss man für den Bus wahrscheinlich mehr bezahlen.",
-        "Auf dem Land muss man sich wohl ein eigenes Auto kaufen."
+        "Auf dem Land muss man sich wohl irgendwann ein eigenes Auto kaufen."
       ],
       "answer": 0,
       "evidence": "Auf dem Land muss man das wohl in Kauf nehmen.",
@@ -134,15 +134,15 @@
       "q": "Was erfährt Marta von dem alten Mann über den Bus?",
       "options": [
         "dass er heute ausnahmsweise ausfällt, weil der Fahrer krank ist",
-        "dass er seit Wochen immer erst gegen Mitternacht kommt",
-        "dass er angeblich schon länger nicht mehr verkehrt"
+        "dass er seit Wochen jeden Abend erst gegen Mitternacht kommt",
+        "dass er angeblich schon seit einiger Zeit nicht mehr verkehrt"
       ],
       "answer": 2,
       "evidence": "„Der soll seit Wochen nicht mehr fahren“, sagte er.",
       "pairs": [
         [
           "soll seit Wochen nicht mehr fahren",
-          "angeblich schon länger nicht mehr verkehrt"
+          "angeblich schon seit einiger Zeit nicht mehr verkehrt"
         ]
       ],
       "explain": "노인은 버스가 몇 주 전부터 안 다닌다고 '하더라'고 전해요. 전해 들은 말을 나타내는 soll을 'angeblich'로, 'fahren'을 'verkehren'으로 바꿔 말했어요. 기사가 아프다는 것은 마르타의 추측이고, 자정은 노인의 아내가 한 말에 나오는 시간이에요."
@@ -154,7 +154,7 @@
       "options": [
         "Der Fahrplan wird regelmäßig erneuert, deshalb kann man sich auf ihn verlassen.",
         "Ein ausgehängter Fahrplan beweist nicht, dass der Bus auch tatsächlich fährt.",
-        "Der Fahrplan hängt schon so lange dort, dass ihn niemand mehr liest."
+        "Der Fahrplan hängt schon so lange dort, dass ihn im Dorf niemand mehr liest."
       ],
       "answer": 1,
       "evidence": "„Der Fahrplan hängt immer“, sagte der Mann ruhig.",
@@ -185,16 +185,16 @@
       "kind": "detail",
       "q": "Warum kommt der alte Mann jeden Abend zur Haltestelle?",
       "options": [
-        "Er hat diese Linie jahrzehntelang selbst gefahren und kann die Gewohnheit nicht ablegen.",
-        "Er hofft, dass der Bus eines Tages wieder fährt.",
-        "Seine Frau schickt ihn, damit er abends an die frische Luft kommt."
+        "Er fuhr die Linie jahrzehntelang und kann die Gewohnheit nicht ablegen.",
+        "Er hofft, dass der Bus eines Tages wieder fährt und er darin mitfahren kann.",
+        "Seine Frau schickt ihn jeden Abend, damit er an die frische Luft kommt."
       ],
       "answer": 0,
       "evidence": "„Ich habe den Bus hier dreißig Jahre lang gefahren. Jeden Abend um 19.32 Uhr. Seit ich in Rente bin, komme ich um diese Zeit hierher. Man kann so etwas nicht einfach abstellen.“",
       "pairs": [
         [
           "dreißig Jahre lang gefahren",
-          "jahrzehntelang selbst gefahren"
+          "die Linie jahrzehntelang"
         ],
         [
           "nicht einfach abstellen",
@@ -208,16 +208,16 @@
       "kind": "detail",
       "q": "Was lässt sich aus dem letzten Absatz über Marta schließen?",
       "options": [
-        "Sie glaubt dem alten Mann nicht und hält an ihren Vermutungen fest.",
+        "Sie glaubt dem alten Mann nicht und hält an ihren Vermutungen über den Bus fest.",
         "Sie erinnert sich jetzt genau an den Zeitungsartikel über die gestrichene Linie.",
-        "Ihr wird bewusst, dass sie sich das Ausbleiben des Busses mit erfundenen Gründen erklärt hat."
+        "Sie begreift, dass sie die Gründe für das Ausbleiben des Busses erfunden hat."
       ],
       "answer": 2,
       "evidence": "Sie dachte an die Zeitungsmeldung, die sie nie gelesen hatte, an den kranken Fahrer, den es nicht gab.",
       "pairs": [
         [
           "den kranken Fahrer, den es nicht gab",
-          "erfundenen Gründen"
+          "die Gründe für das Ausbleiben des Busses erfunden hat"
         ]
       ],
       "explain": "마르타는 '존재하지도 않는 아픈 운전기사(den kranken Fahrer, den es nicht gab)'를 떠올려요. 버스가 오지 않는 이유를 스스로 지어내 설명하고 있었다는 것을 깨닫는 거예요. 그녀는 관련 신문 기사를 읽은 적이 없으므로 기사를 정확히 기억해 낸다는 것도, 노인의 말을 믿지 않고 자기 추측을 고집한다는 것도 맞지 않아요."
@@ -227,9 +227,9 @@
       "kind": "intent",
       "q": "Was bewirkt der letzte Absatz der Geschichte?",
       "options": [
-        "Er löst die Spannung auf: Der Bus kommt doch noch, und Marta erreicht ihren Zug.",
+        "Er löst die Spannung auf: Der Bus kommt doch noch, und Marta erreicht den Zug.",
         "Er zeigt, dass Marta ins Dorf zurückkehrt und bei ihrer Tante übernachtet.",
-        "Er lässt bewusst offen, ob sich wirklich ein Fahrzeug nähert."
+        "Er lässt bewusst offen, ob sich auf der Straße wirklich ein Fahrzeug nähert."
       ],
       "answer": 2,
       "evidence": "Zwei Lichter vielleicht. Oder auch nicht.",

@@ -74,10 +74,10 @@
       "kind": "gist",
       "q": "Welche Aussage fasst den Text am besten zusammen?",
       "options": [
-        "Lebensmittel gehen vor allem auf dem Acker verloren, weil der Handel zu strenge Normen festlegt.",
+        "Lebensmittel gehen vor allem auf dem Acker verloren, weil der Handel für Obst und Gemüse zu strenge Normen festlegt.",
         "Nur ein gesetzliches Verbot nach französischem Vorbild kann die Verschwendung in Deutschland wirksam verringern.",
-        "Die Verwechslung von Mindesthaltbarkeits- und Verbrauchsdatum ist die Hauptursache dafür, dass Essbares im Müll landet.",
-        "Zwischen Erzeugung und Verzehr geht auf allen Stufen Essbares verloren, am meisten jedoch bei den Verbrauchern selbst."
+        "Die Verwechslung von Mindesthaltbarkeits- und Verbrauchsdatum ist der Hauptgrund dafür, dass Essen im Müll landet.",
+        "Zwischen Erzeugung und Verzehr geht auf allen Stufen Essbares verloren, am meisten bei den Verbrauchern selbst."
       ],
       "answer": 3,
       "evidence": "auf jeder Stufe der Wertschöpfungskette entstehen Verluste, und zwar aus jeweils anderen Gründen",
@@ -130,21 +130,21 @@
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Dass die zu entsorgenden Waren häufig noch einwandfrei sind, ändert daran nichts.“?",
       "options": [
-        "Der Handel wirft Waren vor allem deshalb weg, weil ihre Qualität nicht mehr einwandfrei ist.",
-        "Obwohl die Produkte oft noch in Ordnung sind, werden sie weggeworfen.",
-        "Einwandfreie Ware wird vom Handel grundsätzlich wieder ins Regal zurückgestellt.",
-        "Beschädigte Waren dürfen nicht entsorgt werden, sondern müssen weiterhin verkauft werden."
+        "Der Handel wirft Waren vor allem weg, weil ihre Qualität nicht mehr einwandfrei ist.",
+        "Obwohl die Waren häufig noch genießbar sind, landen sie nach Ladenschluss im Abfall.",
+        "Was abends übrig bleibt, bietet der Handel grundsätzlich am nächsten Tag wieder an.",
+        "Beschädigte Waren dürfen nicht entsorgt werden, sondern müssen weiter verkauft werden."
       ],
       "answer": 1,
       "evidence": "Dass die zu entsorgenden Waren häufig noch einwandfrei sind, ändert daran nichts.",
       "pairs": [
         [
           "zu entsorgenden Waren",
-          "werden sie weggeworfen"
+          "landen sie nach Ladenschluss im Abfall"
         ],
         [
           "häufig noch einwandfrei",
-          "oft noch in Ordnung"
+          "häufig noch genießbar"
         ]
       ],
       "explain": "'daran'은 앞 문장, 즉 저녁에 남은 것이 폐기된다는 사실을 가리켜요. 상품이 아직 멀쩡하다는 점도 그 사실을 바꾸지 못한다는 뜻이므로 '멀쩡한데도 버려진다'가 맞아요."
@@ -155,16 +155,16 @@
       "q": "Welches Produkt darf nach Ablauf des aufgedruckten Datums nicht mehr angeboten werden?",
       "options": [
         "ein ungeöffneter Becher Joghurt",
-        "eine Packung Nudeln",
-        "rohes Fleisch",
-        "ein Beutel Reis"
+        "eine Packung Nudeln im Schrank",
+        "eine Schale mit rohem Fleisch",
+        "ein Beutel Reis aus dem Schrank"
       ],
       "answer": 2,
       "evidence": "Das Verbrauchsdatum dagegen steht auf leicht verderblichen Waren wie frischem Hackfleisch oder Fisch. Nach seinem Ablauf dürfen diese Produkte nicht mehr verkauft werden",
       "pairs": [
         [
           "frischem Hackfleisch",
-          "rohes Fleisch"
+          "rohem Fleisch"
         ],
         [
           "nicht mehr verkauft werden",
@@ -179,7 +179,7 @@
       "q": "Was nennt der Text als einen Grund für die Abfälle in der Gastronomie?",
       "options": [
         "Die Gäste nehmen übrig gebliebene Speisen aus Gewohnheit nicht mit nach Hause.",
-        "Es wird für mehr Gäste gekocht, als realistischerweise kommen werden.",
+        "Man plant mit einer höheren Gästezahl, als realistischerweise zu erwarten ist.",
         "Vorschriften verbieten es, Speisen vom Buffet am nächsten Tag noch einmal anzubieten.",
         "Das Küchenpersonal verwechselt das Mindesthaltbarkeitsdatum mit dem Verbrauchsdatum."
       ],
@@ -188,7 +188,7 @@
       "pairs": [
         [
           "an der höchsten statt an der tatsächlich zu erwartenden Nachfrage",
-          "für mehr Gäste gekocht, als realistischerweise kommen werden"
+          "mit einer höheren Gästezahl, als realistischerweise zu erwarten ist"
         ]
       ],
       "explain": "'실제로 예상되는 수요가 아니라 최대 수요에 맞추어 계획한다'는 말은 곧 실제로 올 손님보다 많은 양을 준비한다는 뜻이에요. 1인분 크기와 뷔페는 언급되지만 손님의 습관이나 규정에 관한 이야기는 본문에 없어요."
@@ -212,7 +212,7 @@
       "kind": "detail",
       "q": "Was sagt der Text über die Lage in Deutschland?",
       "options": [
-        "Supermärkte müssen seit 2016 unverkaufte Ware an die Tafeln abgeben.",
+        "Supermärkte müssen seit 2016 unverkaufte Lebensmittel an die Tafeln abgeben.",
         "Das Vernichten genießbarer Lebensmittel ist verboten, wird aber kaum kontrolliert.",
         "Die Haftungsfragen sind inzwischen geklärt, nur die Logistik ist noch offen.",
         "Eine Verpflichtung, unverkaufte Lebensmittel abzugeben, besteht bislang nicht."
@@ -236,9 +236,9 @@
       "kind": "meaning",
       "q": "Was bedeutet „Hebel“ im Satz „Der wirksamste Hebel liegt jedoch dort, wo der größte Anteil anfällt“?",
       "options": [
-        "das Mittel, mit dem sich am meisten bewirken lässt",
-        "das größte Hindernis auf dem Weg zum Ziel",
-        "die Stelle, an der die Abfälle gesammelt werden",
+        "das Mittel, mit dem man am meisten bewirken kann",
+        "das größte Hindernis auf dem Weg zu diesem Ziel",
+        "die Stelle, an der alle Abfälle gesammelt werden",
         "das Gesetz, das die Haushalte zum Sparen zwingt"
       ],
       "answer": 0,
@@ -246,7 +246,7 @@
       "pairs": [
         [
           "Hebel",
-          "Mittel, mit dem sich am meisten bewirken lässt"
+          "Mittel, mit dem man am meisten bewirken kann"
         ]
       ],
       "explain": "Hebel은 원래 '지렛대'인데, 여기서는 비유적으로 '가장 큰 효과를 낼 수 있는 수단, 공략 지점'이라는 뜻이에요. 가정에서 가장 많이 버려지므로 그곳을 바꾸는 것이 가장 효과적이라는 말이에요."
@@ -256,10 +256,10 @@
       "kind": "paraphrase",
       "q": "Was will der Autor mit dem Satz „Dort entscheidet nicht die Gesetzgebung, sondern die Gewohnheit, ob ein Lebensmittel auf dem Teller landet oder in der Tonne.“ sagen?",
       "options": [
-        "Gesetze gegen Verschwendung sind überflüssig, weil sie in privaten Küchen ohnehin nicht kontrolliert werden können.",
+        "Gesetze gegen Verschwendung sind überflüssig, weil man sie in privaten Küchen kaum kontrollieren kann.",
         "Die meisten Menschen werfen Lebensmittel aus Gewohnheit weg, obwohl das Gesetz es ihnen verbietet.",
-        "Im privaten Bereich hängt es vom alltäglichen Verhalten ab, ob Lebensmittel verschwendet werden.",
-        "Der Staat sollte den Haushalten gesetzlich vorschreiben, wie viel sie wegwerfen dürfen."
+        "Im privaten Haushalt hängt es vom alltäglichen Verhalten ab, ob Lebensmittel verschwendet werden.",
+        "Der Staat sollte den privaten Haushalten gesetzlich vorschreiben, wie viel sie wegwerfen dürfen."
       ],
       "answer": 2,
       "evidence": "Dort entscheidet nicht die Gesetzgebung, sondern die Gewohnheit, ob ein Lebensmittel auf dem Teller landet oder in der Tonne.",

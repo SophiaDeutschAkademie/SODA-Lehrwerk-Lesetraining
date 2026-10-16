@@ -50,17 +50,17 @@
       "kind": "intent",
       "q": "Warum beginnt der Autor seinen Beitrag mit dem Gedankenspiel über die Stadtbibliothek?",
       "options": [
-        "Er will zeigen, dass Bibliotheken finanziell schlechter gestellt sind als Museen.",
-        "Er will den Lesern vor Augen führen, wie merkwürdig eine Praxis ist, die sie bei Museen nicht mehr hinterfragen.",
-        "Er fordert, dass auch Bibliotheken künftig eine Gebühr für den Lesesaal erheben.",
-        "Er erinnert daran, dass Bibliotheken früher tatsächlich Eintritt verlangt haben."
+        "Er will zeigen, dass Bibliotheken von der Stadt schlechter finanziert werden als Museen.",
+        "Er will zeigen, wie merkwürdig eine Praxis ist, die man bei Museen nicht mehr hinterfragt.",
+        "Er fordert, dass auch Bibliotheken künftig eine Gebühr für den Besuch des Lesesaals erheben.",
+        "Er erinnert daran, dass Bibliotheken früher tatsächlich Eintritt für ihre Lesesäle verlangten."
       ],
       "answer": 1,
       "evidence": "Bei Museen hingegen nehmen wir genau das als selbstverständlich hin.",
       "pairs": [
         [
           "nehmen wir genau das als selbstverständlich hin",
-          "nicht mehr hinterfragen"
+          "nicht mehr hinterfragt"
         ],
         [
           "Der Aufschrei wäre gewaltig",
@@ -92,9 +92,9 @@
       "kind": "paraphrase",
       "q": "Was will der Autor mit dem Satz „Das ist keine Frage der Möglichkeit, sondern des Willens.“ sagen?",
       "options": [
-        "Die Museen könnten den freien Eintritt einführen, wollen es aber aus eigenem Interesse nicht.",
-        "Ob der freie Eintritt kommt, hängt vom Wunsch der Besucher ab, nicht vom Geld.",
-        "Die Finanzierung ließe sich sichern, wenn die Politik dazu entschlossen wäre.",
+        "Die Museen könnten auf den Eintritt verzichten, wollen es aber aus Eigeninteresse nicht.",
+        "Ob der freie Eintritt kommt, hängt vom Wunsch der Besucher ab und nicht vom Geld.",
+        "Die Finanzierung ließe sich sichern, wenn die Politik sie entschlossen angehen würde.",
         "Es ist unmöglich, die fehlenden Einnahmen zu ersetzen, so sehr man es auch wollte."
       ],
       "answer": 2,
@@ -106,7 +106,7 @@
         ],
         [
           "des Willens",
-          "wenn die Politik dazu entschlossen wäre"
+          "entschlossen angehen würde"
         ]
       ],
       "explain": "바로 앞 문장에서 글쓴이는 공공 부문(die öffentliche Hand)이 문화적 책무를 끝까지 재정적으로 책임질 뜻만 있으면 구멍을 메울 수 있다고 해요. 따라서 '의지'는 정치의 의지를 말해요. 박물관이나 관람객의 의지가 아니고, 불가능하다는 뜻은 더더욱 아니에요."
@@ -172,10 +172,10 @@
       "kind": "meaning",
       "q": "Was ist mit „die unsichtbare Schwelle“ im Text gemeint?",
       "options": [
-        "die Treppenstufen am Eingang, die für ältere Besucher ein Hindernis sind",
-        "die innere Hürde, die durch das Bezahlen entsteht und spontane Besuche verhindert",
+        "die Treppenstufen am Eingang, die für ältere Besucher ein Hindernis darstellen",
+        "die innere Hürde, die durch das Zahlen entsteht und Spontanbesuche verhindert",
         "die Preisgrenze, ab der Familien sich den Eintritt nicht mehr leisten können",
-        "die Wartezeit an der Kasse, die viele Besucher abschreckt"
+        "die Warteschlange an der Kasse, die an Wochenenden viele Besucher abschreckt"
       ],
       "answer": 1,
       "evidence": "Wer zahlt, erwartet eine Gegenleistung, plant den Besuch wie einen Theaterabend und kommt entsprechend selten.",
@@ -186,11 +186,11 @@
         ],
         [
           "Wer zahlt, erwartet eine Gegenleistung",
-          "die durch das Bezahlen entsteht"
+          "die durch das Zahlen entsteht"
         ],
         [
           "plant den Besuch wie einen Theaterabend und kommt entsprechend selten",
-          "spontane Besuche verhindert"
+          "Spontanbesuche verhindert"
         ]
       ],
       "explain": "Schwelle는 원래 문지방이지만 여기서는 비유예요. 돈을 내면 방문을 연극 관람처럼 계획하게 되어 자주 오지 않게 된다는 심리적인 문턱, 즉 즉흥적인 방문을 막는 마음속 장벽을 뜻해요. 가족의 비용 부담은 바로 앞에서 다룬 '보이는' 장벽이고, 글쓴이는 보이지 않는 문턱이 '더 무겁다'고 해요."
@@ -200,21 +200,21 @@
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Erst dann wird aus dem Museum das, was es dem Anspruch nach immer sein wollte: ein Ort, der allen gehört.“?",
       "options": [
-        "Museen sollten ihren Anspruch aufgeben, allen Menschen zu gehören.",
-        "Ohne Eintritt könnte das Museum endlich einlösen, was es sich selbst seit jeher zum Ziel gesetzt hat.",
+        "Museen sollten ihren Anspruch aufgeben, allen Menschen zu gehören, und mehr Eintritt verlangen.",
+        "Ohne Eintritt würde das Museum endlich das Ziel erreichen, das es sich seit jeher setzt.",
         "Museen haben schon immer allen gehört, weil sie mit öffentlichen Mitteln finanziert werden.",
-        "Ein Ort für alle wird das Museum erst, wenn jeder Besucher an der Kasse seinen Beitrag leistet."
+        "Ein Ort für alle wird das Museum erst, wenn jeder an der Kasse seinen Beitrag leistet."
       ],
       "answer": 1,
       "evidence": "Erst dann wird aus dem Museum das, was es dem Anspruch nach immer sein wollte: ein Ort, der allen gehört.",
       "pairs": [
         [
           "was es dem Anspruch nach immer sein wollte",
-          "was es sich selbst seit jeher zum Ziel gesetzt hat"
+          "das Ziel erreichen, das es sich seit jeher setzt"
         ],
         [
           "Erst dann",
-          "Ohne Eintritt könnte das Museum endlich"
+          "Ohne Eintritt würde das Museum endlich"
         ]
       ],
       "explain": "dem Anspruch nach(이상에 따르면)는 박물관이 스스로 내세운 목표를 뜻하고, erst dann은 매표소가 사라진 뒤에야 비로소 그 목표가 실현된다는 말이에요. 이미 모두의 것이라는 선택지는 '그제야(erst dann)'와 맞지 않고, 관람객이 모두 매표소에서 돈을 내야 한다는 선택지는 글쓴이의 주장과 정반대예요."
@@ -250,19 +250,19 @@
       "options": [
         "wenn sich zeigt, dass die Besucherzahlen an den kostenlosen Tagen deutlich steigen",
         "wenn verhindert werden soll, dass der Wohnort über kulturelle Teilhabe entscheidet",
-        "wenn die Gesellschaft bereit ist hinzunehmen, dass der Zugang zur Kultur davon bestimmt wird, wo man lebt",
-        "wenn sich der freie Eintritt in Großbritannien bewährt hat"
+        "wenn die Gesellschaft hinnimmt, dass der Zugang zur Kultur vom Wohnort bestimmt wird",
+        "wenn sich der freie Eintritt in Großbritannien auch langfristig und finanziell bewährt hat"
       ],
       "answer": 2,
       "evidence": "es sei denn, wir nähmen in Kauf, dass kulturelle Teilhabe künftig vom Wohnort abhängt",
       "pairs": [
         [
           "es sei denn, wir nähmen in Kauf",
-          "wenn die Gesellschaft bereit ist hinzunehmen"
+          "wenn die Gesellschaft hinnimmt"
         ],
         [
           "kulturelle Teilhabe künftig vom Wohnort abhängt",
-          "der Zugang zur Kultur davon bestimmt wird, wo man lebt"
+          "der Zugang zur Kultur vom Wohnort bestimmt wird"
         ],
         [
           "Kommunen, die das nicht aus eigener Kraft stemmen können",

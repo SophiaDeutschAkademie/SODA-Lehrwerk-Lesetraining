@@ -74,7 +74,7 @@
       "kind": "detail",
       "q": "Wie findet die Restauratorin heraus, ob der Firnis ohne Risiko entfernt werden kann?",
       "options": [
-        "Sie untersucht das Bild zunächst unter Infrarotlicht.",
+        "Sie untersucht das Bild zunächst unter Infrarotlicht auf Risse im Firnis.",
         "Sie testet das Lösungsmittel an einer kleinen Stelle am Rand des Bildes.",
         "Sie vergleicht die Farben des Kragens und des Himmels mit dem Original."
       ],
@@ -89,8 +89,8 @@
       "q": "Was bedeutet der Satz „Alles, was wir hinzufügen, muss jederzeit rückgängig zu machen sein“?",
       "options": [
         "Jede Ergänzung muss sich später wieder entfernen lassen.",
-        "Jede Ergänzung muss sofort dokumentiert werden.",
-        "Alle Ergänzungen müssen regelmäßig erneuert werden."
+        "Jede Ergänzung muss sofort mit Fotos dokumentiert werden.",
+        "Alle Ergänzungen müssen nach fünfzig Jahren erneuert werden."
       ],
       "answer": 0,
       "evidence": "Alles, was wir hinzufügen, muss jederzeit rückgängig zu machen sein.",
@@ -111,7 +111,7 @@
       "kind": "meaning",
       "q": "Was bedeutet „die Unterzeichnung“ im Text?",
       "options": [
-        "die Signatur des Malers am unteren Bildrand",
+        "die Signatur des Malers in der unteren Ecke des Bildes",
         "die Vorzeichnung, die unter den Farbschichten liegt",
         "die schriftliche Bestätigung, dass ein Bild echt ist"
       ],
@@ -162,13 +162,13 @@
       "kind": "detail",
       "q": "Was ist nach Ansicht der Restauratorin am schwersten zu erwerben?",
       "options": [
-        "die Fähigkeit, lange ohne sichtbaren Fortschritt weiterzuarbeiten",
-        "das Wissen über chemische Lösungsmittel",
-        "eine ruhige Hand beim Auftragen der Farbe"
+        "die Ausdauer, lange ohne sichtbaren Fortschritt zu arbeiten",
+        "das Wissen über Chemie und die Wirkung von Lösungsmitteln",
+        "eine ruhige Hand beim Auftragen der Farbe auf die Fehlstellen"
       ],
       "answer": 0,
       "evidence": "Was sich kaum lernen lässt, ist Geduld.",
-      "pairs": [["kaum lernen lässt", "am schwersten zu erwerben"], ["Geduld", "lange ohne sichtbaren Fortschritt weiterzuarbeiten"]],
+      "pairs": [["kaum lernen lässt", "am schwersten zu erwerben"], ["Geduld", "Ausdauer, lange ohne sichtbaren Fortschritt zu arbeiten"]],
       "explain": "거의 배울 수 없는 것은 인내심이라고 해요. 인내심을 '눈에 보이는 진척 없이 오래 계속 일하는 능력'으로 풀어 썼어요. 화학 지식과 안정된 손은 '모두 배울 수 있다'고 한 것들이에요."
     }
   ],

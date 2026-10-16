@@ -133,30 +133,30 @@
       "kind": "detail",
       "q": "Woran erkennt Lehnert, dass Jugendliche die deutsche Sprache gut beherrschen?",
       "options": [
-        "daran, dass sie Wörter wie „cool“ inzwischen ganz selbstverständlich verwenden",
-        "daran, dass sie ihre Ausdrucksweise dem jeweiligen Gegenüber anpassen",
-        "daran, dass sie ständig neue Ausdrücke erfinden, die nach zehn Jahren wieder verschwinden",
-        "daran, dass sie fremde Wörter mit deutschen Endungen versehen"
+        "daran, dass sie Wörter wie „cool“ inzwischen im Alltag selbstverständlich verwenden",
+        "daran, dass sie ihre Ausdrucksweise dem jeweiligen Gegenüber und Anlass anpassen",
+        "daran, dass sie ständig neue Ausdrücke erfinden, die nach Jahren wieder verschwinden",
+        "daran, dass sie englische Wörter mit deutschen Endungen versehen und konjugieren"
       ],
       "answer": 1,
       "evidence": "Jugendliche sprechen untereinander anders als mit Lehrern oder Großeltern, und genau das zeigt, dass sie die Sprache beherrschen.",
       "pairs": [
         [
           "sprechen untereinander anders als mit Lehrern oder Großeltern",
-          "ihre Ausdrucksweise dem jeweiligen Gegenüber anpassen"
+          "ihre Ausdrucksweise dem jeweiligen Gegenüber und Anlass anpassen"
         ]
       ],
-      "explain": "청소년들이 또래끼리 말할 때와 교사나 조부모와 말할 때 다르게 말한다는 것을 '상대에 맞게 표현 방식을 조절한다'로 바꿔 표현했어요. 'cool'과 사라지는 표현은 다른 맥락에서 나온 말이고, 독일어 어미는 외래어 이야기예요."
+      "explain": "청소년들이 또래끼리 말할 때와 교사나 조부모와 말할 때 다르게 말한다는 것을 '상대와 상황에 맞게 표현 방식을 조절한다'로 바꿔 표현했어요. 'cool'과 사라지는 표현은 다른 맥락에서 나온 말이고, 독일어 어미는 외래어 이야기예요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was geschieht laut Lehnert mit englischen Verben, die ins Deutsche übernommen werden?",
       "options": [
-        "Sie werden den Regeln der deutschen Grammatik unterworfen und wie einheimische Verben gebeugt.",
+        "Sie werden den Regeln der deutschen Grammatik angepasst und wie einheimische Verben gebeugt.",
         "Sie behalten ihre englische Form, bis sich eine verbindliche Schreibung durchgesetzt hat.",
-        "Sie verdrängen nach einer Übergangszeit deutsche Verben wie „herunterladen“.",
-        "Sie werden grundsätzlich zu trennbaren Verben, weil das Deutsche sie sonst nicht konjugieren kann."
+        "Sie verdrängen nach einer Übergangszeit gleichbedeutende deutsche Verben wie „herunterladen“.",
+        "Sie werden immer zu trennbaren Verben, weil das Deutsche sie sonst nicht beugen kann."
       ],
       "answer": 0,
       "evidence": "Sie bekommen deutsche Endungen, sie werden konjugiert, sie bilden Partizipien.",
@@ -167,7 +167,7 @@
         ],
         [
           "bekommen deutsche Endungen",
-          "den Regeln der deutschen Grammatik unterworfen"
+          "den Regeln der deutschen Grammatik angepasst"
         ]
       ],
       "explain": "영어 동사가 독일어 어미를 받고 인칭변화를 하며 분사를 만든다는 말을 '독일어 문법 규칙에 따라 변화한다'로 바꿔 표현했어요. 철자의 흔들림, herunterladen, 분리동사는 모두 본문에 나오지만 다른 맥락에서 쓰였어요."
@@ -215,21 +215,21 @@
       "kind": "paraphrase",
       "q": "Was kritisiert Lehnert mit dem Satz „Sie tut so, als gäbe es einen idealen Zustand der Sprache, meist ungefähr den aus der eigenen Schulzeit, von dem jede Abweichung ein Fehler wäre.“?",
       "options": [
-        "dass in der Schule ein idealer Sprachzustand gelehrt wird, der von der Wirklichkeit abweicht",
-        "dass Abweichungen von der Schulgrammatik heute nicht mehr als Fehler gelten",
-        "dass sich die Sprache seit der eigenen Schulzeit kaum verändert hat",
-        "dass Kritiker die Sprache ihrer eigenen Jugend zum Maßstab machen, obwohl es eine vollkommene Sprache nie gegeben hat"
+        "dass die Schule einen idealen Sprachzustand lehrt, der von der Wirklichkeit abweicht",
+        "dass Abweichungen von der Schulgrammatik heute zu Unrecht nicht mehr als Fehler gelten",
+        "dass Jugendliche die Regeln der Schulgrammatik absichtlich missachten, um zu provozieren",
+        "dass Kritiker die Sprache ihrer Jugend zum Maßstab machen, obwohl sie nie vollkommen war"
       ],
       "answer": 3,
       "evidence": "Den gab es aber nie.",
       "pairs": [
         [
           "den aus der eigenen Schulzeit",
-          "die Sprache ihrer eigenen Jugend zum Maßstab"
+          "die Sprache ihrer Jugend zum Maßstab machen"
         ],
         [
           "einen idealen Zustand der Sprache",
-          "eine vollkommene Sprache"
+          "nie vollkommen war"
         ]
       ],
       "explain": "'Sie'는 상실을 말하는 수사(Verlustrhetorik)를 가리켜요. 그 수사는 자기 학창 시절의 언어를 이상적 상태로 여기고 거기서 벗어나면 오류로 본다는 비판이에요. 바로 다음 문장에서 그런 이상적 상태는 결코 없었다고 못 박아요."
@@ -253,8 +253,8 @@
       "kind": "detail",
       "q": "Welche Aufgabe schreibt Lehnert der Schule zu?",
       "options": [
-        "Sie soll die Standardsprache gegen den Einfluss der Jugendsprache verteidigen.",
-        "Sie soll Jugendliche befähigen, sich in möglichst vielen sprachlichen Situationen angemessen auszudrücken.",
+        "Sie soll die Standardsprache gegen den Einfluss von Jugendsprache und Anglizismen verteidigen.",
+        "Sie soll Jugendliche befähigen, sich in möglichst vielen Situationen angemessen auszudrücken.",
         "Sie soll Jugendsprache auf dem Schulhof verbieten, damit mehr Zeit für Grammatik bleibt.",
         "Sie soll statt Diktaten vor allem die Sprache der Behörden und der Bewerbung unterrichten."
       ],
@@ -263,11 +263,11 @@
       "pairs": [
         [
           "den Zugang zu allen Registern eröffnen",
-          "sich in möglichst vielen sprachlichen Situationen angemessen auszudrücken"
+          "sich in möglichst vielen Situationen angemessen auszudrücken"
         ],
         [
           "keine angeblich reine Sprache verteidigen",
-          "die Standardsprache gegen den Einfluss der Jugendsprache verteidigen"
+          "die Standardsprache gegen den Einfluss von Jugendsprache und Anglizismen verteidigen"
         ]
       ],
       "explain": "'모든 사용역으로 가는 길을 열어 준다'는 말은 다양한 상황에서 알맞게 말하고 쓸 수 있게 한다는 뜻이에요. 순수한 언어를 지키는 것은 교수가 명시적으로 부정한 역할이고, 운동장의 청소년 언어는 문제가 아니라고 했어요."

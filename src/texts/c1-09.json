@@ -54,9 +54,9 @@
       "q": "Wie stellt der Autor zu Beginn seine Vorliebe für Listen dar?",
       "options": [
         "als eine Gewohnheit, für die er sich schämt und die er ändern möchte",
-        "als eine seltene Fähigkeit, auf die er stolz ist",
-        "als eine Eigenart, die er nüchtern feststellt, weil sie sich ohnehin nicht ablegen lässt",
-        "als eine Angewohnheit, die er von seinen Eltern übernommen hat"
+        "als eine seltene Fähigkeit, die ihn auszeichnet und auf die er stolz ist",
+        "als eine Eigenart, die er nüchtern feststellt und nicht ablegen kann",
+        "als eine Angewohnheit, die er früh von seinen Eltern übernommen hat"
       ],
       "answer": 2,
       "evidence": "Es ist eben so, man kann nichts dagegen tun.",
@@ -67,7 +67,7 @@
         ],
         [
           "man kann nichts dagegen tun",
-          "sich ohnehin nicht ablegen lässt"
+          "nicht ablegen kann"
         ]
       ],
       "explain": "글쓴이는 자랑스럽게 말하는 것이 아니라, 왼손잡이라는 사실을 말하듯 담담하게 말한다고 해요. 바로 뒤에 '원래 그렇고 어쩔 수 없다'고 덧붙이지요. 부끄러워하거나 바꾸고 싶어 한다는 내용, 부모에게서 물려받았다는 내용은 본문에 없어요."
@@ -91,21 +91,21 @@
       "kind": "detail",
       "q": "Warum schreibt der Autor nachmittags bereits erledigte Dinge auf seine Liste?",
       "options": [
-        "Weil er vergessen hat, was er morgens schon aufgeschrieben hatte.",
-        "Weil er so genauer nachvollziehen kann, wie viel Zeit er für jede Aufgabe gebraucht hat.",
-        "Weil er sich schämt, seinem Freund eine halb leere Liste zu zeigen.",
-        "Weil ihm das Abhaken ein Gefühl von Erfolg verschafft, auf das er nicht verzichten möchte."
+        "Weil er nachmittags vergessen hat, was er morgens schon aufgeschrieben hatte.",
+        "Weil er so genauer nachvollziehen kann, wie viel Zeit jede Aufgabe gekostet hat.",
+        "Weil er sich schämt, seinem Freund am Abend eine halb leere Liste zu zeigen.",
+        "Weil ihm das Abhaken ein Erfolgsgefühl gibt, auf das er nicht verzichten will."
       ],
       "answer": 3,
       "evidence": "Aber dieses kleine Häkchen setzt etwas in mir frei, das sich wie Leistung anfühlt, und ich bin nicht bereit, darauf zu verzichten, nur weil es unverdient ist.",
       "pairs": [
         [
           "setzt etwas in mir frei, das sich wie Leistung anfühlt",
-          "ein Gefühl von Erfolg verschafft"
+          "ein Erfolgsgefühl gibt"
         ],
         [
           "nicht bereit, darauf zu verzichten",
-          "auf das er nicht verzichten möchte"
+          "auf das er nicht verzichten will"
         ]
       ],
       "explain": "체크 표시가 성과처럼 느껴지는 감정을 불러일으키고, 그것이 공짜로 얻은 것이라도 포기하고 싶지 않다고 해요. 친구와 시간 계산은 다른 단락의 이야기예요."
@@ -115,17 +115,17 @@
       "kind": "meaning",
       "q": "Was bedeutet „Die Steuererklärung schiebe ich seit März auf die lange Bank“?",
       "options": [
-        "Er hat die Steuererklärung an eine andere Person abgegeben.",
-        "Er bereitet die Steuererklärung seit März sorgfältig vor.",
-        "Er verschiebt die Steuererklärung immer wieder, ohne sie anzugehen.",
-        "Er hat die Steuererklärung endgültig aufgegeben."
+        "Er hat die Steuererklärung an eine andere Person weitergegeben.",
+        "Er arbeitet die Steuererklärung seit März Stück für Stück ab.",
+        "Er verschiebt die Steuererklärung seit März, ohne anzufangen.",
+        "Er hat die Steuererklärung seit März endgültig aufgegeben."
       ],
       "answer": 2,
       "evidence": "Die Steuererklärung schiebe ich seit März auf die lange Bank",
       "pairs": [
         [
           "schiebe ich seit März auf die lange Bank",
-          "verschiebt die Steuererklärung immer wieder, ohne sie anzugehen"
+          "verschiebt die Steuererklärung seit März, ohne anzufangen"
         ]
       ],
       "explain": "'etwas auf die lange Bank schieben'은 할 일을 계속 미룬다는 관용 표현이에요. 3월부터 세금 신고를 시작하지 않고 있다는 문맥과 맞아요. 포기한 것은 아니에요. 어제 목록에도 '세금 신고 시작하기'가 올라 있었듯이 적어 두기만 하고 손대지 않는 거예요."
@@ -150,9 +150,9 @@
       "q": "Welchen Vorwurf macht der Freund dem Autor?",
       "options": [
         "Er benutze das Planen als Vorwand, um das Handeln hinauszuzögern.",
-        "Er plane zu wenig und verliere deshalb den Überblick.",
-        "Er schreibe seine Listen zu unordentlich, um sie wirklich nutzen zu können.",
-        "Er übertrage seine Listen zu selten auf neue Zettel."
+        "Er plane zu wenig und verliere deshalb den Überblick über den Tag.",
+        "Er schreibe seine Listen zu unordentlich, um sie nutzen zu können.",
+        "Er übertrage seine Listen zu selten auf Zettel und vergesse vieles."
       ],
       "answer": 0,
       "evidence": "Er unterstellte mir, die Liste sei gar kein Werkzeug, sondern eine Ausrede: Solange ich plane, muss ich nichts tun.",
@@ -174,9 +174,9 @@
       "q": "Was bedeutet „am zweiten verlor ich den Faden“ im Text?",
       "options": [
         "den Überblick und den Zusammenhang verlieren",
-        "einen wichtigen Gegenstand verlegen",
-        "die Lust an einer Tätigkeit verlieren",
-        "einen Termin vergessen"
+        "einen wichtigen Gegenstand nicht mehr finden",
+        "die Lust an einer neuen Tätigkeit verlieren",
+        "einen wichtigen Termin am Abend vergessen"
       ],
       "answer": 0,
       "evidence": "am zweiten verlor ich den Faden: Ich fing drei Dinge an, brachte keines zu Ende",
@@ -232,9 +232,9 @@
       "q": "Welche Haltung nimmt der Autor gegenüber seiner Listengewohnheit insgesamt ein?",
       "options": [
         "Er verurteilt sie als Zeitverschwendung und kündigt an, damit aufzuhören.",
-        "Er verteidigt sie als bewährte Methode, mit der sich nachweislich mehr erledigen lässt.",
-        "Er betrachtet sie mit liebevoller Selbstironie und behält sie trotz ihrer Schwächen bei.",
-        "Er empfiehlt sie allen Lesern als Mittel gegen das Aufschieben."
+        "Er verteidigt sie als bewährte Methode, mit der man nachweislich mehr schafft.",
+        "Er betrachtet sie mit Selbstironie und behält sie trotz ihrer Schwächen bei.",
+        "Er empfiehlt sie allen Lesern als wirksames Mittel gegen das Aufschieben."
       ],
       "answer": 2,
       "evidence": "Oft war er es sogar. Nicht wegen der Liste, aber mit ihr.",

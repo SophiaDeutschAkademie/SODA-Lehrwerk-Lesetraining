@@ -39,8 +39,8 @@
       "kind": "detail",
       "q": "Was ist für Min-seo bei der Wahl der Stadt am wichtigsten?",
       "options": [
-        "dass die Miete nicht zu hoch ist",
-        "dass sie oft in den Bergen wandern kann",
+        "dass sie die Miete mit dem Stipendium zahlen kann",
+        "dass sie am Wochenende in der Natur wandern kann",
         "dass sie im Alltag viel auf Deutsch reden kann"
       ],
       "answer": 2,
@@ -155,8 +155,8 @@
       "kind": "detail",
       "q": "Was sagt Jakob über das Wohnen in Hamburg?",
       "options": [
-        "Auch für ein kleines Zimmer zahlt man oft mehr als 500 Euro.",
-        "Für 500 Euro bekommt man ein großes Zimmer.",
+        "Selbst ein kleines Zimmer ist oft teurer als 500 Euro.",
+        "Für 500 Euro bekommt man hier schon ein großes Zimmer.",
         "Studierende finden hier leicht ein günstiges Zimmer."
       ],
       "answer": 0,
@@ -164,10 +164,10 @@
       "pairs": [
         [
           "kostet oft über 500 Euro",
-          "zahlt man oft mehr als 500 Euro"
+          "ist oft teurer als 500 Euro"
         ]
       ],
-      "explain": "야코프는 작은 방 하나가 500유로를 넘을 때가 많다고 해요. 'kostet über 500 Euro(500유로 넘게 든다)'를 'zahlt man mehr als 500 Euro(500유로 넘게 낸다)'로 바꿔 말했어요. 다른 선택지는 500 Euro, Zimmer, Studierende 같은 본문 단어를 쓰지만 내용은 반대예요."
+      "explain": "야코프는 작은 방 하나가 500유로를 넘을 때가 많다고 해요. 'kostet oft über 500 Euro(500유로 넘게 들 때가 많다)'를 'ist oft teurer als 500 Euro(500유로보다 비싼 때가 많다)'로 바꿔 말했어요. 다른 선택지는 500 Euro, Zimmer, Studierende 같은 본문 단어를 쓰지만 내용은 반대예요."
     }
   ],
   "grammar": [

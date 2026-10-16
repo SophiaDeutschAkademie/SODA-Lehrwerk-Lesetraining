@@ -78,9 +78,9 @@
       "kind": "detail",
       "q": "Warum verwendete Ebbinghaus sinnlose Silben?",
       "options": [
-        "Weil sie sich leichter merken ließen als echte Wörter.",
-        "Weil so keine Vorkenntnisse das Ergebnis beeinflussen konnten.",
-        "Weil er die Abstände zwischen den Wiederholungen genau festlegen wollte."
+        "Weil sich sinnlose Silben leichter merken lassen als echte Wörter.",
+        "Weil so keine Vorkenntnisse die Ergebnisse beeinflussen konnten.",
+        "Weil er die Abstände der Wiederholungen genau festlegen wollte."
       ],
       "answer": 1,
       "evidence": "Um auszuschließen, dass bereits bekannte Wörter die Ergebnisse verfälschten, lernte er lange Reihen sinnloser Silben wie „dax“ oder „zuk“ auswendig.",
@@ -91,7 +91,7 @@
         ],
         [
           "die Ergebnisse verfälschten",
-          "das Ergebnis beeinflussen"
+          "die Ergebnisse beeinflussen"
         ]
       ],
       "explain": "이미 알고 있는 단어들이 결과를 왜곡하지 않도록(um auszuschließen, dass …) 무의미한 음절을 쓴 거예요. 즉 사전 지식의 영향을 배제하려는 목적이에요. '더 쉽게 외울 수 있었다'와 '정해진 간격'은 본문의 다른 부분에서 가져온 함정이에요."
@@ -101,8 +101,8 @@
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Was die ersten Tage übersteht, bleibt vergleichsweise stabil“?",
       "options": [
-        "In den ersten Tagen nach dem Lernen bleibt das Gelernte noch vollständig erhalten.",
-        "Informationen, die man nach einigen Tagen noch weiß, vergisst man danach nur noch langsam.",
+        "In den ersten Tagen nach dem Lernen bleibt alles Gelernte noch erhalten.",
+        "Was man nach einigen Tagen noch weiß, vergisst man danach nur noch langsam.",
         "Wer in den ersten Tagen regelmäßig wiederholt, vergisst später gar nichts mehr."
       ],
       "answer": 1,
@@ -156,9 +156,9 @@
       "kind": "detail",
       "q": "Was geschieht laut Text mit den meisten Eindrücken des Alltags?",
       "options": [
-        "Sie gelangen von vornherein nicht ins Langzeitgedächtnis.",
-        "Sie werden im Gehirn wie in einem Archiv für immer abgelegt.",
-        "Sie werden nachts noch einmal durchgespielt und dadurch dauerhaft gespeichert."
+        "Sie werden von vornherein nicht ins Langzeitgedächtnis übernommen.",
+        "Sie werden im Gehirn für immer abgelegt und bei Bedarf abgerufen.",
+        "Sie werden nachts erneut durchgespielt und so dauerhaft gespeichert."
       ],
       "answer": 0,
       "evidence": "Die ständig eintreffenden Reize – Gesichter in der U-Bahn, Werbeslogans, das Wetter von vorletzter Woche – werden größtenteils gar nicht erst dauerhaft gespeichert.",
@@ -183,20 +183,20 @@
       "kind": "paraphrase",
       "q": "Was will der Autor mit dem Satz „Wer also vor einer Prüfung die Nacht durcharbeitet, nimmt dem Gehirn genau die Zeit, die es für diese Arbeit braucht“ sagen?",
       "options": [
-        "Wer nachts arbeitet, braucht für dieselbe Aufgabe mehr Zeit als am Tag.",
+        "Wer nachts arbeitet, braucht für dieselbe Aufgabe länger als tagsüber, weil er müder ist.",
         "Wer vor einer Prüfung zu wenig schläft, kann sich am nächsten Tag schlecht konzentrieren.",
-        "Wer die Nacht vor der Prüfung zum Lernen nutzt, verhindert, dass das Gehirn das Gelernte im Schlaf festigen kann."
+        "Wer die Nacht zum Lernen nutzt, verhindert, dass sich das Gelernte im Schlaf festigt."
       ],
       "answer": 2,
       "evidence": "Wer also vor einer Prüfung die Nacht durcharbeitet, nimmt dem Gehirn genau die Zeit, die es für diese Arbeit braucht.",
       "pairs": [
         [
           "die Nacht durcharbeitet",
-          "die Nacht vor der Prüfung zum Lernen nutzt"
+          "die Nacht zum Lernen nutzt"
         ],
         [
           "nimmt dem Gehirn genau die Zeit, die es für diese Arbeit braucht",
-          "verhindert, dass das Gehirn das Gelernte im Schlaf festigen kann"
+          "verhindert, dass sich das Gelernte im Schlaf festigt"
         ]
       ],
       "explain": "'이 작업'은 앞 문장에서 설명한, 밤에 배운 내용을 다시 재생하고 연결하는 뇌의 작업이에요. 밤을 새우면 뇌가 그 일을 할 시간을 빼앗는다는 말이므로, 잠을 통한 정착이 막힌다는 뜻이에요. 집중력 저하는 상식적으로 맞을 수 있지만 이 문장이 말하는 내용은 아니에요."
@@ -206,16 +206,16 @@
       "kind": "detail",
       "q": "Welchen Rat gibt der Text Lernenden?",
       "options": [
-        "Den Stoff in größeren zeitlichen Abständen erneut durchzugehen und genug zu schlafen.",
+        "Den Stoff in größeren Abständen erneut durchzugehen und genug zu schlafen.",
         "Möglichst viel Stoff in einer Sitzung aufzunehmen, solange man noch frisch ist.",
-        "Vergessene Vokabeln sofort noch einmal auswendig zu lernen."
+        "Vergessene Vokabeln sofort noch einmal auswendig zu lernen, bis sie sitzen."
       ],
       "answer": 0,
       "evidence": "Ein über Wochen verteiltes Wiederholen und ausreichend Schlaf bewirken mehr als jede durchgearbeitete Nacht.",
       "pairs": [
         [
           "über Wochen verteiltes Wiederholen",
-          "in größeren zeitlichen Abständen erneut durchzugehen"
+          "in größeren Abständen erneut durchzugehen"
         ],
         [
           "ausreichend Schlaf",

@@ -45,7 +45,7 @@
       "kind": "detail",
       "q": "Worin bestand laut Text Gutenbergs eigentliche Leistung?",
       "options": [
-        "Er erfand die Druckerpresse, die zuvor niemand gekannt hatte.",
+        "Er erfand eine völlig neue Presse, die es zuvor in Europa nirgendwo gegeben hatte.",
         "Er fügte vorhandene Einzeltechniken zu einem funktionierenden Gesamtsystem zusammen.",
         "Er entwickelte als Erster eine Metalllegierung, aus der sich Buchstaben gießen ließen.",
         "Er übertrug ein Verfahren aus Ostasien auf die Bedürfnisse europäischer Werkstätten."
@@ -79,21 +79,21 @@
       "kind": "detail",
       "q": "Wie endete die Auseinandersetzung zwischen Gutenberg und Fust?",
       "options": [
-        "Gutenberg zahlte seine Schulden zurück und behielt die Werkstatt.",
-        "Beide einigten sich darauf, die Druckerei gemeinsam mit Peter Schöffer weiterzuführen.",
-        "Der Geldgeber setzte sich vor Gericht durch und übernahm den größten Teil des Betriebs.",
-        "Fust verlor den Prozess und musste Gutenberg die Werkstatt überlassen."
+        "Gutenberg zahlte seine Schulden bei Fust zurück und behielt die ganze Werkstatt.",
+        "Beide einigten sich und führten die Druckerei gemeinsam mit Peter Schöffer weiter.",
+        "Der Geldgeber gewann den Prozess und übernahm danach den größten Teil des Betriebs.",
+        "Fust verlor den Prozess und musste Gutenberg die Werkstatt samt Gehilfen überlassen."
       ],
       "answer": 2,
       "evidence": "Fust verklagte seinen Schuldner, und das Gericht entschied zu seinen Gunsten.",
       "pairs": [
         [
           "das Gericht entschied zu seinen Gunsten",
-          "setzte sich vor Gericht durch"
+          "gewann den Prozess"
         ],
         [
           "Ein Großteil der Werkstatt fiel daraufhin an Fust",
-          "übernahm den größten Teil des Betriebs"
+          "übernahm danach den größten Teil des Betriebs"
         ]
       ],
       "explain": "법원이 푸스트에게 유리하게 판결했고 공방의 대부분이 그에게 넘어갔어요. 쇠퍼와 사업을 이어 간 사람은 푸스트이지 두 사람이 함께한 것이 아니에요. 'seinen Schuldner'는 빚진 사람, 즉 구텐베르크를 가리켜요."
@@ -103,9 +103,9 @@
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Die Technik ließ sich jedoch nicht in Mainz festhalten.“?",
       "options": [
-        "Die Mainzer Werkstatt war technisch nicht in der Lage, das Verfahren weiterzuentwickeln.",
-        "Das Wissen um das Verfahren blieb nicht auf eine Stadt beschränkt, sondern verbreitete sich.",
-        "In Mainz durfte nach dem Prozess nicht mehr gedruckt werden.",
+        "Die Mainzer Werkstatt war nicht in der Lage, das Verfahren weiterzuentwickeln.",
+        "Das Verfahren blieb nicht auf eine Stadt beschränkt, sondern breitete sich aus.",
+        "In Mainz wurde das Drucken nach dem Prozess gegen Gutenberg amtlich untersagt.",
         "Die Technik war so kompliziert, dass sie außerhalb von Mainz niemand beherrschte."
       ],
       "answer": 1,
@@ -113,7 +113,7 @@
       "pairs": [
         [
           "ließ sich jedoch nicht in Mainz festhalten",
-          "blieb nicht auf eine Stadt beschränkt, sondern verbreitete sich"
+          "blieb nicht auf eine Stadt beschränkt, sondern breitete sich aus"
         ]
       ],
       "explain": "'마인츠에 붙들어 둘 수 없었다'는 말은 기술이 한 도시에 머물지 않고 퍼져 나갔다는 뜻이에요. 바로 다음 문장에서 직인들이 다른 도시로 가서 인쇄소를 세웠다고 설명해요."
@@ -137,9 +137,9 @@
       "kind": "detail",
       "q": "Warum konnten sich Luthers Texte so schnell verbreiten?",
       "options": [
-        "Weil die Obrigkeit den Nachdruck seiner Schriften ausdrücklich erlaubt hatte.",
-        "Weil Luther selbst in Wittenberg eine große Druckerei betrieb.",
-        "Weil es zu dieser Zeit bereits überall im Reich Druckereien gab.",
+        "Weil die Obrigkeit den Nachdruck seiner Schriften damals ausdrücklich erlaubt hatte.",
+        "Weil Luther in Wittenberg selbst eine große Druckerei mit vielen Gehilfen betrieb.",
+        "Weil bereits überall im Reich Druckereien existierten, die seine Texte nachdruckten.",
         "Weil seine Thesen in lateinischer Sprache für Gelehrte in ganz Europa lesbar waren."
       ],
       "answer": 2,
@@ -171,17 +171,17 @@
       "kind": "meaning",
       "q": "Was bedeutet „schlechthin“ im Satz „in Mainz den Ursprung des Drucks mit beweglichen Lettern schlechthin zu sehen“?",
       "options": [
-        "in einem schlechten, negativen Sinn",
-        "überhaupt, als solchen – ohne jede Einschränkung",
-        "nur in einem bestimmten Zeitraum",
-        "in erster Linie aus wirtschaftlicher Sicht"
+        "in einem schlechten, abwertenden Sinn des Wortes",
+        "im eigentlichen Sinne, ohne jede Einschränkung",
+        "nur für einen bestimmten Zeitraum der Geschichte",
+        "in erster Linie unter wirtschaftlichem Aspekt"
       ],
       "answer": 1,
       "evidence": "wäre es irreführend, in Mainz den Ursprung des Drucks mit beweglichen Lettern schlechthin zu sehen",
       "pairs": [
         [
           "schlechthin",
-          "überhaupt, als solchen"
+          "im eigentlichen Sinne, ohne jede Einschränkung"
         ]
       ],
       "explain": "schlechthin은 명사 뒤에 붙어 '그 자체, 절대적인 의미에서'라는 뜻을 더해요. schlecht(나쁜)와는 관계가 없어요. 마인츠를 금속활자 인쇄 전체의 유일한 기원으로 보는 것은 잘못이라는 말이에요."
@@ -191,21 +191,21 @@
       "kind": "paraphrase",
       "q": "Was will der Autor mit dem Satz „Dass sich die koreanische Technik nicht in vergleichbarer Weise verbreitete, lag nicht an ihrer Qualität, sondern an den Umständen“ sagen?",
       "options": [
-        "Die koreanische Technik war der europäischen unterlegen und konnte sich deshalb nicht durchsetzen.",
-        "Die Verbreitung des Drucks war in Korea gesetzlich verboten.",
-        "Die geringere Verbreitung des koreanischen Drucks erklärt sich aus seiner Einbettung in Staat und Verwaltung, nicht aus technischen Mängeln.",
-        "Die koreanische Technik wurde in Europa übernommen, weil sie qualitativ besser war."
+        "Die koreanische Technik war der europäischen unterlegen und setzte sich deshalb nicht durch.",
+        "Die Verbreitung des Drucks wurde in Korea aus religiösen Gründen gesetzlich verboten.",
+        "In Korea bremste die Bindung an den Staat die Verbreitung, nicht die technische Qualität.",
+        "Die koreanische Technik wurde in Europa übernommen, weil sie besser war als Gutenbergs."
       ],
       "answer": 2,
       "evidence": "Der Druck lag dort weitgehend in staatlicher Hand und diente vor allem der Herstellung einer begrenzten Zahl von Büchern für Hof und Verwaltung.",
       "pairs": [
         [
           "lag nicht an ihrer Qualität",
-          "nicht aus technischen Mängeln"
+          "nicht die technische Qualität"
         ],
         [
           "in staatlicher Hand",
-          "Einbettung in Staat und Verwaltung"
+          "Bindung an den Staat"
         ]
       ],
       "explain": "확산의 차이는 기술의 품질이 아니라 상황, 즉 인쇄가 국가의 손에 있었고 궁정과 관청을 위한 제한된 수의 책만 만들었다는 점 때문이라고 해요. 기술이 뒤떨어졌다거나 법으로 금지되었다는 말은 본문에 없어요."
@@ -218,18 +218,18 @@
         "Gutenberg war ein geschäftlich erfolgreicher Erfinder, dessen Technik vor allem der Kirche nützte.",
         "Der Buchdruck entstand zuerst in Korea und wurde von Gutenberg lediglich nach Europa gebracht.",
         "Die Reformation war die eigentliche Ursache dafür, dass sich der Buchdruck in Europa durchsetzte.",
-        "Eine in Mainz zusammengeführte Technik veränderte Wissen, Religion und Sprache in Europa – auch wenn ihr Erfinder davon wenig hatte und sie nicht der erste Metalldruck der Welt war."
+        "Eine in Mainz zusammengeführte Technik veränderte Wissen, Religion und Sprache in ganz Europa."
       ],
       "answer": 3,
       "evidence": "Um das Jahr 1450 wurde in Mainz eine Technik entwickelt, die das geistige Leben Europas binnen weniger Jahrzehnte umwälzen sollte.",
       "pairs": [
         [
           "das geistige Leben Europas binnen weniger Jahrzehnte umwälzen",
-          "veränderte Wissen, Religion und Sprache in Europa"
+          "veränderte Wissen, Religion und Sprache in ganz Europa"
         ],
         [
-          "profitierte finanziell kaum von seiner Erfindung",
-          "ihr Erfinder davon wenig hatte"
+          "verband mehrere Verfahren",
+          "zusammengeführte Technik"
         ]
       ],
       "explain": "본문은 기술의 결합, 금전적 실패, 유럽 전역으로의 확산, 종교개혁과 언어의 변화, 그리고 직지라는 더 이른 사례까지 다뤄요. 구텐베르크가 사업에 성공했다거나 한국 기술을 가져왔다는 내용은 본문과 달라요. 종교개혁은 인쇄술의 결과이지 원인이 아니에요."

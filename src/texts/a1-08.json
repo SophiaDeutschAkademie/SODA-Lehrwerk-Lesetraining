@@ -51,9 +51,9 @@
       "kind": "detail",
       "q": "Was verkauft Lukas auf dem Flohmarkt?",
       "options": [
-        "Lampen und Bücher",
-        "alte Sachen zum Anziehen und zum Lesen",
-        "Eis und Kaffee"
+        "alte Bücher und alte Lampen",
+        "Sachen zum Anziehen und Lesen",
+        "Eis und Kaffee aus dem Eiscafé"
       ],
       "answer": 1,
       "evidence": "am Sonntag verkaufe ich auf dem Flohmarkt im Stadtpark alte Bücher und Kleidung.",
@@ -64,18 +64,18 @@
         ],
         [
           "Bücher",
-          "zum Lesen"
+          "Lesen"
         ]
       ],
-      "explain": "루카스는 헌책과 헌 옷을 팔아요. 옷을 '입을 것'(Sachen zum Anziehen), 책을 '읽을 것'(zum Lesen)으로 바꿔 말했어요. 램프는 옆 가판대에서 파는 것이고, 아이스크림과 커피는 루카스가 파는 물건이 아니에요."
+      "explain": "루카스는 헌책과 헌 옷을 팔아요. 옷과 책을 '입고 읽을 것'(Sachen zum Anziehen und Lesen)으로 바꿔 말했어요. 램프는 옆 가판대에서 파는 것이고, 아이스크림과 커피는 루카스가 파는 물건이 아니에요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Wo steigt Dana aus?",
       "options": [
-        "an der Kirche",
-        "direkt am Flohmarkt im Stadtpark",
+        "an der Kirche vor der Brücke",
+        "direkt am Flohmarkt im Park",
         "an der Station „Stadtpark“"
       ],
       "answer": 2,
@@ -112,7 +112,7 @@
       "q": "Wo genau ist der Stand von Lukas?",
       "options": [
         "zwischen dem Eiscafé und dem Spielplatz",
-        "zwischen zwei anderen Ständen, direkt am Eiscafé",
+        "zwischen zwei Ständen, direkt am Eiscafé",
         "hinter dem Eiscafé, neben dem Spielplatz"
       ],
       "answer": 1,
@@ -120,14 +120,14 @@
       "pairs": [
         [
           "zwischen einem Bücherstand und einem Stand mit Lampen",
-          "zwischen zwei anderen Ständen"
+          "zwischen zwei Ständen"
         ],
         [
           "direkt neben dem Eiscafé",
           "direkt am Eiscafé"
         ]
       ],
-      "explain": "루카스의 가판대는 아이스크림 가게 바로 옆이고, 책 가판대와 램프 가판대 사이에 있어요. 두 가판대를 '다른 두 가판대'(zwei anderen Ständen)로 바꿔 말했어요. 놀이터는 맞은편(gegenüber)에 있어요. 가판대가 아이스크림 가게와 놀이터 사이에 있는 것은 아니에요."
+      "explain": "루카스의 가판대는 아이스크림 가게 바로 옆이고, 책 가판대와 램프 가판대 사이에 있어요. 책 가판대와 램프 가판대를 '두 가판대'(zwei Ständen)로 바꿔 말했어요. 놀이터는 맞은편(gegenüber)에 있어요. 가판대가 아이스크림 가게와 놀이터 사이에 있는 것은 아니에요."
     },
     {
       "type": "mc",
@@ -135,8 +135,8 @@
       "q": "Was soll Dana mitbringen?",
       "options": [
         "etwas zu trinken für Lukas",
-        "ein rotes Tuch gegen die Sonne",
-        "ein Eis aus dem Eiscafé"
+        "ein rotes Tuch für den Tisch",
+        "ein Eis vom Eiscafé nebenan"
       ],
       "answer": 0,
       "evidence": "Bring mir bitte einen Kaffee mit",

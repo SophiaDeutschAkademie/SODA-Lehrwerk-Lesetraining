@@ -87,12 +87,12 @@
       "q": "Womit erklärt der Personalrat, dass die Arbeit trotz des freien Tages geschafft wird?",
       "options": [
         "Die Beschäftigten arbeiten an den übrigen vier Tagen entsprechend länger.",
-        "Die Arbeit wurde effizienter organisiert, und ein Teil der Anliegen wird digital erledigt.",
-        "Die Stadt hat zusätzliches Personal für das Bürgerbüro eingestellt."
+        "Die Arbeit wurde effizienter organisiert, und manche Anliegen laufen digital.",
+        "Die Stadt hat zusätzliches Personal für die Terminvergabe im Rathaus eingestellt."
       ],
       "answer": 1,
       "evidence": "vielmehr habe man die Abläufe gestrafft: Besprechungen seien kürzer geworden, und viele Anträge könnten die Bürger inzwischen online stellen.",
-      "pairs": [["die Abläufe gestrafft", "effizienter organisiert"], ["viele Anträge könnten die Bürger inzwischen online stellen", "ein Teil der Anliegen wird digital erledigt"]],
+      "pairs": [["die Abläufe gestrafft", "effizienter organisiert"], ["viele Anträge könnten die Bürger inzwischen online stellen", "manche Anliegen laufen digital"]],
       "explain": "직원 협의회장은 쉬는 날이 그냥 주어지는 것이 아니라 업무 절차를 간소화했다고(die Abläufe gestrafft) 설명하면서, 짧아진 회의와 온라인 신청을 예로 들어요. 이것을 '업무를 더 효율적으로 조직했고 일부 용무는 디지털로 처리한다'로 바꿔 말했어요. 남은 나흘 동안 더 오래 일한다거나 사람을 새로 뽑았다는 설명은 하지 않아요."
     },
     {

@@ -59,27 +59,27 @@
       "kind": "detail",
       "q": "Warum ging Bertha Benz in Wiesloch in eine Apotheke?",
       "options": [
-        "weil die Bremsen repariert werden mussten",
+        "weil die Bremsen dringend repariert werden mussten",
         "weil sie ein Medikament für ihre Söhne brauchte",
-        "weil der Tank leer war"
+        "weil ihr unterwegs der Treibstoff ausgegangen war"
       ],
       "answer": 2,
       "evidence": "Als der Kraftstoff zu Ende ging",
-      "pairs": [["der Kraftstoff zu Ende ging", "der Tank leer war"]],
-      "explain": "연료가 떨어졌을 때 약국에서 리그로인을 샀어요. der Kraftstoff ging zu Ende를 der Tank war leer로 바꿔 말했어요. 브레이크 수리는 구두 수선공이 했고, 약에 관한 이야기는 본문에 없어요."
+      "pairs": [["der Kraftstoff zu Ende ging", "der Treibstoff ausgegangen war"]],
+      "explain": "연료가 떨어졌을 때 약국에서 리그로인을 샀어요. der Kraftstoff ging zu Ende를 ihr war der Treibstoff ausgegangen으로 바꿔 말했어요. 브레이크 수리는 구두 수선공이 했고, 약에 관한 이야기는 본문에 없어요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Die Apotheke wird deshalb heute oft als erste Tankstelle der Welt bezeichnet“?",
       "options": [
-        "Die Apotheke wurde später zu einer Tankstelle umgebaut.",
-        "Weil Bertha Benz dort Kraftstoff für ihr Auto kaufte, nennt man die Apotheke heute so.",
-        "In Wiesloch steht heute die älteste Tankstelle Deutschlands."
+        "Die Apotheke wurde nach der Fahrt zu einer Tankstelle umgebaut.",
+        "Weil Bertha Benz dort Kraftstoff kaufte, nennt man die Apotheke so.",
+        "In Wiesloch steht heute noch die älteste Tankstelle Deutschlands."
       ],
       "answer": 1,
       "evidence": "ein Reinigungsmittel, das damals als Treibstoff diente",
-      "pairs": [["als erste Tankstelle der Welt bezeichnet", "nennt man die Apotheke heute so"], ["Ligroin, ein Reinigungsmittel, das damals als Treibstoff diente", "Kraftstoff für ihr Auto"]],
+      "pairs": [["als erste Tankstelle der Welt bezeichnet", "nennt man die Apotheke so"], ["Ligroin, ein Reinigungsmittel, das damals als Treibstoff diente", "Kraftstoff kaufte"]],
       "explain": "deshalb는 앞 문장을 가리켜요. 베르타 벤츠가 그 약국에서 연료로 쓸 리그로인을 샀기 때문에 사람들이 오늘날 그 약국을 '세계 최초의 주유소'라고 부른다는 뜻이에요. 약국이 실제로 주유소로 바뀌었다거나 지금 주유소가 있다는 말은 아니에요."
     },
     {
@@ -98,11 +98,11 @@
       "options": [
         "Bertha Benz schaltete in einen zusätzlichen Gang für Steigungen.",
         "Die Mutter lenkte, und der Motor zog den Wagen langsam hinauf.",
-        "Die beiden Jungen mussten mit Muskelkraft nachhelfen."
+        "Die beiden Jungen mussten mit Muskelkraft am Wagen nachhelfen."
       ],
       "answer": 2,
       "evidence": "Dann mussten die Söhne schieben, während ihre Mutter lenkte.",
-      "pairs": [["die Söhne", "Die beiden Jungen"], ["schieben", "mit Muskelkraft nachhelfen"]],
+      "pairs": [["die Söhne", "Die beiden Jungen"], ["schieben", "mit Muskelkraft am Wagen nachhelfen"]],
       "explain": "오르막에서는 엔진의 힘이 모자라서 아들들이 차를 밀어야 했어요. 이것을 '두 소년이 근육의 힘으로 도와야 했다'로 바꿔 말했어요. 오르막용 기어는 여행 뒤에 제안한 것이고, 엔진이 차를 끌어올렸다는 것은 본문과 반대예요."
     },
     {
@@ -119,13 +119,13 @@
       "kind": "paraphrase",
       "q": "Was ist mit dem Satz „Man konnte damit wirklich reisen“ gemeint?",
       "options": [
-        "Das Auto war nicht nur etwas zum Vorführen, sondern ein brauchbares Verkehrsmittel.",
-        "Mit dem Auto kam man schneller ans Ziel als mit der Eisenbahn.",
-        "Die Fahrt nach Pforzheim war trotz der Pannen bequem."
+        "Das Auto war nicht bloß zum Vorführen da, sondern ein Verkehrsmittel.",
+        "Mit dem Auto kam man damals schneller ans Ziel als mit der Eisenbahn.",
+        "Die Fahrt von Mannheim nach Pforzheim war trotz aller Pannen bequem."
       ],
       "answer": 0,
       "evidence": "Vor allem aber hatte sie bewiesen, dass das Automobil mehr war als ein teures Spielzeug",
-      "pairs": [["mehr war als ein teures Spielzeug", "nicht nur etwas zum Vorführen"], ["wirklich reisen", "ein brauchbares Verkehrsmittel"]],
+      "pairs": [["mehr war als ein teures Spielzeug", "nicht bloß zum Vorführen da"], ["wirklich reisen", "ein Verkehrsmittel"]],
       "explain": "바로 앞에서 자동차가 비싼 장난감 이상이라는 것을 증명했다고 해요. 즉 자동차는 구경거리가 아니라 실제로 쓸 수 있는 교통수단이라는 뜻이에요. 기차와 비교하거나 여행이 편했다는 말은 본문에 없고, 여행은 오히려 문제가 많았어요."
     }
   ],

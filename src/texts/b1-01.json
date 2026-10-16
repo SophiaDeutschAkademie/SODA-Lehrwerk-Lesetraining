@@ -60,7 +60,7 @@
       "options": [
         "Nur die Vorsitzende kaufte am ersten Abend Anteile.",
         "Sie warteten einige Wochen, bevor sie Anteile kauften.",
-        "Viele beteiligten sich sofort mit Geld."
+        "Viele Dorfbewohner beteiligten sich sofort mit Geld."
       ],
       "answer": 2,
       "evidence": "schon am ersten Abend wurden mehr als 100 Anteile verkauft",
@@ -72,13 +72,13 @@
       "kind": "detail",
       "q": "Wer kümmert sich um die Buchhaltung des Ladens?",
       "options": [
-        "bezahlte Mitarbeiter",
-        "ehrenamtliche Helfer",
+        "die bezahlten Mitarbeiter im Laden",
+        "die ehrenamtlichen Helfer im Laden",
         "die Vorsitzende der Genossenschaft"
       ],
       "answer": 0,
       "evidence": "Die Angestellten kümmern sich um Kasse, Bestellungen und Buchhaltung",
-      "pairs": [["Die Angestellten", "bezahlte Mitarbeiter"]],
+      "pairs": [["Die Angestellten", "bezahlten Mitarbeiter"]],
       "explain": "계산대와 주문, 회계는 Angestellte, 즉 급여를 받는 직원들이 맡아요. 자원봉사자들은 진열대 정리와 커피, 토요일 판매를 돕고, 회장이 회계를 본다는 말은 없어요."
     },
     {
@@ -88,7 +88,7 @@
       "options": [
         "Die Kartoffeln werden im Laden selbst angebaut.",
         "Die Kunden kennen die Herkunft der Lebensmittel.",
-        "Die Kunden müssen die Kartoffeln selbst von den Höfen holen."
+        "Die Kunden holen die Kartoffeln selbst vom Hof ab."
       ],
       "answer": 1,
       "evidence": "Obst, Eier, Käse und Fleisch werden von Höfen aus der Region geliefert, meistens früh am Morgen.",

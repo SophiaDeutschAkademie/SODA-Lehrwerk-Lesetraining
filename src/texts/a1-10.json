@@ -40,9 +40,9 @@
       "kind": "match",
       "q": "Wer steht am Samstag spät auf?",
       "options": [
-        "Jonas",
-        "Ana Petrović",
-        "Herr Brandt"
+        "Jonas, 17 Jahre",
+        "Ana Petrović, 45",
+        "Herr Brandt, 70"
       ],
       "answer": 0,
       "evidence": "Am Samstag schlafe ich immer lange.",
@@ -59,9 +59,9 @@
       "kind": "match",
       "q": "Wer hat nicht jedes Wochenende frei?",
       "options": [
-        "Jonas",
-        "Ana Petrović",
-        "Herr Brandt"
+        "Jonas, 17 Jahre",
+        "Ana Petrović, 45",
+        "Herr Brandt, 70"
       ],
       "answer": 1,
       "evidence": "Manchmal arbeite ich am Samstag.",
@@ -78,9 +78,9 @@
       "kind": "match",
       "q": "Wer verliert beim Spielen fast immer?",
       "options": [
-        "Jonas",
-        "Ana Petrović",
-        "Herr Brandt"
+        "Jonas, 17 Jahre",
+        "Ana Petrović, 45",
+        "Herr Brandt, 70"
       ],
       "answer": 2,
       "evidence": "Ich gewinne fast nie.",
@@ -97,9 +97,9 @@
       "kind": "match",
       "q": "Wer macht am Sonntag mit jemandem aus der Familie Sport?",
       "options": [
-        "Jonas",
-        "Ana Petrović",
-        "Herr Brandt"
+        "Jonas, 17 Jahre",
+        "Ana Petrović, 45",
+        "Herr Brandt, 70"
       ],
       "answer": 2,
       "evidence": "Sonntags fahre ich mit meinem Enkel Leo Rad.",

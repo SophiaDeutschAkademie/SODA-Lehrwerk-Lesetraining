@@ -65,13 +65,13 @@
       "kind": "detail",
       "q": "Was passiert laut Text, wenn das Fenster den ganzen Tag gekippt bleibt?",
       "options": [
-        "Die Luft wird ständig erneuert, aber es wird zu kalt im Zimmer.",
-        "Die Luft bleibt fast gleich, während die Wände rund um das Fenster viel Wärme verlieren.",
-        "Die Wände trocknen aus, weil zu viel Luft hereinkommt."
+        "Die Luft wird ständig erneuert, aber dadurch wird es zu kalt im Zimmer.",
+        "Die Luft bleibt fast gleich, aber die Wände am Fenster verlieren Wärme.",
+        "Die Wände um das Fenster trocknen aus, weil zu viel Luft hereinkommt."
       ],
       "answer": 1,
       "evidence": "Dabei wird die Luft kaum ausgetauscht, aber die Wände um das Fenster kühlen stark aus.",
-      "pairs": [["kaum ausgetauscht", "bleibt fast gleich"], ["kühlen stark aus", "viel Wärme verlieren"]],
+      "pairs": [["kaum ausgetauscht", "bleibt fast gleich"], ["kühlen stark aus", "verlieren Wärme"]],
       "explain": "창문을 조금만 열어 두면 공기는 거의 바뀌지 않고(kaum ausgetauscht) 창문 주변 벽만 심하게 식어요(kühlen stark aus). 첫 번째 선택지는 공기가 계속 바뀐다고 해서 틀리고, 세 번째는 본문에 없는 내용이에요."
     },
     {
@@ -79,13 +79,13 @@
       "kind": "detail",
       "q": "Was ist mit „Durchzug“ gemeint?",
       "options": [
-        "Man öffnet mehrere Fenster, die sich gegenüberliegen, zur gleichen Zeit.",
-        "Man lässt ein Fenster fünf bis zehn Minuten lang gekippt.",
-        "Man öffnet alle Fenster der Wohnung nacheinander."
+        "Man öffnet mehrere gegenüberliegende Fenster zur gleichen Zeit.",
+        "Man lässt ein Fenster im Winter fünf bis zehn Minuten lang gekippt.",
+        "Man öffnet alle Fenster der Wohnung nacheinander für einige Minuten."
       ],
       "answer": 0,
       "evidence": "Dafür öffnet man Fenster auf zwei Seiten der Wohnung gleichzeitig.",
-      "pairs": [["Fenster auf zwei Seiten der Wohnung", "mehrere Fenster, die sich gegenüberliegen"], ["gleichzeitig", "zur gleichen Zeit"]],
+      "pairs": [["Fenster auf zwei Seiten der Wohnung", "mehrere gegenüberliegende Fenster"], ["gleichzeitig", "zur gleichen Zeit"]],
       "explain": "맞바람 환기(Durchzug)는 집의 양쪽에 있는 창문을 동시에 여는 것이에요. gleichzeitig를 zur gleichen Zeit로 바꿔 말했어요. 창문을 조금만 열어 두는 것은 본문이 피하라고 하는 방법이고, 차례로 연다는 말은 없어요."
     },
     {
@@ -94,12 +94,12 @@
       "q": "Was bedeutet der Satz „Drehen Sie die Heizkörper herunter, bevor Sie die Fenster öffnen, damit die Wärme nicht direkt nach draußen entweicht“?",
       "options": [
         "Man soll die Heizung ausschalten und erst am nächsten Tag wieder einschalten.",
-        "Bei offenem Fenster soll die Heizung niedrig stehen, sonst heizt man für die Straße.",
-        "Man soll die Fenster nur öffnen, wenn die Heizkörper schon kalt sind."
+        "Bei offenem Fenster soll die Heizung niedrig stehen, sonst heizt man umsonst.",
+        "Man soll die Fenster nur öffnen, wenn die Heizkörper schon ganz kalt sind."
       ],
       "answer": 1,
       "evidence": "Ein kurz gelüfteter Raum ist nämlich schnell wieder warm, weil die Wände ihre Wärme behalten haben.",
-      "pairs": [["die Heizkörper herunter", "die Heizung niedrig"], ["damit die Wärme nicht direkt nach draußen entweicht", "sonst heizt man für die Straße"]],
+      "pairs": [["die Heizkörper herunter", "die Heizung niedrig"], ["damit die Wärme nicht direkt nach draußen entweicht", "sonst heizt man umsonst"]],
       "explain": "창문이 열려 있는 동안 난방을 줄이라는 뜻이에요. 그렇지 않으면 난방 에너지가 바깥으로 빠져나가 버려요. 다음 날까지 끄라는 것은 '환기 뒤 바로 다시 켜라'는 본문과 맞지 않고, 라디에이터가 완전히 식은 뒤에만 창문을 열라는 말도 없어요."
     },
     {
@@ -116,13 +116,13 @@
       "kind": "detail",
       "q": "Was empfiehlt der Text für die Küche?",
       "options": [
-        "Beim Kochen sollte die Tür offen bleiben, damit der Dampf sich verteilt.",
-        "Man sollte den Dampf durch das Fenster entweichen lassen und verhindern, dass er in den Rest der Wohnung zieht.",
+        "Beim Kochen sollte die Küchentür offen bleiben, damit der Dampf sich verteilt.",
+        "Der Dampf sollte durchs Fenster entweichen und nicht in die Wohnung ziehen.",
         "In der Küche sollte man die Wäsche trocknen, weil es dort am wärmsten ist."
       ],
       "answer": 1,
       "evidence": "Schließen Sie beim Kochen die Küchentür, um den Dampf im Raum zu halten, und öffnen Sie gleichzeitig das Fenster.",
-      "pairs": [["Schließen Sie beim Kochen die Küchentür", "verhindern, dass er in den Rest der Wohnung zieht"], ["öffnen Sie gleichzeitig das Fenster", "den Dampf durch das Fenster entweichen lassen"]],
+      "pairs": [["Schließen Sie beim Kochen die Küchentür", "nicht in die Wohnung ziehen"], ["öffnen Sie gleichzeitig das Fenster", "durchs Fenster entweichen"]],
       "explain": "요리할 때는 주방 문을 닫아 수증기를 주방 안에 가두고, 동시에 창문을 열어 밖으로 내보내라고 해요. 문을 열어 두라는 첫 번째 선택지는 반대 내용이고, 빨래를 주방에서 말리라는 말은 본문에 없어요."
     },
     {
@@ -130,13 +130,13 @@
       "kind": "paraphrase",
       "q": "Was will der Text mit dem Satz „Liegt sie längere Zeit darüber, muss man öfter lüften“ sagen?",
       "options": [
-        "Wenn die Luftfeuchtigkeit lange über 60 Prozent bleibt, sollte man häufiger die Fenster öffnen.",
+        "Wenn die Luft lange feuchter als 60 Prozent ist, sollte man häufiger Fenster öffnen.",
         "Wenn das Hygrometer länger als 60 Minuten misst, zeigt es die Werte genauer an.",
-        "Wenn die Möbel zu lange an der Wand stehen, muss man sie öfter abrücken."
+        "Wenn die Möbel zu lange direkt an der Außenwand stehen, muss man sie öfter abrücken."
       ],
       "answer": 0,
       "evidence": "Die Luftfeuchtigkeit sollte grob zwischen 40 und 60 Prozent liegen.",
-      "pairs": [["Liegt sie längere Zeit darüber", "Wenn die Luftfeuchtigkeit lange über 60 Prozent bleibt"], ["muss man öfter lüften", "sollte man häufiger die Fenster öffnen"]],
+      "pairs": [["Liegt sie längere Zeit darüber", "Wenn die Luft lange feuchter als 60 Prozent ist"], ["muss man öfter lüften", "sollte man häufiger Fenster öffnen"]],
       "explain": "sie는 앞 문장의 습도(Luftfeuchtigkeit)를, darüber는 40에서 60퍼센트라는 범위의 윗값을 가리켜요. 그래서 습도가 오랫동안 60퍼센트를 넘으면 더 자주 환기하라는 뜻이에요. 이 문장은 wenn 없이 동사가 맨 앞에 온 조건문이에요."
     },
     {

@@ -45,24 +45,24 @@
       "kind": "detail",
       "q": "Woher stammten die Wölfe, deren Nachwuchs im Jahr 2000 in der Lausitz zur Welt kam?",
       "options": [
-        "Sie waren aus Nordamerika angesiedelt worden.",
-        "Sie waren aus dem östlichen Nachbarland über die Grenze gekommen.",
-        "Sie stammten aus einer Zucht im Norden Niedersachsens.",
-        "Sie waren die letzten Überlebenden der deutschen Population."
+        "Sie waren von Naturschützern aus Nordamerika angesiedelt worden.",
+        "Sie waren aus dem Nachbarland im Osten über die Grenze gekommen.",
+        "Sie stammten aus einem Zuchtprogramm im Norden Niedersachsens.",
+        "Sie waren die letzten Überlebenden der deutschen Wolfspopulation."
       ],
       "answer": 1,
       "evidence": "Nachkommen von Tieren, die aus Polen eingewandert waren",
       "pairs": [
         [
           "aus Polen eingewandert",
-          "aus dem östlichen Nachbarland über die Grenze gekommen"
+          "aus dem Nachbarland im Osten über die Grenze gekommen"
         ],
         [
           "Welpen",
           "Nachwuchs"
         ]
       ],
-      "explain": "본문은 2000년에 태어난 새끼들이 폴란드에서 넘어온 늑대들의 후손이라고 해요. Polen을 '동쪽 이웃 나라'로, eingewandert(이주해 왔다)를 '국경을 넘어왔다'로 바꿔 말했어요. 북미는 생태적 변화를 관찰한 곳으로만, 니더작센은 현재 서식지로만 언급돼요."
+      "explain": "본문은 2000년에 태어난 새끼들이 폴란드에서 넘어온 늑대들의 후손이라고 해요. Polen을 '동쪽 이웃 나라(Nachbarland im Osten)'로, eingewandert(이주해 왔다)를 '국경을 넘어왔다'로 바꿔 말했어요. 북미는 생태적 변화를 관찰한 곳으로만, 니더작센은 현재 서식지로만 언급돼요."
     },
     {
       "type": "rfn",
@@ -91,24 +91,24 @@
       "kind": "paraphrase",
       "q": "Was ist mit dem Satz „Der dadurch entstehende Druck auf die Wildbestände kann der Verjüngung der Wälder zugutekommen, weil weniger junge Bäume verbissen werden.“ gemeint?",
       "options": [
-        "Weil Wölfe Rehe und Hirsche jagen und so deren Zahl begrenzen, können nachwachsende Bäume besser gedeihen.",
-        "Weil der Wald sich verjüngt, finden Wölfe dort mehr junge Beutetiere.",
-        "Der Druck durch die Jagd führt dazu, dass die Wildbestände in jüngere Wälder abwandern.",
-        "Wölfe schützen junge Bäume, indem sie sich von Rinde und Trieben ernähren."
+        "Wölfe dezimieren Rehe und Hirsche, sodass junge Bäume besser nachwachsen können.",
+        "Weil der Wald sich verjüngt, finden Wölfe dort mehr Deckung und junge Beutetiere.",
+        "Der Druck durch die Jagd lässt die Wildbestände in andere, jüngere Wälder abwandern.",
+        "Wölfe schützen junge Bäume, indem sie sich vor allem von Rinde und Trieben ernähren."
       ],
       "answer": 0,
       "evidence": "Der dadurch entstehende Druck auf die Wildbestände kann der Verjüngung der Wälder zugutekommen, weil weniger junge Bäume verbissen werden.",
       "pairs": [
         [
           "Druck auf die Wildbestände",
-          "deren Zahl begrenzen"
+          "Wölfe dezimieren Rehe und Hirsche"
         ],
         [
           "kann der Verjüngung der Wälder zugutekommen",
-          "können nachwachsende Bäume besser gedeihen"
+          "junge Bäume besser nachwachsen können"
         ]
       ],
-      "explain": "늑대가 노루와 사슴을 사냥해 야생동물 개체 수에 압력을 주면, 어린 나무가 덜 뜯어 먹혀 숲의 재생에 도움이 될 수 있다(kann)는 인과 관계예요. Druck auf die Wildbestände를 '수를 제한한다'로, der Verjüngung der Wälder zugutekommen을 '어린 나무가 더 잘 자랄 수 있다'로 바꿔 말했어요. 원인과 결과를 뒤집은 선택지와 늑대가 나무껍질과 새순을 먹는다는 선택지는 함정이에요."
+      "explain": "늑대가 노루와 사슴을 사냥해 야생동물 개체 수에 압력을 주면, 어린 나무가 덜 뜯어 먹혀 숲의 재생에 도움이 될 수 있다(kann)는 인과 관계예요. Druck auf die Wildbestände를 '노루와 사슴을 줄인다(dezimieren)'로, der Verjüngung der Wälder zugutekommen을 '어린 나무가 더 잘 다시 자랄 수 있다(besser nachwachsen können)'로 바꿔 말했어요. 원인과 결과를 뒤집은 선택지와 늑대가 나무껍질과 새순을 먹는다는 선택지는 함정이에요."
     },
     {
       "type": "rfn",
@@ -133,24 +133,24 @@
       "kind": "detail",
       "q": "Warum greifen Wölfe laut Text Nutztiere an, obwohl es genug Wild gibt?",
       "options": [
-        "weil das Wild in den intensiv genutzten Wäldern immer seltener wird",
+        "weil das Wild in den intensiv genutzten Wäldern immer seltener zu finden ist",
         "weil Herdenschutzhunde die Wölfe von ihren natürlichen Beutetieren fernhalten",
-        "weil Tiere auf einer Weide ohne Schutz eine bequemere Beute sind als Wild, das wegläuft",
-        "weil Wölfe erst noch lernen müssen, Schafe von Rehen zu unterscheiden"
+        "weil Weidetiere ohne Schutz bequemere Beute sind als Wild, das wegläuft",
+        "weil Wölfe erst lernen müssen, Schafe und Ziegen von Rehen zu unterscheiden"
       ],
       "answer": 2,
       "evidence": "denn ungeschützte Nutztiere sind leichter zu erbeuten als ein flüchtendes Reh",
       "pairs": [
         [
           "ungeschützte Nutztiere",
-          "Tiere auf einer Weide ohne Schutz"
+          "Weidetiere ohne Schutz"
         ],
         [
           "leichter zu erbeuten als ein flüchtendes Reh",
-          "eine bequemere Beute sind als Wild, das wegläuft"
+          "bequemere Beute sind als Wild, das wegläuft"
         ]
       ],
-      "explain": "본문은 보호받지 못하는 가축이 달아나는 노루보다 사냥하기 쉽기 때문이라고 해요. ungeschützt를 ohne Schutz로, leichter zu erbeuten을 bequemere Beute로, flüchtend를 관계절 das wegläuft로 바꿨어요. 야생 먹잇감은 오히려 풍부하다(reiches Wildangebot)고 되어 있어요."
+      "explain": "본문은 보호받지 못하는 가축이 달아나는 노루보다 사냥하기 쉽기 때문이라고 해요. Nutztiere를 Weidetiere로, ungeschützt를 ohne Schutz로, leichter zu erbeuten을 bequemere Beute로, flüchtend를 관계절 das wegläuft로 바꿨어요. 야생 먹잇감은 오히려 풍부하다(reiches Wildangebot)고 되어 있어요."
     },
     {
       "type": "mc",
@@ -158,8 +158,8 @@
       "q": "Was bedeutet „in Kauf nehmen“ im Text?",
       "options": [
         "sich gegen einen möglichen Schaden versichern",
-        "etwas zu einem günstigen Preis erwerben",
-        "einen Verlust vom Staat ersetzt bekommen",
+        "etwas zu einem günstigen Preis im Laden erwerben",
+        "einen finanziellen Verlust erstattet bekommen",
         "ein Risiko oder einen Nachteil bewusst hinnehmen"
       ],
       "answer": 3,
@@ -191,10 +191,10 @@
       "kind": "detail",
       "q": "Mit welchem Argument wenden sich die Naturschutzverbände gegen das Töten einzelner Wölfe?",
       "options": [
-        "Die betroffenen Wölfe hätten das Überwinden von Zäunen längst wieder verlernt.",
-        "Die Zahl der Wölfe sei noch zu gering, um Abschüsse zu rechtfertigen.",
-        "Ohne vollständiges Rudel zögen die übrigen Tiere ziellos durch die Gegend und kämen eher bis an bewohnte Gebiete heran.",
-        "Wissenschaftliche Studien hätten die Wirksamkeit von Abschüssen eindeutig widerlegt."
+        "Die betroffenen Wölfe hätten das Überwinden von Zäunen längst wieder verlernt und seien deshalb ungefährlich.",
+        "Die Zahl der Wölfe sei noch immer zu gering, um Abschüsse in einem Land wie Deutschland zu rechtfertigen.",
+        "Ohne vollständiges Rudel zögen die übrigen Tiere ziellos umher und kämen eher bis an bewohnte Gebiete heran.",
+        "Wissenschaftliche Studien aus mehreren Ländern hätten die Wirksamkeit von Abschüssen eindeutig widerlegt."
       ],
       "answer": 2,
       "evidence": "Wird ein Rudel auseinandergerissen, streifen die verbliebenen Tiere umher und nähern sich eher den Siedlungen.",
@@ -205,24 +205,24 @@
         ],
         [
           "streifen die verbliebenen Tiere umher",
-          "zögen die übrigen Tiere ziellos durch die Gegend"
+          "zögen die übrigen Tiere ziellos umher"
         ],
         [
           "nähern sich eher den Siedlungen",
           "kämen eher bis an bewohnte Gebiete heran"
         ]
       ],
-      "explain": "자연보호단체는 무리가 흩어지면 남은 늑대들이 떠돌다가 오히려 주거지에 더 가까이 온다고 주장해요. umherstreifen(떠돌아다니다)을 ziellos durch die Gegend ziehen으로, sich den Siedlungen nähern(주거지에 다가가다)을 bis an bewohnte Gebiete herankommen(사람이 사는 곳 가까이까지 오다)으로 바꿨어요. 연구가 사살의 효과를 '명백히 반박했다'는 말은 없고, 양쪽 다 연구를 근거로 든다고 되어 있어요."
+      "explain": "자연보호단체는 무리가 흩어지면 남은 늑대들이 떠돌다가 오히려 주거지에 더 가까이 온다고 주장해요. umherstreifen(떠돌아다니다)을 ziellos umherziehen으로, sich den Siedlungen nähern(주거지에 다가가다)을 bis an bewohnte Gebiete herankommen(사람이 사는 곳 가까이까지 오다)으로 바꿨어요. 연구가 사살의 효과를 '명백히 반박했다'는 말은 없고, 양쪽 다 연구를 근거로 든다고 되어 있어요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Dass der Wolf bleibt, bezweifelt heute kaum noch jemand.“?",
       "options": [
-        "Fast niemand glaubt mehr daran, dass der Wolf in Deutschland eine Zukunft hat.",
-        "Es gilt inzwischen als nahezu sicher, dass der Wolf dauerhaft in Deutschland leben wird.",
-        "Nur wenige Menschen wissen überhaupt, dass der Wolf zurückgekehrt ist.",
-        "Die meisten Menschen wünschen sich, dass der Wolf im Land bleibt."
+        "Fast niemand glaubt mehr daran, dass der Wolf in Deutschland noch eine Zukunft hat.",
+        "Es gilt inzwischen als nahezu sicher, dass der Wolf dauerhaft in Deutschland lebt.",
+        "Nur wenige Menschen wissen überhaupt, dass der Wolf nach Deutschland zurückgekehrt ist.",
+        "Die meisten Menschen in Deutschland wünschen sich, dass der Wolf im Land bleibt."
       ],
       "answer": 1,
       "evidence": "Dass der Wolf bleibt, bezweifelt heute kaum noch jemand.",
@@ -233,7 +233,7 @@
         ],
         [
           "Dass der Wolf bleibt",
-          "dauerhaft in Deutschland leben wird"
+          "dauerhaft in Deutschland lebt"
         ]
       ],
       "explain": "'의심하는 사람이 거의 없다'는 것은 곧 '거의 모두가 확실하다고 여긴다'는 뜻이에요. kaum noch jemand(거의 아무도 ~않다)와 bezweifeln(의심하다)이 합쳐져 강한 확신을 나타내므로, 첫 번째 선택지처럼 '거의 아무도 믿지 않는다'로 읽으면 정반대가 돼요. 사람들이 늑대가 머물기를 바라는지는 이 문장이 말하지 않아요."
@@ -243,10 +243,10 @@
       "kind": "gist",
       "q": "Welche Aussage gibt die Grundhaltung des Textes am besten wieder?",
       "options": [
-        "Der Wolf stellt für die Landwirtschaft eine so große Gefahr dar, dass seine Zahl rasch verringert werden muss.",
-        "Die Rückkehr des Wolfes ist ökologisch wünschenswert, erfordert aber einen Ausgleich zwischen Naturschutz und den Interessen der Tierhalter.",
-        "Die Konflikte um den Wolf sind übertrieben, da Herdenschutz alle Probleme zuverlässig löst.",
-        "Die Entscheidung über den Umgang mit dem Wolf sollte allein der Wissenschaft überlassen werden."
+        "Der Wolf ist für die Landwirtschaft eine so große Gefahr, dass seine Zahl rasch verringert werden muss.",
+        "Die Rückkehr des Wolfes ist ökologisch wünschenswert, erfordert aber einen Ausgleich mit den Tierhaltern.",
+        "Die Konflikte um den Wolf sind übertrieben, weil ausreichender Herdenschutz alle Probleme zuverlässig löst.",
+        "Die Entscheidung über den Umgang mit dem Wolf sollte der Wissenschaft und nicht der Politik überlassen werden."
       ],
       "answer": 1,
       "evidence": "Eine Politik, die dieser Spannung Rechnung tragen will, muss gleichzeitig den Schutz der Weidetiere ernst nehmen, die Sorgen der ländlichen Bevölkerung anerkennen und die ökologische Bedeutung des Wolfes im Blick behalten.",

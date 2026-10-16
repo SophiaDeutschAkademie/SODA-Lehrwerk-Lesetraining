@@ -41,7 +41,7 @@
       "options": [
         "Dinge für Regenwetter",
         "Geräte zum Telefonieren",
-        "Sachen zum Lesen"
+        "Dinge zum Lesen im Zug"
       ],
       "answer": 0,
       "evidence": "„Regenschirme bekommen wir am meisten, dann kommen Handys und Brillen“",
@@ -140,8 +140,8 @@
       "kind": "detail",
       "q": "Was passiert mit Sachen, die drei Monate lang niemand abholt?",
       "options": [
-        "Das Fundbüro behält sie noch ein Jahr im Lager.",
-        "Die Mitarbeiterinnen dürfen sie mit nach Hause nehmen.",
+        "Das Fundbüro behält sie noch mindestens ein Jahr lang im Lager.",
+        "Die Mitarbeiterinnen dürfen sie dann mit nach Hause nehmen.",
         "Man kann sie kaufen, oder soziale Organisationen bekommen sie."
       ],
       "answer": 2,
@@ -156,7 +156,7 @@
           "soziale Organisationen bekommen sie"
         ]
       ],
-      "explain": "석 달 뒤에는 분실물 보관소가 물건을 팔거나 사회복지 기관에 넘긴다고 해요. '판다'를 '살 수 있다'로, '넘긴다'를 '받는다'로 시점을 바꿔 표현했어요. 1년 더 보관한다거나 직원이 가져간다는 내용은 본문에 없어요."
+      "explain": "석 달 뒤에는 분실물 보관소가 물건을 팔거나 사회복지 기관에 넘긴다고 해요. '판다'를 '살 수 있다'로, '넘긴다'를 '받는다'로 시점을 바꿔 표현했어요. 1년 이상 보관한다거나 직원이 가져간다는 내용은 본문에 없어요."
     },
     {
       "type": "rf",

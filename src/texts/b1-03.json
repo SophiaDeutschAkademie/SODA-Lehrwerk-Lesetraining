@@ -91,13 +91,13 @@
       "kind": "detail",
       "q": "Was muss in Petra Langs Firma passieren, bevor jemand seinen Hund mitbringen darf?",
       "options": [
-        "Die Geschäftsführerin muss den Hund persönlich kennenlernen.",
-        "Die Leute, die direkt mit der Person zusammenarbeiten, müssen zustimmen.",
-        "Der Hund muss zuerst einen Tag allein in der Küche bleiben."
+        "Die Geschäftsführerin muss den Hund vorher persönlich kennenlernen.",
+        "Alle, die direkt mit der Person zusammenarbeiten, müssen zustimmen.",
+        "Der Hund muss zuerst einen Tag lang allein in der Küche bleiben."
       ],
       "answer": 1,
       "evidence": "wer einen Hund mitbringen will, braucht das Einverständnis der direkten Kolleginnen und Kollegen",
-      "pairs": [["braucht das Einverständnis", "müssen zustimmen"], ["der direkten Kolleginnen und Kollegen", "Die Leute, die direkt mit der Person zusammenarbeiten"]],
+      "pairs": [["braucht das Einverständnis", "müssen zustimmen"], ["der direkten Kolleginnen und Kollegen", "Alle, die direkt mit der Person zusammenarbeiten"]],
       "explain": "개를 데려오려면 바로 옆에서 일하는 동료들의 동의(Einverständnis)가 필요해요. 이것을 '함께 일하는 사람들이 찬성해야 한다'로 바꿔 말했어요. 대표가 직접 개를 만난다는 말은 없고, 주방은 오히려 개가 들어갈 수 없는 구역이에요."
     },
     {
@@ -106,8 +106,8 @@
       "q": "Was will Tim Albers mit dem Satz „Niemand hatte mich vorher gefragt“ sagen?",
       "options": [
         "Er war nicht an der Entscheidung beteiligt, obwohl sie ihn betraf.",
-        "Er wusste nicht, dass sein Kollege einen Hund hat.",
-        "Seine Kollegen interessierten sich nicht für seine Meinung zu dem Artikel."
+        "Er wusste nicht, dass sein Kollege einen Hund ins Büro mitbringt.",
+        "Seine Kollegen interessierten sich nicht für seine Meinung zum Artikel."
       ],
       "answer": 0,
       "evidence": "Vor zwei Jahren brachte ein Kollege seinen Hund mit, und ich musste schließlich das Zimmer wechseln.",
@@ -119,14 +119,14 @@
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Ein Kompromiss kostet etwas Mühe, aber er lohnt sich“?",
       "options": [
-        "Regeln für Hunde sind teuer, deshalb verzichten viele Firmen darauf.",
-        "Eine Lösung für beide Seiten zu finden ist anstrengend, bringt aber mehr, als es kostet.",
-        "Ein Verbot ist am Ende die einfachste und beste Lösung."
+        "Feste Regeln für Hunde sind teuer, deshalb verzichten viele Firmen darauf.",
+        "Eine Lösung für beide Seiten zu finden ist anstrengend, zahlt sich aber aus.",
+        "Ein Verbot ist am Ende die einfachste und beste Lösung für alle Beteiligten."
       ],
       "answer": 1,
       "evidence": "Ohne Regeln gäbe es schnell Streit, und am Ende könnten alle verlieren",
-      "pairs": [["kostet etwas Mühe", "ist anstrengend"], ["lohnt sich", "bringt aber mehr, als es kostet"], ["Kompromiss", "Lösung für beide Seiten"]],
-      "explain": "Mühe는 돈이 아니라 수고를 뜻하고, sich lohnen은 '그만한 가치가 있다'는 뜻이에요. 양쪽을 위한 해결책을 찾는 일은 힘들지만 그 수고보다 얻는 것이 많다는 말이에요. 페트라 랑 씨는 금지에 반대하므로 금지가 최선이라는 선택지는 틀려요."
+      "pairs": [["kostet etwas Mühe", "ist anstrengend"], ["lohnt sich", "zahlt sich aber aus"], ["Kompromiss", "Lösung für beide Seiten"]],
+      "explain": "Mühe는 돈이 아니라 수고를 뜻하고, sich lohnen(=정답의 zahlt sich aus)은 '그만한 가치가 있다'는 뜻이에요. 양쪽을 위한 해결책을 찾는 일은 힘들지만 그 수고보다 얻는 것이 많다는 말이에요. 페트라 랑 씨는 금지에 반대하므로 금지가 최선이라는 선택지는 틀려요."
     },
     {
       "type": "mc",
@@ -134,12 +134,12 @@
       "q": "Welche Aussage fasst die Position von Petra Lang am besten zusammen?",
       "options": [
         "Hunde gehören nicht ins Büro, weil sie zu viel Streit verursachen.",
-        "Hunde im Büro sind möglich, wenn alle Beteiligten feste Absprachen treffen.",
+        "Hunde im Büro sind möglich, wenn sich alle auf feste Regeln einigen.",
         "Jede Firma sollte Hunde erlauben, weil sie die Stimmung verbessern."
       ],
       "answer": 1,
       "evidence": "Ich bin aber auch nicht der Meinung, dass alles erlaubt sein sollte.",
-      "pairs": [["nicht der Meinung, dass alles erlaubt sein sollte", "wenn alle Beteiligten feste Absprachen treffen"]],
+      "pairs": [["nicht der Meinung, dass alles erlaubt sein sollte", "sich alle auf feste Regeln einigen"]],
       "explain": "페트라 랑 씨는 금지에도 반대하고, 모든 것을 허용하는 데에도 반대해요. 규칙이 있는 타협이 그녀의 입장이에요. 첫 번째 선택지는 Streit라는 단어를, 세 번째는 Stimmung이라는 단어를 본문에서 가져왔지만 각각 금지와 전면 허용을 주장해서 틀려요."
     }
   ],

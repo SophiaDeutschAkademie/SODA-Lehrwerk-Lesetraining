@@ -59,9 +59,9 @@
       "kind": "detail",
       "q": "Wie viele Befragte leben in einem Wohnheim?",
       "options": [
-        "knapp ein Fünftel",
-        "halb so viele wie diejenigen, die mit ihrem Partner oder ihrer Partnerin zusammenleben",
-        "doppelt so viele wie diejenigen, die mit ihrem Partner oder ihrer Partnerin zusammenleben"
+        "ebenso viele wie diejenigen, die eine eigene Wohnung haben – knapp ein Fünftel",
+        "halb so viele wie diejenigen, die mit Partner oder Partnerin zusammenleben",
+        "doppelt so viele wie diejenigen, die mit Partner oder Partnerin zusammenleben"
       ],
       "answer": 2,
       "evidence": "14 Prozent leben im Wohnheim, und 7 Prozent wohnen mit Partnerin oder Partner zusammen – halb so viele wie im Wohnheim.",
@@ -72,10 +72,10 @@
         ],
         [
           "7 Prozent wohnen mit Partnerin oder Partner zusammen",
-          "die mit ihrem Partner oder ihrer Partnerin zusammenleben"
+          "die mit Partner oder Partnerin zusammenleben"
         ]
       ],
-      "explain": "기숙사 거주자는 14%, 파트너와 사는 사람은 7%예요. 본문은 파트너와 사는 사람이 기숙사 거주자의 '절반(halb so viele)'이라고 하므로, 거꾸로 말하면 기숙사 거주자가 '두 배(doppelt so viele)'예요. '절반'은 관계를 뒤집은 함정이고, '5분의 1에 조금 못 미치는(knapp ein Fünftel)'은 혼자 사는 사람(19%)에 대한 표현이에요."
+      "explain": "기숙사 거주자는 14%, 파트너와 사는 사람은 7%예요. 본문은 파트너와 사는 사람이 기숙사 거주자의 '절반(halb so viele)'이라고 하므로, 거꾸로 말하면 기숙사 거주자가 '두 배(doppelt so viele)'예요. '절반'은 관계를 뒤집은 함정이고, '5분의 1에 조금 못 미치는(knapp ein Fünftel)'은 혼자 사는 사람(19%)의 비율이라서 기숙사(14%)와 같지 않아요."
     },
     {
       "type": "rfn",
@@ -100,9 +100,9 @@
       "kind": "detail",
       "q": "Was sagt der Text über die Miete für ein WG-Zimmer?",
       "options": [
-        "Sie ist in den letzten vier Jahren um 20 Euro gestiegen.",
+        "Sie ist in den vergangenen vier Jahren um 20 Euro gestiegen.",
         "Sie ist heute ein Fünftel höher als bei der letzten Umfrage.",
-        "Sie liegt 110 Euro über dem Preis einer eigenen Wohnung."
+        "Sie liegt heute 110 Euro über dem Preis einer eigenen Wohnung."
       ],
       "answer": 1,
       "evidence": "Das entspricht einem Anstieg um 70 Euro oder 20 Prozent.",
@@ -123,9 +123,9 @@
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Am günstigsten wohnt, wer einen Wohnheimplatz hat“?",
       "options": [
-        "Wohnheimplätze sind leichter zu bekommen als andere Wohnungen.",
+        "Wohnheimplätze sind meist leichter zu bekommen als andere Wohnungen.",
         "Wer im Wohnheim lebt, zahlt im Durchschnitt die niedrigste Miete.",
-        "Wer günstig wohnen möchte, sollte sich um einen Wohnheimplatz bewerben."
+        "Wer günstig wohnen will, sollte sich um einen Wohnheimplatz bewerben."
       ],
       "answer": 1,
       "evidence": "Hier liegt die Miete bei 310 Euro und damit um 110 Euro unter dem Preis eines WG-Zimmers.",
@@ -146,8 +146,8 @@
       "kind": "detail",
       "q": "Welche Gruppe hat laut Umfrage besonders häufig lange Fahrtwege?",
       "options": [
-        "Studierende, die in einer WG außerhalb der Stadt leben",
-        "Studierende, die aus Kostengründen allein wohnen",
+        "Studierende, die in einer WG weit außerhalb der Stadt leben",
+        "Studierende, die allein in einer eigenen Wohnung leben",
         "Studierende, die noch nicht von zu Hause ausgezogen sind"
       ],
       "answer": 2,
@@ -170,8 +170,8 @@
       "q": "Was bedeutet „Mehrfachnennungen waren möglich“ im Text?",
       "options": [
         "Die Befragten durften mehr als einen Wunsch ankreuzen.",
-        "Die Umfrage wurde mehrmals wiederholt.",
-        "Viele Befragte nannten dieselben Wünsche."
+        "Die Umfrage wurde im selben Semester mehrmals wiederholt.",
+        "Viele Befragte nannten in der Umfrage dieselben Wünsche."
       ],
       "answer": 0,
       "evidence": "Mehrfachnennungen waren möglich",
@@ -202,9 +202,9 @@
       "kind": "paraphrase",
       "q": "Was ist mit dem Satz „Bis dahin, so die Leiterin der Befragung, Prof. Dr. Annette Kurz, bleibe vielen Studierenden nur die Wahl zwischen einem teuren Zimmer in der Stadt und einem langen Weg vom Land“ gemeint?",
       "options": [
-        "Viele Studierende ziehen aufs Land, weil sie sich die Zimmer in der Stadt nicht mehr leisten können.",
+        "Immer mehr Studierende ziehen aufs Land, weil sie sich die Zimmer in der Stadt nicht mehr leisten können.",
         "Solange kein weiteres Wohnheim steht, müssen viele entweder hohe Mieten oder lange Pendelzeiten hinnehmen.",
-        "Studierende sollten sich vor der Zimmersuche entscheiden, ob sie lieber in der Stadt oder auf dem Land leben wollen."
+        "Studierende sollten vor der Zimmersuche entscheiden, ob sie lieber in der Stadt oder auf dem Land leben wollen."
       ],
       "answer": 1,
       "evidence": "Bis dahin, so die Leiterin der Befragung, Prof. Dr. Annette Kurz, bleibe vielen Studierenden nur die Wahl zwischen einem teuren Zimmer in der Stadt und einem langen Weg vom Land.",

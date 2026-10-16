@@ -124,20 +124,20 @@
       "kind": "detail",
       "q": "Was möchte Jae-min über die Schule wissen?",
       "options": [
-        "wo die Schule liegt und wie er dorthin kommt",
-        "wann die Schule wieder losgeht und welche Sachen er braucht",
-        "ob er in der Schule eine Uniform tragen muss"
+        "wo die Schule liegt und wie er dorthin kommen kann",
+        "wann die Schule losgeht und was er dafür braucht",
+        "ob er in der Schule eine Schuluniform tragen muss"
       ],
       "answer": 1,
       "evidence": "Wissen Sie schon, wann der Unterricht anfängt? Und könnten Sie mir schreiben, was ich für die Schule mitbringen soll?",
       "pairs": [
         [
           "wann der Unterricht anfängt",
-          "wann die Schule wieder losgeht"
+          "wann die Schule losgeht"
         ],
         [
           "was ich für die Schule mitbringen soll",
-          "welche Sachen er braucht"
+          "was er dafür braucht"
         ]
       ],
       "explain": "재민은 수업이 언제 시작하는지와 학교에 무엇을 가져가야 하는지를 물어요. 'der Unterricht fängt an(수업이 시작된다)'을 'die Schule geht los(학교가 시작된다)'로, mitbringen sollen을 brauchen으로 바꿔 말했어요. 교복은 독일에 없다고 재민이 이미 생각하고 있으니, 입어야 하는지 묻는 것은 아니에요."
@@ -175,9 +175,9 @@
       "kind": "detail",
       "q": "Was hat Jae-min sich für das Jahr in Deutschland vorgenommen?",
       "options": [
-        "Er will keine andere Sprache als Deutsch reden, auch wenn das zuerst nicht leicht ist.",
-        "Er will mit der Familie Deutsch und in der Schule Englisch sprechen.",
-        "Er will zu Hause seine Fehler selbst korrigieren."
+        "Er will keine andere Sprache als Deutsch reden, selbst wenn es schwer ist.",
+        "Er will mit der Gastfamilie Deutsch und in der Schule Englisch sprechen.",
+        "Er will zu Hause und in der Schule seine Fehler sofort selbst korrigieren."
       ],
       "answer": 0,
       "evidence": "Deshalb werde ich zu Hause und in der Schule nur Deutsch sprechen, auch wenn es am Anfang schwer ist.",
@@ -188,10 +188,10 @@
         ],
         [
           "auch wenn es am Anfang schwer ist",
-          "auch wenn das zuerst nicht leicht ist"
+          "selbst wenn es schwer ist"
         ]
       ],
-      "explain": "재민은 집에서도 학교에서도 독일어만 쓰겠다고 해요. 'nur Deutsch sprechen(독일어만 말하다)'을 'keine andere Sprache als Deutsch reden(독일어 말고 다른 언어는 말하지 않다)'으로, 'am Anfang schwer'를 'zuerst nicht leicht'로 바꿔 말했어요. 실수는 자기가 고치는 게 아니라 가족에게 고쳐 달라고 부탁해요."
+      "explain": "재민은 집에서도 학교에서도 독일어만 쓰겠다고 해요. 'nur Deutsch sprechen(독일어만 말하다)'을 'keine andere Sprache als Deutsch reden(독일어 말고 다른 언어는 말하지 않다)'으로, 'auch wenn es am Anfang schwer ist'를 'selbst wenn es schwer ist'로 바꿔 말했어요. 실수는 자기가 고치는 게 아니라 가족에게 고쳐 달라고 부탁해요."
     }
   ],
   "grammar": [

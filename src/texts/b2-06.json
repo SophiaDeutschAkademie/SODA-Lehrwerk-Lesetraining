@@ -113,7 +113,7 @@
       "q": "Warum sind viele Pendler dem Text zufolge auf das Auto angewiesen?",
       "options": [
         "weil sie schwere Einkäufe nicht mit dem Fahrrad nach Hause bringen können",
-        "weil sie Werkzeug und Waren transportieren müssen",
+        "weil sie für ihre Arbeit Werkzeug und Waren im Auto transportieren müssen",
         "weil Busse und Bahnen außerhalb der Stadt nur einmal pro Stunde fahren"
       ],
       "answer": 2,
@@ -153,20 +153,20 @@
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Betrachtet man beide Seiten, so wird deutlich, dass sich die Frage nicht mit einem einfachen Ja oder Nein beantworten lässt“?",
       "options": [
-        "Beide Seiten müssen erst befragt werden, bevor eine Entscheidung fallen kann.",
-        "Keine der beiden Seiten hat überzeugende Argumente, deshalb bleibt die Frage offen.",
-        "Wer die Argumente beider Seiten abwägt, kommt zu einer differenzierten statt zu einer eindeutigen Antwort."
+        "Beide Seiten müssen erst befragt werden, bevor die Stadt eine Entscheidung treffen kann.",
+        "Keine der beiden Seiten hat überzeugende Argumente, deshalb bleibt die Frage unentschieden.",
+        "Beim Abwägen beider Seiten zeigt sich, dass die Antwort differenziert ausfallen muss."
       ],
       "answer": 2,
       "evidence": "Betrachtet man beide Seiten, so wird deutlich, dass sich die Frage nicht mit einem einfachen Ja oder Nein beantworten lässt.",
       "pairs": [
         [
           "Betrachtet man beide Seiten",
-          "die Argumente beider Seiten abwägt"
+          "Beim Abwägen beider Seiten"
         ],
         [
           "nicht mit einem einfachen Ja oder Nein",
-          "differenzierten statt zu einer eindeutigen Antwort"
+          "differenziert ausfallen muss"
         ]
       ],
       "explain": "'beide Seiten betrachten'은 찬반 양쪽의 논거를 따져 본다는 뜻이고, '단순한 예/아니요로 답할 수 없다'는 것은 답이 조건에 따라 달라진다는 뜻이에요. 양쪽 논거가 설득력이 없다거나 사람들에게 물어봐야 한다는 뜻은 아니에요."
@@ -176,9 +176,9 @@
       "kind": "gist",
       "q": "Was empfiehlt der Text am Ende?",
       "options": [
-        "die Sperrungen allmählich auszuweiten und zugleich bessere Alternativen zum Auto anzubieten",
-        "die gesamte Innenstadt sofort zu sperren und Ausnahmen später zu regeln",
-        "auf Sperrungen zu verzichten, solange sich der Einzelhandel dagegen wehrt"
+        "Sperrungen allmählich auszuweiten und zugleich Alternativen zum Auto anzubieten",
+        "die gesamte Innenstadt sofort zu sperren und über Ausnahmen später zu entscheiden",
+        "auf jede Sperrung zu verzichten, solange sich Händler und Anwohner dagegen wehren"
       ],
       "answer": 0,
       "evidence": "Sinnvoller erscheint ein schrittweises Vorgehen: zunächst einzelne Straßen, dann ganze Viertel, begleitet von einem Ausbau des Nahverkehrs und klaren Ausnahmeregelungen.",
@@ -189,17 +189,17 @@
         ],
         [
           "Ausbau des Nahverkehrs",
-          "bessere Alternativen zum Auto"
+          "Alternativen zum Auto anzubieten"
         ]
       ],
-      "explain": "본문은 개별 거리에서 구역 전체로 단계적으로 넓혀 가면서 대중교통을 확충하라고 해요. 'schrittweise'를 'allmählich ausweiten'으로 바꿔 말했어요. 즉각적인 전면 금지는 본문이 거부하는 방식이고, 상인 반대를 이유로 포기하라는 말도 없어요."
+      "explain": "본문은 개별 거리에서 구역 전체로 단계적으로 넓혀 가면서 대중교통을 확충하라고 해요. 'schrittweise'를 'allmählich ausweiten'으로 바꿔 말했어요. 즉각적인 전면 금지는 본문이 거부하는 방식이고, 상인과 주민의 반대를 이유로 포기하라는 말도 없어요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was ist mit dem Satz „Ein Verbot über Nacht wäre deshalb der falsche Weg“ gemeint?",
       "options": [
-        "Fahrverbote, die nur nachts gelten, bringen wenig.",
+        "Fahrverbote, die nur in der Nacht gelten, bringen wenig.",
         "Eine plötzliche, vollständige Sperrung wäre ein Fehler.",
         "Ein Fahrverbot in der Innenstadt wäre grundsätzlich falsch."
       ],
@@ -222,9 +222,9 @@
       "kind": "intent",
       "q": "Welche Position vertritt der Text insgesamt?",
       "options": [
-        "Er lehnt autofreie Innenstädte ab, weil sie die Bürger bevormunden.",
-        "Er befürwortet sie grundsätzlich, verlangt aber Rücksicht auf alle, die nicht aufs Auto verzichten können.",
-        "Er hält sie für unrealistisch, solange Händler und Pendler dagegen sind."
+        "Er lehnt autofreie Innenstädte ab, weil sie Bürger bevormunden und Händler schädigen.",
+        "Er befürwortet sie grundsätzlich, verlangt aber Alternativen für Menschen ohne Auto.",
+        "Er hält sie für unrealistisch, solange Händler, Anwohner und viele Pendler dagegen sind."
       ],
       "answer": 1,
       "evidence": "Gelingt dies, ist die autofreie Innenstadt kein Akt der Bevormundung, sondern ein Gewinn für alle – auch für diejenigen, die heute noch skeptisch sind.",
@@ -235,7 +235,7 @@
         ],
         [
           "die ohne Auto nicht mobil sind",
-          "die nicht aufs Auto verzichten können"
+          "Menschen ohne Auto"
         ]
       ],
       "explain": "글쓴이는 환경·건강상의 이점을 인정하면서도 자동차 없이는 이동할 수 없는 사람들을 고려한 단계적 도입을 요구해요. 그래서 '원칙적으로 찬성하되 배려를 요구한다'가 글 전체의 입장이에요. 'Bevormundung'은 본문이 부정하는 말이라 함정이에요."
