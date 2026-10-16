@@ -7,7 +7,11 @@
   "type": "Profiltext in einer Tandem-App",
   "typeKo": "탄뎀 앱 프로필 글",
   "intro": "쾰른에 사는 한국 유학생이 언어 교환 파트너를 찾는 글이에요.",
-  "focus": ["규칙 동사의 현재형", "sein과 haben", "동사 2번 자리 · 판정 의문문"],
+  "focus": [
+    "규칙 동사의 현재형",
+    "sein과 haben",
+    "동사 2번 자리 · 판정 의문문"
+  ],
   "paragraphs": [
     {
       "style": "meta",
@@ -42,17 +46,39 @@
       "q": "Jiwoo lebt schon ein halbes Jahr in Köln.",
       "answer": 0,
       "evidence": "In Köln wohne ich seit sechs Monaten.",
-      "pairs": [["wohne", "lebt"], ["seit sechs Monaten", "schon ein halbes Jahr"]],
+      "pairs": [
+        [
+          "wohne",
+          "lebt"
+        ],
+        [
+          "seit sechs Monaten",
+          "schon ein halbes Jahr"
+        ]
+      ],
       "explain": "본문의 'In Köln wohne ich seit sechs Monaten.(쾰른에서는 6개월째 살고 있어요.)'을 문제에서는 'lebt schon ein halbes Jahr(벌써 반년째 살고 있다)'로 바꿔 말했어요. wohnen과 leben은 둘 다 '살다'라는 뜻이고, 6개월은 반년이니까 맞는 내용이에요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Wie lange lernt Jiwoo schon Deutsch?",
-      "options": ["sechs Monate", "zwölf Monate", "zwei Jahre"],
+      "options": [
+        "sechs Monate",
+        "zwölf Monate",
+        "zwei Jahre"
+      ],
       "answer": 1,
       "evidence": "Seit einem Jahr lerne ich Deutsch.",
-      "pairs": [["Seit einem Jahr", "zwölf Monate"], ["seit sechs Monaten", "sechs Monate"]],
+      "pairs": [
+        [
+          "Seit einem Jahr",
+          "zwölf Monate"
+        ],
+        [
+          "seit sechs Monaten",
+          "sechs Monate"
+        ]
+      ],
       "explain": "본문에 'Seit einem Jahr lerne ich Deutsch.(1년 전부터 독일어를 배워요.)'라고 나와요. 1년은 12개월이에요. 'sechs Monate(6개월)'는 본문에 그대로 나오는 말이지만 쾰른에 산 기간이라서 함정이에요."
     },
     {
@@ -61,18 +87,36 @@
       "q": "Jiwoo spricht nur ein bisschen Englisch.",
       "answer": 1,
       "evidence": "Englisch spreche ich auch gut.",
-      "pairs": [["auch gut", "nur ein bisschen"]],
+      "pairs": [
+        [
+          "auch gut",
+          "nur ein bisschen"
+        ]
+      ],
       "explain": "본문에서는 'Englisch spreche ich auch gut.(영어도 잘해요.)'라고 해요. 문제는 영어를 '조금만(nur ein bisschen)' 한다고 했으니 틀린 내용이에요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was macht Jiwoo am Wochenende?",
-      "options": ["Sie macht draußen Sport.", "Sie sieht Fußball im Fernsehen.", "Sie kocht für Freunde."],
+      "options": [
+        "Sie macht Sport im Freien.",
+        "Sie sieht Fußball im Stadion.",
+        "Sie kocht gern für Freunde."
+      ],
       "answer": 0,
       "evidence": "Am Wochenende spiele ich Fußball im Park.",
-      "pairs": [["spiele ich Fußball", "macht draußen Sport"], ["im Park", "draußen"]],
-      "explain": "본문에서는 주말에 공원에서 축구를 한다고 해요. 축구는 운동(Sport)이고 공원은 바깥(draußen)이니까 첫 번째가 정답이에요. 축구를 '본다(sehen)'거나 친구를 위해 요리한다는 말은 본문에 없어요."
+      "pairs": [
+        [
+          "spiele ich Fußball",
+          "macht Sport"
+        ],
+        [
+          "im Park",
+          "im Freien"
+        ]
+      ],
+      "explain": "본문에서는 주말에 공원에서 축구를 한다고 해요. 축구는 운동(Sport)이고 공원은 야외(im Freien)니까 첫 번째가 정답이에요. 축구를 경기장에서 '본다(sehen)'거나 친구를 위해 요리한다는 말은 본문에 없어요."
     },
     {
       "type": "rf",
@@ -80,7 +124,12 @@
       "q": "Jiwoo hat meistens am Vormittag Zeit.",
       "answer": 1,
       "evidence": "Nachmittags habe ich meistens Zeit.",
-      "pairs": [["Nachmittags", "am Vormittag"]],
+      "pairs": [
+        [
+          "Nachmittags",
+          "am Vormittag"
+        ]
+      ],
       "explain": "본문에서는 'Nachmittags habe ich meistens Zeit.(오후에는 대체로 시간이 있어요.)'라고 해요. 문제는 오전(am Vormittag)이라고 했으니 틀려요. meistens와 Zeit는 본문에 그대로 나오지만, 시간대가 nachmittags에서 am Vormittag로 바뀐 함정이에요."
     },
     {
@@ -89,7 +138,12 @@
       "q": "Jiwoo möchte eine Nachricht bekommen.",
       "answer": 0,
       "evidence": "Dann schreib mir!",
-      "pairs": [["Dann schreib mir!", "eine Nachricht bekommen"]],
+      "pairs": [
+        [
+          "Dann schreib mir!",
+          "eine Nachricht bekommen"
+        ]
+      ],
       "explain": "마지막 문장 'Dann schreib mir!(그러면 저에게 메시지를 보내 주세요!)'는 연락해 달라는 뜻이에요. 지우 씨 입장에서 보면 메시지를 받고 싶다는 말이니까 맞는 내용이에요. schreiben(쓰다)과 bekommen(받다)은 서로 반대 방향에서 같은 일을 말해요."
     }
   ],
@@ -103,14 +157,48 @@
         {
           "de": "In Köln wohne ich seit sechs Monaten.",
           "ko": "쾰른에서는 6개월째 살고 있어요.",
-          "mark": ["wohne"],
-          "parts": [["In Köln", "부사어(장소)"], ["wohne", "동사"], ["ich", "주어"], ["seit sechs Monaten.", "부사어(시간)"]]
+          "mark": [
+            "wohne"
+          ],
+          "parts": [
+            [
+              "In Köln",
+              "부사어(장소)"
+            ],
+            [
+              "wohne",
+              "동사"
+            ],
+            [
+              "ich",
+              "주어"
+            ],
+            [
+              "seit sechs Monaten.",
+              "부사어(시간)"
+            ]
+          ]
         },
         {
           "de": "Lernst du Koreanisch?",
           "ko": "한국어를 배우세요?",
-          "mark": ["Lernst"],
-          "parts": [["Lernst", "동사"], ["du", "주어"], ["Koreanisch?", "4격 목적어"]]
+          "mark": [
+            "Lernst"
+          ],
+          "parts": [
+            [
+              "Lernst",
+              "동사"
+            ],
+            [
+              "du",
+              "주어"
+            ],
+            [
+              "Koreanisch?",
+              "4격 목적어"
+            ]
+          ]
         }
       ],
       "tip": "어간이 -t나 -d로 끝나는 동사는 du, er/sie/es, ihr 형태에서 어미 앞에 -e-를 넣어요: du arbeitest, er arbeitet, ihr arbeitet, du redest. 어간이 -s, -ß, -z로 끝나는 동사는 du 형태에서 -st 대신 -t만 붙여요: heißen → du heißt, tanzen → du tanzt."
@@ -124,14 +212,56 @@
         {
           "de": "Ich bin Koreanerin und komme aus Busan.",
           "ko": "저는 한국 사람이고 부산에서 왔어요.",
-          "mark": ["bin"],
-          "parts": [["Ich", "주어"], ["bin", "동사"], ["Koreanerin", "보어"], ["und", "접속사"], ["komme", "동사"], ["aus Busan.", "부사어(장소)"]]
+          "mark": [
+            "bin"
+          ],
+          "parts": [
+            [
+              "Ich",
+              "주어"
+            ],
+            [
+              "bin",
+              "동사"
+            ],
+            [
+              "Koreanerin",
+              "보어"
+            ],
+            [
+              "und",
+              "접속사"
+            ],
+            [
+              "komme",
+              "동사"
+            ],
+            [
+              "aus Busan.",
+              "부사어(장소)"
+            ]
+          ]
         },
         {
           "de": "Hast du Lust auf ein Tandem?",
           "ko": "탄뎀을 하고 싶으세요?",
-          "mark": ["Hast"],
-          "parts": [["Hast", "동사"], ["du", "주어"], ["Lust auf ein Tandem?", "4격 목적어"]]
+          "mark": [
+            "Hast"
+          ],
+          "parts": [
+            [
+              "Hast",
+              "동사"
+            ],
+            [
+              "du",
+              "주어"
+            ],
+            [
+              "Lust auf ein Tandem?",
+              "4격 목적어"
+            ]
+          ]
         }
       ],
       "tip": "주어가 du일 때 sein은 bist, haben은 hast예요: Bist du Student? Hast du Zeit? 'Lust auf ein Tandem'에서 auf ein Tandem은 Lust에 붙어서 무엇을 하고 싶은지 말해 줘요(Lust auf + 4격). 그래서 'Lust auf ein Tandem' 전체가 haben의 4격 목적어예요."
@@ -145,32 +275,102 @@
         {
           "de": "Seit einem Jahr lerne ich Deutsch.",
           "ko": "독일어는 1년째 배우고 있어요.",
-          "mark": ["lerne"],
-          "parts": [["Seit einem Jahr", "부사어(시간)"], ["lerne", "동사"], ["ich", "주어"], ["Deutsch.", "4격 목적어"]]
+          "mark": [
+            "lerne"
+          ],
+          "parts": [
+            [
+              "Seit einem Jahr",
+              "부사어(시간)"
+            ],
+            [
+              "lerne",
+              "동사"
+            ],
+            [
+              "ich",
+              "주어"
+            ],
+            [
+              "Deutsch.",
+              "4격 목적어"
+            ]
+          ]
         },
         {
           "de": "Wohnst du in Köln?",
           "ko": "쾰른에 사세요?",
-          "mark": ["Wohnst"],
-          "parts": [["Wohnst", "동사"], ["du", "주어"], ["in Köln?", "부사어(장소)"]]
+          "mark": [
+            "Wohnst"
+          ],
+          "parts": [
+            [
+              "Wohnst",
+              "동사"
+            ],
+            [
+              "du",
+              "주어"
+            ],
+            [
+              "in Köln?",
+              "부사어(장소)"
+            ]
+          ]
         }
       ],
       "tip": "판정 의문문에는 의문사가 없어요. wo, wann 같은 의문사가 있는 의문문에서는 의문사가 1번 자리에 오고 동사는 다시 2번 자리에 와요."
     }
   ],
   "vocab": [
-    { "de": "die Muttersprache, -n", "ko": "모국어" },
-    { "de": "studieren", "ko": "(대학에서) 공부하다, 전공하다" },
-    { "de": "wohnen", "ko": "살다, 거주하다" },
-    { "de": "sprechen (spricht, sprach, hat gesprochen)", "ko": "말하다, (언어를) 하다" },
-    { "de": "kochen", "ko": "요리하다" },
-    { "de": "üben", "ko": "연습하다" },
-    { "de": "suchen", "ko": "찾다, 구하다" },
-    { "de": "der Tandempartner, -", "ko": "탄뎀 파트너 (언어 교환 상대)" },
-    { "de": "sich treffen (trifft sich, traf sich, hat sich getroffen)", "ko": "만나다" },
-    { "de": "das Wochenende, -n", "ko": "주말" },
-    { "de": "nachmittags", "ko": "오후에" },
-    { "de": "meistens", "ko": "대체로, 대부분" }
+    {
+      "de": "die Muttersprache, -n",
+      "ko": "모국어"
+    },
+    {
+      "de": "studieren",
+      "ko": "(대학에서) 공부하다, 전공하다"
+    },
+    {
+      "de": "wohnen",
+      "ko": "살다, 거주하다"
+    },
+    {
+      "de": "sprechen (spricht, sprach, hat gesprochen)",
+      "ko": "말하다, (언어를) 하다"
+    },
+    {
+      "de": "kochen",
+      "ko": "요리하다"
+    },
+    {
+      "de": "üben",
+      "ko": "연습하다"
+    },
+    {
+      "de": "suchen",
+      "ko": "찾다, 구하다"
+    },
+    {
+      "de": "der Tandempartner, -",
+      "ko": "탄뎀 파트너 (언어 교환 상대)"
+    },
+    {
+      "de": "sich treffen (trifft sich, traf sich, hat sich getroffen)",
+      "ko": "만나다"
+    },
+    {
+      "de": "das Wochenende, -n",
+      "ko": "주말"
+    },
+    {
+      "de": "nachmittags",
+      "ko": "오후에"
+    },
+    {
+      "de": "meistens",
+      "ko": "대체로, 대부분"
+    }
   ],
   "phrases": [
     {

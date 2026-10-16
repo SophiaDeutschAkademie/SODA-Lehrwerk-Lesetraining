@@ -66,6 +66,22 @@ def has_double_past(text):
     return False
 
 
+def option_length_problem(opts, ans):
+    """Antwortoptionen sollen gleich lang wirken (die längste Option darf nicht die richtige verraten).
+
+    Erlaubt: Unterschied höchstens 6 Zeichen oder höchstens 20 % (längste ÷ kürzeste ≤ 1,2).
+    Die richtige Option darf die längste falsche nicht um mehr als 8 % (und mehr als 4 Zeichen) übertreffen.
+    """
+    lens = [len(o) for o in opts]
+    lo, hi = min(lens), max(lens)
+    if hi - lo > 6 and hi / lo > 1.2:
+        return f"Optionslängen {lens} zu unterschiedlich (längste ÷ kürzeste = {hi / lo:.2f}, erlaubt ≤ 1,20 oder ≤ 6 Zeichen)"
+    wrong = [n for k, n in enumerate(lens) if k != ans]
+    if lens[ans] - max(wrong) > 4 and lens[ans] > 1.08 * max(wrong):
+        return f"richtige Option ist mit {lens[ans]} Zeichen deutlich länger als jede falsche (max. {max(wrong)})"
+    return None
+
+
 SENT_SPLIT = re.compile(r"(?<=[.!?…])\s+|\n+")
 
 
@@ -194,7 +210,8 @@ def validate_file(path):
     qs = data["questions"]
     if len(qs) != cfg["questions"]:
         rep.err(f"{len(qs)} Fragen, erwartet {cfg['questions']}")
-    tf_answers, mc_answers = [], []
+    tf_answers, mc_answers, longest_hits = [], [], []
+    mc_total = sum(1 for q in qs if q.get("type") == "mc")
     for i, q in enumerate(qs, 1):
         where = f"Frage {i}"
         t = q.get("type")
@@ -228,6 +245,12 @@ def validate_file(path):
                 continue
             if kind != "match":
                 mc_answers.append(ans)
+            problem = option_length_problem(opts, ans)
+            if problem:
+                rep.err(f"{where}: {problem}")
+            lens = [len(o) for o in opts]
+            if lens.count(max(lens)) == 1 and lens[ans] == max(lens):
+                longest_hits.append(i)
             correct_text = opts[ans]
         else:
             if q.get("options"):
@@ -287,6 +310,8 @@ def validate_file(path):
         rep.warn("alle R/F-Antworten gleich")
     if mc_answers and len(set(mc_answers)) == 1 and len(mc_answers) > 2:
         rep.warn("alle MC-Antworten an derselben Position")
+    if mc_total >= 4 and len(longest_hits) * 2 > mc_total:
+        rep.warn(f"richtige Option ist in {len(longest_hits)} von {mc_total} MC-Fragen die längste")
 
     # --- Grammatik
     gs = data["grammar"]

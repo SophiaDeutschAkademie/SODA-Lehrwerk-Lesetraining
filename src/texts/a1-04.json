@@ -99,9 +99,9 @@
       "kind": "detail",
       "q": "Was macht Sabine am Abend?",
       "options": [
-        "Sie backt Kuchen für den nächsten Tag.",
+        "Sie backt Brot für morgen.",
         "Sie geht sehr früh schlafen.",
-        "Sie sieht lange fern."
+        "Sie sieht noch lange fern."
       ],
       "answer": 1,
       "evidence": "Schon um 20 Uhr geht sie ins Bett",
@@ -115,7 +115,7 @@
           "sehr früh"
         ]
       ],
-      "explain": "자비네 씨는 벌써 저녁 8시에 잠자리에 들어요. 'ins Bett gehen(잠자리에 들다)'을 'schlafen gehen(자러 가다)'으로, 'schon um 20 Uhr(벌써 8시에)'를 'sehr früh(아주 일찍)'로 바꿔 말했어요. 텔레비전은 'nur kurz(잠깐만)' 보니까 'lange(오래)'는 틀려요."
+      "explain": "자비네 씨는 벌써 저녁 8시에 잠자리에 들어요. 'ins Bett gehen(잠자리에 들다)'을 'schlafen gehen(자러 가다)'으로, 'schon um 20 Uhr(벌써 8시에)'를 'sehr früh(아주 일찍)'로 바꿔 말했어요. 텔레비전은 'nur kurz(잠깐만)' 보니까 'noch lange(아직도 오래)'는 틀려요. 빵은 새벽 3시에 구워요."
     },
     {
       "type": "mc",
@@ -123,8 +123,8 @@
       "q": "Warum geht Sabine so früh ins Bett?",
       "options": [
         "Am Morgen muss sie sehr früh aufstehen.",
-        "Sie ist nach der Arbeit sehr müde.",
-        "Sie findet das Fernsehprogramm langweilig."
+        "Sie ist nach dem Spielen mit Lea müde.",
+        "Sie findet das Fernsehprogramm schlecht."
       ],
       "answer": 0,
       "evidence": "denn ihr Wecker klingelt sehr früh",
@@ -134,7 +134,7 @@
           "muss sie sehr früh aufstehen"
         ]
       ],
-      "explain": "본문에는 'denn ihr Wecker klingelt sehr früh(알람이 아주 일찍 울리니까요)'라고 나와요. 알람이 일찍 울린다는 것은 일찍 일어나야 한다는 뜻이에요. 피곤하다거나 텔레비전이 지루하다는 말은 본문에 없어요."
+      "explain": "본문에는 'denn ihr Wecker klingelt sehr früh(알람이 아주 일찍 울리니까요)'라고 나와요. 알람이 일찍 울린다는 것은 일찍 일어나야 한다는 뜻이에요. 레아와 논 뒤에 피곤하다거나 텔레비전 프로그램이 별로라는 말은 본문에 없어요."
     },
     {
       "type": "rf",
