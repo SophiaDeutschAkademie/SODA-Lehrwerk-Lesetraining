@@ -304,7 +304,7 @@
             ],
             [
               "für nachweislich vom Wolf gerissene Tiere",
-              "전치사 목적어"
+              "부사어"
             ],
             [
               "erhalten",
@@ -348,6 +348,43 @@
               "보어"
             ]
           ]
+        },
+        {
+          "de": "infolge der Abwanderung junger Tiere auf der Suche nach eigenen Revieren tauchen Wölfe jedoch inzwischen in nahezu allen Bundesländern auf.",
+          "ko": "그러나 자기 영역을 찾아 나서는 젊은 늑대들의 이동으로 인해 이제는 거의 모든 연방주에서 늑대가 나타나고 있습니다.",
+          "mark": [
+            "infolge der Abwanderung junger Tiere"
+          ],
+          "parts": [
+            [
+              "infolge der Abwanderung junger Tiere auf der Suche nach eigenen Revieren",
+              "부사어(이유)"
+            ],
+            [
+              "tauchen",
+              "동사"
+            ],
+            [
+              "Wölfe",
+              "주어"
+            ],
+            [
+              "jedoch",
+              "접속부사"
+            ],
+            [
+              "inzwischen",
+              "부사어(시간)"
+            ],
+            [
+              "in nahezu allen Bundesländern",
+              "부사어(장소)"
+            ],
+            [
+              "auf.",
+              "동사(끝)"
+            ]
+          ]
         }
       ],
       "tip": "명사 문체는 글을 짧고 객관적으로 만들지만 너무 많이 쓰면 읽기 어려워요. 작문에서는 한 문장에 명사화를 두 개 이상 겹치지 않는 것이 좋아요."
@@ -368,7 +405,7 @@
           "parts": [
             [
               "Wer heute eine Herde auf einer offenen Weide hält,",
-              "관계절"
+              "주어"
             ],
             [
               "muss",
@@ -415,7 +452,7 @@
           "de": "Eine Politik, die dieser Spannung Rechnung tragen will, muss gleichzeitig den Schutz der Weidetiere ernst nehmen, die Sorgen der ländlichen Bevölkerung anerkennen und die ökologische Bedeutung des Wolfes im Blick behalten.",
           "ko": "이 긴장 관계를 고려하려는 정책은 가축 보호를 진지하게 받아들이고, 농촌 주민의 걱정을 인정하며, 늑대의 생태적 의미를 놓치지 않는 일을 동시에 해내야 합니다.",
           "mark": [
-            "Rechnung tragen",
+            "dieser Spannung Rechnung tragen",
             "im Blick behalten"
           ]
         }
@@ -425,7 +462,7 @@
     {
       "title": "2격 지배 전치사 ungeachtet · zugunsten · infolge · angesichts",
       "term": "Präpositionen mit Genitiv",
-      "explain": "이 네 전치사는 모두 2격을 지배하고 격식 있는 글에서 종속절을 대신해요. ungeachtet(~에도 불구하고)는 obwohl 절을, infolge(~의 결과로)는 weil 절을, angesichts(~을 고려하면, ~의 상황에서)는 상황 설명을, zugunsten(~을 위하여, ~에게 유리하게)은 목적을 압축해요. 관사 없는 복수 명사 앞에서는 2격 표시가 어려우므로 angesichts steigender Wolfszahlen처럼 형용사 어미 -er로 2격을 나타내요.",
+      "explain": "이 네 전치사는 모두 2격을 지배하고, 격식 있는 글에서 종속절의 내용을 명사구로 압축해요. ungeachtet(~에도 불구하고)는 obwohl 절을, infolge(~의 결과로)는 weil 절을 대신해요(infolge der Abwanderung junger Tiere = weil junge Tiere abwandern). angesichts(~을 고려하여, ~을 앞에 두고)는 눈앞의 상황을 근거로 들 때, zugunsten(~을 위하여, ~에 유리하게)은 누구나 무엇에 이익이 되는지 말할 때 써요. 관사 없는 복수 명사는 그 자체로 2격이 드러나지 않으므로 angesichts steigender Wolfszahlen처럼 형용사의 2격 어미 -er가 격을 보여 줘요. 형용사도 없으면 von + 3격을 써요(infolge von Angriffen).",
       "pattern": "ungeachtet / zugunsten / infolge / angesichts + 2격 명사구",
       "examples": [
         {
@@ -473,7 +510,7 @@
     {
       "title": "확장 분사 수식어",
       "term": "Erweitertes Partizipialattribut",
-      "explain": "관사와 명사 사이에 분사와 그 보충어가 길게 들어가는 구조예요. 'die Veränderungen, die in Nordamerika beobachtet wurden'이라는 관계절을 die in Nordamerika beobachteten Veränderungen으로 압축한 거예요. 과거분사(beobachtet, gerissen, ausgebildet)는 수동·완료의 뜻을, 현재분사(entstehend, flüchtend)는 능동·진행의 뜻을 가져요. 읽을 때는 관사 뒤에 명사가 바로 안 나오면 분사가 나올 때까지 기다렸다가 거꾸로 해석하세요.",
+      "explain": "관사와 명사 사이(관사가 없으면 명사 바로 앞)에 분사와 그 보충어가 길게 들어가는 구조예요. 'die Veränderungen, die in Nordamerika beobachtet wurden'이라는 관계절을 die in Nordamerika beobachteten Veränderungen으로 압축한 거예요. 과거분사(beobachtet, gerissen, ausgebildet)는 수동·완료의 뜻을, 현재분사(entstehend, flüchtend)는 능동·진행의 뜻을 가져요. 읽을 때는 관사나 전치사 뒤에 명사가 바로 안 나오면 분사가 나올 때까지 기다렸다가 거꾸로 해석하세요.",
       "pattern": "관사 + (부사어·전치사구) + 분사 + 형용사 어미 + 명사",
       "examples": [
         {
@@ -522,7 +559,7 @@
           ]
         }
       ],
-      "tip": "분사 수식어의 어미는 보통 형용사와 똑같이 변해요. 'die … beobachteten Veränderungen'에서 -en은 정관사 뒤 복수 어미예요."
+      "tip": "분사 수식어의 어미는 형용사와 똑같이 변해요. 'die … beobachteten Veränderungen'에서 -en은 정관사 뒤 복수 어미예요."
     }
   ],
   "vocab": [
