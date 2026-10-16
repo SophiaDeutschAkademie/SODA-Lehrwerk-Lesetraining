@@ -77,7 +77,7 @@
       "q": "Aylin hat am Samstag vor 13 Uhr keine Zeit.",
       "answer": 0,
       "evidence": "am Samstag muss ich vormittags arbeiten",
-      "pairs": [["muss ich vormittags arbeiten", "hat vor 13 Uhr keine Zeit"], ["Ab 13 Uhr habe ich Zeit", "vor 13 Uhr keine Zeit"]],
+      "pairs": [["muss ich vormittags arbeiten", "vor 13 Uhr keine Zeit"], ["Ab 13 Uhr habe ich Zeit", "vor 13 Uhr keine Zeit"]],
       "explain": "아일린은 토요일 오전에 일해야 하고, 13시부터 시간이 있다고 해요. 'vormittags arbeiten(오전에 일하다)'을 'vor 13 Uhr keine Zeit haben(13시 전에는 시간이 없다)'으로 바꿔 말했어요. 맞는 내용이에요."
     },
     {

@@ -7,7 +7,12 @@
   "type": "Fachartikel",
   "typeKo": "전문지 기사",
   "intro": "독일에서 식품이 어느 단계에서 왜 버려지는지 유통 과정을 따라 분석한 글이에요.",
-  "focus": ["화법조동사 + 수동태", "zu + 현재분사 수식어 (Gerundivum)", "확장된 분사 수식어", "sich lassen + 동사원형"],
+  "focus": [
+    "화법조동사 + 수동태",
+    "zu + 현재분사 수식어 (Gerundivum)",
+    "확장된 분사 수식어",
+    "sich lassen + 동사원형"
+  ],
   "paragraphs": [
     {
       "de": "Mehr als zehn Millionen Tonnen Lebensmittel landen in Deutschland Jahr für Jahr im Müll – eine Menge, die sich kaum noch anschaulich machen lässt. Ein erheblicher Teil davon hätte vermieden werden können. Wer verstehen will, warum Essbares weggeworfen wird, muss den Weg der Lebensmittel vom Acker bis zum Teller verfolgen, denn auf jeder Stufe der Wertschöpfungskette entstehen Verluste, und zwar aus jeweils anderen Gründen.",
@@ -76,7 +81,16 @@
       ],
       "answer": 3,
       "evidence": "auf jeder Stufe der Wertschöpfungskette entstehen Verluste, und zwar aus jeweils anderen Gründen",
-      "pairs": [["auf jeder Stufe der Wertschöpfungskette", "auf allen Stufen"], ["die privaten Haushalte", "bei den Verbrauchern selbst"]],
+      "pairs": [
+        [
+          "auf jeder Stufe der Wertschöpfungskette",
+          "auf allen Stufen"
+        ],
+        [
+          "die privaten Haushalte",
+          "bei den Verbrauchern selbst"
+        ]
+      ],
       "explain": "본문은 밭에서 식탁까지 모든 단계에서 손실이 생기고, 그중 가정의 몫이 가장 크다고 설명해요. 농업의 규격, 프랑스의 법, 날짜 표시의 혼동은 각각 한 부분일 뿐이어서 전체 요지가 아니에요."
     },
     {
@@ -85,7 +99,16 @@
       "q": "Ein Teil des Gemüses wird nicht geerntet, weil es nicht so aussieht, wie es der Handel verlangt.",
       "answer": 0,
       "evidence": "weil Obst und Gemüse den vom Handel festgelegten Normen nicht entsprechen",
-      "pairs": [["den vom Handel festgelegten Normen nicht entsprechen", "nicht so aussieht, wie es der Handel verlangt"], ["bleibt dort liegen oder wird untergepflügt", "wird nicht geerntet"]],
+      "pairs": [
+        [
+          "den vom Handel festgelegten Normen nicht entsprechen",
+          "nicht so aussieht, wie es der Handel verlangt"
+        ],
+        [
+          "bleibt dort liegen oder wird untergepflügt",
+          "wird nicht geerntet"
+        ]
+      ],
       "explain": "'유통업계가 정한 규격에 맞지 않는다'는 말을 '유통업계가 요구하는 모습이 아니다'로 바꿔 표현했어요. 수확물이 밭에 남거나 갈아엎어진다는 것은 곧 수확되지 않는다는 뜻이에요."
     },
     {
@@ -94,7 +117,12 @@
       "q": "Dem Text zufolge schmeckt krumm gewachsenes Gemüse schlechter als makellose Ware.",
       "answer": 1,
       "evidence": "obwohl ihr Geschmack dem der makellosen Ware in nichts nachsteht",
-      "pairs": [["ihr Geschmack dem der makellosen Ware in nichts nachsteht", "schmeckt krumm gewachsenes Gemüse schlechter als makellose Ware"]],
+      "pairs": [
+        [
+          "ihr Geschmack dem der makellosen Ware in nichts nachsteht",
+          "schmeckt krumm gewachsenes Gemüse schlechter als makellose Ware"
+        ]
+      ],
       "explain": "'in nichts nachstehen'은 '전혀 뒤지지 않는다'는 뜻이에요. 휜 채소의 맛은 흠 없는 상품과 다르지 않다고 했으므로, '맛이 더 나쁘다'는 문제의 진술은 본문과 반대예요."
     },
     {
@@ -109,7 +137,16 @@
       ],
       "answer": 1,
       "evidence": "Dass die zu entsorgenden Waren häufig noch einwandfrei sind, ändert daran nichts.",
-      "pairs": [["zu entsorgenden Waren", "werden sie weggeworfen"], ["häufig noch einwandfrei", "oft noch in Ordnung"]],
+      "pairs": [
+        [
+          "zu entsorgenden Waren",
+          "werden sie weggeworfen"
+        ],
+        [
+          "häufig noch einwandfrei",
+          "oft noch in Ordnung"
+        ]
+      ],
       "explain": "'daran'은 앞 문장, 즉 저녁에 남은 것이 폐기된다는 사실을 가리켜요. 상품이 아직 멀쩡하다는 점도 그 사실을 바꾸지 못한다는 뜻이므로 '멀쩡한데도 버려진다'가 맞아요."
     },
     {
@@ -124,7 +161,16 @@
       ],
       "answer": 2,
       "evidence": "Das Verbrauchsdatum dagegen steht auf leicht verderblichen Waren wie frischem Hackfleisch oder Fisch. Nach seinem Ablauf dürfen diese Produkte nicht mehr verkauft werden",
-      "pairs": [["frischem Hackfleisch", "rohes Fleisch"], ["nicht mehr verkauft werden", "nicht mehr angeboten werden"]],
+      "pairs": [
+        [
+          "frischem Hackfleisch",
+          "rohes Fleisch"
+        ],
+        [
+          "nicht mehr verkauft werden",
+          "nicht mehr angeboten werden"
+        ]
+      ],
       "explain": "소비 기한(Verbrauchsdatum)은 다진 고기나 생선처럼 상하기 쉬운 식품에 붙고, 이 날짜가 지나면 더 이상 팔 수 없어요. 요구르트, 파스타 면, 쌀에는 최소 품질 보장 기한이 붙어서 날짜가 지나도 상태가 좋으면 계속 팔 수 있어요."
     },
     {
@@ -132,14 +178,19 @@
       "kind": "detail",
       "q": "Was nennt der Text als einen Grund für die Abfälle in der Gastronomie?",
       "options": [
-        "Die Gäste lassen aus Gewohnheit einen Teil der Portion auf dem Teller zurück.",
+        "Die Gäste nehmen übrig gebliebene Speisen aus Gewohnheit nicht mit nach Hause.",
         "Es wird für mehr Gäste gekocht, als realistischerweise kommen werden.",
         "Vorschriften verbieten es, Speisen vom Buffet am nächsten Tag noch einmal anzubieten.",
         "Das Küchenpersonal verwechselt das Mindesthaltbarkeitsdatum mit dem Verbrauchsdatum."
       ],
       "answer": 1,
       "evidence": "eine Planung, die sich an der höchsten statt an der tatsächlich zu erwartenden Nachfrage orientiert",
-      "pairs": [["an der höchsten statt an der tatsächlich zu erwartenden Nachfrage", "für mehr Gäste gekocht, als realistischerweise kommen werden"]],
+      "pairs": [
+        [
+          "an der höchsten statt an der tatsächlich zu erwartenden Nachfrage",
+          "für mehr Gäste gekocht, als realistischerweise kommen werden"
+        ]
+      ],
       "explain": "'실제로 예상되는 수요가 아니라 최대 수요에 맞추어 계획한다'는 말은 곧 실제로 올 손님보다 많은 양을 준비한다는 뜻이에요. 1인분 크기와 뷔페는 언급되지만 손님의 습관이나 규정에 관한 이야기는 본문에 없어요."
     },
     {
@@ -148,7 +199,12 @@
       "q": "Seit Einführung des Gesetzes wird in Frankreich deutlich weniger weggeworfen als zuvor.",
       "answer": 2,
       "evidence": null,
-      "pairs": [["Seit 2016 ist es größeren Supermärkten dort gesetzlich untersagt", "Seit Einführung des Gesetzes"]],
+      "pairs": [
+        [
+          "Seit 2016 ist es größeren Supermärkten dort gesetzlich untersagt",
+          "Seit Einführung des Gesetzes"
+        ]
+      ],
       "explain": "본문은 프랑스에서 2016년부터 무엇이 금지되고 슈퍼마켓이 무엇을 해야 하는지만 설명해요. 그 법이 실제로 낭비를 얼마나 줄였는지에 대한 내용은 없어요."
     },
     {
@@ -163,7 +219,16 @@
       ],
       "answer": 3,
       "evidence": "Ob eine solche Pflicht auch in Deutschland eingeführt werden sollte, wird seit Jahren diskutiert",
-      "pairs": [["Ob eine solche Pflicht auch in Deutschland eingeführt werden sollte, wird seit Jahren diskutiert", "besteht bislang nicht"], ["noch zu klärenden Fragen", "inzwischen geklärt"]],
+      "pairs": [
+        [
+          "Ob eine solche Pflicht auch in Deutschland eingeführt werden sollte, wird seit Jahren diskutiert",
+          "besteht bislang nicht"
+        ],
+        [
+          "noch zu klärenden Fragen",
+          "inzwischen geklärt"
+        ]
+      ],
       "explain": "그런 의무를 도입해야 하는지를 여러 해째 논의 중이라는 말은 아직 그런 의무가 없다는 뜻이에요. 2016년 규정은 프랑스 이야기이고, 법적 책임과 물류는 둘 다 아직 해결되지 않은 문제예요."
     },
     {
@@ -178,7 +243,12 @@
       ],
       "answer": 0,
       "evidence": "Der wirksamste Hebel liegt jedoch dort, wo der größte Anteil anfällt – in den Haushalten.",
-      "pairs": [["Hebel", "Mittel, mit dem sich am meisten bewirken lässt"]],
+      "pairs": [
+        [
+          "Hebel",
+          "Mittel, mit dem sich am meisten bewirken lässt"
+        ]
+      ],
       "explain": "Hebel은 원래 '지렛대'인데, 여기서는 비유적으로 '가장 큰 효과를 낼 수 있는 수단, 공략 지점'이라는 뜻이에요. 가정에서 가장 많이 버려지므로 그곳을 바꾸는 것이 가장 효과적이라는 말이에요."
     },
     {
@@ -193,7 +263,16 @@
       ],
       "answer": 2,
       "evidence": "Dort entscheidet nicht die Gesetzgebung, sondern die Gewohnheit, ob ein Lebensmittel auf dem Teller landet oder in der Tonne.",
-      "pairs": [["die Gewohnheit", "vom alltäglichen Verhalten"], ["in der Tonne", "verschwendet werden"]],
+      "pairs": [
+        [
+          "die Gewohnheit",
+          "vom alltäglichen Verhalten"
+        ],
+        [
+          "in der Tonne",
+          "verschwendet werden"
+        ]
+      ],
       "explain": "가정에서는 법이 아니라 습관이 결정한다는 말은, 사람들의 일상적인 행동이 낭비를 좌우한다는 뜻이에요. 법이 쓸모없다거나 법이 가정의 낭비를 금지한다는 내용은 본문에 없어요."
     }
   ],
@@ -207,19 +286,60 @@
         {
           "de": "Ein erheblicher Teil davon hätte vermieden werden können.",
           "ko": "그중 상당 부분은 피할 수 있었을 것입니다.",
-          "mark": ["hätte", "vermieden werden können"],
-          "parts": [["Ein erheblicher Teil davon", "주어"], ["hätte", "동사"], ["vermieden werden können.", "동사(끝)"]]
+          "mark": [
+            "hätte",
+            "vermieden werden können"
+          ],
+          "parts": [
+            [
+              "Ein erheblicher Teil davon",
+              "주어"
+            ],
+            [
+              "hätte",
+              "동사"
+            ],
+            [
+              "vermieden werden können.",
+              "동사(끝)"
+            ]
+          ]
         },
         {
           "de": "was abends übrig bleibt, muss nicht selten entsorgt werden.",
           "ko": "저녁에 남은 것은 드물지 않게 폐기되어야 합니다.",
-          "mark": ["muss", "entsorgt werden"],
-          "parts": [["was abends übrig bleibt,", "주어"], ["muss", "동사"], ["nicht selten", "부사어(빈도)"], ["entsorgt werden.", "동사(끝)"]]
+          "mark": [
+            "muss",
+            "entsorgt werden"
+          ],
+          "parts": [
+            [
+              "was abends übrig bleibt,",
+              "주어"
+            ],
+            [
+              "muss",
+              "동사"
+            ],
+            [
+              "nicht selten",
+              "부사어(빈도)"
+            ],
+            [
+              "entsorgt werden.",
+              "동사(끝)"
+            ]
+          ]
         },
         {
           "de": "Handelsnormen müssen hinterfragt, Bestellmengen besser geplant, Datumsangaben richtig verstanden werden.",
           "ko": "유통 규격은 재검토되고, 주문량은 더 잘 계획되고, 날짜 표시는 올바르게 이해되어야 합니다.",
-          "mark": ["müssen", "hinterfragt", "geplant", "verstanden werden"]
+          "mark": [
+            "müssen",
+            "hinterfragt",
+            "geplant",
+            "verstanden werden"
+          ]
         }
       ],
       "tip": "종속절에서는 인칭변화한 동사가 맨 끝이 아니라 동사원형 묶음 앞에 와요: …, dass ein Teil hätte vermieden werden können."
@@ -233,19 +353,59 @@
         {
           "de": "Dass die zu entsorgenden Waren häufig noch einwandfrei sind, ändert daran nichts.",
           "ko": "폐기되어야 할 상품이 대개 아직 멀쩡하다는 사실도 이를 바꾸지 못합니다.",
-          "mark": ["zu entsorgenden"],
-          "parts": [["Dass die zu entsorgenden Waren häufig noch einwandfrei sind,", "종속절"], ["ändert", "동사"], ["daran", "전치사 목적어"], ["nichts.", "4격 목적어"]]
+          "mark": [
+            "zu entsorgenden"
+          ],
+          "parts": [
+            [
+              "Dass die zu entsorgenden Waren häufig noch einwandfrei sind,",
+              "종속절"
+            ],
+            [
+              "ändert",
+              "동사"
+            ],
+            [
+              "daran",
+              "전치사 목적어"
+            ],
+            [
+              "nichts.",
+              "4격 목적어"
+            ]
+          ]
         },
         {
           "de": "Eine nicht zu unterschätzende Rolle spielen auch Preisschwankungen",
           "ko": "가격 변동 역시 결코 과소평가할 수 없는 역할을 합니다.",
-          "mark": ["nicht zu unterschätzende"],
-          "parts": [["Eine nicht zu unterschätzende Rolle", "4격 목적어"], ["spielen", "동사"], ["auch", "부사어"], ["Preisschwankungen", "주어"]]
+          "mark": [
+            "nicht zu unterschätzende"
+          ],
+          "parts": [
+            [
+              "Eine nicht zu unterschätzende Rolle",
+              "4격 목적어"
+            ],
+            [
+              "spielen",
+              "동사"
+            ],
+            [
+              "auch",
+              "부사어"
+            ],
+            [
+              "Preisschwankungen",
+              "주어"
+            ]
+          ]
         },
         {
           "de": "die noch zu klärenden Fragen betreffen vor allem die Haftung und die Logistik.",
           "ko": "아직 해결되어야 할 문제는 주로 법적 책임과 물류입니다.",
-          "mark": ["noch zu klärenden"]
+          "mark": [
+            "noch zu klärenden"
+          ]
         }
       ],
       "tip": "'zu + 현재분사' 수식어는 'sein + zu + 동사원형' 문장과 같은 뜻이에요: Die Fragen sind noch zu klären. → die noch zu klärenden Fragen."
@@ -259,18 +419,45 @@
         {
           "de": "weil Obst und Gemüse den vom Handel festgelegten Normen nicht entsprechen.",
           "ko": "과일과 채소가 유통업계가 정한 규격에 맞지 않기 때문입니다.",
-          "mark": ["vom Handel festgelegten"],
-          "parts": [["weil", "접속사"], ["Obst und Gemüse", "주어"], ["den vom Handel festgelegten Normen", "3격 목적어"], ["nicht", "부정어"], ["entsprechen.", "동사(끝)"]]
+          "mark": [
+            "vom Handel festgelegten"
+          ],
+          "parts": [
+            [
+              "weil",
+              "접속사"
+            ],
+            [
+              "Obst und Gemüse",
+              "주어"
+            ],
+            [
+              "den vom Handel festgelegten Normen",
+              "3격 목적어"
+            ],
+            [
+              "nicht",
+              "부정어"
+            ],
+            [
+              "entsprechen.",
+              "동사(끝)"
+            ]
+          ]
         },
         {
           "de": "Hinzu kommt das auf nahezu jeder Verpackung angegebene Mindesthaltbarkeitsdatum, das von vielen Kundinnen und Kunden als Verfallsdatum missverstanden wird.",
           "ko": "여기에 거의 모든 포장에 표시된 최소 품질 보장 기한이 더해지는데, 많은 소비자가 이것을 소비 만료일로 잘못 이해합니다.",
-          "mark": ["auf nahezu jeder Verpackung angegebene"]
+          "mark": [
+            "auf nahezu jeder Verpackung angegebene"
+          ]
         },
         {
           "de": "Mehr als die Hälfte der in Deutschland weggeworfenen Lebensmittel stammt Schätzungen zufolge aus privaten Küchen.",
           "ko": "독일에서 버려지는 식품의 절반 이상이 추산에 따르면 가정의 부엌에서 나옵니다.",
-          "mark": ["in Deutschland weggeworfenen"]
+          "mark": [
+            "in Deutschland weggeworfenen"
+          ]
         }
       ],
       "tip": "현재분사 수식어도 같은 방식이에요: die beim Zuschneiden anfallenden Reste = die Reste, die beim Zuschneiden anfallen."
@@ -284,39 +471,130 @@
         {
           "de": "Zu krumme Gurken, zu kleine Äpfel oder Möhren mit zwei Beinen lassen sich kaum verkaufen, obwohl ihr Geschmack dem der makellosen Ware in nichts nachsteht.",
           "ko": "너무 휜 오이, 너무 작은 사과, 다리가 두 개 달린 당근은 맛이 흠 없는 상품에 전혀 뒤지지 않는데도 거의 팔리지 않습니다.",
-          "mark": ["lassen sich", "verkaufen"],
-          "parts": [["Zu krumme Gurken, zu kleine Äpfel oder Möhren mit zwei Beinen", "주어"], ["lassen", "동사"], ["sich", "재귀대명사"], ["kaum", "부사어"], ["verkaufen,", "동사(끝)"], ["obwohl ihr Geschmack dem der makellosen Ware in nichts nachsteht.", "종속절"]]
+          "mark": [
+            "lassen sich",
+            "verkaufen"
+          ],
+          "parts": [
+            [
+              "Zu krumme Gurken, zu kleine Äpfel oder Möhren mit zwei Beinen",
+              "주어"
+            ],
+            [
+              "lassen",
+              "동사"
+            ],
+            [
+              "sich",
+              "재귀대명사"
+            ],
+            [
+              "kaum",
+              "부사어"
+            ],
+            [
+              "verkaufen,",
+              "동사(끝)"
+            ],
+            [
+              "obwohl ihr Geschmack dem der makellosen Ware in nichts nachsteht.",
+              "종속절"
+            ]
+          ]
         },
         {
           "de": "eine Menge, die sich kaum noch anschaulich machen lässt.",
           "ko": "이제는 실감하기조차 어려운 양입니다.",
-          "mark": ["sich", "machen lässt"]
+          "mark": [
+            "sich",
+            "machen lässt"
+          ]
         }
       ],
       "tip": "'sein + zu + 동사원형'도 비슷한 뜻이에요: Die Menge ist kaum anschaulich zu machen."
     }
   ],
   "vocab": [
-    { "de": "die Wertschöpfungskette, -n", "ko": "가치 사슬 (생산에서 소비까지의 단계)" },
-    { "de": "die Verschwendung (Sg.)", "ko": "낭비" },
-    { "de": "entsorgen", "ko": "(쓰레기 등을) 처리하다, 폐기하다" },
-    { "de": "der Acker, -¨", "ko": "밭, 경작지" },
-    { "de": "unter|pflügen", "ko": "(쟁기로) 갈아엎다" },
-    { "de": "makellos", "ko": "흠 없는, 완벽한" },
-    { "de": "das Überangebot (Sg.)", "ko": "공급 과잉" },
-    { "de": "das Mindesthaltbarkeitsdatum, -daten", "ko": "최소 품질 보장 기한 (이 날짜까지 품질이 보장된다는 표시)" },
-    { "de": "das Verbrauchsdatum, -daten", "ko": "소비 기한 (이 날짜 이후에는 먹지 말아야 한다는 표시)" },
-    { "de": "verderblich", "ko": "상하기 쉬운" },
-    { "de": "genießbar", "ko": "먹을 수 있는, 식용 가능한" },
-    { "de": "verzehren", "ko": "(음식을) 먹다, 섭취하다" },
-    { "de": "einwandfrei", "ko": "흠잡을 데 없는, 상태가 멀쩡한" },
-    { "de": "die Haftung (Sg.)", "ko": "(법적) 책임, 배상 책임" },
-    { "de": "gemeinnützig", "ko": "공익을 위한, 비영리의" },
-    { "de": "untersagen + Dat.", "ko": "(~에게 ~을) 금지하다" },
-    { "de": "vernichten", "ko": "없애다, 폐기하다" },
-    { "de": "halbieren", "ko": "절반으로 줄이다" },
-    { "de": "hartnäckig", "ko": "끈질긴, 쉽게 사라지지 않는" },
-    { "de": "der Hebel, -", "ko": "지렛대; (비유) 효과를 내는 수단" }
+    {
+      "de": "die Wertschöpfungskette, -n",
+      "ko": "가치 사슬 (생산에서 소비까지의 단계)"
+    },
+    {
+      "de": "die Verschwendung (Sg.)",
+      "ko": "낭비"
+    },
+    {
+      "de": "entsorgen",
+      "ko": "(쓰레기 등을) 처리하다, 폐기하다"
+    },
+    {
+      "de": "der Acker, -¨",
+      "ko": "밭, 경작지"
+    },
+    {
+      "de": "unter|pflügen",
+      "ko": "(쟁기로) 갈아엎다"
+    },
+    {
+      "de": "makellos",
+      "ko": "흠 없는, 완벽한"
+    },
+    {
+      "de": "das Überangebot (Sg.)",
+      "ko": "공급 과잉"
+    },
+    {
+      "de": "das Mindesthaltbarkeitsdatum, -daten",
+      "ko": "최소 품질 보장 기한 (이 날짜까지 품질이 보장된다는 표시)"
+    },
+    {
+      "de": "das Verbrauchsdatum, -daten",
+      "ko": "소비 기한 (이 날짜 이후에는 먹지 말아야 한다는 표시)"
+    },
+    {
+      "de": "verderblich",
+      "ko": "상하기 쉬운"
+    },
+    {
+      "de": "genießbar",
+      "ko": "먹을 수 있는, 식용 가능한"
+    },
+    {
+      "de": "verzehren",
+      "ko": "(음식을) 먹다, 섭취하다"
+    },
+    {
+      "de": "einwandfrei",
+      "ko": "흠잡을 데 없는, 상태가 멀쩡한"
+    },
+    {
+      "de": "die Haftung (Sg.)",
+      "ko": "(법적) 책임, 배상 책임"
+    },
+    {
+      "de": "gemeinnützig",
+      "ko": "공익을 위한, 비영리의"
+    },
+    {
+      "de": "untersagen + Dat.",
+      "ko": "(~에게 ~을) 금지하다"
+    },
+    {
+      "de": "vernichten",
+      "ko": "없애다, 폐기하다"
+    },
+    {
+      "de": "halbieren",
+      "ko": "절반으로 줄이다"
+    },
+    {
+      "de": "hartnäckig",
+      "ko": "끈질긴, 쉽게 사라지지 않는"
+    },
+    {
+      "de": "der Hebel, -",
+      "ko": "지렛대; (비유) 효과를 내는 수단"
+    }
   ],
   "phrases": [
     {

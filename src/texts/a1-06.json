@@ -104,7 +104,7 @@
           "mark": ["pro Jahr"],
           "parts": [["Für Erwachsene", "부사어"], ["kostet", "동사"], ["der Ausweis", "주어"], ["15 Euro", "4격 목적어"], ["pro Jahr.", "부사어(빈도)"]] }
       ],
-      "tip": "am은 an + dem이에요. 요일과 하루의 때(am Morgen, am Wochenende) 앞에 써요. 시각 앞에는 um을 써요(um 10 Uhr)." }
+      "tip": "am은 an + dem이에요. 요일과 날짜, 하루의 때 앞에 써요(am Samstag, am 14. Juni, am Morgen, am Wochenende). 시각 앞에는 um을 써요(um 10 Uhr)." }
   ],
   "vocab": [
     { "de": "die Öffnungszeiten (Pl.)", "ko": "영업시간, 이용 시간" },

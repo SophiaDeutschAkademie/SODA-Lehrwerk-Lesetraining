@@ -71,20 +71,20 @@
     {
       "type": "rfn",
       "kind": "detail",
-      "q": "Der Autor hält Luhmanns Definition trotz ihrer trockenen Formulierung für zutreffend.",
-      "answer": 0,
+      "q": "Der Autor kritisiert Luhmanns Beschreibung als zu trocken, um das Wesentliche am Vertrauen zu erfassen.",
+      "answer": 1,
       "evidence": "Die Formulierung klingt spröde, trifft aber den Kern.",
       "pairs": [
         [
           "klingt spröde",
-          "trockenen Formulierung"
+          "zu trocken"
         ],
         [
           "trifft aber den Kern",
-          "für zutreffend"
+          "das Wesentliche am Vertrauen zu erfassen"
         ]
       ],
-      "explain": "'spröde klingen'은 딱딱하고 메마르게 들린다는 뜻이고, 'den Kern treffen'은 핵심을 찌른다는 뜻이에요. 글쓴이는 루만의 표현이 건조하지만 정확하다고 평가해요."
+      "explain": "'spröde klingen'은 딱딱하고 메마르게 들린다는 뜻이고, 'den Kern treffen'은 핵심을 찌른다는 뜻이에요. 글쓴이는 루만의 표현이 건조하게 들리지만 바로 핵심을 짚는다고 인정하므로, 핵심을 놓친다고 비판한다는 진술은 본문과 반대예요."
     },
     {
       "type": "mc",
@@ -223,16 +223,16 @@
     {
       "type": "rfn",
       "kind": "detail",
-      "q": "Der Autor nennt konkrete Länder, in denen das wechselseitige Vertrauen besonders hoch ist.",
+      "q": "Besonders hoch ist das wechselseitige Vertrauen dem Autor zufolge in den nordeuropäischen Ländern.",
       "answer": 2,
       "evidence": null,
       "pairs": [
         [
           "Gesellschaften mit hohem wechselseitigem Vertrauen",
-          "konkrete Länder"
+          "in den nordeuropäischen Ländern"
         ]
       ],
-      "explain": "본문은 서로에 대한 신뢰가 높은 사회가 경제적으로 더 유연하다고 일반적으로 말할 뿐이에요. 어느 나라가 그런지는 언급하지 않아요."
+      "explain": "본문은 서로에 대한 신뢰가 높은 사회가 경제적으로 더 유연하다고 일반적으로 말할 뿐이에요. 어느 나라나 지역이 그런지는 언급하지 않아요. 북유럽에 대한 배경지식이 있더라도 본문에 없는 내용이면 '본문에 없음'을 골라야 해요."
     },
     {
       "type": "mc",

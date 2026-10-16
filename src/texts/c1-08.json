@@ -63,16 +63,16 @@
     {
       "type": "rfn",
       "kind": "detail",
-      "q": "Die Kosten für die Bibel fielen an, bevor durch den Verkauf Geld hereinkam.",
-      "answer": 0,
+      "q": "Gutenberg konnte die Herstellung der Bibel aus dem Erlös der ersten verkauften Exemplare bezahlen.",
+      "answer": 1,
       "evidence": "Werkstatt, Lettern, Papier und Gehilfen mussten vorfinanziert werden, lange bevor ein einziges Exemplar verkauft werden konnte.",
       "pairs": [
         [
-          "mussten vorfinanziert werden",
-          "fielen an, bevor durch den Verkauf Geld hereinkam"
+          "mussten vorfinanziert werden, lange bevor ein einziges Exemplar verkauft werden konnte",
+          "aus dem Erlös der ersten verkauften Exemplare bezahlen"
         ]
       ],
-      "explain": "vorfinanzieren은 수입이 생기기 전에 비용을 미리 대는 것을 뜻해요. 공방, 활자, 종이, 일꾼의 비용을 단 한 부도 팔기 훨씬 전에 마련해야 했다는 말과 같은 내용이에요."
+      "explain": "vorfinanzieren은 수입이 생기기 전에 비용을 미리 대는 것을 뜻해요. 공방, 활자, 종이, 일꾼의 비용을 단 한 부도 팔기 훨씬 전에 마련해야 했고, 그 돈은 푸스트에게서 빌렸어요. 첫 판매 수익으로 비용을 댔다는 진술은 본문과 반대예요."
     },
     {
       "type": "mc",

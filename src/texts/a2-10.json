@@ -67,12 +67,12 @@
       "options": [
         "Er fliegt direkt nach Lübeck und fährt dann mit dem Taxi weiter.",
         "Er landet in einer anderen Stadt und fährt dann mit der Bahn weiter.",
-        "Er fährt mit dem Zug von Hamburg nach Lübeck, und die Hoffmanns holen ihn ab."
+        "Er fliegt bis Hamburg, und die Hoffmanns holen ihn dort mit dem Auto ab."
       ],
       "answer": 1,
       "evidence": "Mein Flugzeug landet morgens in Hamburg, von dort nehme ich den Zug.",
       "pairs": [["landet morgens in Hamburg", "landet in einer anderen Stadt"], ["nehme ich den Zug", "fährt dann mit der Bahn weiter"]],
-      "explain": "비행기는 함부르크에 착륙하고 거기서 기차를 탄다고 해요. Hamburg를 '다른 도시'로, Zug를 Bahn으로 바꿔 표현했어요. 호프만 가족이 데리러 오는지는 아직 모르고 물어보는 중이니까 세 번째 선택지는 맞다고 할 수 없어요."
+      "explain": "비행기는 함부르크에 착륙하고 거기서 기차를 탄다고 해요. Hamburg를 '다른 도시'로, Zug를 Bahn으로 바꿔 표현했어요. 세 번째 선택지는 Hamburg, abholen 같은 본문 단어를 쓰지만, 재민은 함부르크에서 기차를 타고 뤼베크 역에서 데리러 와 주는지 묻는 거예요."
     },
     {
       "type": "mc",
@@ -94,13 +94,13 @@
       "q": "Was möchte Jae-min über die Schule wissen?",
       "options": [
         "wo die Schule liegt und wie er dorthin kommt",
-        "an welchem Tag der Unterricht beginnt und welche Sachen er braucht",
+        "zu welchem Zeitpunkt der Unterricht beginnt und welche Sachen er braucht",
         "ob er in der Schule eine Uniform tragen muss"
       ],
       "answer": 1,
       "evidence": "Wissen Sie schon, wann der Unterricht anfängt? Und könnten Sie mir schreiben, was ich für die Schule mitbringen soll?",
-      "pairs": [["wann der Unterricht anfängt", "an welchem Tag der Unterricht beginnt"], ["was ich für die Schule mitbringen soll", "welche Sachen er braucht"]],
-      "explain": "재민은 수업이 언제 시작하는지와 학교에 무엇을 가져가야 하는지를 물어요. anfangen을 beginnen으로, mitbringen sollen을 brauchen으로 바꿔 말했어요. 교복은 독일에 없다고 재민이 이미 생각하고 있으니, 입어야 하는지 묻는 것은 아니에요."
+      "pairs": [["wann der Unterricht anfängt", "zu welchem Zeitpunkt der Unterricht beginnt"], ["was ich für die Schule mitbringen soll", "welche Sachen er braucht"]],
+      "explain": "재민은 수업이 언제 시작하는지와 학교에 무엇을 가져가야 하는지를 물어요. wann을 'zu welchem Zeitpunkt(어느 시점에)'로, anfangen을 beginnen으로, mitbringen sollen을 brauchen으로 바꿔 말했어요. 교복은 독일에 없다고 재민이 이미 생각하고 있으니, 입어야 하는지 묻는 것은 아니에요."
     },
     {
       "type": "rf",
@@ -125,14 +125,14 @@
       "kind": "detail",
       "q": "Was hat Jae-min sich für das Jahr in Deutschland vorgenommen?",
       "options": [
-        "Er will nur Deutsch reden, auch wenn das zuerst nicht leicht ist.",
+        "Er will keine andere Sprache als Deutsch reden, auch wenn das zuerst nicht leicht ist.",
         "Er will mit der Familie Deutsch und in der Schule Englisch sprechen.",
         "Er will zu Hause seine Fehler selbst korrigieren."
       ],
       "answer": 0,
       "evidence": "Deshalb werde ich zu Hause und in der Schule nur Deutsch sprechen, auch wenn es am Anfang schwer ist.",
-      "pairs": [["nur Deutsch sprechen", "nur Deutsch reden"], ["auch wenn es am Anfang schwer ist", "auch wenn das zuerst nicht leicht ist"]],
-      "explain": "재민은 집에서도 학교에서도 독일어만 쓰겠다고 해요. sprechen을 reden으로, 'am Anfang schwer'를 'zuerst nicht leicht'로 바꿔 말했어요. 실수는 자기가 고치는 게 아니라 가족에게 고쳐 달라고 부탁해요."
+      "pairs": [["nur Deutsch sprechen", "keine andere Sprache als Deutsch reden"], ["auch wenn es am Anfang schwer ist", "auch wenn das zuerst nicht leicht ist"]],
+      "explain": "재민은 집에서도 학교에서도 독일어만 쓰겠다고 해요. 'nur Deutsch sprechen(독일어만 말하다)'을 'keine andere Sprache als Deutsch reden(독일어 말고 다른 언어는 말하지 않다)'으로, 'am Anfang schwer'를 'zuerst nicht leicht'로 바꿔 말했어요. 실수는 자기가 고치는 게 아니라 가족에게 고쳐 달라고 부탁해요."
     }
   ],
   "grammar": [

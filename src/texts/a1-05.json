@@ -58,8 +58,8 @@
       "options": ["Anzeige A", "Anzeige B", "Anzeige C", "Anzeige D", "keine Anzeige"],
       "answer": 2,
       "evidence": "Verschenke ein Sofa (blau, zwei Meter).",
-      "pairs": [["Verschenke ein Sofa", "braucht Möbel"], ["Verschenke", "wenig Geld"], ["selbst abholen", "ein Auto und zwei starke Freunde"]],
-      "explain": "광고 C는 소파를 무료로 주는 광고예요. 소파는 가구(Möbel)이고 돈이 들지 않으니까 돈이 적은 학생에게 맞아요. 소파를 직접 가져가야 하고 3층에 엘리베이터가 없지만, 이 학생은 차와 힘센 친구 두 명이 있으니까 문제없어요."
+      "pairs": [["ein Sofa", "Möbel"], ["Verschenke", "wenig Geld"], ["Sie müssen das Sofa selbst abholen", "ein Auto und zwei starke Freunde"]],
+      "explain": "광고 C는 소파를 무료로 주는(verschenken) 광고예요. 소파는 가구(Möbel)이고 돈이 들지 않으니까 돈이 적은 학생에게 맞아요. 소파를 직접 가져가야 하고 3층에 엘리베이터가 없지만, 이 학생은 차와 힘센 친구 두 명이 있으니까 문제없어요."
     },
     {
       "type": "mc",
@@ -74,11 +74,11 @@
     {
       "type": "rf",
       "kind": "detail",
-      "q": "Der Babysitter in Anzeige B braucht ein Auto, denn die Wohnung ist weit weg.",
+      "q": "Zu der Familie in Anzeige B muss der Babysitter mit dem Auto fahren, denn die Wohnung ist weit weg.",
       "answer": 1,
       "evidence": "Sie brauchen kein Auto – ich wohne direkt neben dem Supermarkt.",
-      "pairs": [["brauchen kein Auto", "braucht ein Auto"], ["direkt neben dem Supermarkt", "weit weg"]],
-      "explain": "광고 B를 낸 사람은 슈퍼마켓 바로 옆(direkt neben)에 살기 때문에 베이비시터에게 차가 필요 없다(kein Auto)고 해요. 문제는 차가 필요하고 집이 멀다고 했으니 두 가지 모두 반대예요. 'Auto'라는 단어는 광고 B와 C에 모두 나와서 혼동하기 쉬워요."
+      "pairs": [["brauchen kein Auto", "muss der Babysitter mit dem Auto fahren"], ["direkt neben dem Supermarkt", "weit weg"]],
+      "explain": "광고 B를 낸 사람은 슈퍼마켓 바로 옆(direkt neben)에 살기 때문에 베이비시터에게 차가 필요 없다(kein Auto)고 해요. 문제는 차를 타고 가야 하고 집이 멀다고 했으니 두 가지 모두 반대예요. 'Auto'라는 단어는 광고 B와 C에 모두 나와서 혼동하기 쉬워요."
     },
     {
       "type": "rf",
@@ -86,8 +86,8 @@
       "q": "Bei Lukas zahlt man für die erste Stunde kein Geld.",
       "answer": 0,
       "evidence": "die erste Stunde ist kostenlos",
-      "pairs": [["kostenlos", "kein Geld"]],
-      "explain": "광고 D에 'die erste Stunde ist kostenlos(첫 시간은 무료)'라고 나와요. kostenlos를 '돈을 내지 않는다(kein Geld zahlen)'로 바꿔 말했어요. 두 번째 시간부터는 15유로예요."
+      "pairs": [["ist kostenlos", "kein Geld"], ["Lukas, Tel. 0151 98765432", "Bei Lukas"]],
+      "explain": "광고 D에 'die erste Stunde ist kostenlos(첫 시간은 무료)'라고 나와요. kostenlos를 '돈을 내지 않는다(kein Geld zahlen)'로 바꿔 말했어요. 두 번째 시간부터는 15유로예요. 광고 D를 낸 사람 이름이 루카스예요."
     }
   ],
   "grammar": [
