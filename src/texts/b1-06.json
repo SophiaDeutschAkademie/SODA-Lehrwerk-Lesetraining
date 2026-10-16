@@ -1,0 +1,312 @@
+{
+  "id": "b1-06",
+  "level": "B1",
+  "no": 6,
+  "title": "Mit 52 wieder im Hörsaal",
+  "titleKo": "52세에 다시 강의실로",
+  "type": "Interview",
+  "typeKo": "대학 잡지 인터뷰",
+  "intro": "52세에 다시 대학생이 된 모니카 하스 씨와 나눈 인터뷰예요.",
+  "focus": ["시간 종속접속사 als·wenn·seitdem", "시간 종속접속사 bevor·während·bis·sobald", "종속절이 앞에 올 때의 어순", "명사+동사 결합 표현"],
+  "paragraphs": [
+    {
+      "de": "Monika Haas ist 52 Jahre alt und studiert im dritten Semester Geschichte. Fast dreißig Jahre lang hat sie in einer Bank gearbeitet. Mit uns hat sie über ihren späten Neuanfang gesprochen.",
+      "ko": "모니카 하스 씨는 52세이고 3학기째 역사학을 공부하고 있어요. 거의 30년 동안 은행에서 일했어요. 늦은 새 출발에 대해 저희와 이야기를 나눴어요."
+    },
+    {
+      "style": "q",
+      "de": "Frau Haas, wie kam es zu der Entscheidung, mit über 50 noch einmal zu studieren?",
+      "ko": "하스 씨, 50이 넘어서 다시 공부하기로 결정하게 된 계기가 뭐였나요?"
+    },
+    {
+      "de": "Der Wunsch war schon lange da. Mit zwanzig habe ich eine Ausbildung zur Bankkauffrau gemacht, weil das damals ein sicherer Beruf war. Geschichte hat mich aber immer interessiert. Als vor drei Jahren auch unser jüngster Sohn ausgezogen ist, war das Haus plötzlich sehr still. In diesem Moment habe ich die Entscheidung getroffen. Seitdem ich studiere, ist mein Alltag völlig anders.",
+      "ko": "그 바람은 오래전부터 있었어요. 스무 살에 은행원 직업 교육을 받았는데, 당시에는 그게 안정적인 직업이었기 때문이에요. 하지만 역사는 늘 제 관심사였어요. 3년 전에 막내아들까지 집을 나가 독립했을 때, 집이 갑자기 아주 조용해졌어요. 그 순간에 결정을 내렸어요. 공부를 시작한 뒤로 제 일상은 완전히 달라졌어요."
+    },
+    {
+      "style": "q",
+      "de": "Haben Sie sich dann sofort eingeschrieben?",
+      "ko": "그러면 바로 등록하셨나요?"
+    },
+    {
+      "de": "Nein, so mutig war ich nicht. Ich habe erst einmal ein Semester lang als Gasthörerin Vorlesungen besucht, bevor ich mich richtig eingeschrieben habe. Ich wollte wissen, ob ich noch neunzig Minuten am Stück zuhören kann. Erst als ich gemerkt habe, dass es mir Freude macht, habe ich Kontakt mit der Studienberatung aufgenommen.",
+      "ko": "아니요, 그렇게 용감하지는 않았어요. 정식으로 등록하기 전에 먼저 한 학기 동안 청강생으로 강의를 들었어요. 제가 아직 90분을 쉬지 않고 들을 수 있는지 알고 싶었거든요. 재미있다는 걸 깨달은 뒤에야 학업 상담실에 연락했어요."
+    },
+    {
+      "style": "q",
+      "de": "Wie ist das Studium zusammen mit so vielen jungen Leuten?",
+      "ko": "그렇게 많은 젊은 사람들과 함께하는 대학 공부는 어떤가요?"
+    },
+    {
+      "de": "Am Anfang war es ungewohnt. Während die Jüngeren in der Pause auf ihr Handy schauen, lese ich lieber noch einmal meine Notizen. Aber wir nehmen Rücksicht aufeinander. Richtig schwer war für mich die Technik. Mit der Lernplattform bin ich lange nicht zurechtgekommen, bis mir ein Kommilitone alles in Ruhe gezeigt hat. Wenn ich heute etwas nicht verstehe, frage ich einfach in meiner Lerngruppe.",
+      "ko": "처음에는 낯설었어요. 젊은 학생들이 쉬는 시간에 휴대폰을 보는 동안 저는 필기한 것을 한 번 더 읽는 편이에요. 하지만 저희는 서로 배려해요. 저한테 정말 어려웠던 건 기술이었어요. 학습 플랫폼은 한 학우가 차분히 다 보여 주기 전까지 오랫동안 제대로 다루지 못했어요. 요즘은 이해가 안 되는 게 있으면 그냥 스터디 그룹에서 물어봐요."
+    },
+    {
+      "style": "q",
+      "de": "Was ist Ihr Ziel?",
+      "ko": "목표는 무엇인가요?"
+    },
+    {
+      "de": "Bis ich den Bachelor in der Tasche habe, dauert es noch ungefähr zwei Jahre. Sobald ich fertig bin, möchte ich im Stadtarchiv mitarbeiten, gern auch ehrenamtlich. Meine erste Prüfung habe ich übrigens schon abgelegt – mit einer Zwei.",
+      "ko": "학사 학위를 손에 넣기까지 아직 2년 정도 걸려요. 끝나자마자 시립 기록 보관소에서 일하고 싶어요. 자원봉사라도 좋아요. 참, 첫 시험은 이미 치렀어요. 성적은 2(gut)였어요."
+    },
+    {
+      "style": "q",
+      "de": "Was raten Sie anderen, die mit 50 noch einmal anfangen möchten?",
+      "ko": "50에 다시 시작하려는 사람들에게 어떤 조언을 하시겠어요?"
+    },
+    {
+      "de": "Nicht zu lange überlegen. Man muss sich nicht gleich einschreiben, sondern kann erst einmal nur zuhören. Und wenn man etwas nicht versteht, sollte man fragen. Die jungen Leute helfen gern – das habe ich jedenfalls so erlebt.",
+      "ko": "너무 오래 고민하지 마세요. 바로 등록할 필요는 없고, 우선 듣기만 해도 돼요. 그리고 이해가 안 되는 게 있으면 물어봐야 해요. 젊은 사람들은 기꺼이 도와줘요. 적어도 저는 그렇게 경험했어요."
+    }
+  ],
+  "questions": [
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Frau Haas hat zuerst Geschichte studiert und danach in einer Bank gearbeitet.",
+      "answer": 1,
+      "evidence": "Mit zwanzig habe ich eine Ausbildung zur Bankkauffrau gemacht, weil das damals ein sicherer Beruf war.",
+      "pairs": [["eine Ausbildung zur Bankkauffrau gemacht", "zuerst Geschichte studiert"], ["Geschichte hat mich aber immer interessiert", "Geschichte studiert"]],
+      "explain": "본문에서 하스 씨는 스무 살에 은행원 직업 교육을 받았다고 해요. 역사는 늘 관심사였지만 젊었을 때 공부한 것은 아니에요. Geschichte와 Bank라는 단어가 모두 본문에 나와서 헷갈리기 쉬워요."
+    },
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Den Entschluss zum Studium hat Frau Haas gefasst, als ihr letztes Kind das Elternhaus verlassen hatte.",
+      "answer": 0,
+      "evidence": "Als vor drei Jahren auch unser jüngster Sohn ausgezogen ist, war das Haus plötzlich sehr still. In diesem Moment habe ich die Entscheidung getroffen.",
+      "pairs": [["unser jüngster Sohn ausgezogen ist", "ihr letztes Kind das Elternhaus verlassen hatte"], ["die Entscheidung getroffen", "Den Entschluss zum Studium hat Frau Haas gefasst"]],
+      "explain": "'막내아들까지 집을 나가 독립했을 때'를 '마지막 자녀가 부모 집을 떠났을 때'로, 'die Entscheidung treffen'(결정을 내리다)을 'den Entschluss fassen'(결심하다)으로 바꿔 말했어요. 뜻은 같아요."
+    },
+    {
+      "type": "mc",
+      "kind": "paraphrase",
+      "q": "Was meint Frau Haas mit dem Satz „Nein, so mutig war ich nicht.“?",
+      "options": [
+        "Sie hatte Angst vor den vielen jungen Studierenden.",
+        "Sie fand die Einschreibung zu kompliziert.",
+        "Sie hat sich nicht getraut, sich gleich fest anzumelden."
+      ],
+      "answer": 2,
+      "evidence": "Nein, so mutig war ich nicht. Ich habe erst einmal ein Semester lang als Gasthörerin Vorlesungen besucht, bevor ich mich richtig eingeschrieben habe.",
+      "pairs": [["so mutig war ich nicht", "hat sich nicht getraut"], ["sofort eingeschrieben", "gleich fest anzumelden"]],
+      "explain": "'그렇게 용감하지는 않았다'는 말은 바로 등록할 용기가 없었다는 뜻이에요. 그래서 먼저 청강생으로 한 학기 동안 강의를 들었어요. 젊은 학생들이 무서웠다거나 등록 절차가 복잡했다는 말은 본문에 없어요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Was hat Frau Haas gemacht, bevor sie sich an der Universität angemeldet hat?",
+      "options": [
+        "Sie hat noch ein Semester lang in der Bank weitergearbeitet.",
+        "Sie hat ein halbes Jahr lang Veranstaltungen besucht, ohne eingeschrieben zu sein.",
+        "Sie hat bei der Studienberatung einen Test gemacht."
+      ],
+      "answer": 1,
+      "evidence": "Ich habe erst einmal ein Semester lang als Gasthörerin Vorlesungen besucht, bevor ich mich richtig eingeschrieben habe.",
+      "pairs": [["ein Semester lang", "ein halbes Jahr lang"], ["als Gasthörerin Vorlesungen besucht", "Veranstaltungen besucht, ohne eingeschrieben zu sein"]],
+      "explain": "'한 학기 동안 청강생으로 강의를 들었다'를 '등록하지 않은 채 반년 동안 수업에 참석했다'로 바꿔 말했어요. 한 학기는 약 반년이에요. 은행에서 계속 일했다거나 상담실에서 시험을 봤다는 내용은 없어요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Womit hatte Frau Haas im Studium besonders große Probleme?",
+      "options": [
+        "mit den digitalen Angeboten der Universität",
+        "mit dem Verhalten der jüngeren Studierenden in den Pausen",
+        "mit den Notizen aus den Vorlesungen"
+      ],
+      "answer": 0,
+      "evidence": "Richtig schwer war für mich die Technik. Mit der Lernplattform bin ich lange nicht zurechtgekommen",
+      "pairs": [["die Technik", "den digitalen Angeboten"], ["Mit der Lernplattform", "mit den digitalen Angeboten der Universität"]],
+      "explain": "'die Technik'(기술)과 'die Lernplattform'(학습 플랫폼)을 '대학의 디지털 서비스'로 바꿔 말했어요. 젊은 학생들의 휴대폰 사용이나 필기는 본문에 나오지만, 하스 씨가 어려워한 것은 아니에요."
+    },
+    {
+      "type": "mc",
+      "kind": "paraphrase",
+      "q": "Was bedeutet der Satz „Bis ich den Bachelor in der Tasche habe, dauert es noch ungefähr zwei Jahre.“?",
+      "options": [
+        "Sie hat ihren Bachelor vor ungefähr zwei Jahren abgeschlossen.",
+        "Sie wird ihren Abschluss voraussichtlich in etwa zwei Jahren erreichen.",
+        "Sie muss noch zwei Jahre warten, bevor sie mit dem Bachelorstudium beginnen kann."
+      ],
+      "answer": 1,
+      "evidence": "Bis ich den Bachelor in der Tasche habe, dauert es noch ungefähr zwei Jahre.",
+      "pairs": [["den Bachelor in der Tasche habe", "ihren Abschluss voraussichtlich in etwa zwei Jahren erreichen"], ["dauert es noch ungefähr zwei Jahre", "voraussichtlich in etwa zwei Jahren"]],
+      "explain": "'etwas in der Tasche haben'은 '(자격이나 학위를) 확실히 손에 넣다'라는 뜻이에요. 그래서 이 문장은 학사 학위를 받기까지 아직 2년쯤 남았다는 뜻이에요. 이미 끝냈다거나 아직 시작하지 못했다는 뜻이 아니에요."
+    },
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Frau Haas kann sich vorstellen, nach dem Abschluss ohne Bezahlung im Archiv zu arbeiten.",
+      "answer": 0,
+      "evidence": "Sobald ich fertig bin, möchte ich im Stadtarchiv mitarbeiten, gern auch ehrenamtlich.",
+      "pairs": [["gern auch ehrenamtlich", "ohne Bezahlung"], ["Sobald ich fertig bin", "nach dem Abschluss"]],
+      "explain": "'gern auch ehrenamtlich'는 '자원봉사로 해도 좋다'는 뜻이에요. 즉 보수 없이 일하는 것도 괜찮다고 했으니 문장은 맞아요. 'sobald ich fertig bin'(끝나자마자)은 '졸업 후에'라는 뜻이에요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Welchen Rat gibt Frau Haas Menschen über 50, die studieren möchten?",
+      "options": [
+        "Sie sollten sich sofort einschreiben, damit sie keine Zeit verlieren.",
+        "Sie sollten zuerst eine Prüfung ablegen, um ihr Wissen zu testen.",
+        "Sie sollten die Entscheidung nicht ewig hinauszögern und bei Unklarheiten nachfragen."
+      ],
+      "answer": 2,
+      "evidence": "Nicht zu lange überlegen. Man muss sich nicht gleich einschreiben, sondern kann erst einmal nur zuhören. Und wenn man etwas nicht versteht, sollte man fragen.",
+      "pairs": [["Nicht zu lange überlegen", "nicht ewig hinauszögern"], ["sollte man fragen", "bei Unklarheiten nachfragen"], ["Man muss sich nicht gleich einschreiben", "sofort einschreiben"]],
+      "explain": "'너무 오래 고민하지 말 것'과 '이해가 안 되면 물어볼 것'을 '결정을 미루지 말고 모르면 질문하라'로 요약했어요. 바로 등록하라는 말은 본문과 반대예요. 본문은 바로 등록할 필요가 없다고 해요."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "시간을 나타내는 종속접속사 1: als · wenn · seitdem",
+      "term": "Temporale Nebensätze: als, wenn, seit(dem)",
+      "explain": "als는 과거에 한 번 있었던 일에 써요. wenn은 현재나 미래의 일, 그리고 반복되는 일에 써요. seitdem은 '~한 뒤로, ~한 이래로'라는 뜻으로, 어떤 일이 시작된 뒤 지금까지 이어지는 상황을 나타내요. 세 접속사 모두 종속절을 이끌고, 종속절에서는 동사가 문장 끝에 와요.",
+      "pattern": "als / wenn / seitdem + 주어 … 동사(끝)",
+      "examples": [
+        {
+          "de": "Als vor drei Jahren auch unser jüngster Sohn ausgezogen ist, war das Haus plötzlich sehr still.",
+          "ko": "3년 전에 막내아들까지 집을 나가 독립했을 때, 집이 갑자기 아주 조용해졌어요.",
+          "mark": ["Als", "ausgezogen ist"],
+          "parts": [["Als vor drei Jahren auch unser jüngster Sohn ausgezogen ist,", "종속절"], ["war", "동사"], ["das Haus", "주어"], ["plötzlich", "부사어"], ["sehr still.", "보어"]]
+        },
+        {
+          "de": "Seitdem ich studiere, ist mein Alltag völlig anders.",
+          "ko": "공부를 시작한 뒤로 제 일상은 완전히 달라졌어요.",
+          "mark": ["Seitdem", "studiere"],
+          "parts": [["Seitdem", "접속사"], ["ich", "주어"], ["studiere,", "동사(끝)"], ["ist", "동사"], ["mein Alltag", "주어"], ["völlig anders.", "보어"]]
+        },
+        {
+          "de": "Wenn ich heute etwas nicht verstehe, frage ich einfach in meiner Lerngruppe.",
+          "ko": "요즘은 이해가 안 되는 게 있으면 그냥 스터디 그룹에서 물어봐요.",
+          "mark": ["Wenn", "verstehe"]
+        }
+      ],
+      "tip": "과거의 한 번뿐인 일에는 als, 반복되는 일이나 현재·미래의 일에는 wenn을 써요. 'als Gasthörerin'처럼 뒤에 명사만 오는 als는 '~로서'라는 뜻의 다른 단어이고, 접속사가 아니에요."
+    },
+    {
+      "title": "시간을 나타내는 종속접속사 2: bevor · während · bis · sobald",
+      "term": "Temporale Nebensätze: bevor, während, bis, sobald",
+      "explain": "bevor는 '~하기 전에', während는 '~하는 동안', bis는 '~할 때까지', sobald는 '~하자마자'라는 뜻이에요. 네 접속사 모두 종속절을 이끌어요. 종속절은 주절 앞에 올 수도 있고 뒤에 올 수도 있는데, 두 경우 모두 종속절의 동사는 끝에 와요.",
+      "pattern": "주절, bevor / bis + 주어 … 동사(끝)  ·  Während / Sobald + 주어 … 동사(끝), 주절",
+      "examples": [
+        {
+          "de": "Ich habe erst einmal ein Semester lang als Gasthörerin Vorlesungen besucht, bevor ich mich richtig eingeschrieben habe.",
+          "ko": "정식으로 등록하기 전에 먼저 한 학기 동안 청강생으로 강의를 들었어요.",
+          "mark": ["bevor", "eingeschrieben habe"],
+          "parts": [["Ich", "주어"], ["habe", "동사"], ["erst einmal", "부사어"], ["ein Semester lang", "부사어(시간)"], ["als Gasthörerin", "부사어"], ["Vorlesungen", "4격 목적어"], ["besucht,", "동사(끝)"], ["bevor ich mich richtig eingeschrieben habe.", "종속절"]]
+        },
+        {
+          "de": "Während die Jüngeren in der Pause auf ihr Handy schauen, lese ich lieber noch einmal meine Notizen.",
+          "ko": "젊은 학생들이 쉬는 시간에 휴대폰을 보는 동안 저는 필기한 것을 한 번 더 읽는 편이에요.",
+          "mark": ["Während", "schauen"],
+          "parts": [["Während", "접속사"], ["die Jüngeren", "주어"], ["in der Pause", "부사어(시간)"], ["auf ihr Handy", "전치사 목적어"], ["schauen,", "동사(끝)"], ["lese", "동사"], ["ich", "주어"], ["lieber", "부사어"], ["noch einmal", "부사어(빈도)"], ["meine Notizen.", "4격 목적어"]]
+        },
+        {
+          "de": "Sobald ich fertig bin, möchte ich im Stadtarchiv mitarbeiten, gern auch ehrenamtlich.",
+          "ko": "끝나자마자 시립 기록 보관소에서 일하고 싶어요. 자원봉사라도 좋아요.",
+          "mark": ["Sobald", "fertig bin"]
+        }
+      ],
+      "tip": "bis는 전치사로도 쓰여요(bis morgen, bis 18 Uhr). 접속사 bis 뒤에는 주어와 동사가 있는 완전한 절이 와요: bis mir ein Kommilitone alles gezeigt hat."
+    },
+    {
+      "title": "종속절이 문장 맨 앞에 올 때의 어순",
+      "term": "Nebensatz im Vorfeld",
+      "explain": "종속절이 문장 맨 앞에 오면 종속절 전체가 1번 자리를 차지해요. 그래서 쉼표 바로 뒤에 주절의 동사가 오고, 그다음에 주어가 와요. 결과적으로 쉼표를 사이에 두고 동사 두 개가 나란히 서요. 종속절이 뒤에 오면 주절은 평소처럼 주어로 시작해요.",
+      "pattern": "종속절(… 동사), 동사 + 주어 …",
+      "examples": [
+        {
+          "de": "Bis ich den Bachelor in der Tasche habe, dauert es noch ungefähr zwei Jahre.",
+          "ko": "학사 학위를 손에 넣기까지 아직 2년 정도 걸려요.",
+          "mark": ["habe, dauert es"],
+          "parts": [["Bis ich den Bachelor in der Tasche habe,", "종속절"], ["dauert", "동사"], ["es", "주어"], ["noch ungefähr zwei Jahre.", "부사어(시간)"]]
+        },
+        {
+          "de": "Erst als ich gemerkt habe, dass es mir Freude macht, habe ich Kontakt mit der Studienberatung aufgenommen.",
+          "ko": "재미있다는 걸 깨달은 뒤에야 학업 상담실에 연락했어요.",
+          "mark": ["macht, habe ich"],
+          "parts": [["Erst als ich gemerkt habe, dass es mir Freude macht,", "종속절"], ["habe", "동사"], ["ich", "주어"], ["Kontakt", "4격 목적어"], ["mit der Studienberatung", "전치사 목적어"], ["aufgenommen.", "동사(끝)"]]
+        }
+      ],
+      "tip": "같은 내용을 종속절을 뒤에 두고 말할 수도 있어요. 'Es dauert noch zwei Jahre, bis ich den Bachelor habe.'처럼 주절이 먼저 오면 주절은 보통 어순이에요."
+    },
+    {
+      "title": "명사+동사 결합 표현 (Nomen-Verb-Verbindungen)",
+      "term": "Nomen-Verb-Verbindungen",
+      "explain": "독일어에는 명사와 동사가 짝을 이루어 하나의 뜻을 만드는 표현이 많아요. 기능동사 구문이라고도 해요. eine Entscheidung treffen은 '결정을 내리다', Kontakt aufnehmen은 '연락하다', Rücksicht nehmen은 '배려하다', eine Prüfung ablegen은 '시험을 치르다'예요. 동사를 마음대로 바꿀 수 없으니 짝을 통째로 외워야 해요.",
+      "pattern": "(관사) + 명사 + 정해진 동사: eine Entscheidung treffen, Kontakt aufnehmen",
+      "examples": [
+        {
+          "de": "In diesem Moment habe ich die Entscheidung getroffen.",
+          "ko": "그 순간에 결정을 내렸어요.",
+          "mark": ["die Entscheidung getroffen"],
+          "parts": [["In diesem Moment", "부사어(시간)"], ["habe", "동사"], ["ich", "주어"], ["die Entscheidung", "4격 목적어"], ["getroffen.", "동사(끝)"]]
+        },
+        {
+          "de": "Aber wir nehmen Rücksicht aufeinander.",
+          "ko": "하지만 저희는 서로 배려해요.",
+          "mark": ["nehmen Rücksicht"],
+          "parts": [["Aber", "접속사"], ["wir", "주어"], ["nehmen", "동사"], ["Rücksicht", "4격 목적어"], ["aufeinander.", "전치사 목적어"]]
+        },
+        {
+          "de": "Meine erste Prüfung habe ich übrigens schon abgelegt – mit einer Zwei.",
+          "ko": "참, 첫 시험은 이미 치렀어요. 성적은 2(gut)였어요.",
+          "mark": ["Prüfung", "abgelegt"]
+        }
+      ],
+      "tip": "entscheiden 대신 eine Entscheidung treffen처럼 명사 표현을 쓰면 더 격식 있게 들려요. 함께 쓰는 전치사도 같이 외우세요: Rücksicht nehmen auf + 4격, Kontakt aufnehmen mit + 3격."
+    }
+  ],
+  "vocab": [
+    { "de": "der Hörsaal, -säle", "ko": "(대학의) 대형 강의실" },
+    { "de": "der Neuanfang, -¨e", "ko": "새 출발" },
+    { "de": "die Bankkauffrau, -en", "ko": "은행원(여성)" },
+    { "de": "die Ausbildung, -en", "ko": "직업 교육" },
+    { "de": "aus|ziehen (zieht aus, zog aus, ist ausgezogen)", "ko": "이사 나가다, 집을 떠나다" },
+    { "de": "die Entscheidung, -en", "ko": "결정" },
+    { "de": "sich ein|schreiben (schreibt sich ein, schrieb sich ein, hat sich eingeschrieben)", "ko": "(대학에) 등록하다" },
+    { "de": "die Gasthörerin, -nen", "ko": "청강생(여성)" },
+    { "de": "die Vorlesung, -en", "ko": "(대학) 강의" },
+    { "de": "die Studienberatung, -en", "ko": "학업 상담(실)" },
+    { "de": "ungewohnt", "ko": "익숙하지 않은, 낯선" },
+    { "de": "die Lernplattform, -en", "ko": "학습 플랫폼" },
+    { "de": "zurecht|kommen mit + Dat. (kommt zurecht, kam zurecht, ist zurechtgekommen)", "ko": "~을 잘 다루다, ~에 적응하다" },
+    { "de": "der Kommilitone, -n", "ko": "같은 대학에 다니는 학생, 학우" },
+    { "de": "das Stadtarchiv, -e", "ko": "시립 기록 보관소" },
+    { "de": "ehrenamtlich", "ko": "자원봉사로, 무보수로" }
+  ],
+  "phrases": [
+    {
+      "de": "eine Entscheidung treffen",
+      "ko": "결정을 내리다",
+      "ex": "In diesem Moment habe ich die Entscheidung getroffen.",
+      "exko": "그 순간에 결정을 내렸어요."
+    },
+    {
+      "de": "Kontakt aufnehmen mit + Dat.",
+      "ko": "~와 연락하다, 접촉하다",
+      "ex": "Erst als ich gemerkt habe, dass es mir Freude macht, habe ich Kontakt mit der Studienberatung aufgenommen.",
+      "exko": "재미있다는 걸 깨달은 뒤에야 학업 상담실에 연락했어요."
+    },
+    {
+      "de": "Rücksicht nehmen auf + Akk.",
+      "ko": "~을 배려하다",
+      "ex": "Aber wir nehmen Rücksicht aufeinander.",
+      "exko": "하지만 저희는 서로 배려해요."
+    },
+    {
+      "de": "eine Prüfung ablegen",
+      "ko": "시험을 치르다",
+      "ex": "Meine erste Prüfung habe ich übrigens schon abgelegt – mit einer Zwei.",
+      "exko": "참, 첫 시험은 이미 치렀어요. 성적은 2(gut)였어요."
+    },
+    {
+      "de": "etwas in der Tasche haben",
+      "ko": "(자격·학위 등을) 확실히 손에 넣다",
+      "ex": "Bis ich den Bachelor in der Tasche habe, dauert es noch ungefähr zwei Jahre.",
+      "exko": "학사 학위를 손에 넣기까지 아직 2년 정도 걸려요."
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "id": "a1-02",
+  "level": "A1",
+  "no": 2,
+  "title": "Endlich alle zusammen!",
+  "titleKo": "드디어 다 모였어요!",
+  "type": "Social-Media-Post",
+  "typeKo": "소셜 미디어 게시글",
+  "intro": "레나가 할머니 생신 때 찍은 가족사진을 소개하는 글이에요.",
+  "focus": ["소유관사 mein/sein/ihr/unser", "명사의 복수형", "stehen/sitzen + 장소"],
+  "paragraphs": [
+    {
+      "style": "meta",
+      "de": "lena_k · vor 2 Stunden",
+      "ko": "lena_k · 2시간 전"
+    },
+    {
+      "de": "Endlich alle zusammen! Meine Oma ist heute 80 Jahre alt. Hier seht ihr unsere Familie. Das Foto ist von heute Nachmittag im Garten.",
+      "ko": "드디어 다 모였어요! 우리 할머니가 오늘 80세가 되셨어요. 여기 우리 가족이 보이시죠. 이 사진은 오늘 오후에 정원에서 찍은 거예요."
+    },
+    {
+      "de": "In der Mitte sitzt meine Oma. Sie hat Blumen und einen Luftballon. Links stehen meine Eltern. Mein Vater lacht, meine Mutter hält den Kuchen.",
+      "ko": "가운데에는 우리 할머니가 앉아 계세요. 할머니는 꽃과 풍선을 들고 계세요. 왼쪽에는 우리 부모님이 서 계세요. 아버지는 웃고 계시고, 어머니는 케이크를 들고 계세요."
+    },
+    {
+      "de": "Hinter meiner Oma steht mein Bruder Max. Er ist Koch in Wien und hat nur zwei Tage frei. Neben ihm steht unser Onkel. Er lebt in Kanada. Seine Kinder sind nicht auf dem Foto, sie sind in der Schule.",
+      "ko": "할머니 뒤에는 제 남동생 막스가 서 있어요. 막스는 빈에서 요리사로 일하는데, 이틀밖에 쉬지 못해요. 막스 옆에는 우리 삼촌이 서 계세요. 삼촌은 캐나다에 사세요. 삼촌의 아이들은 사진에 없어요. 지금 학교에 있거든요."
+    },
+    {
+      "de": "Rechts sitzt meine Schwester Paula mit ihrem Mann. Ihr Baby heißt Emil und ist erst drei Monate alt. Er schläft. Vorne sitzen zwei Hunde und eine Katze. Die Tiere feiern natürlich auch mit!",
+      "ko": "오른쪽에는 제 언니 파울라가 남편과 함께 앉아 있어요. 언니의 아기는 이름이 에밀이고 이제 겨우 3개월이에요. 에밀은 자고 있어요. 앞에는 개 두 마리와 고양이 한 마리가 앉아 있어요. 동물들도 당연히 함께 축하하고 있어요!"
+    },
+    {
+      "de": "Und ich? Ich mache das Foto!",
+      "ko": "그러면 저는요? 제가 사진을 찍고 있어요!"
+    },
+    {
+      "style": "meta",
+      "de": "#familie #oma80 #geburtstag",
+      "ko": "#가족 #할머니80세 #생일"
+    }
+  ],
+  "questions": [
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Die Großmutter feiert ihren Geburtstag im Haus.",
+      "answer": 1,
+      "evidence": "Das Foto ist von heute Nachmittag im Garten.",
+      "pairs": [["im Garten", "im Haus"], ["Oma", "Großmutter"]],
+      "explain": "사진은 정원(im Garten)에서 찍었다고 해요. 문제는 집 안(im Haus)이라고 했으니 틀려요. Oma와 Großmutter는 같은 사람이에요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Wer hat etwas zum Essen in der Hand?",
+      "options": ["die Oma", "der Vater", "die Mutter"],
+      "answer": 2,
+      "evidence": "meine Mutter hält den Kuchen",
+      "pairs": [["hält den Kuchen", "hat etwas zum Essen in der Hand"]],
+      "explain": "본문에 'meine Mutter hält den Kuchen(어머니가 케이크를 들고 있다)'이라고 나와요. 케이크는 먹는 것이니까 어머니가 정답이에요. 할머니는 꽃과 풍선을 들고 있어요."
+    },
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Max arbeitet in einem Restaurant in Österreich.",
+      "answer": 0,
+      "evidence": "Er ist Koch in Wien und hat nur zwei Tage frei.",
+      "pairs": [["Koch", "arbeitet in einem Restaurant"], ["in Wien", "in Österreich"]],
+      "explain": "막스는 빈(Wien)에서 요리사(Koch)로 일해요. 빈은 오스트리아의 도시이고, 요리사는 식당에서 일하니까 맞는 내용이에요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Wer wohnt nicht in Europa?",
+      "options": ["der Bruder von Lena", "der Onkel von Lena", "die Schwester von Lena"],
+      "answer": 1,
+      "evidence": "Er lebt in Kanada.",
+      "pairs": [["lebt in Kanada", "wohnt nicht in Europa"]],
+      "explain": "삼촌은 캐나다에 산다고 해요. 캐나다는 유럽이 아니니까 삼촌이 정답이에요. 남동생 막스는 빈에 사는데, 빈은 유럽에 있어요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Wer ist die jüngste Person auf dem Foto?",
+      "options": ["der Mann von Paula", "die Kinder vom Onkel", "das Kind von Paula"],
+      "answer": 2,
+      "evidence": "Ihr Baby heißt Emil und ist erst drei Monate alt.",
+      "pairs": [["Ihr Baby", "das Kind von Paula"], ["erst drei Monate alt", "die jüngste Person"]],
+      "explain": "파울라의 아기 에밀은 겨우 3개월이라서 사진에서 가장 어린 사람이에요. 삼촌의 아이들은 학교에 있어서 사진에 없어요."
+    },
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Lena sitzt neben ihrer Schwester.",
+      "answer": 1,
+      "evidence": "Ich mache das Foto!",
+      "pairs": [["Ich mache das Foto!", "sitzt neben ihrer Schwester"]],
+      "explain": "레나는 사진을 찍는 사람이라서 사진 속에 없어요. 파울라 옆에는 남편이 앉아 있어요."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "소유관사 mein/sein/ihr/unser",
+      "term": "Possessivartikel",
+      "explain": "소유관사는 '나의, 그의, 그녀의, 우리의'처럼 누구의 것인지 말해 줘요. ich → mein, du → dein, er → sein, sie(그녀) → ihr, wir → unser예요. 소유관사는 뒤에 오는 명사에 따라 어미가 달라져요. 여성 명사와 복수 앞에서는 -e를 붙이고(meine Oma, meine Eltern), 남성·중성 명사 앞에서는 1격에서 어미가 없어요(mein Vater, ihr Baby).",
+      "pattern": "mein Vater (남성) · ihr Baby (중성) · meine Oma (여성) · meine Eltern (복수)",
+      "examples": [
+        {
+          "de": "Hinter meiner Oma steht mein Bruder Max.",
+          "ko": "할머니 뒤에는 제 남동생 막스가 서 있어요.",
+          "mark": ["meiner", "mein"],
+          "parts": [["Hinter meiner Oma", "부사어(장소)"], ["steht", "동사"], ["mein Bruder Max.", "주어"]]
+        },
+        {
+          "de": "Ihr Baby heißt Emil und ist erst drei Monate alt.",
+          "ko": "언니의 아기는 이름이 에밀이고 이제 겨우 3개월이에요.",
+          "mark": ["Ihr"],
+          "parts": [["Ihr Baby", "주어"], ["heißt", "동사"], ["Emil", "보어"], ["und", "접속사"], ["ist", "동사"], ["erst drei Monate alt.", "보어"]]
+        }
+      ],
+      "tip": "sein은 '그의', ihr는 '그녀의'예요. 'Seine Kinder'는 삼촌(er)의 아이들, 'Ihr Baby'는 파울라(sie)의 아기예요. 소유관사는 가진 사람에 따라 고르고, 어미는 뒤에 오는 명사에 따라 붙여요."
+    },
+    {
+      "title": "명사의 복수형",
+      "term": "Plural der Nomen",
+      "explain": "독일어 명사의 복수형은 여러 가지 모양이에요. -e(der Hund → die Hunde), -n/-en(die Blume → die Blumen, die Katze → die Katzen), -er(das Kind → die Kinder), -s(das Foto → die Fotos), 그리고 모양이 바뀌지 않는 경우(der Lehrer → die Lehrer)가 있어요. 복수의 정관사는 성에 상관없이 항상 die예요. 새 단어는 복수형과 함께 외우는 것이 좋아요.",
+      "pattern": "der Hund → die Hunde · das Kind → die Kinder · die Blume → die Blumen · das Foto → die Fotos",
+      "examples": [
+        {
+          "de": "Vorne sitzen zwei Hunde und eine Katze.",
+          "ko": "앞에는 개 두 마리와 고양이 한 마리가 앉아 있어요.",
+          "mark": ["Hunde"],
+          "parts": [["Vorne", "부사어(장소)"], ["sitzen", "동사"], ["zwei Hunde und eine Katze.", "주어"]]
+        },
+        {
+          "de": "Seine Kinder sind nicht auf dem Foto, sie sind in der Schule.",
+          "ko": "삼촌의 아이들은 사진에 없어요. 지금 학교에 있거든요.",
+          "mark": ["Kinder", "sind", "sind"],
+          "parts": [["Seine Kinder", "주어"], ["sind", "동사"], ["nicht", "부정어"], ["auf dem Foto,", "부사어(장소)"], ["sie", "주어"], ["sind", "동사"], ["in der Schule.", "부사어(장소)"]]
+        }
+      ],
+      "tip": "Eltern(부모님)은 복수형으로만 써요. 그래서 동사도 복수형이에요: Meine Eltern stehen links."
+    },
+    {
+      "title": "stehen/sitzen + 장소",
+      "term": "Positionsverben stehen und sitzen",
+      "explain": "stehen은 '서 있다', sitzen은 '앉아 있다'라는 뜻이에요. 이 동사들은 어디에 있는지 말할 때 장소 표현과 함께 써요. 장소 표현이 1번 자리에 오면 동사가 2번 자리에 오고 주어는 그 뒤로 가요: In der Mitte sitzt meine Oma. 사진이나 그림을 설명할 때 links, rechts, vorne, in der Mitte, neben ihm 같은 표현을 많이 써요.",
+      "pattern": "장소 표현 + steht/sitzt + 주어",
+      "examples": [
+        {
+          "de": "In der Mitte sitzt meine Oma.",
+          "ko": "가운데에는 우리 할머니가 앉아 계세요.",
+          "mark": ["sitzt"],
+          "parts": [["In der Mitte", "부사어(장소)"], ["sitzt", "동사"], ["meine Oma.", "주어"]]
+        },
+        {
+          "de": "Neben ihm steht unser Onkel.",
+          "ko": "막스 옆에는 우리 삼촌이 서 계세요.",
+          "mark": ["steht"],
+          "parts": [["Neben ihm", "부사어(장소)"], ["steht", "동사"], ["unser Onkel.", "주어"]]
+        }
+      ],
+      "tip": "stehen과 sitzen 뒤에서 'Wo?'에 답하는 장소 표현은 3격이에요: in der Mitte, hinter meiner Oma, neben ihm."
+    }
+  ],
+  "vocab": [
+    { "de": "die Oma, -s", "ko": "할머니" },
+    { "de": "die Eltern (Pl.)", "ko": "부모님" },
+    { "de": "der Onkel, -", "ko": "삼촌, 외삼촌" },
+    { "de": "der Koch, -¨e", "ko": "요리사" },
+    { "de": "der Luftballon, -s", "ko": "풍선" },
+    { "de": "der Kuchen, -", "ko": "케이크" },
+    { "de": "das Tier, -e", "ko": "동물" },
+    { "de": "stehen (steht, stand, hat gestanden)", "ko": "서 있다" },
+    { "de": "sitzen (sitzt, saß, hat gesessen)", "ko": "앉아 있다" },
+    { "de": "halten (hält, hielt, hat gehalten)", "ko": "들고 있다, 붙잡다" },
+    { "de": "lachen", "ko": "웃다" },
+    { "de": "feiern", "ko": "축하하다, 파티를 하다" }
+  ],
+  "phrases": [
+    {
+      "de": "in der Mitte",
+      "ko": "가운데에",
+      "ex": "In der Mitte sitzt meine Oma.",
+      "exko": "가운데에는 우리 할머니가 앉아 계세요."
+    },
+    {
+      "de": "freihaben",
+      "ko": "쉬는 날이다, 휴가이다",
+      "ex": "Er ist Koch in Wien und hat nur zwei Tage frei.",
+      "exko": "막스는 빈에서 요리사로 일하는데, 이틀밖에 쉬지 못해요."
+    },
+    {
+      "de": "ein Foto machen",
+      "ko": "사진을 찍다",
+      "ex": "Ich mache das Foto!",
+      "exko": "제가 사진을 찍고 있어요!"
+    }
+  ]
+}

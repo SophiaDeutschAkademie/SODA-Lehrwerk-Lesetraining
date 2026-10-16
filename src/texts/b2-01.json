@@ -1,0 +1,313 @@
+{
+  "id": "b2-01",
+  "level": "B2",
+  "no": 1,
+  "title": "Vier Tage arbeiten, voll bezahlt?",
+  "titleKo": "나흘 일하고 월급은 그대로?",
+  "type": "Zeitungsbericht",
+  "typeKo": "신문 보도 기사",
+  "intro": "주 4일 근무제를 시험하는 한 도시의 중간 결과를 전하는 신문 기사예요.",
+  "focus": ["접속법 1식 (간접화법)", "접속법 2식 대체형", "전달 동사 (betonen, einräumen …)"],
+  "paragraphs": [
+    {
+      "de": "Hohenbach. Seit Anfang April gilt im Bürgerbüro der Stadt eine neue Arbeitszeitregelung: Die 26 Beschäftigten arbeiten nur noch an vier Tagen pro Woche – bei vollem Gehalt. Sechs Monate lang will die Stadtverwaltung testen, ob sich das Modell im öffentlichen Dienst bewährt. Zur Halbzeit des Versuchs hat die Stadt nun eine erste Zwischenbilanz vorgelegt.",
+      "ko": "호엔바흐. 4월 초부터 시 민원실에는 새로운 근무 시간 규정이 적용되고 있습니다. 직원 26명은 이제 주 4일만 근무하며, 급여는 전액 그대로입니다. 시 행정 당국은 이 모델이 공공 부문에서 제 몫을 하는지 여섯 달 동안 시험하려고 합니다. 시험 기간의 절반이 지난 지금, 시는 첫 중간 결산을 내놓았습니다."
+    },
+    {
+      "de": "Bürgermeisterin Karin Wolf zeigte sich bei der Vorstellung der Ergebnisse zufrieden. Die Zahl der Krankmeldungen sei im Vergleich zum Vorjahreszeitraum deutlich zurückgegangen, und die Beschäftigten hätten sich seltener überlastet gefühlt. Zudem habe die Stadt in den vergangenen drei Monaten mehr Bewerbungen erhalten als im gesamten Jahr zuvor. „Wer gute Leute gewinnen will, muss heute mehr bieten als ein sicheres Gehalt“, sagte Wolf. Sie räumte allerdings ein, dass es an einzelnen Tagen zu Engpässen bei der Terminvergabe gekommen sei. Daran werde man arbeiten.",
+      "ko": "카린 볼프 시장은 결과를 발표하는 자리에서 만족감을 나타냈습니다. 병가 신고 건수가 전년 같은 기간에 비해 크게 줄었고, 직원들이 과중한 부담을 느끼는 일도 드물어졌다고 합니다. 또한 시는 지난 석 달 동안 그 전 한 해 전체보다 더 많은 입사 지원서를 받았다고 합니다. “좋은 인재를 얻으려면 오늘날에는 안정적인 급여 이상의 것을 제공해야 합니다”라고 볼프 시장은 말했습니다. 다만 일부 날짜에 예약 배정에서 병목 현상이 생겼다는 점은 인정했습니다. 이 부분은 개선해 나가겠다고 했습니다."
+    },
+    {
+      "de": "Auch der Personalrat steht hinter dem Projekt. Dessen Vorsitzender Thomas Beil betonte, die Mitarbeiterinnen und Mitarbeiter hätten die Umstellung von Anfang an mitgetragen. Der freie Tag werde nicht einfach geschenkt, vielmehr habe man die Abläufe gestrafft: Besprechungen seien kürzer geworden, und viele Anträge könnten die Bürger inzwischen online stellen. Allerdings befürchtet Beil, die höhere Arbeitsdichte könne auf Dauer anstrengend werden. Noch sei es zu früh, um das zu beurteilen.",
+      "ko": "직원 협의회도 이 프로젝트를 지지합니다. 협의회장 토마스 바일은 직원들이 처음부터 이 전환을 함께 뒷받침해 왔다고 강조했습니다. 쉬는 날이 그냥 선물로 주어지는 것이 아니라 업무 절차를 간소화했다는 것입니다. 회의는 짧아졌고, 많은 신청은 이제 시민들이 온라인으로 할 수 있게 되었다고 합니다. 다만 바일은 높아진 업무 밀도가 장기적으로 힘들어질 수 있다고 우려합니다. 그것을 판단하기에는 아직 이르다고 합니다."
+    },
+    {
+      "de": "Nicht alle Bürgerinnen und Bürger sind begeistert. Freitags bleibt das Bürgerbüro geschlossen; dafür ist es von Montag bis Donnerstag jeweils bis 19 Uhr geöffnet. Rentnerin Gisela Hartmann (71) bemängelte gegenüber dieser Zeitung, sie habe drei Wochen auf einen Termin für ihren neuen Personalausweis warten müssen. Früher sei sie einfach vorbeigegangen. Andere begrüßen dagegen die längeren Öffnungszeiten. Ein Pendler erklärte, er könne jetzt nach der Arbeit ins Bürgerbüro gehen, ohne sich freinehmen zu müssen.",
+      "ko": "모든 시민이 반기는 것은 아닙니다. 금요일에는 민원실이 문을 닫고, 대신 월요일부터 목요일까지는 매일 19시까지 엽니다. 연금 생활자 기젤라 하르트만(71) 씨는 본지에 새 신분증 발급 예약을 잡기까지 3주를 기다려야 했다고 불만을 제기했습니다. 예전에는 그냥 들르면 되었다고 합니다. 반면에 길어진 운영 시간을 환영하는 사람들도 있습니다. 한 통근자는 이제 휴가를 내지 않고도 퇴근 후에 민원실에 갈 수 있다고 말했습니다."
+    },
+    {
+      "de": "Wissenschaftlich begleitet wird der Versuch von der Arbeitspsychologin Lea Brandner, die an der Hochschule Hohenbach lehrt. Sie warnte vor voreiligen Schlüssen: „Begeisterung am Anfang ist normal.“ Sechs Monate seien ein kurzer Zeitraum, und wer an einem Modellversuch teilnehme, sei in der Regel besonders motiviert. Ob die positiven Effekte anhielten, lasse sich erst nach einem Jahr sagen. Außerdem gebe es Bereiche, in denen das Modell kaum funktionieren würde – etwa dort, wo rund um die Uhr Personal gebraucht werde. Dennoch versicherte Brandner, der Hohenbacher Versuch sei sorgfältig angelegt und werde auch in anderen Kommunen mit Interesse verfolgt.",
+      "ko": "이 실험은 호엔바흐 대학에서 가르치는 노동심리학자 레아 브란트너가 학술적으로 함께 살펴보고 있습니다. 브란트너는 성급한 결론을 경계했습니다. “처음의 열의는 정상적인 현상입니다.” 여섯 달은 짧은 기간이고, 시범 사업에 참여하는 사람은 대개 특별히 의욕이 높다고 합니다. 긍정적인 효과가 지속되는지는 1년이 지나야 말할 수 있다는 것입니다. 또한 이 모델이 거의 작동하기 어려운 분야도 있다고 합니다. 예컨대 24시간 내내 인력이 필요한 곳이 그렇습니다. 그럼에도 브란트너는 호엔바흐의 실험이 세심하게 설계되었고 다른 지자체에서도 관심 있게 지켜보고 있다고 확언했습니다."
+    },
+    {
+      "de": "Wie es nach dem Testlauf weitergeht, soll der Stadtrat im Herbst entscheiden. Bürgermeisterin Wolf machte aus ihrer Haltung keinen Hehl: Sie wolle das Modell auf weitere Ämter ausweiten – sofern sich die positive Entwicklung bestätige.",
+      "ko": "시험 운영 이후에 어떻게 할지는 가을에 시의회가 결정할 예정입니다. 볼프 시장은 자신의 입장을 숨기지 않았습니다. 긍정적인 흐름이 확인된다면 이 모델을 다른 부서로도 확대하고 싶다고 했습니다."
+    }
+  ],
+  "questions": [
+    {
+      "type": "rfn",
+      "kind": "detail",
+      "q": "Für den freien Tag müssen die Beschäftigten auf einen Teil ihres Gehalts verzichten.",
+      "answer": 1,
+      "evidence": "Die 26 Beschäftigten arbeiten nur noch an vier Tagen pro Woche – bei vollem Gehalt.",
+      "pairs": [["bei vollem Gehalt", "auf einen Teil ihres Gehalts verzichten"]],
+      "explain": "본문은 직원들이 주 4일만 일하면서도 급여를 전액 받는다고 해요(bei vollem Gehalt). 문제는 급여 일부를 포기해야 한다고 했으니 본문과 반대예요."
+    },
+    {
+      "type": "rfn",
+      "kind": "detail",
+      "q": "Laut Bürgermeisterin interessieren sich seit der Umstellung deutlich mehr Menschen für eine Stelle bei der Stadt.",
+      "answer": 0,
+      "evidence": "Zudem habe die Stadt in den vergangenen drei Monaten mehr Bewerbungen erhalten als im gesamten Jahr zuvor.",
+      "pairs": [["mehr Bewerbungen erhalten", "interessieren sich seit der Umstellung deutlich mehr Menschen für eine Stelle"]],
+      "explain": "시장에 따르면 시는 지난 석 달 동안 그 전 한 해 전체보다 더 많은 입사 지원서를 받았어요. '지원서가 더 많이 들어왔다'를 '더 많은 사람이 일자리에 관심을 보인다'로 바꿔 말한 거예요."
+    },
+    {
+      "type": "mc",
+      "kind": "paraphrase",
+      "q": "Was bedeutet der Satz „Wer gute Leute gewinnen will, muss heute mehr bieten als ein sicheres Gehalt“?",
+      "options": [
+        "Qualifizierte Bewerber erwarten inzwischen bessere Arbeitsbedingungen, nicht nur einen festen Lohn.",
+        "Die Stadt muss ihren Beschäftigten höhere Gehälter zahlen, damit sie nicht kündigen.",
+        "Gute Mitarbeiter wechseln heute häufiger den Arbeitgeber, wenn ihnen mehr Geld geboten wird."
+      ],
+      "answer": 0,
+      "evidence": "Wer gute Leute gewinnen will, muss heute mehr bieten als ein sicheres Gehalt",
+      "pairs": [["gute Leute gewinnen", "Qualifizierte Bewerber"], ["mehr bieten als ein sicheres Gehalt", "bessere Arbeitsbedingungen, nicht nur einen festen Lohn"]],
+      "explain": "'좋은 인재를 얻으려면 안정적인 급여 이상의 것을 제공해야 한다'는 말은 요즘 지원자들이 고정 급여 외에 더 나은 근무 조건을 기대한다는 뜻이에요. 급여를 더 올려야 한다거나 사람들이 돈 때문에 직장을 옮긴다는 뜻은 아니에요."
+    },
+    {
+      "type": "mc",
+      "kind": "paraphrase",
+      "q": "Was ist mit dem Satz „Daran werde man arbeiten.“ gemeint?",
+      "options": [
+        "Die Beschäftigten sollen an den betroffenen Tagen zusätzlich arbeiten.",
+        "Die Stadt will die Zahl der Krankmeldungen weiter untersuchen.",
+        "Die Stadt will das Problem mit den Terminen in den Griff bekommen."
+      ],
+      "answer": 2,
+      "evidence": "Sie räumte allerdings ein, dass es an einzelnen Tagen zu Engpässen bei der Terminvergabe gekommen sei.",
+      "pairs": [["Engpässen bei der Terminvergabe", "Problem mit den Terminen"], ["Daran werde man arbeiten", "in den Griff bekommen"]],
+      "explain": "바로 앞 문장에서 시장은 예약 배정에 병목 현상이 생겼다고 인정했어요. Daran(그것에 대해)은 이 문제를 가리키므로, 시가 예약 문제를 해결하겠다는 뜻이에요. arbeiten이라는 단어 때문에 직원이 더 일한다는 뜻으로 읽으면 안 돼요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Womit erklärt der Personalrat, dass die Arbeit trotz des freien Tages geschafft wird?",
+      "options": [
+        "Die Beschäftigten arbeiten an den übrigen vier Tagen entsprechend länger.",
+        "Abläufe wurden vereinfacht und ein Teil der Anliegen wird digital erledigt.",
+        "Die Stadt hat zusätzliches Personal für das Bürgerbüro eingestellt."
+      ],
+      "answer": 1,
+      "evidence": "vielmehr habe man die Abläufe gestrafft: Besprechungen seien kürzer geworden, und viele Anträge könnten die Bürger inzwischen online stellen.",
+      "pairs": [["die Abläufe gestrafft", "Abläufe wurden vereinfacht"], ["online stellen", "digital erledigt"]],
+      "explain": "직원 협의회장은 업무 절차를 간소화했고(Abläufe gestrafft), 회의가 짧아졌으며, 많은 신청을 온라인으로 할 수 있게 되었다고 설명해요. 직원이 더 길게 일한다거나 사람을 새로 뽑았다는 말은 본문에 없어요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Was kritisiert Gisela Hartmann?",
+      "options": [
+        "Dass das Bürgerbüro freitags geschlossen bleibt.",
+        "Dass es Wochen dauerte, bis sie einen Termin bekam.",
+        "Dass die Öffnungszeiten am Abend zu kurz sind."
+      ],
+      "answer": 1,
+      "evidence": "sie habe drei Wochen auf einen Termin für ihren neuen Personalausweis warten müssen.",
+      "pairs": [["drei Wochen auf einen Termin", "Wochen dauerte, bis sie einen Termin bekam"]],
+      "explain": "하르트만 씨는 새 신분증 예약을 잡기까지 3주를 기다려야 했다고 불만을 말해요. 금요일 휴무와 운영 시간은 본문에 나오지만, 하르트만 씨가 비판한 내용은 아니에요."
+    },
+    {
+      "type": "rfn",
+      "kind": "detail",
+      "q": "Die Wissenschaftlerin Lea Brandner hat bereits ähnliche Versuche in anderen Städten begleitet.",
+      "answer": 2,
+      "evidence": null,
+      "pairs": [["Wissenschaftlich begleitet wird der Versuch", "ähnliche Versuche in anderen Städten begleitet"]],
+      "explain": "브란트너가 이 실험을 학술적으로 함께 살펴본다는 것과 다른 지자체들이 관심 있게 지켜본다는 것은 나오지만, 브란트너가 전에 비슷한 실험을 맡은 적이 있는지는 본문에 전혀 나오지 않아요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Welche Einschränkung macht die Wissenschaftlerin Lea Brandner?",
+      "options": [
+        "Der Versuch ist schlecht geplant und findet kaum Beachtung.",
+        "Die Beschäftigten im Bürgerbüro waren von Anfang an wenig motiviert.",
+        "Die Ergebnisse lassen sich nicht auf alle Arbeitsbereiche übertragen."
+      ],
+      "answer": 2,
+      "evidence": "Außerdem gebe es Bereiche, in denen das Modell kaum funktionieren würde – etwa dort, wo rund um die Uhr Personal gebraucht werde.",
+      "pairs": [["Bereiche, in denen das Modell kaum funktionieren würde", "nicht auf alle Arbeitsbereiche übertragen"]],
+      "explain": "브란트너는 이 모델이 거의 작동하기 어려운 분야, 예컨대 24시간 인력이 필요한 곳이 있다고 말해요. 즉 결과를 모든 업무 분야에 그대로 적용할 수는 없다는 제한을 두는 거예요. 다른 두 선택지는 본문 내용과 반대예요."
+    },
+    {
+      "type": "mc",
+      "kind": "intent",
+      "q": "Welche Absicht verfolgt der Bericht?",
+      "options": [
+        "Er will die Leserinnen und Leser von den Vorteilen der Vier-Tage-Woche überzeugen.",
+        "Er will die Zwischenbilanz des Versuchs mit verschiedenen Stimmen ausgewogen darstellen.",
+        "Er will die Bürgermeisterin für die Probleme bei der Terminvergabe kritisieren."
+      ],
+      "answer": 1,
+      "evidence": "Zur Halbzeit des Versuchs hat die Stadt nun eine erste Zwischenbilanz vorgelegt.",
+      "pairs": [],
+      "explain": "기사는 시장, 직원 협의회, 시민, 학자의 입장을 차례로 전하고 장점과 문제점을 모두 다뤄요. 어느 한쪽을 설득하거나 비판하려는 글이 아니라 중간 결과를 균형 있게 전달하는 보도예요."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "접속법 1식 – 간접화법",
+      "term": "Konjunktiv I in der indirekten Rede",
+      "explain": "신문 기사에서는 다른 사람의 말을 전할 때 접속법 1식을 써요. 접속법 1식은 동사 어간에 -e를 붙여 만들고, 3인칭 단수에서 habe, sei, gebe, könne, werde처럼 나타나요. 이 형태는 '이것은 기자의 생각이 아니라 그 사람의 말'이라는 거리를 표시해요. 과거의 일은 habe/sei + 과거분사로, 앞으로의 일은 werde + 동사원형으로 전해요.",
+      "pattern": "주어 + 접속법 1식 동사 (habe · sei · gebe · könne · werde …)",
+      "examples": [
+        {
+          "de": "Zudem habe die Stadt in den vergangenen drei Monaten mehr Bewerbungen erhalten als im gesamten Jahr zuvor.",
+          "ko": "또한 시는 지난 석 달 동안 그 전 한 해 전체보다 더 많은 입사 지원서를 받았다고 해요.",
+          "mark": ["habe", "erhalten"],
+          "parts": [["Zudem", "접속부사"], ["habe", "동사"], ["die Stadt", "주어"], ["in den vergangenen drei Monaten", "부사어(시간)"], ["mehr Bewerbungen", "4격 목적어"], ["erhalten", "동사(끝)"], ["als im gesamten Jahr zuvor.", "기타"]]
+        },
+        {
+          "de": "Noch sei es zu früh, um das zu beurteilen.",
+          "ko": "그것을 판단하기에는 아직 이르다고 해요.",
+          "mark": ["sei"],
+          "parts": [["Noch", "부사어(시간)"], ["sei", "동사"], ["es", "주어"], ["zu früh,", "보어"], ["um das zu beurteilen.", "zu 부정사구"]]
+        },
+        {
+          "de": "Daran werde man arbeiten.",
+          "ko": "그 부분은 개선해 나가겠다고 해요.",
+          "mark": ["werde", "arbeiten"],
+          "parts": [["Daran", "전치사 목적어"], ["werde", "동사"], ["man", "주어"], ["arbeiten.", "동사(끝)"]]
+        }
+      ],
+      "tip": "접속법 1식 뒤에는 dass 없이 주절 어순(동사 2번 자리)으로 이어 가는 경우가 많아요. 전달 내용이 여러 문장이어도 '…라고 말했다'를 매번 반복하지 않고 접속법 1식만으로 계속 전할 수 있어요."
+    },
+    {
+      "title": "접속법 2식 대체형",
+      "term": "Ersatzform Konjunktiv II (hätten, würden, könnten)",
+      "explain": "복수형에서는 접속법 1식이 직설법과 모양이 같아요(sie haben – sie haben, sie werden – sie werden). 그러면 간접화법인지 알 수 없기 때문에 접속법 2식(hätten, würden, könnten)으로 바꿔 써요. 뜻은 접속법 1식과 같아요. 즉 비현실이나 가정이 아니라 단순히 남의 말을 전하는 거예요. 한 문장 안에서 단수 주어에는 접속법 1식(sei), 복수 주어에는 접속법 2식(hätten)이 나란히 나올 수 있어요.",
+      "pattern": "sie haben → sie hätten · sie werden → sie würden · sie können → sie könnten",
+      "examples": [
+        {
+          "de": "Die Zahl der Krankmeldungen sei im Vergleich zum Vorjahreszeitraum deutlich zurückgegangen, und die Beschäftigten hätten sich seltener überlastet gefühlt.",
+          "ko": "병가 신고 건수가 전년 같은 기간에 비해 크게 줄었고, 직원들이 과중한 부담을 느끼는 일도 드물어졌다고 해요.",
+          "mark": ["sei", "hätten"]
+        },
+        {
+          "de": "Besprechungen seien kürzer geworden, und viele Anträge könnten die Bürger inzwischen online stellen.",
+          "ko": "회의는 짧아졌고, 많은 신청은 이제 시민들이 온라인으로 할 수 있게 되었다고 해요.",
+          "mark": ["seien", "könnten"],
+          "parts": [["Besprechungen", "주어"], ["seien", "동사"], ["kürzer", "보어"], ["geworden,", "동사(끝)"], ["und", "접속사"], ["viele Anträge", "4격 목적어"], ["könnten", "동사"], ["die Bürger", "주어"], ["inzwischen", "부사어(시간)"], ["online", "부사어(방법)"], ["stellen.", "동사(끝)"]]
+        },
+        {
+          "de": "Ob die positiven Effekte anhielten, lasse sich erst nach einem Jahr sagen.",
+          "ko": "긍정적인 효과가 지속되는지는 1년이 지나야 말할 수 있다고 해요.",
+          "mark": ["anhielten", "lasse"]
+        }
+      ],
+      "tip": "sein은 복수에서도 seien이 직설법 sind와 구별되므로 접속법 1식을 그대로 써요. anhalten 같은 일반 동사도 복수에서는 접속법 2식(anhielten)을 쓰는데, 이 형태가 과거형과 똑같아 보일 때는 würden + 동사원형(würden anhalten)으로 바꿔 쓰기도 해요."
+    },
+    {
+      "title": "전달 동사 – 말하는 사람의 태도까지 전하기",
+      "term": "Redeeinleitende Verben",
+      "explain": "기사는 sagen만 반복하지 않고 말하는 사람의 태도가 드러나는 동사를 써요. betonen은 강조하는 것, einräumen은 자기에게 불리한 사실을 인정하는 것, bemängeln은 결점을 지적하는 것, versichern은 확실하다고 보증하는 것, befürchten은 나쁜 일을 걱정하는 것이에요. 이런 동사 뒤에는 dass절이 오거나, 접속사 없이 접속법 1식 문장이 바로 이어져요. 전치사와 함께 쓰는 동사도 있어요(warnen vor + 3격).",
+      "pattern": "주어 + 전달 동사 + , dass … / , 접속법 1식 문장",
+      "examples": [
+        {
+          "de": "Sie räumte allerdings ein, dass es an einzelnen Tagen zu Engpässen bei der Terminvergabe gekommen sei.",
+          "ko": "다만 시장은 일부 날짜에 예약 배정에서 병목 현상이 생겼다는 점은 인정했어요.",
+          "mark": ["räumte", "ein"],
+          "parts": [["Sie", "주어"], ["räumte", "동사"], ["allerdings", "부사어"], ["ein,", "동사(끝)"], ["dass es an einzelnen Tagen zu Engpässen bei der Terminvergabe gekommen sei.", "종속절"]]
+        },
+        {
+          "de": "Rentnerin Gisela Hartmann (71) bemängelte gegenüber dieser Zeitung, sie habe drei Wochen auf einen Termin für ihren neuen Personalausweis warten müssen.",
+          "ko": "연금 생활자 기젤라 하르트만(71) 씨는 본지에 새 신분증 발급 예약을 잡기까지 3주를 기다려야 했다고 불만을 제기했어요.",
+          "mark": ["bemängelte"]
+        },
+        {
+          "de": "Dennoch versicherte Brandner, der Hohenbacher Versuch sei sorgfältig angelegt und werde auch in anderen Kommunen mit Interesse verfolgt.",
+          "ko": "그럼에도 브란트너는 호엔바흐의 실험이 세심하게 설계되었고 다른 지자체에서도 관심 있게 지켜보고 있다고 확언했어요.",
+          "mark": ["versicherte"]
+        }
+      ],
+      "tip": "einräumen은 분리동사라서 과거형에서 räumte … ein으로 갈라져요. betonen, befürchten, versichern은 분리되지 않는 동사예요."
+    },
+    {
+      "title": "1번 자리(Vorfeld)에 오는 다양한 성분",
+      "term": "Vorfeldbesetzung",
+      "explain": "독일어 평서문에서 동사는 항상 2번 자리에 있지만, 1번 자리에는 주어 외에도 시간 부사어, 전치사구, 종속절, 심지어 과거분사까지 올 수 있어요. 기사에서는 이렇게 문장 첫머리를 바꿔 가며 새 정보를 강조하고 문장이 단조로워지는 것을 피해요. 1번 자리에 다른 성분이 오면 주어는 동사 뒤로 가요.",
+      "pattern": "1번 자리(주어가 아닌 성분) + 동사 + 주어 + …",
+      "examples": [
+        {
+          "de": "Sechs Monate lang will die Stadtverwaltung testen, ob sich das Modell im öffentlichen Dienst bewährt.",
+          "ko": "시 행정 당국은 이 모델이 공공 부문에서 제 몫을 하는지 여섯 달 동안 시험하려고 해요.",
+          "mark": ["Sechs Monate lang", "will"],
+          "parts": [["Sechs Monate lang", "부사어(시간)"], ["will", "동사"], ["die Stadtverwaltung", "주어"], ["testen,", "동사(끝)"], ["ob sich das Modell im öffentlichen Dienst bewährt.", "종속절"]]
+        },
+        {
+          "de": "Wissenschaftlich begleitet wird der Versuch von der Arbeitspsychologin Lea Brandner, die an der Hochschule Hohenbach lehrt.",
+          "ko": "이 실험은 호엔바흐 대학에서 가르치는 노동심리학자 레아 브란트너가 학술적으로 함께 살펴보고 있어요.",
+          "mark": ["Wissenschaftlich begleitet", "wird"]
+        },
+        {
+          "de": "Wie es nach dem Testlauf weitergeht, soll der Stadtrat im Herbst entscheiden.",
+          "ko": "시험 운영 이후에 어떻게 할지는 가을에 시의회가 결정할 예정이에요.",
+          "mark": ["Wie es nach dem Testlauf weitergeht,", "soll"],
+          "parts": [["Wie es nach dem Testlauf weitergeht,", "종속절"], ["soll", "동사"], ["der Stadtrat", "주어"], ["im Herbst", "부사어(시간)"], ["entscheiden.", "동사(끝)"]]
+        }
+      ],
+      "tip": "두 번째 예문처럼 수동태의 과거분사(begleitet)를 1번 자리에 두면 '누가 함께하는가'보다 '학술적으로 동반된다'는 사실이 먼저 강조돼요."
+    }
+  ],
+  "vocab": [
+    { "de": "die Arbeitszeitregelung, -en", "ko": "근무 시간 규정" },
+    { "de": "der/die Beschäftigte, -n", "ko": "직원, 종사자" },
+    { "de": "sich bewähren", "ko": "효과가 있음이 입증되다, 제 몫을 하다" },
+    { "de": "die Zwischenbilanz, -en", "ko": "중간 결산, 중간 평가" },
+    { "de": "die Krankmeldung, -en", "ko": "병가 신고" },
+    { "de": "überlastet", "ko": "과중한 부담을 받는, 과부하가 걸린" },
+    { "de": "ein|räumen", "ko": "(불리한 사실을) 인정하다, 시인하다" },
+    { "de": "der Engpass, -¨e", "ko": "병목 현상, 부족 사태" },
+    { "de": "die Terminvergabe (Sg.)", "ko": "예약 배정" },
+    { "de": "der Personalrat, -¨e", "ko": "(공공 부문의) 직원 협의회" },
+    { "de": "betonen", "ko": "강조하다" },
+    { "de": "mit|tragen (trägt mit, trug mit, hat mitgetragen)", "ko": "(결정 등을) 함께 지지하다, 함께 떠받치다" },
+    { "de": "straffen", "ko": "(절차를) 간소화하다, 조이다" },
+    { "de": "befürchten", "ko": "우려하다, 걱정하다" },
+    { "de": "bemängeln", "ko": "흠을 잡다, 불만을 제기하다" },
+    { "de": "der Pendler, -", "ko": "통근자" },
+    { "de": "voreilig", "ko": "성급한" },
+    { "de": "versichern", "ko": "확언하다, 보증하다" }
+  ],
+  "phrases": [
+    {
+      "de": "sich zufrieden zeigen",
+      "ko": "만족감을 나타내다",
+      "ex": "Bürgermeisterin Karin Wolf zeigte sich bei der Vorstellung der Ergebnisse zufrieden.",
+      "exko": "카린 볼프 시장은 결과를 발표하는 자리에서 만족감을 나타냈어요."
+    },
+    {
+      "de": "es kommt zu + Dat.",
+      "ko": "~이 발생하다, ~한 사태가 생기다",
+      "ex": "dass es an einzelnen Tagen zu Engpässen bei der Terminvergabe gekommen sei.",
+      "exko": "일부 날짜에 예약 배정에서 병목 현상이 생겼다는 것."
+    },
+    {
+      "de": "hinter etwas (Dat.) stehen",
+      "ko": "~을 지지하다, ~의 뒤에서 힘을 실어 주다",
+      "ex": "Auch der Personalrat steht hinter dem Projekt.",
+      "exko": "직원 협의회도 이 프로젝트를 지지해요."
+    },
+    {
+      "de": "sich freinehmen",
+      "ko": "휴가를 내다, 하루 쉬다",
+      "ex": "er könne jetzt nach der Arbeit ins Bürgerbüro gehen, ohne sich freinehmen zu müssen.",
+      "exko": "이제 휴가를 내지 않고도 퇴근 후에 민원실에 갈 수 있다고 해요."
+    },
+    {
+      "de": "rund um die Uhr",
+      "ko": "24시간 내내, 밤낮없이",
+      "ex": "etwa dort, wo rund um die Uhr Personal gebraucht werde.",
+      "exko": "예컨대 24시간 내내 인력이 필요한 곳이 그래요."
+    },
+    {
+      "de": "aus etwas (Dat.) keinen Hehl machen",
+      "ko": "~을 숨기지 않다, 공공연히 드러내다",
+      "ex": "Bürgermeisterin Wolf machte aus ihrer Haltung keinen Hehl: Sie wolle das Modell auf weitere Ämter ausweiten – sofern sich die positive Entwicklung bestätige.",
+      "exko": "볼프 시장은 자신의 입장을 숨기지 않았어요. 긍정적인 흐름이 확인된다면 이 모델을 다른 부서로도 확대하고 싶다고 했어요."
+    }
+  ]
+}

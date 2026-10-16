@@ -1,0 +1,286 @@
+{
+  "id": "b1-01",
+  "level": "B1",
+  "no": 1,
+  "title": "Ein Dorf rettet seinen Laden",
+  "titleKo": "가게를 지켜 낸 마을",
+  "type": "Zeitungsbericht",
+  "typeKo": "신문 보도 기사",
+  "intro": "오덴발트의 작은 마을 주민들이 문 닫은 슈퍼마켓 대신 직접 가게를 운영하는 이야기예요.",
+  "focus": ["수동태 현재형·과거형 (werden + 과거분사)", "von + 3격 (행위자)", "2격 지배 전치사 (wegen, trotz, während, innerhalb)", "화법조동사 + 수동태"],
+  "paragraphs": [
+    {
+      "de": "Lindenau im Odenwald hat wieder einen Lebensmittelladen. Vor zwei Jahren wurde der letzte Supermarkt des Dorfes geschlossen. Seit dem Frühjahr werden in demselben Gebäude wieder Brot, Milch und Gemüse verkauft – in einem Laden, der den Bürgerinnen und Bürgern selbst gehört. Dafür wurde eine Genossenschaft gegründet, die inzwischen rund 300 Mitglieder hat.",
+      "ko": "오덴발트의 린데나우에 다시 식료품 가게가 생겼습니다. 2년 전 이 마을의 마지막 슈퍼마켓이 문을 닫았습니다. 올봄부터 같은 건물에서 다시 빵과 우유, 채소가 팔리고 있습니다. 주민들이 직접 소유한 가게입니다. 이를 위해 협동조합이 설립되었고, 조합원은 어느새 약 300명이 되었습니다."
+    },
+    {
+      "de": "Die Schließung des Supermarkts war für viele ein Schock. Vor allem ältere Menschen ohne Auto mussten plötzlich für jeden Einkauf in die zwölf Kilometer entfernte Kreisstadt fahren. „Innerhalb weniger Wochen war uns klar, dass wir selbst etwas tun mussten“, erinnert sich Karin Vogel, die heute Vorsitzende der Genossenschaft ist. Auf einer Bürgerversammlung wurde die Idee vorgestellt, und schon am ersten Abend wurden mehr als 100 Anteile verkauft. Ein Anteil kostet 250 Euro.",
+      "ko": "슈퍼마켓 폐점은 많은 사람에게 충격이었습니다. 특히 차가 없는 노인들은 갑자기 장을 볼 때마다 12킬로미터 떨어진 군청 소재지까지 가야 했습니다. “몇 주 안에 우리가 직접 뭔가 해야 한다는 게 분명해졌어요.” 지금 협동조합 회장을 맡고 있는 카린 포겔 씨는 이렇게 회상합니다. 주민 총회에서 이 아이디어가 소개되었고, 첫날 저녁에 벌써 100구좌가 넘는 지분이 팔렸습니다. 지분 한 구좌는 250유로입니다."
+    },
+    {
+      "de": "Geführt wird der Laden heute von zwei Angestellten und etwa 40 Ehrenamtlichen. Die Angestellten kümmern sich um Kasse, Bestellungen und Buchhaltung; die Freiwilligen helfen beim Einräumen der Regale, kochen Kaffee oder übernehmen am Samstag den Verkauf. Obst, Eier, Käse und Fleisch werden von Höfen aus der Region geliefert, meistens noch am selben Morgen. „Hier weiß man, woher die Kartoffeln kommen“, sagt Erich Sommer (78), der fast jeden Tag vorbeikommt.",
+      "ko": "현재 가게는 직원 두 명과 약 40명의 자원봉사자가 운영하고 있습니다. 직원들은 계산대와 주문, 회계를 맡고, 자원봉사자들은 진열대 정리를 돕거나 커피를 끓이거나 토요일에는 판매를 맡습니다. 과일, 달걀, 치즈, 고기는 이 지역 농장에서 공급하는데, 대부분 당일 아침에 들어옵니다. “여기서는 감자가 어디서 오는지 알 수 있어요.” 거의 매일 들르는 에리히 조머 씨(78)의 말입니다."
+    },
+    {
+      "de": "Während des Umbaus wurde in einer Ecke des Ladens ein kleines Café eingerichtet. Mit vier Tischen und einer alten Kaffeemaschine ist es inzwischen zum Treffpunkt des Dorfes geworden. Vormittags sitzen hier Rentnerinnen und Rentner beim Kaffee, nachmittags machen Schulkinder ihre Hausaufgaben, und einmal im Monat wird ein Spieleabend organisiert.",
+      "ko": "개축 공사 중에 가게 한쪽 구석에 작은 카페가 마련되었습니다. 탁자 네 개와 오래된 커피 머신이 있는 이 카페는 어느새 마을의 만남의 장소가 되었습니다. 오전에는 은퇴한 어르신들이 여기서 커피를 마시고, 오후에는 학교에 다니는 아이들이 숙제를 하며, 한 달에 한 번은 보드게임 모임이 열립니다."
+    },
+    {
+      "de": "Trotz des Erfolgs gibt es auch Sorgen. Wegen der gestiegenen Energiepreise ist die Stromrechnung im letzten Jahr deutlich höher geworden, und auch die Löhne mussten erhöht werden. Die Miete für das Gebäude muss trotzdem jeden Monat bezahlt werden. Große Gewinne wurden von Anfang an nicht erwartet, aber Verluste kann sich die Genossenschaft nicht lange leisten. Deshalb wird jetzt über längere Öffnungszeiten nachgedacht.",
+      "ko": "성공에도 불구하고 걱정도 있습니다. 에너지 가격이 올라서 지난해 전기 요금이 눈에 띄게 늘었고, 임금도 올려야 했습니다. 그래도 건물 임대료는 매달 내야 합니다. 큰 이익은 처음부터 기대하지 않았지만, 손실을 오래 감당할 수는 없습니다. 그래서 지금은 영업시간을 늘리는 방안을 검토하고 있습니다."
+    },
+    {
+      "de": "Trotz aller Probleme bleibt Karin Vogel optimistisch. „Der Laden wird nicht nur zum Einkaufen gebraucht“, sagt sie. „Hier trifft man Nachbarn, hier bekommt man Hilfe, hier wird geredet. Das kann kein Supermarkt an der Autobahn ersetzen.“ Innerhalb der nächsten Monate soll außerdem ein Lieferdienst für Menschen starten, die nicht mehr gut aus dem Haus kommen.",
+      "ko": "여러 문제에도 카린 포겔 씨는 낙관적입니다. “이 가게는 장을 보는 데만 필요한 게 아니에요. 여기서 이웃을 만나고, 도움을 받고, 이야기를 나누죠. 고속도로 옆 슈퍼마켓은 그걸 대신할 수 없어요.” 그 밖에도 몇 달 안에 거동이 불편한 사람들을 위한 배달 서비스를 시작할 예정입니다."
+    }
+  ],
+  "questions": [
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Der neue Laden befindet sich dort, wo früher der Supermarkt war.",
+      "answer": 0,
+      "evidence": "Seit dem Frühjahr werden in demselben Gebäude wieder Brot, Milch und Gemüse verkauft",
+      "pairs": [["in demselben Gebäude", "dort, wo früher der Supermarkt war"]],
+      "explain": "본문은 '같은 건물에서 다시 빵과 우유, 채소가 팔린다'고 해요. 즉 새 가게는 예전 슈퍼마켓이 있던 자리에 있어요. in demselben Gebäude를 dort, wo früher der Supermarkt war로 바꿔 표현했어요."
+    },
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Nach der Schließung des Supermarkts hatten vor allem jüngere Leute Probleme beim Einkaufen.",
+      "answer": 1,
+      "evidence": "Vor allem ältere Menschen ohne Auto mussten plötzlich für jeden Einkauf in die zwölf Kilometer entfernte Kreisstadt fahren.",
+      "pairs": [["ältere Menschen ohne Auto", "jüngere Leute"]],
+      "explain": "본문에서 어려움을 겪은 사람은 차가 없는 노인들이에요. 문제는 Schließung, vor allem 같은 본문 단어를 그대로 쓰면서 대상만 jüngere Leute로 바꿔 놓은 함정이에요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Wie reagierten die Einwohner auf die Idee der Genossenschaft?",
+      "options": [
+        "Nur die Vorsitzende kaufte am ersten Abend Anteile.",
+        "Sie warteten einige Wochen, bevor sie Anteile kauften.",
+        "Viele beteiligten sich sofort mit Geld."
+      ],
+      "answer": 2,
+      "evidence": "schon am ersten Abend wurden mehr als 100 Anteile verkauft",
+      "pairs": [["schon am ersten Abend", "sofort"], ["wurden mehr als 100 Anteile verkauft", "beteiligten sich sofort mit Geld"]],
+      "explain": "첫날 저녁에 벌써 100구좌가 넘는 지분이 팔렸다는 것은 많은 사람이 곧바로 돈을 내고 참여했다는 뜻이에요. '몇 주를 기다렸다'는 Wochen을, '회장만 샀다'는 Vorsitzende와 ersten Abend를 본문에서 가져온 함정이에요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Wer kümmert sich um die Buchhaltung des Ladens?",
+      "options": [
+        "bezahlte Mitarbeiter",
+        "ehrenamtliche Helfer",
+        "die Vorsitzende der Genossenschaft"
+      ],
+      "answer": 0,
+      "evidence": "Die Angestellten kümmern sich um Kasse, Bestellungen und Buchhaltung",
+      "pairs": [["Die Angestellten", "bezahlte Mitarbeiter"]],
+      "explain": "계산대와 주문, 회계는 Angestellte, 즉 급여를 받는 직원들이 맡아요. 자원봉사자들은 진열대 정리와 커피, 토요일 판매를 돕고, 회장이 회계를 본다는 말은 없어요."
+    },
+    {
+      "type": "mc",
+      "kind": "paraphrase",
+      "q": "Was bedeutet der Satz „Hier weiß man, woher die Kartoffeln kommen“?",
+      "options": [
+        "Die Kartoffeln werden im Laden selbst angebaut.",
+        "Die Kunden kennen die Herkunft der Lebensmittel.",
+        "Die Kunden müssen die Kartoffeln selbst von den Höfen holen."
+      ],
+      "answer": 1,
+      "evidence": "Obst, Eier, Käse und Fleisch werden von Höfen aus der Region geliefert, meistens noch am selben Morgen.",
+      "pairs": [["woher die Kartoffeln kommen", "die Herkunft der Lebensmittel"], ["von Höfen aus der Region geliefert", "kennen die Herkunft"]],
+      "explain": "물건이 이 지역 농장에서 바로 오기 때문에 손님들은 식료품이 어디에서 왔는지 알 수 있다는 뜻이에요. 감자는 하나의 예일 뿐이고, 가게에서 직접 재배한다거나 손님이 농장에 가서 가져온다는 말은 없어요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
+      "q": "Was erfährt man über das Café?",
+      "options": [
+        "Es wurde von einer Firma aus der Kreisstadt gebaut.",
+        "Es ist nur vormittags für Rentner geöffnet.",
+        "Es entstand, als das Gebäude renoviert wurde."
+      ],
+      "answer": 2,
+      "evidence": "Während des Umbaus wurde in einer Ecke des Ladens ein kleines Café eingerichtet.",
+      "pairs": [["Während des Umbaus", "als das Gebäude renoviert wurde"], ["eingerichtet", "entstand"]],
+      "explain": "Umbau(개축 공사) 중에 카페가 마련되었다고 하므로 '건물을 수리할 때 생겼다'가 맞아요. 오전에는 어르신들이, 오후에는 아이들이 이용하니 '오전에만'은 틀리고, 어느 회사가 지었다는 말은 본문에 없어요."
+    },
+    {
+      "type": "rf",
+      "kind": "detail",
+      "q": "Die Genossenschaft hatte von Anfang an das Ziel, mit dem Laden viel Geld zu verdienen.",
+      "answer": 1,
+      "evidence": "Große Gewinne wurden von Anfang an nicht erwartet",
+      "pairs": [["Große Gewinne wurden von Anfang an nicht erwartet", "viel Geld zu verdienen"]],
+      "explain": "본문은 큰 이익을 처음부터 기대하지 않았다고 해요. 그러니 '처음부터 큰돈을 벌 목표였다'는 틀려요. von Anfang an이 그대로 나와서 맞는 것처럼 보이지만 내용은 반대예요."
+    },
+    {
+      "type": "mc",
+      "kind": "paraphrase",
+      "q": "Was will Karin Vogel mit dem Satz „Das kann kein Supermarkt an der Autobahn ersetzen“ sagen?",
+      "options": [
+        "Ein großer Supermarkt außerhalb des Dorfes bietet keinen Ort für Begegnungen.",
+        "Der Dorfladen hat mehr Produkte als ein Supermarkt an der Autobahn.",
+        "Die Genossenschaft möchte bald einen zweiten Laden an der Autobahn eröffnen."
+      ],
+      "answer": 0,
+      "evidence": "Hier trifft man Nachbarn, hier bekommt man Hilfe, hier wird geredet.",
+      "pairs": [["Hier trifft man Nachbarn", "Ort für Begegnungen"]],
+      "explain": "바로 앞 문장에서 가게는 이웃을 만나고 도움을 받고 이야기를 나누는 곳이라고 해요. 그런 역할은 마을 밖 대형 슈퍼마켓이 대신할 수 없다는 뜻이에요. 상품 수나 두 번째 가게 이야기는 본문에 없어요."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "수동태 현재형 – werden + 과거분사",
+      "term": "Passiv Präsens",
+      "explain": "수동태는 '누가 하는지'보다 '무엇이 일어나는지'를 말할 때 써요. werden을 주어에 맞게 바꾸어 동사 2번 자리에 두고, 과거분사는 문장 끝에 둬요. 능동문의 4격 목적어가 수동문의 주어(1격)가 돼요. 행위자를 밝히고 싶으면 von + 3격을 덧붙이지만, 중요하지 않으면 생략해요.",
+      "pattern": "주어 + werden(현재형) + … + 과거분사(문장 끝)",
+      "examples": [
+        {
+          "de": "Obst, Eier, Käse und Fleisch werden von Höfen aus der Region geliefert, meistens noch am selben Morgen.",
+          "ko": "과일, 달걀, 치즈, 고기는 이 지역 농장에서 공급하는데, 대부분 당일 아침에 들어옵니다.",
+          "mark": ["werden", "von Höfen aus der Region", "geliefert"],
+          "parts": [["Obst, Eier, Käse und Fleisch", "주어"], ["werden", "동사"], ["von Höfen aus der Region", "부사어"], ["geliefert,", "동사(끝)"], ["meistens noch am selben Morgen.", "부사어(시간)"]]
+        },
+        {
+          "de": "einmal im Monat wird ein Spieleabend organisiert.",
+          "ko": "한 달에 한 번은 보드게임 모임이 열립니다.",
+          "mark": ["wird", "organisiert"],
+          "parts": [["einmal im Monat", "부사어(빈도)"], ["wird", "동사"], ["ein Spieleabend", "주어"], ["organisiert.", "동사(끝)"]]
+        },
+        {
+          "de": "Geführt wird der Laden heute von zwei Angestellten und etwa 40 Ehrenamtlichen.",
+          "ko": "현재 가게는 직원 두 명과 약 40명의 자원봉사자가 운영하고 있습니다.",
+          "mark": ["Geführt", "wird", "von zwei Angestellten und etwa 40 Ehrenamtlichen"],
+          "parts": [["Geführt", "동사(끝)"], ["wird", "동사"], ["der Laden", "주어"], ["heute", "부사어(시간)"], ["von zwei Angestellten und etwa 40 Ehrenamtlichen.", "부사어"]]
+        }
+      ],
+      "tip": "세 번째 예문처럼 과거분사가 1번 자리로 나오면 그 내용이 강조돼요. werden은 '~이 되다'라는 뜻의 본동사로도 쓰여요. „ist zum Treffpunkt geworden“은 수동태가 아니라 '만남의 장소가 되었다'는 뜻이에요."
+    },
+    {
+      "title": "수동태 과거형 – wurde + 과거분사",
+      "term": "Passiv Präteritum",
+      "explain": "지나간 일을 수동태로 말할 때는 werden의 과거형 wurde/wurden을 쓰고 과거분사를 문장 끝에 둬요. 신문 기사에서 이미 끝난 사건을 보도할 때 자주 보여요. 주어가 단수면 wurde, 복수면 wurden이에요.",
+      "pattern": "주어 + wurde/wurden + … + 과거분사(문장 끝)",
+      "examples": [
+        {
+          "de": "Vor zwei Jahren wurde der letzte Supermarkt des Dorfes geschlossen.",
+          "ko": "2년 전 이 마을의 마지막 슈퍼마켓이 문을 닫았습니다.",
+          "mark": ["wurde", "geschlossen"],
+          "parts": [["Vor zwei Jahren", "부사어(시간)"], ["wurde", "동사"], ["der letzte Supermarkt des Dorfes", "주어"], ["geschlossen.", "동사(끝)"]]
+        },
+        {
+          "de": "Auf einer Bürgerversammlung wurde die Idee vorgestellt, und schon am ersten Abend wurden mehr als 100 Anteile verkauft.",
+          "ko": "주민 총회에서 이 아이디어가 소개되었고, 첫날 저녁에 벌써 100구좌가 넘는 지분이 팔렸습니다.",
+          "mark": ["wurde", "vorgestellt", "wurden", "verkauft"]
+        },
+        {
+          "de": "Dafür wurde eine Genossenschaft gegründet, die inzwischen rund 300 Mitglieder hat.",
+          "ko": "이를 위해 협동조합이 설립되었고, 조합원은 어느새 약 300명이 되었습니다.",
+          "mark": ["wurde", "gegründet"]
+        }
+      ],
+      "tip": "현재완료 수동태는 ist/sind … worden이에요(geworden이 아니에요). 이 글처럼 보도하는 글에서는 보통 과거형 wurde를 써요."
+    },
+    {
+      "title": "화법조동사 + 수동태",
+      "term": "Passiv mit Modalverb",
+      "explain": "화법조동사와 수동태를 함께 쓰면 화법조동사가 동사 2번 자리에 오고, 문장 끝에 '과거분사 + werden'이 와요. 이때 werden은 동사원형 그대로예요. 화법조동사를 과거형(musste, konnte …)으로 바꾸면 과거의 일이 돼요.",
+      "pattern": "주어 + 화법조동사 + … + 과거분사 + werden(문장 끝)",
+      "examples": [
+        {
+          "de": "Die Miete für das Gebäude muss trotzdem jeden Monat bezahlt werden.",
+          "ko": "그래도 건물 임대료는 매달 내야 합니다.",
+          "mark": ["muss", "bezahlt werden"],
+          "parts": [["Die Miete für das Gebäude", "주어"], ["muss", "동사"], ["trotzdem", "부사어"], ["jeden Monat", "부사어(시간)"], ["bezahlt werden.", "동사(끝)"]]
+        },
+        {
+          "de": "auch die Löhne mussten erhöht werden.",
+          "ko": "임금도 올려야 했습니다.",
+          "mark": ["mussten", "erhöht werden"]
+        }
+      ],
+      "tip": "„bezahlt werden“(화법조동사 뒤의 수동태 원형)과 „bezahlt worden“(현재완료 수동태)을 구별하세요."
+    },
+    {
+      "title": "2격 지배 전치사 – wegen, trotz, während, innerhalb",
+      "term": "Präpositionen mit Genitiv",
+      "explain": "wegen(~ 때문에), trotz(~에도 불구하고), während(~ 동안), innerhalb(~ 이내에, ~ 안에) 뒤에는 2격이 와요. 남성·중성 명사는 des + 명사-(e)s, 여성 명사와 복수는 der를 써요. 형용사가 함께 오면 어미는 -en이에요(der gestiegenen Energiepreise). 관사가 없는 복수 명사 앞에서는 wenig, all 같은 말이 -er 어미를 받아요(weniger Wochen, aller Probleme).",
+      "pattern": "wegen / trotz / während / innerhalb + 2격",
+      "examples": [
+        {
+          "de": "Trotz des Erfolgs gibt es auch Sorgen.",
+          "ko": "성공에도 불구하고 걱정도 있습니다.",
+          "mark": ["Trotz des Erfolgs"],
+          "parts": [["Trotz des Erfolgs", "부사어"], ["gibt", "동사"], ["es", "주어"], ["auch", "부사어"], ["Sorgen.", "4격 목적어"]]
+        },
+        {
+          "de": "Während des Umbaus wurde in einer Ecke des Ladens ein kleines Café eingerichtet.",
+          "ko": "개축 공사 중에 가게 한쪽 구석에 작은 카페가 마련되었습니다.",
+          "mark": ["Während des Umbaus"],
+          "parts": [["Während des Umbaus", "부사어(시간)"], ["wurde", "동사"], ["in einer Ecke des Ladens", "부사어(장소)"], ["ein kleines Café", "주어"], ["eingerichtet.", "동사(끝)"]]
+        },
+        {
+          "de": "Wegen der gestiegenen Energiepreise ist die Stromrechnung im letzten Jahr deutlich höher geworden",
+          "ko": "에너지 가격이 올라서 지난해 전기 요금이 눈에 띄게 늘었습니다",
+          "mark": ["Wegen der gestiegenen Energiepreise"]
+        }
+      ],
+      "tip": "일상 대화에서는 wegen과 trotz 뒤에 3격을 쓰는 사람도 많지만, 글에서는 2격이 표준이에요. während은 접속사(~하는 동안)로도 쓰이는데, 그때는 뒤에 종속절이 와요."
+    }
+  ],
+  "vocab": [
+    { "de": "die Genossenschaft, -en", "ko": "협동조합" },
+    { "de": "der Anteil, -e", "ko": "지분, 몫" },
+    { "de": "die Schließung, -en", "ko": "폐점, 폐쇄" },
+    { "de": "gründen", "ko": "설립하다, 창립하다" },
+    { "de": "der/die Angestellte, -n", "ko": "직원, 피고용인" },
+    { "de": "der/die Ehrenamtliche, -n", "ko": "자원봉사자 (보수 없이 일하는 사람)" },
+    { "de": "die Kreisstadt, -¨e", "ko": "군청 소재지 (군의 중심 도시)" },
+    { "de": "die Bürgerversammlung, -en", "ko": "주민 총회" },
+    { "de": "der Hof, -¨e", "ko": "농장, 농가" },
+    { "de": "liefern", "ko": "배달하다, 공급하다" },
+    { "de": "der Umbau, -ten", "ko": "개축, 리모델링 공사" },
+    { "de": "ein|richten", "ko": "(가구를 들여) 꾸미다, 마련하다, 설치하다" },
+    { "de": "erhöhen", "ko": "올리다, 인상하다" },
+    { "de": "der Gewinn, -e", "ko": "이익, 수익" },
+    { "de": "der Verlust, -e", "ko": "손실, 손해" },
+    { "de": "ersetzen", "ko": "대신하다, 대체하다" }
+  ],
+  "phrases": [
+    {
+      "de": "sich (Dat.) etwas leisten können",
+      "ko": "~을 감당할 수 있다, ~할 (경제적) 여유가 있다",
+      "ex": "aber Verluste kann sich die Genossenschaft nicht lange leisten",
+      "exko": "하지만 협동조합은 손실을 오래 감당할 수는 없습니다"
+    },
+    {
+      "de": "von Anfang an",
+      "ko": "처음부터",
+      "ex": "Große Gewinne wurden von Anfang an nicht erwartet",
+      "exko": "큰 이익은 처음부터 기대하지 않았습니다"
+    },
+    {
+      "de": "zum Treffpunkt werden",
+      "ko": "만남의 장소가 되다",
+      "ex": "Mit vier Tischen und einer alten Kaffeemaschine ist es inzwischen zum Treffpunkt des Dorfes geworden.",
+      "exko": "탁자 네 개와 오래된 커피 머신이 있는 이 카페는 어느새 마을의 만남의 장소가 되었습니다."
+    },
+    {
+      "de": "sich kümmern um + Akk.",
+      "ko": "~을 맡다, 돌보다, 신경 쓰다",
+      "ex": "Die Angestellten kümmern sich um Kasse, Bestellungen und Buchhaltung",
+      "exko": "직원들은 계산대와 주문, 회계를 맡습니다"
+    },
+    {
+      "de": "über etwas (Akk.) nachdenken",
+      "ko": "~에 대해 생각해 보다, 검토하다",
+      "ex": "Deshalb wird jetzt über längere Öffnungszeiten nachgedacht.",
+      "exko": "그래서 지금은 영업시간을 늘리는 방안을 검토하고 있습니다."
+    }
+  ]
+}
