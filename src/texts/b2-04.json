@@ -127,12 +127,12 @@
       "options": [
         "Dass der Firnis an manchen Stellen dicker ist als an anderen.",
         "Dass das Bild von einem anderen Künstler stammt als angenommen.",
-        "Dass der Maler sein Bild im Entstehungsprozess noch umgestaltet hat."
+        "Dass der Maler sein Bild beim Malen noch einmal verändert hat."
       ],
       "answer": 2,
       "evidence": "Oft stellt sich dabei heraus, dass der Künstler seine Komposition während der Arbeit geändert hat: Ein Arm lag ursprünglich anders, eine Figur wurde übermalt.",
-      "pairs": [["seine Komposition während der Arbeit geändert", "im Entstehungsprozess noch umgestaltet"]],
-      "explain": "적외선 조사에서는 화가가 작업 중에 구도를 바꿨다는 사실이 자주 드러난다고 해요. '작업 중에 구도를 바꾸다'를 '제작 과정에서 다시 고치다'로 바꿔 말했어요. 바니시 두께나 다른 화가에 대한 언급은 없어요."
+      "pairs": [["seine Komposition während der Arbeit geändert", "beim Malen noch einmal verändert"]],
+      "explain": "적외선 조사에서는 화가가 작업 중에 구도를 바꿨다는 사실이 자주 드러난다고 해요. '작업 중에 구도를 바꾸다'를 '그리는 도중에 다시 바꾸다'로 바꿔 말했어요. 바니시 두께나 다른 화가에 대한 언급은 없어요."
     },
     {
       "type": "rfn",
@@ -150,7 +150,7 @@
       "options": [
         "Fehler des Künstlers werden bewusst nicht korrigiert.",
         "Unerfahrene Restauratoren verschlechtern ein Bild oft.",
-        "Manche Schäden an einem Bild lassen sich nicht mehr beheben."
+        "Manche Schäden am Bild lassen sich nicht mehr beheben."
       ],
       "answer": 0,
       "evidence": "Wo der Maler eine ungeschickte Hand gemalt hat, bleibt die Hand ungeschickt.",

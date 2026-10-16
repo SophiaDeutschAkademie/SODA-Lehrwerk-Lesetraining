@@ -49,10 +49,10 @@
       "kind": "detail",
       "q": "Was erfährt man über das Verhältnis der Erzählerin zur Wohnung ihrer Großmutter?",
       "options": [
-        "Sie hat dort als Kind mehrere Jahre gewohnt.",
-        "Sie war dort seit ihrer Kindheit nicht mehr gewesen.",
-        "Sie kennt die Wohnung seit Jahrzehnten aus regelmäßigen Besuchen.",
-        "Sie kam früher vor allem, um der Großmutter beim Aufräumen zu helfen."
+        "Sie hat dort als Kind mehrere Jahre bei ihrer Großmutter gewohnt.",
+        "Sie hatte die Wohnung seit ihrer Kindheit nicht wieder betreten.",
+        "Sie kennt die Wohnung seit Jahrzehnten durch regelmäßige Besuche.",
+        "Sie kam früher oft, um ihrer Großmutter beim Aufräumen zu helfen."
       ],
       "answer": 2,
       "evidence": "Dreißig Jahre lang war ich durch diese Tür gegangen, um jemanden zu besuchen.",
@@ -63,11 +63,11 @@
         ],
         [
           "um jemanden zu besuchen",
-          "aus regelmäßigen Besuchen"
+          "durch regelmäßige Besuche"
         ],
         [
           "Nun ging ich hindurch, um aufzuräumen.",
-          "um der Großmutter beim Aufräumen zu helfen"
+          "um ihrer Großmutter beim Aufräumen zu helfen"
         ]
       ],
       "explain": "30년 동안 누군가를 만나러 이 문을 지나다녔다는 문장을 '수십 년 전부터 정기적인 방문으로 집을 안다'로 바꿔 말했어요. 열쇠 다루는 법을 어릴 때 배웠다는 것은 어릴 때부터 드나들었다는 뜻이지, 거기 살았다는 뜻은 아니에요. 예전에는 사람을 만나러 왔고 이제는 정리하러 왔다고 대비하므로(Nun ging ich hindurch, um aufzuräumen), 정리를 도우러 왔다는 선택지도 틀려요."
@@ -95,17 +95,17 @@
       "kind": "detail",
       "q": "Warum kommt die Erzählerin im Wohnzimmer nur langsam voran?",
       "options": [
-        "weil die Liste der Mutter für dieses Zimmer unvollständig ist",
-        "weil sie immer wieder bei unbedeutenden Gegenständen hängen bleibt",
+        "weil die Liste der Mutter für dieses Zimmer keine Hinweise enthält",
+        "weil sie immer wieder an unbedeutenden Gegenständen hängen bleibt",
         "weil dort besonders viele Bücher für die Bücherei einzupacken sind",
-        "weil sie dort zuerst nach dem Koffer sucht"
+        "weil sie dort schon gezielt nach dem Koffer auf dem Schrank sucht"
       ],
       "answer": 1,
       "evidence": "weil ich jede zweite Schublade aufzog und dann minutenlang irgendeinen Knopf in der Hand hielt",
       "pairs": [
         [
           "minutenlang irgendeinen Knopf in der Hand hielt",
-          "bei unbedeutenden Gegenständen hängen bleibt"
+          "an unbedeutenden Gegenständen hängen bleibt"
         ],
         [
           "jede zweite Schublade",
@@ -119,17 +119,17 @@
       "kind": "meaning",
       "q": "Was bedeutet „Das Schlafzimmer hob ich mir für den Schluss auf.“?",
       "options": [
-        "Sie räumte das Schlafzimmer als Letztes aus.",
+        "Sie räumte das Schlafzimmer als letzten Raum der Wohnung aus.",
         "Sie räumte im Schlafzimmer zuletzt alles wieder an seinen Platz.",
-        "Sie ließ das Schlafzimmer unberührt und schloss es ab.",
-        "Sie hob im Schlafzimmer die Sachen auf, die auf dem Boden lagen."
+        "Sie ließ das Schlafzimmer unberührt und schloss die Tür ab.",
+        "Sie hob im Schlafzimmer alles auf, was auf dem Boden herumlag."
       ],
       "answer": 0,
       "evidence": "Das Schlafzimmer hob ich mir für den Schluss auf.",
       "pairs": [
         [
           "hob ich mir für den Schluss auf",
-          "als Letztes"
+          "als letzten Raum"
         ]
       ],
       "explain": "sich etwas aufheben은 '~을 나중을 위해 남겨 두다'라는 뜻이에요. 그러니 침실은 맨 마지막에 치웠다는 말이에요. aufheben의 다른 뜻인 '줍다, 들어 올리다'로 읽으면 함정에 빠져요."
@@ -139,17 +139,17 @@
       "kind": "detail",
       "q": "Woran erkennt die Erzählerin sofort, dass die Briefe nicht von ihrem Großvater stammen?",
       "options": [
-        "an dem Absender in Lissabon",
-        "an dem Namen, mit dem die Briefe unterschrieben sind",
-        "an der Art, wie die Buchstaben geformt sind",
-        "an dem Datum des ältesten Briefes"
+        "an dem Absender in Lissabon auf den Umschlägen",
+        "an dem Namen, mit dem die Briefe signiert sind",
+        "an der Art, wie die Buchstaben gestaltet sind",
+        "an dem Datum auf dem ältesten Brief im Koffer"
       ],
       "answer": 2,
       "evidence": "Mein Großvater hatte eine steile, ungeduldige Schrift gehabt; diese hier war rund und sorgfältig, als hätte jemand Zeit gehabt.",
       "pairs": [
         [
           "Die Handschrift kannte ich nicht.",
-          "an der Art, wie die Buchstaben geformt sind"
+          "an der Art, wie die Buchstaben gestaltet sind"
         ],
         [
           "Mein Großvater hatte eine steile, ungeduldige Schrift gehabt",
@@ -181,21 +181,21 @@
       "kind": "paraphrase",
       "q": "Was will die Erzählerin mit dem Satz „Die Briefe hörten 1974 auf, nicht abrupt, sondern wie etwas, das leiser wird.“ sagen?",
       "options": [
-        "Die Briefe wurden mit den Jahren kürzer und kaum noch lesbar.",
-        "Der Briefwechsel endete nicht durch einen Bruch, sondern lief allmählich aus.",
+        "Die Briefe wurden im Lauf der Jahre immer kürzer und kaum noch zu lesen.",
+        "Der Briefwechsel endete nicht plötzlich, sondern klang allmählich aus.",
         "Ab 1974 schrieb Teodor seltener, weil er die Hoffnung verloren hatte.",
-        "Die Großmutter antwortete ab 1974 nur noch in größeren Abständen."
+        "Die Großmutter antwortete ab 1974 nur noch in größeren Zeitabständen."
       ],
       "answer": 1,
       "evidence": "Die Briefe hörten 1974 auf, nicht abrupt, sondern wie etwas, das leiser wird.",
       "pairs": [
         [
           "nicht abrupt",
-          "nicht durch einen Bruch"
+          "nicht plötzlich"
         ],
         [
           "wie etwas, das leiser wird",
-          "lief allmählich aus"
+          "klang allmählich aus"
         ]
       ],
       "explain": "'갑자기가 아니라 무언가가 점점 잦아들듯이' 끝났다는 것은 편지가 한순간에 끊긴 것이 아니라 서서히 사그라졌다는 비유예요. 편지는 1974년에 끝났으므로 '1974년부터 드물어졌다'는 말은 맞지 않고, 테오도르가 희망을 잃었다거나 할머니가 답장을 드문드문 했다는 이야기는 본문에 없어요."
@@ -205,21 +205,21 @@
       "kind": "detail",
       "q": "Welche Vermutung stellt die Erzählerin über den Aufbewahrungsort des Koffers an?",
       "options": [
-        "Die Großmutter habe den Koffer so gründlich versteckt, dass ihn niemand finden sollte.",
-        "Die Großmutter habe den Koffer vergessen, weil er so weit oben stand.",
-        "Die Großmutter habe den Koffer möglicherweise bewusst so aufbewahrt, dass er eines Tages entdeckt werden konnte.",
-        "Der Großvater habe den Koffer dort oben abgestellt, ohne hineinzusehen."
+        "Die Großmutter habe den Koffer so gründlich versteckt, dass ihn niemand mehr finden sollte.",
+        "Die Großmutter habe den Koffer im Lauf der Jahre vergessen, weil er so weit oben stand.",
+        "Die Großmutter habe den Koffer womöglich bewusst so aufbewahrt, dass man ihn finden konnte.",
+        "Der Großvater habe den Koffer einst selbst dort oben abgestellt, ohne jemals hineinzusehen."
       ],
       "answer": 2,
       "evidence": "Vielleicht hatte sie gewollt, dass irgendwann jemand die Leiter holte.",
       "pairs": [
         [
           "dass irgendwann jemand die Leiter holte",
-          "eines Tages entdeckt werden konnte"
+          "dass man ihn finden konnte"
         ],
         [
           "Vielleicht hatte sie gewollt",
-          "möglicherweise bewusst"
+          "womöglich bewusst"
         ]
       ],
       "explain": "서술자는 할머니가 언젠가 누군가 사다리를 가져오기를 바랐을지도 모른다고 추측해요. 사다리를 가져온다는 것은 곧 가방을 발견한다는 뜻이에요. '제대로 숨기지는 않았다'고 했으니 철저히 숨겼다는 선택지는 반대이고, 할아버지가 가방을 올려 두었다는 이야기는 없어요."
@@ -232,7 +232,7 @@
         "Die alten Gegenstände waren der Erzählerin inzwischen zu schwer, um sie allein zu tragen.",
         "Die Erzählerin ärgerte sich, dass sie die Kleinigkeiten früher nicht ernst genommen hatte.",
         "Die Erinnerungen waren so unangenehm, dass die Erzählerin sie sofort wieder verdrängte.",
-        "Die unscheinbaren Erinnerungen erschienen der Erzählerin plötzlich bedeutsam, und zwar auf eine beunruhigende Weise."
+        "Die unscheinbaren Dinge erschienen der Erzählerin plötzlich bedeutsam und beunruhigend."
       ],
       "answer": 3,
       "evidence": "Jetzt bekamen sie ein Gewicht, das mir nicht gefiel.",
@@ -243,7 +243,7 @@
         ],
         [
           "das mir nicht gefiel",
-          "auf eine beunruhigende Weise"
+          "und beunruhigend"
         ]
       ],
       "explain": "Gewicht는 여기서 물리적인 무게가 아니라 '의미, 중요성'이에요. 예전에는 아무 뜻도 없던(nichts bedeutet hatten) 사소한 일들이 편지를 읽은 뒤 갑자기 의미를 갖게 되었고, 그 의미가 서술자에게 불편하다는 말이에요. 바로 뒤의 '할머니는 행복했잖아요, 그렇죠?'가 그 불편함을 보여 줘요."
@@ -253,9 +253,9 @@
       "kind": "intent",
       "q": "Wie ist die Entscheidung der Erzählerin am Schluss zu verstehen?",
       "options": [
-        "Sie übergibt den Koffer ihrer Mutter, damit diese selbst über ihn entscheidet.",
-        "Sie behält den Koffer und verschweigt der Mutter den Fund, ohne sich ihrer Sache sicher zu sein.",
-        "Sie entsorgt die Briefe, um das Andenken an den Großvater zu schützen.",
+        "Sie übergibt den Koffer ihrer Mutter, damit diese selbst über den Inhalt entscheidet.",
+        "Sie behält den Koffer und verschweigt der Mutter den Fund, ohne sich sicher zu sein.",
+        "Sie entsorgt alle Briefe, um das Andenken an den Großvater nicht zu beschädigen.",
         "Sie bringt den Koffer zurück auf den Schrank, wo die Großmutter ihn aufbewahrt hat."
       ],
       "answer": 1,
@@ -267,7 +267,7 @@
         ],
         [
           "Ob das richtig war, weiß ich bis heute nicht.",
-          "ohne sich ihrer Sache sicher zu sein"
+          "ohne sich sicher zu sein"
         ]
       ],
       "explain": "'목록에 칸을 만들어 주지 않기로 했다'는 것은 어머니에게 가방의 존재를 알리지 않기로 했다는 뜻이고, 가방을 차로 날랐으니 본인이 가져간 거예요. 마지막에 '옳았는지 지금도 모른다'고 하므로 확신 없는 결정이에요. 버리지 않았다고 분명히 말해요."

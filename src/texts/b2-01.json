@@ -58,9 +58,9 @@
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Wer gute Leute gewinnen will, muss heute mehr bieten als ein sicheres Gehalt“?",
       "options": [
-        "Qualifizierte Bewerber erwarten inzwischen bessere Arbeitsbedingungen, nicht nur einen festen Lohn.",
-        "Die Stadt muss ihren Beschäftigten höhere Gehälter zahlen, damit sie nicht kündigen.",
-        "Gute Mitarbeiter wechseln heute häufiger den Arbeitgeber, wenn ihnen mehr Geld geboten wird."
+        "Qualifizierte Bewerber erwarten bessere Arbeitsbedingungen, nicht nur einen festen Lohn.",
+        "Die Stadt muss ihren Beschäftigten höhere Gehälter zahlen, damit diese nicht kündigen.",
+        "Gute Mitarbeiter wechseln heute öfter den Arbeitgeber, wenn ihnen mehr Geld geboten wird."
       ],
       "answer": 0,
       "evidence": "Wer gute Leute gewinnen will, muss heute mehr bieten als ein sicheres Gehalt",
@@ -72,8 +72,8 @@
       "kind": "paraphrase",
       "q": "Was ist mit dem Satz „Daran werde man arbeiten“ gemeint?",
       "options": [
-        "Die Beschäftigten sollen an den betroffenen Tagen zusätzlich arbeiten.",
-        "Die Stadt will die Zahl der Krankmeldungen weiter untersuchen.",
+        "Die Beschäftigten sollen an den betroffenen Tagen länger arbeiten.",
+        "Die Stadt will die Zahl der Krankmeldungen noch genauer untersuchen.",
         "Die Stadt will das Problem mit den Terminen in den Griff bekommen."
       ],
       "answer": 2,
@@ -100,9 +100,9 @@
       "kind": "detail",
       "q": "Was kritisiert Gisela Hartmann?",
       "options": [
-        "Dass das Bürgerbüro freitags geschlossen bleibt.",
+        "Dass das Bürgerbüro nun freitags geschlossen bleibt.",
         "Dass es Wochen dauerte, bis sie einen Termin bekam.",
-        "Dass die Öffnungszeiten am Abend zu kurz sind."
+        "Dass die Öffnungszeiten am Abend zu kurz geworden sind."
       ],
       "answer": 1,
       "evidence": "sie habe drei Wochen auf einen Termin für ihren neuen Personalausweis warten müssen.",
@@ -123,7 +123,7 @@
       "kind": "detail",
       "q": "Welche Einschränkung macht die Wissenschaftlerin Lea Brandner?",
       "options": [
-        "Die positiven Effekte werden nach einem Jahr wieder verschwinden.",
+        "Die positiven Effekte werden nach etwa einem Jahr wieder verschwinden.",
         "Die Beschäftigten im Bürgerbüro waren von Anfang an wenig motiviert.",
         "Die Ergebnisse lassen sich nicht auf alle Arbeitsbereiche übertragen."
       ],
@@ -138,8 +138,8 @@
       "q": "Welche Absicht verfolgt der Bericht?",
       "options": [
         "Er will die Leserinnen und Leser von den Vorteilen der Vier-Tage-Woche überzeugen.",
-        "Er will die bisherigen Erfahrungen aus verschiedenen Blickwinkeln ausgewogen darstellen.",
-        "Er will die Bürgermeisterin für die Probleme bei der Terminvergabe kritisieren."
+        "Er will die bisherigen Erfahrungen aus mehreren Blickwinkeln ausgewogen schildern.",
+        "Er will die Bürgermeisterin wegen der Probleme bei der Terminvergabe kritisieren."
       ],
       "answer": 1,
       "evidence": "Zur Halbzeit des Versuchs hat die Stadt nun eine erste Zwischenbilanz vorgelegt.",
