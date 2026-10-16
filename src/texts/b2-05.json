@@ -7,11 +7,7 @@
   "type": "Buchrezension",
   "typeKo": "서평",
   "intro": "고향 마을로 돌아온 번역가의 이야기를 다룬 소설에 대한 서평이에요.",
-  "focus": [
-    "양보 접속어 (zwar … aber, obwohl, dennoch, trotz)",
-    "대조 접속어 (während, wohingegen, jedoch)",
-    "현재형 줄거리 요약"
-  ],
+  "focus": ["양보 접속어 (zwar … aber, obwohl, dennoch, trotz)", "대조 접속어 (während, wohingegen, jedoch)", "현재형 줄거리 요약"],
   "paragraphs": [
     {
       "style": "meta",
@@ -50,35 +46,17 @@
       "q": "Mit „Salz auf der Fensterbank“ legt Johanna Reling ihr Debüt vor.",
       "answer": 1,
       "evidence": "Davon jedenfalls erzählt Johanna Relings zweiter Roman „Salz auf der Fensterbank“",
-      "pairs": [
-        [
-          "zweiter Roman",
-          "Debüt"
-        ]
-      ],
+      "pairs": [["zweiter Roman", "Debüt"]],
       "explain": "본문은 이 책을 렐링의 '두 번째 장편소설'이라고 소개해요. Debüt(데뷔작)는 첫 작품이라는 뜻이므로 틀린 진술이에요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was hat Hanna ursprünglich mit dem geerbten Haus vor?",
-      "options": [
-        "Sie möchte es renovieren und selbst darin wohnen.",
-        "Sie will es so schnell wie möglich loswerden.",
-        "Sie will es ihrer Schulfreundin Rieke überlassen."
-      ],
+      "options": ["Sie möchte es renovieren und selbst darin wohnen.", "Sie will es so schnell wie möglich loswerden.", "Sie will es ihrer Schulfreundin Rieke überlassen."],
       "answer": 1,
       "evidence": "Eigentlich will sie das Haus nur ausräumen und verkaufen.",
-      "pairs": [
-        [
-          "Eigentlich",
-          "ursprünglich"
-        ],
-        [
-          "nur ausräumen und verkaufen",
-          "so schnell wie möglich loswerden"
-        ]
-      ],
+      "pairs": [["Eigentlich", "ursprünglich"], ["nur ausräumen und verkaufen", "so schnell wie möglich loswerden"]],
       "explain": "원래(eigentlich) 한나는 집을 비우고 팔 생각뿐이에요. '비우고 판다'를 '되도록 빨리 처분한다'로 바꿔 말했어요. 창틀에 페인트를 칠하는 것은 나중에 머무르면서 하는 일이고, 리케에게 넘긴다는 말은 없어요."
     },
     {
@@ -87,81 +65,37 @@
       "q": "Am Ende des Romans entscheidet sich Hanna, im Dorf zu bleiben.",
       "answer": 1,
       "evidence": "Ob Hanna bleibt, lässt der Roman am Ende offen.",
-      "pairs": [
-        [
-          "lässt der Roman am Ende offen",
-          "entscheidet sich Hanna, im Dorf zu bleiben"
-        ]
-      ],
+      "pairs": [["lässt der Roman am Ende offen", "entscheidet sich Hanna, im Dorf zu bleiben"]],
       "explain": "한나가 남을지는 소설이 결말에서도 열어 둔다고 해요. 즉 결말에서 결정이 내려지지 않으므로, 남기로 한다는 진술은 본문과 맞지 않아요. 열린 결말이라는 정보가 본문에 있으니 '언급 없음'이 아니라 '아니요'예요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was ist mit der Formulierung „lässt Reling die Dinge sprechen“ gemeint?",
-      "options": [
-        "Die Autorin zeigt Gefühle an Dingen und Geräuschen, anstatt die Figuren zu erklären.",
-        "Die Autorin lässt die Gegenstände in ihrem Roman wie Menschen miteinander sprechen.",
-        "Die Autorin verzichtet weitgehend auf Dialoge und lässt die Figuren oft schweigen."
-      ],
+      "options": ["Die Autorin zeigt Gefühle an Dingen und Geräuschen, anstatt die Figuren zu erklären.", "Die Autorin lässt die Gegenstände in ihrem Roman wie Menschen miteinander sprechen.", "Die Autorin verzichtet weitgehend auf Dialoge und lässt die Figuren oft schweigen."],
       "answer": 0,
       "evidence": "Während viele Autorinnen und Autoren ihre Figuren in langen inneren Monologen erklären, lässt Reling die Dinge sprechen: eine verrostete Fahrradklingel, das Geräusch des Windes in den Dachrinnen, das titelgebende Salz, das die Meeresluft auf der Fensterbank hinterlässt.",
-      "pairs": [
-        [
-          "lässt Reling die Dinge sprechen",
-          "zeigt Gefühle an Dingen und Geräuschen"
-        ],
-        [
-          "ihre Figuren in langen inneren Monologen erklären",
-          "statt die Figuren zu erklären"
-        ]
-      ],
+      "pairs": [["lässt Reling die Dinge sprechen", "zeigt Gefühle an Dingen und Geräuschen"], ["ihre Figuren in langen inneren Monologen erklären", "statt die Figuren zu erklären"]],
       "explain": "앞부분과 대조해서 읽어야 해요. 많은 작가가 인물을 긴 내면 독백으로 설명하는 반면에, 렐링은 자전거 벨, 바람 소리, 소금 같은 사물로 분위기와 감정을 전달해요. 사물이 실제로 말을 한다거나 대화가 없다는 뜻이 아니에요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was kritisiert die Rezension am Mittelteil des Romans?",
-      "options": [
-        "Dass das Tempo dort zu hoch ist und viele wichtige Szenen fehlen.",
-        "Dass die Geschichte kaum voranschreitet und sich Szenen wiederholen.",
-        "Dass Hanna dort zu vielen neuen Figuren aus dem Dorf begegnet."
-      ],
+      "options": ["Dass das Tempo dort zu hoch ist und viele wichtige Szenen fehlen.", "Dass die Geschichte kaum voranschreitet und sich Szenen wiederholen.", "Dass Hanna dort zu vielen neuen Figuren aus dem Dorf begegnet."],
       "answer": 1,
       "evidence": "im Mittelteil jedoch zieht sich die Handlung. Hanna sortiert Briefe, Hanna geht am Strand spazieren, Hanna sortiert wieder Briefe.",
-      "pairs": [
-        [
-          "zieht sich die Handlung",
-          "die Geschichte kaum voranschreitet"
-        ],
-        [
-          "diese Wiederholung",
-          "sich Szenen wiederholen"
-        ]
-      ],
+      "pairs": [["zieht sich die Handlung", "die Geschichte kaum voranschreitet"], ["diese Wiederholung", "sich Szenen wiederholen"]],
       "explain": "중반부에서는 줄거리가 늘어지고(zieht sich) 편지 정리와 산책 장면이 반복된다고 해요. '늘어진다'를 '이야기가 거의 앞으로 나아가지 않는다'로 바꿔 말했어요. 속도가 딱 알맞다는 말은 처음 3분의 1에 대한 것이고, 주변 인물은 수가 많아서가 아니라 희미해서 비판받아요."
     },
     {
       "type": "mc",
       "kind": "intent",
       "q": "Wie bewertet die Rezension die Wiederholungen im Mittelteil?",
-      "options": [
-        "Sie sind ein handwerklicher Fehler, den die Autorin nicht bemerkt hat.",
-        "Sie sind gelungen, weil sie den Stillstand der Figur spürbar machen.",
-        "Sie sind wohl beabsichtigt, machen die Lektüre aber trotzdem mühsam."
-      ],
+      "options": ["Sie sind ein handwerklicher Fehler, den die Autorin nicht bemerkt hat.", "Sie sind gelungen, weil sie den Stillstand der Figur spürbar machen.", "Sie sind wohl beabsichtigt, machen die Lektüre aber trotzdem mühsam."],
       "answer": 2,
       "evidence": "Wenngleich diese Wiederholung vermutlich gewollt ist – der Stillstand der Figur soll spürbar werden –, verlangt sie dem Leser einiges an Geduld ab.",
-      "pairs": [
-        [
-          "vermutlich gewollt",
-          "wohl beabsichtigt"
-        ],
-        [
-          "verlangt sie dem Leser einiges an Geduld ab",
-          "machen die Lektüre aber trotzdem mühsam"
-        ]
-      ],
+      "pairs": [["vermutlich gewollt", "wohl beabsichtigt"], ["verlangt sie dem Leser einiges an Geduld ab", "machen die Lektüre aber trotzdem mühsam"]],
       "explain": "wenngleich(비록 ~이지만)로 시작하는 양보문이에요. 서평은 반복이 아마 의도된 것(vermutlich gewollt)이라고 인정하면서도, 독자에게 상당한 인내심을 요구한다고 비판해요. 의도를 알아보는 것과 결과를 좋게 평가하는 것은 다르므로, 본문의 Stillstand, spürbar를 그대로 가져온 '성공적'이라는 선택지는 함정이에요."
     },
     {
@@ -170,58 +104,27 @@
       "q": "Wie ihre Hauptfigur arbeitet auch Johanna Reling als Übersetzerin.",
       "answer": 2,
       "evidence": null,
-      "pairs": [
-        [
-          "Im Mittelpunkt steht Hanna Berg",
-          "ihre Hauptfigur"
-        ],
-        [
-          "eine Übersetzerin Mitte vierzig",
-          "arbeitet auch Johanna Reling als Übersetzerin"
-        ]
-      ],
+      "pairs": [["Im Mittelpunkt steht Hanna Berg", "ihre Hauptfigur"], ["eine Übersetzerin Mitte vierzig", "arbeitet auch Johanna Reling als Übersetzerin"]],
       "explain": "본문에서 번역가는 소설의 주인공 한나 베르크의 직업이에요. 작가 요하나 렐링이 번역가로 일하는지는 본문에 전혀 나오지 않으므로 맞다고도 틀리다고도 할 수 없어요. 주인공과 작가를 헷갈리지 않도록 주의하세요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was sagt die Rezension über das letzte Drittel des Romans?",
-      "options": [
-        "Es steht den besten deutschsprachigen Neuerscheinungen dieses Jahres nicht nach.",
-        "Erst dort werden Rieke und Ole zu eigenständigen Figuren mit eigener Vorgeschichte.",
-        "Es ist genauso zäh und langatmig wie der Mittelteil und verlangt viel Geduld."
-      ],
+      "options": ["Es steht den besten deutschsprachigen Neuerscheinungen dieses Jahres nicht nach.", "Erst dort werden Rieke und Ole zu eigenständigen Figuren mit eigener Vorgeschichte.", "Es ist genauso zäh und langatmig wie der Mittelteil und verlangt viel Geduld."],
       "answer": 0,
       "evidence": "Das letzte Drittel gehört zum Besten, was in diesem Jahr auf Deutsch erschienen ist.",
-      "pairs": [
-        [
-          "gehört zum Besten, was in diesem Jahr auf Deutsch erschienen ist",
-          "steht den besten deutschsprachigen Neuerscheinungen dieses Jahres nicht nach"
-        ]
-      ],
+      "pairs": [["gehört zum Besten, was in diesem Jahr auf Deutsch erschienen ist", "steht den besten deutschsprachigen Neuerscheinungen dieses Jahres nicht nach"]],
       "explain": "마지막 3분의 1은 올해 독일어로 출간된 작품 가운데 최고 수준에 속한다고 해요. 이것을 '올해 나온 독일어 신간 가운데 최고의 작품들에 뒤지지 않는다'로 바꿔 말했어요. 주변 인물인 리케와 올레는 희미하게 남는다(blass bleiben)고 했으니 나중에 독자적인 인물이 된다는 말은 맞지 않고, 늘어진다는 평가는 중반부에 대한 것이에요."
     },
     {
       "type": "mc",
       "kind": "intent",
       "q": "Zu welchem Gesamturteil kommt die Rezension?",
-      "options": [
-        "Vom Kauf wird abgeraten, weil die Schwächen des Buchs überwiegen.",
-        "Der Roman wird trotz deutlicher Mängel zur Lektüre empfohlen.",
-        "Der Roman wird als makelloses Meisterwerk des Jahres gefeiert."
-      ],
+      "options": ["Vom Kauf wird abgeraten, weil die Schwächen des Buchs überwiegen.", "Der Roman wird trotz deutlicher Mängel zur Lektüre empfohlen.", "Der Roman wird als makelloses Meisterwerk des Jahres gefeiert."],
       "answer": 1,
       "evidence": "„Salz auf der Fensterbank“ ist kein perfekter Roman, aber ein ehrlicher.",
-      "pairs": [
-        [
-          "kein perfekter Roman, aber ein ehrlicher",
-          "trotz deutlicher Mängel"
-        ],
-        [
-          "Lesenswert",
-          "zur Lektüre empfohlen"
-        ]
-      ],
+      "pairs": [["kein perfekter Roman, aber ein ehrlicher", "trotz deutlicher Mängel"], ["Lesenswert", "zur Lektüre empfohlen"]],
       "explain": "서평은 '완벽한 소설은 아니지만 정직한 소설'이라고 하고 '읽을 만하다'(lesenswert)로 끝나요. 중반부와 주변 인물에 대한 비판을 분명히 하면서도 결론은 추천이에요. 완벽하다고도, 사지 말라고도 하지 않아요."
     }
   ],
@@ -235,86 +138,19 @@
         {
           "de": "Zwar ist das Tempo im ersten Drittel genau richtig, im Mittelteil jedoch zieht sich die Handlung.",
           "ko": "처음 3분의 1에서는 속도가 딱 알맞지만, 중반부에서는 줄거리가 늘어집니다.",
-          "mark": [
-            "Zwar",
-            "jedoch"
-          ],
-          "parts": [
-            [
-              "Zwar",
-              "접속부사"
-            ],
-            [
-              "ist",
-              "동사"
-            ],
-            [
-              "das Tempo",
-              "주어"
-            ],
-            [
-              "im ersten Drittel",
-              "부사어(장소)"
-            ],
-            [
-              "genau richtig,",
-              "보어"
-            ],
-            [
-              "im Mittelteil",
-              "부사어(장소)"
-            ],
-            [
-              "jedoch",
-              "접속부사"
-            ],
-            [
-              "zieht",
-              "동사"
-            ],
-            [
-              "sich",
-              "재귀대명사"
-            ],
-            [
-              "die Handlung.",
-              "주어"
-            ]
-          ]
+          "mark": ["Zwar", "jedoch"],
+          "parts": [["Zwar", "접속부사"], ["ist", "동사"], ["das Tempo", "주어"], ["im ersten Drittel", "부사어(장소)"], ["genau richtig,", "보어"], ["im Mittelteil", "부사어(장소)"], ["jedoch", "접속부사"], ["zieht", "동사"], ["sich", "재귀대명사"], ["die Handlung.", "주어"]]
         },
         {
           "de": "Trotz dieser Qualitäten hat das Buch einen Durchhänger.",
           "ko": "이런 장점에도 불구하고 이 책에는 처지는 구간이 있습니다.",
-          "mark": [
-            "Trotz dieser Qualitäten"
-          ],
-          "parts": [
-            [
-              "Trotz dieser Qualitäten",
-              "부사어"
-            ],
-            [
-              "hat",
-              "동사"
-            ],
-            [
-              "das Buch",
-              "주어"
-            ],
-            [
-              "einen Durchhänger.",
-              "4격 목적어"
-            ]
-          ]
+          "mark": ["Trotz dieser Qualitäten"],
+          "parts": [["Trotz dieser Qualitäten", "부사어"], ["hat", "동사"], ["das Buch", "주어"], ["einen Durchhänger.", "4격 목적어"]]
         },
         {
           "de": "Wenngleich diese Wiederholung vermutlich gewollt ist – der Stillstand der Figur soll spürbar werden –, verlangt sie dem Leser einiges an Geduld ab.",
           "ko": "이 반복은 아마 의도된 것이겠지만(인물이 멈춰 서 있다는 느낌을 주려는 것이지요), 독자에게 상당한 인내심을 요구합니다.",
-          "mark": [
-            "Wenngleich",
-            "gewollt ist",
-            "verlangt"
-          ]
+          "mark": ["Wenngleich", "gewollt ist", "verlangt"]
         }
       ],
       "tip": "obwohl은 종속접속사라서 동사가 끝으로 가고, trotzdem/dennoch는 접속부사라서 동사가 바로 뒤에 와요. Obwohl das Buch Schwächen hat, ist es lesenswert. = Das Buch hat Schwächen. Dennoch ist es lesenswert."
@@ -328,48 +164,18 @@
         {
           "de": "Während viele Autorinnen und Autoren ihre Figuren in langen inneren Monologen erklären, lässt Reling die Dinge sprechen: eine verrostete Fahrradklingel, das Geräusch des Windes in den Dachrinnen, das titelgebende Salz, das die Meeresluft auf der Fensterbank hinterlässt.",
           "ko": "많은 작가가 인물을 긴 내면 독백으로 설명하는 반면에, 렐링은 사물이 말하게 합니다. 녹슨 자전거 벨, 빗물받이에서 나는 바람 소리, 바닷바람이 창턱에 남기는 제목 속의 그 소금 같은 것들이지요.",
-          "mark": [
-            "Während",
-            "erklären",
-            "lässt"
-          ]
+          "mark": ["Während", "erklären", "lässt"]
         },
         {
           "de": "Hanna ist in jeder Szene greifbar, wohingegen Rieke und Ole eher Stichwortgeber als eigenständige Charaktere sind; was sie außerhalb ihrer Begegnungen mit Hanna bewegt, erfährt man nicht.",
           "ko": "한나는 모든 장면에서 생생하게 그려지는 반면에, 리케와 올레는 독자적인 인물이라기보다는 대화의 실마리를 던져 주는 역할에 가깝고, 한나와의 만남 바깥에서 그들을 움직이는 것이 무엇인지는 알 수 없습니다.",
-          "mark": [
-            "wohingegen",
-            "sind"
-          ]
+          "mark": ["wohingegen", "sind"]
         },
         {
           "de": "„Salz auf der Fensterbank“ ist kein perfekter Roman, aber ein ehrlicher.",
           "ko": "『창턱 위의 소금』은 완벽한 소설은 아니지만 정직한 소설입니다.",
-          "mark": [
-            "aber"
-          ],
-          "parts": [
-            [
-              "„Salz auf der Fensterbank“",
-              "주어"
-            ],
-            [
-              "ist",
-              "동사"
-            ],
-            [
-              "kein perfekter Roman,",
-              "보어"
-            ],
-            [
-              "aber",
-              "접속사"
-            ],
-            [
-              "ein ehrlicher.",
-              "보어"
-            ]
-          ]
+          "mark": ["aber"],
+          "parts": [["„Salz auf der Fensterbank“", "주어"], ["ist", "동사"], ["kein perfekter Roman,", "보어"], ["aber", "접속사"], ["ein ehrlicher.", "보어"]]
         }
       ],
       "tip": "während가 시간인지 대조인지는 두 절의 내용을 보면 알 수 있어요. 두 절이 동시에 일어나는 일이면 시간, 서로 다른 두 대상을 비교하면 대조예요. 이 글에서는 '많은 작가 vs. 렐링'을 비교하므로 대조예요."
@@ -383,36 +189,13 @@
         {
           "de": "Als ihre Tante stirbt, erbt sie deren Haus in einem kleinen Dorf an der Ostsee – jenem Dorf, das sie einst fluchtartig verlassen hat.",
           "ko": "이모가 세상을 떠나자 한나는 발트해 연안의 작은 마을에 있는 이모의 집을 물려받습니다. 한때 도망치듯 떠나온 바로 그 마을입니다.",
-          "mark": [
-            "stirbt",
-            "erbt",
-            "verlassen hat"
-          ]
+          "mark": ["stirbt", "erbt", "verlassen hat"]
         },
         {
           "de": "Doch aus den geplanten zwei Wochen werden Monate.",
           "ko": "하지만 계획했던 2주는 몇 달이 됩니다.",
-          "mark": [
-            "werden"
-          ],
-          "parts": [
-            [
-              "Doch",
-              "접속사"
-            ],
-            [
-              "aus den geplanten zwei Wochen",
-              "전치사 목적어"
-            ],
-            [
-              "werden",
-              "동사"
-            ],
-            [
-              "Monate.",
-              "주어"
-            ]
-          ]
+          "mark": ["werden"],
+          "parts": [["Doch", "접속사"], ["aus den geplanten zwei Wochen", "전치사 목적어"], ["werden", "동사"], ["Monate.", "주어"]]
         }
       ],
       "tip": "줄거리 요약 안의 als는 현재형과 함께 써도 돼요(Als ihre Tante stirbt, …). 일회적 사건을 말하는 als는 시제와 상관없이 쓸 수 있어요."
@@ -426,88 +209,31 @@
         {
           "de": "Als ihre Tante stirbt, erbt sie deren Haus in einem kleinen Dorf an der Ostsee – jenem Dorf, das sie einst fluchtartig verlassen hat.",
           "ko": "이모가 세상을 떠나자 한나는 발트해 연안의 작은 마을에 있는 이모의 집을 물려받습니다. 한때 도망치듯 떠나온 바로 그 마을입니다.",
-          "mark": [
-            "deren Haus",
-            "jenem Dorf"
-          ]
+          "mark": ["deren Haus", "jenem Dorf"]
         }
       ],
       "tip": "deren은 관계대명사뿐 아니라 지시대명사로도 쓰여요. 이 문장에서는 선행사 Tante를 받아 '그 이모의'라는 뜻으로 쓰인 지시 용법이에요. 남성·중성 단수 2격은 dessen이에요."
     }
   ],
   "vocab": [
-    {
-      "de": "nach|wirken",
-      "ko": "여운이 남다, 영향이 계속되다"
-    },
-    {
-      "de": "die Übersetzerin, -nen",
-      "ko": "번역가(여성)"
-    },
-    {
-      "de": "erben",
-      "ko": "상속받다, 물려받다"
-    },
-    {
-      "de": "fluchtartig",
-      "ko": "도망치듯, 황급히"
-    },
-    {
-      "de": "aus|räumen",
-      "ko": "(집을) 비우다, 물건을 치우다"
-    },
-    {
-      "de": "kramen in + Dat.",
-      "ko": "~을 뒤지다, 뒤적이다"
-    },
-    {
-      "de": "etwas offen|lassen (lässt offen, ließ offen, hat offengelassen)",
-      "ko": "(결정·결말을) 열어 두다, 미결로 남기다"
-    },
-    {
-      "de": "knapp",
-      "ko": "간결한, 짧은"
-    },
-    {
-      "de": "präzise",
-      "ko": "정확한, 정밀한"
-    },
-    {
-      "de": "verrostet",
-      "ko": "녹슨"
-    },
-    {
-      "de": "die Dachrinne, -n",
-      "ko": "(지붕의) 빗물받이"
-    },
-    {
-      "de": "der Durchhänger, -",
-      "ko": "처지는 구간, 침체기"
-    },
-    {
-      "de": "sich ziehen (zieht sich, zog sich, hat sich gezogen)",
-      "ko": "(지루하게) 늘어지다, 길게 끌다"
-    },
-    {
-      "de": "der Stillstand (Sg.)",
-      "ko": "정지, 멈춤"
-    },
-    {
-      "de": "blass",
-      "ko": "희미한, 인상이 약한; 창백한"
-    },
-    {
-      "de": "das Lektorat, -e",
-      "ko": "(출판사의) 원고 편집, 편집부"
-    },
-    {
-      "de": "sich verdichten",
-      "ko": "응축되다, 짙어지다"
-    },
-    {
-      "de": "an|deuten",
-      "ko": "암시하다"
-    }
+    { "de": "nach|wirken", "ko": "여운이 남다, 영향이 계속되다" },
+    { "de": "die Übersetzerin, -nen", "ko": "번역가(여성)" },
+    { "de": "erben", "ko": "상속받다, 물려받다" },
+    { "de": "fluchtartig", "ko": "도망치듯, 황급히" },
+    { "de": "aus|räumen", "ko": "(집을) 비우다, 물건을 치우다" },
+    { "de": "kramen in + Dat.", "ko": "~을 뒤지다, 뒤적이다" },
+    { "de": "etwas offen|lassen (lässt offen, ließ offen, hat offengelassen)", "ko": "(결정·결말을) 열어 두다, 미결로 남기다" },
+    { "de": "knapp", "ko": "간결한, 짧은" },
+    { "de": "präzise", "ko": "정확한, 정밀한" },
+    { "de": "verrostet", "ko": "녹슨" },
+    { "de": "die Dachrinne, -n", "ko": "(지붕의) 빗물받이" },
+    { "de": "der Durchhänger, -", "ko": "처지는 구간, 침체기" },
+    { "de": "sich ziehen (zieht sich, zog sich, hat sich gezogen)", "ko": "(지루하게) 늘어지다, 길게 끌다" },
+    { "de": "der Stillstand (Sg.)", "ko": "정지, 멈춤" },
+    { "de": "blass", "ko": "희미한, 인상이 약한; 창백한" },
+    { "de": "das Lektorat, -e", "ko": "(출판사의) 원고 편집, 편집부" },
+    { "de": "sich verdichten", "ko": "응축되다, 짙어지다" },
+    { "de": "an|deuten", "ko": "암시하다" }
   ],
   "phrases": [
     {

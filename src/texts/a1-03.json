@@ -7,11 +7,7 @@
   "type": "Gruppenchat",
   "typeKo": "단체 채팅",
   "intro": "톰, 아일린, 벤이 단체 채팅으로 토요일 계획을 세우는 대화예요.",
-  "focus": [
-    "화법조동사와 틀 구조",
-    "시간 표현 (halb, Viertel nach)",
-    "의문사 의문문"
-  ],
+  "focus": ["화법조동사와 틀 구조", "시간 표현 (halb, Viertel nach)", "의문사 의문문"],
   "paragraphs": [
     {
       "label": "Tom · 09:02",
@@ -81,35 +77,17 @@
       "q": "Aylin hat am Samstag vor 13 Uhr keine Zeit.",
       "answer": 0,
       "evidence": "am Samstag muss ich vormittags arbeiten",
-      "pairs": [
-        [
-          "muss ich vormittags arbeiten",
-          "vor 13 Uhr keine Zeit"
-        ],
-        [
-          "Ab 13 Uhr habe ich Zeit",
-          "vor 13 Uhr keine Zeit"
-        ]
-      ],
+      "pairs": [["muss ich vormittags arbeiten", "vor 13 Uhr keine Zeit"], ["Ab 13 Uhr habe ich Zeit", "vor 13 Uhr keine Zeit"]],
       "explain": "아일린은 토요일 오전에 일해야 하고, 13시부터 시간이 있다고 해요. 'vormittags arbeiten(오전에 일하다)'을 'vor 13 Uhr keine Zeit haben(13시 전에는 시간이 없다)'으로 바꿔 말했어요. 맞는 내용이에요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Warum gehen die drei nicht schwimmen?",
-      "options": [
-        "Aylin muss den ganzen Tag arbeiten.",
-        "Das Wetter ist am Samstag schlecht.",
-        "Das Freibad ist am Samstag geschlossen."
-      ],
+      "options": ["Aylin muss den ganzen Tag arbeiten.", "Das Wetter ist am Samstag schlecht.", "Das Freibad ist am Samstag geschlossen."],
       "answer": 1,
       "evidence": "Am Samstag regnet es den ganzen Tag.",
-      "pairs": [
-        [
-          "regnet es",
-          "Das Wetter ist am Samstag schlecht"
-        ]
-      ],
+      "pairs": [["regnet es", "Das Wetter ist am Samstag schlecht"]],
       "explain": "벤은 토요일에 하루 종일 비가 온다고 해요. 비가 오는 것을 '날씨가 나쁘다'로 바꿔 말했어요. 'den ganzen Tag'은 본문에 있지만 아일린이 일하는 시간이 아니라 비가 오는 시간이에요."
     },
     {
@@ -118,62 +96,27 @@
       "q": "Man kann den Film am Samstag nur einmal sehen.",
       "answer": 1,
       "evidence": "Um halb sechs und um Viertel nach acht.",
-      "pairs": [
-        [
-          "Um halb sechs und um Viertel nach acht",
-          "nur einmal"
-        ]
-      ],
+      "pairs": [["Um halb sechs und um Viertel nach acht", "nur einmal"]],
       "explain": "'Wann beginnt der Film?'이라는 질문에 벤은 시작 시간을 두 개 말해요. 5시 반과 8시 15분이에요. 그러니까 영화는 두 번 상영되고, '한 번만(nur einmal)' 볼 수 있다는 말은 틀린 내용이에요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Wann treffen sich die drei am Samstag?",
-      "options": [
-        "um 16.15 Uhr",
-        "um 17.30 Uhr",
-        "um 20.15 Uhr"
-      ],
+      "options": ["um 16.15 Uhr", "um 17.30 Uhr", "um 20.15 Uhr"],
       "answer": 0,
       "evidence": "Um Viertel nach vier?",
-      "pairs": [
-        [
-          "Um Viertel nach vier?",
-          "um 16.15 Uhr"
-        ],
-        [
-          "halb sechs",
-          "17.30 Uhr"
-        ]
-      ],
+      "pairs": [["Um Viertel nach vier?", "um 16.15 Uhr"], ["halb sechs", "17.30 Uhr"]],
       "explain": "벤이 'Viertel nach vier(4시 15분)'에 만나자고 하고, 아일린이 'Perfekt.'라고 동의해요. 4시 15분은 16.15 Uhr예요. 17.30 Uhr(halb sechs)는 영화가 시작하는 시간이고, 20.15 Uhr(Viertel nach acht)는 두 번째 상영 시간이에요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was macht Ben für die Gruppe?",
-      "options": [
-        "Er schenkt allen Freunden Kinokarten.",
-        "Er bringt Schokolade für alle mit.",
-        "Er bestellt die Tickets im Internet."
-      ],
+      "options": ["Er schenkt allen Freunden Kinokarten.", "Er bringt Schokolade für alle mit.", "Er bestellt die Tickets im Internet."],
       "answer": 2,
       "evidence": "Ich kann das online machen.",
-      "pairs": [
-        [
-          "kauft die Kinokarten",
-          "bestellt die Tickets"
-        ],
-        [
-          "online",
-          "im Internet"
-        ],
-        [
-          "Das Geld gebt ihr mir dann",
-          "schenkt allen Freunden Kinokarten"
-        ]
-      ],
+      "pairs": [["kauft die Kinokarten", "bestellt die Tickets"], ["online", "im Internet"], ["Das Geld gebt ihr mir dann", "schenkt allen Freunden Kinokarten"]],
       "explain": "아일린이 '누가 영화표를 사요?'라고 묻자 벤이 '제가 온라인으로 할 수 있어요.'라고 대답해요. Kinokarten을 Tickets로, online을 'im Internet'으로 바꿔 말했어요. 벤이 표를 사기는 하지만 돈은 토요일에 친구들에게서 받으니까 표를 선물하는 것은 아니에요. 초콜릿을 가져오는 사람은 톰이에요."
     },
     {
@@ -182,12 +125,7 @@
       "q": "Die Freunde essen nach dem Kino Pizza.",
       "answer": 1,
       "evidence": "Dann können wir vorher noch Pizza essen.",
-      "pairs": [
-        [
-          "vorher",
-          "nach dem Kino"
-        ]
-      ],
+      "pairs": [["vorher", "nach dem Kino"]],
       "explain": "아일린은 영화 '전에(vorher)' 피자를 먹자고 해요. 문제는 영화관에 다녀온 '후에(nach dem Kino)' 먹는다고 했으니 순서가 반대예요."
     }
   ],
@@ -201,66 +139,14 @@
         {
           "de": "Ich will endlich wieder schwimmen gehen.",
           "ko": "저는 드디어 다시 수영하러 가고 싶어요.",
-          "mark": [
-            "will",
-            "schwimmen gehen"
-          ],
-          "parts": [
-            [
-              "Ich",
-              "주어"
-            ],
-            [
-              "will",
-              "동사"
-            ],
-            [
-              "endlich wieder",
-              "부사어"
-            ],
-            [
-              "schwimmen gehen.",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["will", "schwimmen gehen"],
+          "parts": [["Ich", "주어"], ["will", "동사"], ["endlich wieder", "부사어"], ["schwimmen gehen.", "동사(끝)"]]
         },
         {
           "de": "Dann können wir vorher noch Pizza essen.",
           "ko": "그러면 그 전에 피자를 먹을 수 있어요.",
-          "mark": [
-            "können",
-            "essen"
-          ],
-          "parts": [
-            [
-              "Dann",
-              "부사어"
-            ],
-            [
-              "können",
-              "동사"
-            ],
-            [
-              "wir",
-              "주어"
-            ],
-            [
-              "vorher",
-              "부사어(시간)"
-            ],
-            [
-              "noch",
-              "부사어"
-            ],
-            [
-              "Pizza",
-              "4격 목적어"
-            ],
-            [
-              "essen.",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["können", "essen"],
+          "parts": [["Dann", "부사어"], ["können", "동사"], ["wir", "주어"], ["vorher", "부사어(시간)"], ["noch", "부사어"], ["Pizza", "4격 목적어"], ["essen.", "동사(끝)"]]
         }
       ],
       "tip": "가는 곳이 분명하면 동사원형 없이 말하기도 해요: Ich möchte lieber ins Kino. (= ins Kino gehen)"
@@ -274,49 +160,14 @@
         {
           "de": "Um halb sechs und um Viertel nach acht.",
           "ko": "5시 반하고 8시 15분이요.",
-          "mark": [
-            "halb sechs",
-            "Viertel nach acht"
-          ],
-          "parts": [
-            [
-              "Um halb sechs",
-              "부사어(시간)"
-            ],
-            [
-              "und",
-              "접속사"
-            ],
-            [
-              "um Viertel nach acht.",
-              "부사어(시간)"
-            ]
-          ]
+          "mark": ["halb sechs", "Viertel nach acht"],
+          "parts": [["Um halb sechs", "부사어(시간)"], ["und", "접속사"], ["um Viertel nach acht.", "부사어(시간)"]]
         },
         {
           "de": "Ab 13 Uhr habe ich Zeit.",
           "ko": "오후 1시부터는 시간이 있어요.",
-          "mark": [
-            "Ab 13 Uhr"
-          ],
-          "parts": [
-            [
-              "Ab 13 Uhr",
-              "부사어(시간)"
-            ],
-            [
-              "habe",
-              "동사"
-            ],
-            [
-              "ich",
-              "주어"
-            ],
-            [
-              "Zeit.",
-              "4격 목적어"
-            ]
-          ]
+          "mark": ["Ab 13 Uhr"],
+          "parts": [["Ab 13 Uhr", "부사어(시간)"], ["habe", "동사"], ["ich", "주어"], ["Zeit.", "4격 목적어"]]
         }
       ],
       "tip": "halb sechs는 6시 반이 아니라 5시 반이에요. 한국어는 지난 시각(5시)을 기준으로 '5시 반'이라고 하지만, 독일어 halb는 다가오는 시각(6시)을 기준으로 말해요. 그래서 가장 많이 틀리는 표현이에요."
@@ -330,130 +181,38 @@
         {
           "de": "Was machen wir am Samstag?",
           "ko": "토요일에 우리 뭐 할까요?",
-          "mark": [
-            "Was",
-            "machen"
-          ],
-          "parts": [
-            [
-              "Was",
-              "의문사"
-            ],
-            [
-              "machen",
-              "동사"
-            ],
-            [
-              "wir",
-              "주어"
-            ],
-            [
-              "am Samstag?",
-              "부사어(시간)"
-            ]
-          ]
+          "mark": ["Was", "machen"],
+          "parts": [["Was", "의문사"], ["machen", "동사"], ["wir", "주어"], ["am Samstag?", "부사어(시간)"]]
         },
         {
           "de": "Wo treffen wir uns?",
           "ko": "어디서 만나요?",
-          "mark": [
-            "Wo",
-            "treffen"
-          ],
-          "parts": [
-            [
-              "Wo",
-              "의문사"
-            ],
-            [
-              "treffen",
-              "동사"
-            ],
-            [
-              "wir",
-              "주어"
-            ],
-            [
-              "uns?",
-              "재귀대명사"
-            ]
-          ]
+          "mark": ["Wo", "treffen"],
+          "parts": [["Wo", "의문사"], ["treffen", "동사"], ["wir", "주어"], ["uns?", "재귀대명사"]]
         },
         {
           "de": "Wer kauft die Kinokarten?",
           "ko": "영화표는 누가 사요?",
-          "mark": [
-            "Wer",
-            "kauft"
-          ],
-          "parts": [
-            [
-              "Wer",
-              "의문사"
-            ],
-            [
-              "kauft",
-              "동사"
-            ],
-            [
-              "die Kinokarten?",
-              "4격 목적어"
-            ]
-          ]
+          "mark": ["Wer", "kauft"],
+          "parts": [["Wer", "의문사"], ["kauft", "동사"], ["die Kinokarten?", "4격 목적어"]]
         }
       ],
       "tip": "wer는 사람을, was는 사물이나 하는 일을 물어요. 'Wer kommt mit?'에는 사람 이름으로, 'Was machen wir?'에는 하는 일로 대답해요."
     }
   ],
   "vocab": [
-    {
-      "de": "das Freibad, -¨er",
-      "ko": "야외 수영장"
-    },
-    {
-      "de": "regnen",
-      "ko": "비가 오다 (es regnet)"
-    },
-    {
-      "de": "das Kino, -s",
-      "ko": "영화관"
-    },
-    {
-      "de": "der Film, -e",
-      "ko": "영화"
-    },
-    {
-      "de": "beginnen (beginnt, begann, hat begonnen)",
-      "ko": "시작하다"
-    },
-    {
-      "de": "vorher",
-      "ko": "그 전에, 먼저"
-    },
-    {
-      "de": "lieber",
-      "ko": "차라리, 더 (하고 싶은)"
-    },
-    {
-      "de": "die Kinokarte, -n",
-      "ko": "영화표"
-    },
-    {
-      "de": "das Geld (Sg.)",
-      "ko": "돈"
-    },
-    {
-      "de": "mit|bringen (bringt mit, brachte mit, hat mitgebracht)",
-      "ko": "가져오다, 가져가다"
-    },
-    {
-      "de": "genug",
-      "ko": "충분한, 충분히"
-    },
-    {
-      "de": "vormittags",
-      "ko": "오전에"
-    }
+    { "de": "das Freibad, -¨er", "ko": "야외 수영장" },
+    { "de": "regnen", "ko": "비가 오다 (es regnet)" },
+    { "de": "das Kino, -s", "ko": "영화관" },
+    { "de": "der Film, -e", "ko": "영화" },
+    { "de": "beginnen (beginnt, begann, hat begonnen)", "ko": "시작하다" },
+    { "de": "vorher", "ko": "그 전에, 먼저" },
+    { "de": "lieber", "ko": "차라리, 더 (하고 싶은)" },
+    { "de": "die Kinokarte, -n", "ko": "영화표" },
+    { "de": "das Geld (Sg.)", "ko": "돈" },
+    { "de": "mit|bringen (bringt mit, brachte mit, hat mitgebracht)", "ko": "가져오다, 가져가다" },
+    { "de": "genug", "ko": "충분한, 충분히" },
+    { "de": "vormittags", "ko": "오전에" }
   ],
   "phrases": [
     {

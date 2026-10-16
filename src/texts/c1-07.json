@@ -7,12 +7,7 @@
   "type": "Interview",
   "typeKo": "언어학자 인터뷰",
   "intro": "청소년 언어와 영어 외래어, 언어 변화에 대한 언어학자의 인터뷰예요.",
-  "focus": [
-    "간접화법 표지와 접속법 1식",
-    "영어 외래 동사의 변화형",
-    "구어의 화법 불변화사",
-    "als + 접속법 2식"
-  ],
+  "focus": ["간접화법 표지와 접속법 1식", "영어 외래 동사의 변화형", "구어의 화법 불변화사", "als + 접속법 2식"],
   "paragraphs": [
     {
       "de": "Kaum ein Thema erregt die Gemüter so zuverlässig wie der angebliche Verfall der deutschen Sprache. Ruth Lehnert, Professorin für Germanistische Linguistik an einer süddeutschen Universität, hält von solchen Klagen wenig. Sprache verfalle nicht, sagt sie, sie verändere sich – und das sei schon immer so gewesen. Anglizismen würden vom Sprachsystem rasch eingemeindet, Jugendsprache sei kein Zeichen von Verrohung, sondern von Kreativität. Nach Ansicht der Linguistin verrät die Angst vor dem Sprachverfall mehr über die Klagenden als über den Zustand des Deutschen. Lehnert zufolge hat die Schule dennoch eine wichtige Aufgabe – nur eine andere, als viele annehmen. Wie sie im Gespräch betont, geht es ihr nicht darum, Regeln abzuschaffen, sondern darum, Sprache zu verstehen.",
@@ -78,20 +73,10 @@
       "type": "mc",
       "kind": "meaning",
       "q": "Was bedeutet „eingemeindet“ im Satz „Anglizismen würden vom Sprachsystem rasch eingemeindet“?",
-      "options": [
-        "von einer Behörde offiziell zugelassen",
-        "als fremd gekennzeichnet und abgegrenzt",
-        "fest in die deutsche Sprache aufgenommen",
-        "aus dem allgemeinen Gebrauch verdrängt"
-      ],
+      "options": ["von einer Behörde offiziell zugelassen", "als fremd gekennzeichnet und abgegrenzt", "fest in die deutsche Sprache aufgenommen", "aus dem allgemeinen Gebrauch verdrängt"],
       "answer": 2,
       "evidence": "Anglizismen würden vom Sprachsystem rasch eingemeindet",
-      "pairs": [
-        [
-          "eingemeindet",
-          "fest in die deutsche Sprache aufgenommen"
-        ]
-      ],
+      "pairs": [["eingemeindet", "fest in die deutsche Sprache aufgenommen"]],
       "explain": "eingemeinden은 원래 마을을 큰 도시에 편입시킨다는 뜻이에요. 여기서는 비유적으로 영어 외래어가 독일어 체계 안으로 받아들여진다는 뜻으로 쓰였어요. 뒤에서 교수가 설명하는 '자기 체계에 맞을 때까지 고쳐 만든다'는 내용과 이어져요."
     },
     {
@@ -100,76 +85,37 @@
       "q": "Lehnert betrachtet Jugendsprache als Ausdruck sprachlichen Einfallsreichtums.",
       "answer": 0,
       "evidence": "Jugendsprache sei kein Zeichen von Verrohung, sondern von Kreativität",
-      "pairs": [
-        [
-          "kein Zeichen von Verrohung, sondern von Kreativität",
-          "Ausdruck sprachlichen Einfallsreichtums"
-        ]
-      ],
+      "pairs": [["kein Zeichen von Verrohung, sondern von Kreativität", "Ausdruck sprachlichen Einfallsreichtums"]],
       "explain": "본문 도입부에서 청소년 언어는 거칠어짐이 아니라 창의성(Kreativität)의 징표라고 했어요. 문제에서는 Kreativität를 Einfallsreichtum(기발함, 아이디어가 풍부함)으로, Zeichen을 Ausdruck으로 바꿔 표현했어요."
     },
     {
       "type": "mc",
       "kind": "intent",
       "q": "Warum erwähnt Lehnert die Klagen von vor gut zweihundert Jahren?",
-      "options": [
-        "Sie will belegen, dass französische Wörter dem Deutschen mehr geschadet haben als englische.",
-        "Sie will daran erinnern, dass Sprachpfleger früher erfolgreicher waren als heute.",
-        "Sie will zeigen, dass sich das Deutsche seit zweihundert Jahren kaum verändert hat.",
-        "Sie will deutlich machen, dass die heutige Sorge einem alten, wiederkehrenden Muster folgt."
-      ],
+      "options": ["Sie will belegen, dass französische Wörter dem Deutschen mehr geschadet haben als englische.", "Sie will daran erinnern, dass Sprachpfleger früher erfolgreicher waren als heute.", "Sie will zeigen, dass sich das Deutsche seit zweihundert Jahren kaum verändert hat.", "Sie will deutlich machen, dass die heutige Sorge einem alten, wiederkehrenden Muster folgt."],
       "answer": 3,
       "evidence": "Dieses Gefühl ist ja nicht neu.",
-      "pairs": [
-        [
-          "ist ja nicht neu",
-          "einem alten, wiederkehrenden Muster folgt"
-        ]
-      ],
+      "pairs": [["ist ja nicht neu", "einem alten, wiederkehrenden Muster folgt"]],
       "explain": "교수는 '이 느낌은 새롭지 않다'고 말한 뒤 200여 년 전의 한탄을 예로 들어요. 오늘날의 걱정이 늘 반복되어 온 양상이라는 점을 보여 주려는 거예요. 프랑스어가 더 해로웠다거나 과거의 언어 순화가 성공했다는 평가는 본문에 없어요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Woran erkennt Lehnert, dass Jugendliche die deutsche Sprache gut beherrschen?",
-      "options": [
-        "daran, dass sie Wörter wie „cool“ inzwischen im Alltag selbstverständlich verwenden",
-        "daran, dass sie ihre Ausdrucksweise dem jeweiligen Gegenüber und Anlass anpassen",
-        "daran, dass sie ständig neue Ausdrücke erfinden, die nach Jahren wieder verschwinden",
-        "daran, dass sie englische Wörter mit deutschen Endungen versehen und konjugieren"
-      ],
+      "options": ["daran, dass sie Wörter wie „cool“ inzwischen im Alltag selbstverständlich verwenden", "daran, dass sie ihre Ausdrucksweise dem jeweiligen Gegenüber und Anlass anpassen", "daran, dass sie ständig neue Ausdrücke erfinden, die nach Jahren wieder verschwinden", "daran, dass sie englische Wörter mit deutschen Endungen versehen und konjugieren"],
       "answer": 1,
       "evidence": "Jugendliche sprechen untereinander anders als mit Lehrern oder Großeltern, und genau das zeigt, dass sie die Sprache beherrschen.",
-      "pairs": [
-        [
-          "sprechen untereinander anders als mit Lehrern oder Großeltern",
-          "ihre Ausdrucksweise dem jeweiligen Gegenüber und Anlass anpassen"
-        ]
-      ],
+      "pairs": [["sprechen untereinander anders als mit Lehrern oder Großeltern", "ihre Ausdrucksweise dem jeweiligen Gegenüber und Anlass anpassen"]],
       "explain": "청소년들이 또래끼리 말할 때와 교사나 조부모와 말할 때 다르게 말한다는 것을 '상대와 상황에 맞게 표현 방식을 조절한다'로 바꿔 표현했어요. 'cool'과 사라지는 표현은 다른 맥락에서 나온 말이고, 독일어 어미는 외래어 이야기예요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was geschieht laut Lehnert mit englischen Verben, die ins Deutsche übernommen werden?",
-      "options": [
-        "Sie werden den Regeln der deutschen Grammatik angepasst und wie einheimische Verben gebeugt.",
-        "Sie behalten ihre englische Form, bis sich eine verbindliche Schreibung durchgesetzt hat.",
-        "Sie verdrängen nach einer Übergangszeit gleichbedeutende deutsche Verben wie „herunterladen“.",
-        "Sie werden immer zu trennbaren Verben, weil das Deutsche sie sonst nicht beugen kann."
-      ],
+      "options": ["Sie werden den Regeln der deutschen Grammatik angepasst und wie einheimische Verben gebeugt.", "Sie behalten ihre englische Form, bis sich eine verbindliche Schreibung durchgesetzt hat.", "Sie verdrängen nach einer Übergangszeit gleichbedeutende deutsche Verben wie „herunterladen“.", "Sie werden immer zu trennbaren Verben, weil das Deutsche sie sonst nicht beugen kann."],
       "answer": 0,
       "evidence": "Sie bekommen deutsche Endungen, sie werden konjugiert, sie bilden Partizipien.",
-      "pairs": [
-        [
-          "werden konjugiert",
-          "gebeugt"
-        ],
-        [
-          "bekommen deutsche Endungen",
-          "den Regeln der deutschen Grammatik angepasst"
-        ]
-      ],
+      "pairs": [["werden konjugiert", "gebeugt"], ["bekommen deutsche Endungen", "den Regeln der deutschen Grammatik angepasst"]],
       "explain": "영어 동사가 독일어 어미를 받고 인칭변화를 하며 분사를 만든다는 말을 '독일어 문법 규칙에 따라 변화한다'로 바꿔 표현했어요. 철자의 흔들림, herunterladen, 분리동사는 모두 본문에 나오지만 다른 맥락에서 쓰였어요."
     },
     {
@@ -178,60 +124,27 @@
       "q": "Lehnert zufolge ist „downgeloadet“ vor allem bei Jugendlichen verbreitet.",
       "answer": 2,
       "evidence": null,
-      "pairs": [
-        [
-          "man hört aber ebenso oft „downgeloadet“",
-          "vor allem bei Jugendlichen verbreitet"
-        ]
-      ],
+      "pairs": [["man hört aber ebenso oft „downgeloadet“", "vor allem bei Jugendlichen verbreitet"]],
       "explain": "본문은 'downgeloadet'이 'gedownloadet'만큼 자주 들린다고만 해요. 누가 주로 그렇게 말하는지, 특히 청소년이 그런지는 말하지 않아요. 청소년 언어가 인터뷰의 주제라고 해서 그렇게 넘겨짚으면 안 돼요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Der Genitiv wird seit Jahrhunderten totgesagt und ist trotzdem noch da.“?",
-      "options": [
-        "Der Genitiv ist vor Jahrzehnten ausgestorben und kommt heute nur noch in alten Texten vor.",
-        "Der Genitiv wird seit Jahrhunderten nur noch in der geschriebenen Sprache verwendet.",
-        "Obwohl man sein Verschwinden immer wieder vorhergesagt hat, existiert der Genitiv weiterhin.",
-        "Man sollte den Genitiv endgültig für tot erklären, weil er kaum noch gebraucht wird."
-      ],
+      "options": ["Der Genitiv ist vor Jahrzehnten ausgestorben und kommt heute nur noch in alten Texten vor.", "Der Genitiv wird seit Jahrhunderten nur noch in der geschriebenen Sprache verwendet.", "Obwohl man sein Verschwinden immer wieder vorhergesagt hat, existiert der Genitiv weiterhin.", "Man sollte den Genitiv endgültig für tot erklären, weil er kaum noch gebraucht wird."],
       "answer": 2,
       "evidence": "Der Genitiv wird seit Jahrhunderten totgesagt und ist trotzdem noch da.",
-      "pairs": [
-        [
-          "totgesagt",
-          "sein Verschwinden immer wieder vorhergesagt"
-        ],
-        [
-          "ist trotzdem noch da",
-          "existiert der Genitiv weiterhin"
-        ]
-      ],
+      "pairs": [["totgesagt", "sein Verschwinden immer wieder vorhergesagt"], ["ist trotzdem noch da", "existiert der Genitiv weiterhin"]],
       "explain": "totsagen은 '죽었다고 말하다, 끝났다고 선언하다'라는 뜻이에요. 수백 년 동안 2격이 사라진다고 예언되었지만 여전히 존재한다는 말이에요. 2격이 실제로 사라졌다거나 사라져야 한다는 뜻이 아니에요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was kritisiert Lehnert mit dem Satz „Sie tut so, als gäbe es einen idealen Zustand der Sprache, meist ungefähr den aus der eigenen Schulzeit, von dem jede Abweichung ein Fehler wäre.“?",
-      "options": [
-        "dass die Schule einen idealen Sprachzustand lehrt, der von der Wirklichkeit abweicht",
-        "dass Abweichungen von der Schulgrammatik heute zu Unrecht nicht mehr als Fehler gelten",
-        "dass Jugendliche die Regeln der Schulgrammatik absichtlich missachten, um zu provozieren",
-        "dass Kritiker die Sprache ihrer Jugend zum Maßstab machen, obwohl sie nie vollkommen war"
-      ],
+      "options": ["dass die Schule einen idealen Sprachzustand lehrt, der von der Wirklichkeit abweicht", "dass Abweichungen von der Schulgrammatik heute zu Unrecht nicht mehr als Fehler gelten", "dass Jugendliche die Regeln der Schulgrammatik absichtlich missachten, um zu provozieren", "dass Kritiker die Sprache ihrer Jugend zum Maßstab machen, obwohl sie nie vollkommen war"],
       "answer": 3,
       "evidence": "Den gab es aber nie.",
-      "pairs": [
-        [
-          "den aus der eigenen Schulzeit",
-          "die Sprache ihrer Jugend zum Maßstab machen"
-        ],
-        [
-          "einen idealen Zustand der Sprache",
-          "nie vollkommen war"
-        ]
-      ],
+      "pairs": [["den aus der eigenen Schulzeit", "die Sprache ihrer Jugend zum Maßstab machen"], ["einen idealen Zustand der Sprache", "nie vollkommen war"]],
       "explain": "'Sie'는 상실을 말하는 수사(Verlustrhetorik)를 가리켜요. 그 수사는 자기 학창 시절의 언어를 이상적 상태로 여기고 거기서 벗어나면 오류로 본다는 비판이에요. 바로 다음 문장에서 그런 이상적 상태는 결코 없었다고 못 박아요."
     },
     {
@@ -240,36 +153,17 @@
       "q": "Lehnert zufolge nimmt man den Wandel der eigenen Sprache ebenso deutlich wahr wie den der Jüngeren.",
       "answer": 1,
       "evidence": "Niemand hört, wie sich die eigene Sprache in dreißig Jahren verschoben hat, aber jeder hört das „voll krass“ des Nachbarsjungen.",
-      "pairs": [
-        [
-          "Niemand hört, wie sich die eigene Sprache in dreißig Jahren verschoben hat",
-          "nimmt man den Wandel der eigenen Sprache ebenso deutlich wahr"
-        ]
-      ],
+      "pairs": [["Niemand hört, wie sich die eigene Sprache in dreißig Jahren verschoben hat", "nimmt man den Wandel der eigenen Sprache ebenso deutlich wahr"]],
       "explain": "본문은 자기 언어가 달라진 것은 아무도 듣지 못하지만 이웃집 아이의 말은 누구나 듣는다고 해요. 언어 변화는 남에게서만 알아차린다는 뜻이므로, 자기 언어의 변화도 똑같이 뚜렷하게 느낀다는 진술은 본문과 반대예요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Welche Aufgabe schreibt Lehnert der Schule zu?",
-      "options": [
-        "Sie soll die Standardsprache gegen den Einfluss von Jugendsprache und Anglizismen verteidigen.",
-        "Sie soll Jugendliche befähigen, sich in möglichst vielen Situationen angemessen auszudrücken.",
-        "Sie soll Jugendsprache auf dem Schulhof verbieten, damit mehr Zeit für Grammatik bleibt.",
-        "Sie soll statt Diktaten vor allem die Sprache der Behörden und der Bewerbung unterrichten."
-      ],
+      "options": ["Sie soll die Standardsprache gegen den Einfluss von Jugendsprache und Anglizismen verteidigen.", "Sie soll Jugendliche befähigen, sich in möglichst vielen Situationen angemessen auszudrücken.", "Sie soll Jugendsprache auf dem Schulhof verbieten, damit mehr Zeit für Grammatik bleibt.", "Sie soll statt Diktaten vor allem die Sprache der Behörden und der Bewerbung unterrichten."],
       "answer": 1,
       "evidence": "sondern Jugendlichen den Zugang zu allen Registern eröffnen",
-      "pairs": [
-        [
-          "den Zugang zu allen Registern eröffnen",
-          "sich in möglichst vielen Situationen angemessen auszudrücken"
-        ],
-        [
-          "keine angeblich reine Sprache verteidigen",
-          "die Standardsprache gegen den Einfluss von Jugendsprache und Anglizismen verteidigen"
-        ]
-      ],
+      "pairs": [["den Zugang zu allen Registern eröffnen", "sich in möglichst vielen Situationen angemessen auszudrücken"], ["keine angeblich reine Sprache verteidigen", "die Standardsprache gegen den Einfluss von Jugendsprache und Anglizismen verteidigen"]],
       "explain": "'모든 사용역으로 가는 길을 열어 준다'는 말은 다양한 상황에서 알맞게 말하고 쓸 수 있게 한다는 뜻이에요. 순수한 언어를 지키는 것은 교수가 명시적으로 부정한 역할이고, 운동장의 청소년 언어는 문제가 아니라고 했어요."
     }
   ],
@@ -283,105 +177,19 @@
         {
           "de": "Sprache verfalle nicht, sagt sie, sie verändere sich – und das sei schon immer so gewesen.",
           "ko": "언어는 쇠퇴하는 것이 아니라 변하는 것이며, 이는 예전부터 늘 그래 왔다고 그녀는 말합니다.",
-          "mark": [
-            "verfalle",
-            "verändere",
-            "sei",
-            "gewesen"
-          ],
-          "parts": [
-            [
-              "Sprache",
-              "주어"
-            ],
-            [
-              "verfalle",
-              "동사"
-            ],
-            [
-              "nicht,",
-              "부정어"
-            ],
-            [
-              "sagt sie,",
-              "기타"
-            ],
-            [
-              "sie",
-              "주어"
-            ],
-            [
-              "verändere",
-              "동사"
-            ],
-            [
-              "sich",
-              "재귀대명사"
-            ],
-            [
-              "– und das",
-              "주어"
-            ],
-            [
-              "sei",
-              "동사"
-            ],
-            [
-              "schon immer",
-              "부사어(시간)"
-            ],
-            [
-              "so",
-              "부사어(방법)"
-            ],
-            [
-              "gewesen.",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["verfalle", "verändere", "sei", "gewesen"],
+          "parts": [["Sprache", "주어"], ["verfalle", "동사"], ["nicht,", "부정어"], ["sagt sie,", "기타"], ["sie", "주어"], ["verändere", "동사"], ["sich", "재귀대명사"], ["– und das", "주어"], ["sei", "동사"], ["schon immer", "부사어(시간)"], ["so", "부사어(방법)"], ["gewesen.", "동사(끝)"]]
         },
         {
           "de": "Anglizismen würden vom Sprachsystem rasch eingemeindet, Jugendsprache sei kein Zeichen von Verrohung, sondern von Kreativität.",
           "ko": "영어 외래어는 언어 체계에 빠르게 흡수되고, 청소년 언어는 거칠어짐의 징표가 아니라 창의성의 징표라는 것입니다.",
-          "mark": [
-            "würden",
-            "eingemeindet",
-            "sei"
-          ]
+          "mark": ["würden", "eingemeindet", "sei"]
         },
         {
           "de": "Lehnert zufolge hat die Schule dennoch eine wichtige Aufgabe – nur eine andere, als viele annehmen.",
           "ko": "레너트에 따르면 그럼에도 학교에는 중요한 과제가 있습니다. 다만 많은 사람이 생각하는 것과는 다른 과제입니다.",
-          "mark": [
-            "Lehnert zufolge",
-            "hat"
-          ],
-          "parts": [
-            [
-              "Lehnert zufolge",
-              "부사어"
-            ],
-            [
-              "hat",
-              "동사"
-            ],
-            [
-              "die Schule",
-              "주어"
-            ],
-            [
-              "dennoch",
-              "접속부사"
-            ],
-            [
-              "eine wichtige Aufgabe",
-              "4격 목적어"
-            ],
-            [
-              "– nur eine andere, als viele annehmen.",
-              "기타"
-            ]
-          ]
+          "mark": ["Lehnert zufolge", "hat"],
+          "parts": [["Lehnert zufolge", "부사어"], ["hat", "동사"], ["die Schule", "주어"], ["dennoch", "접속부사"], ["eine wichtige Aufgabe", "4격 목적어"], ["– nur eine andere, als viele annehmen.", "기타"]]
         }
       ],
       "tip": "복수 주어에서 접속법 1식 werden은 직설법과 같은 모양(werden)이므로 würden을 써요: Anglizismen würden eingemeindet. 단수라면 Der Anglizismus werde eingemeindet가 돼요."
@@ -395,21 +203,12 @@
         {
           "de": "Aus „to download“ wird „downloaden“; das Partizip heißt dann „gedownloadet“, man hört aber ebenso oft „downgeloadet“, als wäre es ein trennbares Verb wie „herunterladen“.",
           "ko": "'to download'는 'downloaden'이 되고, 과거분사는 'gedownloadet'이 되는데, 마치 'herunterladen' 같은 분리동사인 것처럼 'downgeloadet'이라고 하는 것도 그만큼 자주 들립니다.",
-          "mark": [
-            "downloaden",
-            "gedownloadet",
-            "downgeloadet"
-          ]
+          "mark": ["downloaden", "gedownloadet", "downgeloadet"]
         },
         {
           "de": "„Liken“ wird zu „gelikt“, „chillen“ zu „gechillt“, und wer etwas googelt, hat hinterher „gegoogelt“.",
           "ko": "'liken'은 'gelikt'가 되고 'chillen'은 'gechillt'가 되며, 무언가를 구글에서 검색한 사람은 나중에 'gegoogelt'라고 말합니다.",
-          "mark": [
-            "gelikt",
-            "gechillt",
-            "googelt",
-            "gegoogelt"
-          ]
+          "mark": ["gelikt", "gechillt", "googelt", "gegoogelt"]
         }
       ],
       "tip": "과거분사에 -ed를 붙이는 것은 영어식이에요. 독일어 문장에서는 ge- … -t가 원칙이에요: Ich habe das Video gelikt."
@@ -423,85 +222,20 @@
         {
           "de": "Dieses Gefühl ist ja nicht neu.",
           "ko": "그런 느낌은 사실 새로운 것이 아닙니다.",
-          "mark": [
-            "ja"
-          ],
-          "parts": [
-            [
-              "Dieses Gefühl",
-              "주어"
-            ],
-            [
-              "ist",
-              "동사"
-            ],
-            [
-              "ja",
-              "기타"
-            ],
-            [
-              "nicht",
-              "부정어"
-            ],
-            [
-              "neu.",
-              "보어"
-            ]
-          ]
+          "mark": ["ja"],
+          "parts": [["Dieses Gefühl", "주어"], ["ist", "동사"], ["ja", "기타"], ["nicht", "부정어"], ["neu.", "보어"]]
         },
         {
           "de": "Wer zwischen Registern wechseln kann, hat doch mehr Sprache, nicht weniger.",
           "ko": "사용역을 넘나들 수 있는 사람은 언어를 더 적게가 아니라 더 많이 가진 것입니다.",
-          "mark": [
-            "doch"
-          ],
-          "parts": [
-            [
-              "Wer zwischen Registern wechseln kann,",
-              "주어"
-            ],
-            [
-              "hat",
-              "동사"
-            ],
-            [
-              "doch",
-              "기타"
-            ],
-            [
-              "mehr Sprache,",
-              "4격 목적어"
-            ],
-            [
-              "nicht weniger.",
-              "기타"
-            ]
-          ]
+          "mark": ["doch"],
+          "parts": [["Wer zwischen Registern wechseln kann,", "주어"], ["hat", "동사"], ["doch", "기타"], ["mehr Sprache,", "4격 목적어"], ["nicht weniger.", "기타"]]
         },
         {
           "de": "Sprache ist nun mal ein Stück Identität.",
           "ko": "언어는 어쩔 수 없이 정체성의 일부입니다.",
-          "mark": [
-            "nun mal"
-          ],
-          "parts": [
-            [
-              "Sprache",
-              "주어"
-            ],
-            [
-              "ist",
-              "동사"
-            ],
-            [
-              "nun mal",
-              "기타"
-            ],
-            [
-              "ein Stück Identität.",
-              "보어"
-            ]
-          ]
+          "mark": ["nun mal"],
+          "parts": [["Sprache", "주어"], ["ist", "동사"], ["nun mal", "기타"], ["ein Stück Identität.", "보어"]]
         }
       ],
       "tip": "같은 단어가 화법 불변화사가 아닐 수도 있어요. 'Ja, das stimmt.'의 ja는 대답이고, 'Dieses Gefühl ist ja nicht neu.'의 ja는 불변화사예요. 불변화사는 문장 맨 앞에 올 수 없어요."
@@ -515,102 +249,38 @@
         {
           "de": "man hört aber ebenso oft „downgeloadet“, als wäre es ein trennbares Verb wie „herunterladen“.",
           "ko": "마치 'herunterladen' 같은 분리동사인 것처럼 'downgeloadet'이라고 하는 것도 그만큼 자주 들립니다.",
-          "mark": [
-            "als wäre es"
-          ]
+          "mark": ["als wäre es"]
         },
         {
           "de": "Sie tut so, als gäbe es einen idealen Zustand der Sprache, meist ungefähr den aus der eigenen Schulzeit, von dem jede Abweichung ein Fehler wäre.",
           "ko": "그런 수사는 마치 언어의 이상적인 상태가, 대개 자기 학창 시절의 언어쯤 되는 상태가 있고, 거기서 벗어나는 것은 모두 오류인 것처럼 굽니다.",
-          "mark": [
-            "tut so, als gäbe es"
-          ]
+          "mark": ["tut so, als gäbe es"]
         }
       ],
       "tip": "als ob를 쓰면 동사가 끝으로 가요: Sie tut so, als ob es einen idealen Zustand gäbe."
     }
   ],
   "vocab": [
-    {
-      "de": "der Verfall (Sg.)",
-      "ko": "쇠퇴, 몰락"
-    },
-    {
-      "de": "verfallen (verfällt, verfiel, ist verfallen)",
-      "ko": "쇠퇴하다, 무너지다"
-    },
-    {
-      "de": "die Klage, -n",
-      "ko": "한탄, 불평"
-    },
-    {
-      "de": "die Verrohung (Sg.)",
-      "ko": "거칠어짐, 야만화"
-    },
-    {
-      "de": "das Register, -",
-      "ko": "(언어의) 사용역, 말투의 층위"
-    },
-    {
-      "de": "beherrschen",
-      "ko": "(언어·기술을) 제대로 구사하다, 통달하다"
-    },
-    {
-      "de": "unauffällig",
-      "ko": "눈에 띄지 않는"
-    },
-    {
-      "de": "die Bereicherung, -en",
-      "ko": "풍부하게 함, 보탬"
-    },
-    {
-      "de": "konjugieren",
-      "ko": "(동사를) 인칭변화시키다"
-    },
-    {
-      "de": "schwanken",
-      "ko": "흔들리다, 일정하지 않다"
-    },
-    {
-      "de": "der Übergang, -¨e",
-      "ko": "과도기, 이행"
-    },
-    {
-      "de": "sich (Dat.) etwas einverleiben",
-      "ko": "~을 자기 것으로 흡수하다"
-    },
-    {
-      "de": "der Verlust, -e",
-      "ko": "상실, 손실"
-    },
-    {
-      "de": "tot|sagen",
-      "ko": "죽었다고 선언하다, 끝났다고 말하다"
-    },
-    {
-      "de": "die Abweichung, -en",
-      "ko": "벗어남, 일탈"
-    },
-    {
-      "de": "kränken",
-      "ko": "마음을 상하게 하다"
-    },
-    {
-      "de": "sich verschieben (verschob sich, hat sich verschoben)",
-      "ko": "(위치·상태가) 옮겨 가다, 달라지다"
-    },
-    {
-      "de": "angeblich",
-      "ko": "이른바, ~라고 하는"
-    },
-    {
-      "de": "die Reichweite (Sg.)",
-      "ko": "미치는 범위, 폭"
-    },
-    {
-      "de": "das Diktat, -e",
-      "ko": "받아쓰기"
-    }
+    { "de": "der Verfall (Sg.)", "ko": "쇠퇴, 몰락" },
+    { "de": "verfallen (verfällt, verfiel, ist verfallen)", "ko": "쇠퇴하다, 무너지다" },
+    { "de": "die Klage, -n", "ko": "한탄, 불평" },
+    { "de": "die Verrohung (Sg.)", "ko": "거칠어짐, 야만화" },
+    { "de": "das Register, -", "ko": "(언어의) 사용역, 말투의 층위" },
+    { "de": "beherrschen", "ko": "(언어·기술을) 제대로 구사하다, 통달하다" },
+    { "de": "unauffällig", "ko": "눈에 띄지 않는" },
+    { "de": "die Bereicherung, -en", "ko": "풍부하게 함, 보탬" },
+    { "de": "konjugieren", "ko": "(동사를) 인칭변화시키다" },
+    { "de": "schwanken", "ko": "흔들리다, 일정하지 않다" },
+    { "de": "der Übergang, -¨e", "ko": "과도기, 이행" },
+    { "de": "sich (Dat.) etwas einverleiben", "ko": "~을 자기 것으로 흡수하다" },
+    { "de": "der Verlust, -e", "ko": "상실, 손실" },
+    { "de": "tot|sagen", "ko": "죽었다고 선언하다, 끝났다고 말하다" },
+    { "de": "die Abweichung, -en", "ko": "벗어남, 일탈" },
+    { "de": "kränken", "ko": "마음을 상하게 하다" },
+    { "de": "sich verschieben (verschob sich, hat sich verschoben)", "ko": "(위치·상태가) 옮겨 가다, 달라지다" },
+    { "de": "angeblich", "ko": "이른바, ~라고 하는" },
+    { "de": "die Reichweite (Sg.)", "ko": "미치는 범위, 폭" },
+    { "de": "das Diktat, -e", "ko": "받아쓰기" }
   ],
   "phrases": [
     {

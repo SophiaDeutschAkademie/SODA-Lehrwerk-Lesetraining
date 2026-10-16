@@ -7,12 +7,7 @@
   "type": "Kurzgeschichte",
   "typeKo": "단편소설",
   "intro": "시골 정류장에서 오지 않는 버스를 기다리는 여성과 한 노인의 짧은 이야기예요.",
-  "focus": [
-    "추측·전언의 화법조동사",
-    "미래완료로 과거 추측하기",
-    "과거형 서술",
-    "인물의 생각 전하기"
-  ],
+  "focus": ["추측·전언의 화법조동사", "미래완료로 과거 추측하기", "과거형 서술", "인물의 생각 전하기"],
   "paragraphs": [
     {
       "de": "Um zwanzig nach sieben stand Marta allein an der Haltestelle. Der Fahrplan hinter dem zerkratzten Glas versprach einen Bus um 19.32 Uhr, den letzten des Tages. Hinter ihr lagen die Felder, vor ihr die Landstraße, auf der seit einer Viertelstunde kein Auto mehr gefahren war. Es wurde kühl. Sie zog den Mantel enger und sah auf ihr Handy. Kein Empfang.",
@@ -74,96 +69,47 @@
       "q": "Marta hat sich bei ihrer Tante länger aufgehalten als geplant.",
       "answer": 0,
       "evidence": "Sie war zu lange bei ihrer Tante geblieben, das wusste sie.",
-      "pairs": [
-        [
-          "zu lange bei ihrer Tante geblieben",
-          "länger aufgehalten als geplant"
-        ]
-      ],
+      "pairs": [["zu lange bei ihrer Tante geblieben", "länger aufgehalten als geplant"]],
       "explain": "본문은 마르타가 이모 집에 너무 오래 머물렀다고 해요. 'zu lange geblieben'을 'länger aufgehalten als geplant'로 바꿔 말했어요. 이모의 이야기가 길어져서 일찍 일어나지 못했다는 설명도 뒷받침해요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was vermutet Marta, als der Bus auch um Viertel vor acht noch nicht da ist?",
-      "options": [
-        "dass die Linie wegen zu weniger Fahrgäste ersatzlos eingestellt wurde",
-        "dass der Bus technische Probleme hat oder der Busfahrer ausgefallen ist",
-        "dass sie den Bus wegen des langen Besuchs bei der Tante verpasst hat"
-      ],
+      "options": ["dass die Linie wegen zu weniger Fahrgäste ersatzlos eingestellt wurde", "dass der Bus technische Probleme hat oder der Busfahrer ausgefallen ist", "dass sie den Bus wegen des langen Besuchs bei der Tante verpasst hat"],
       "answer": 1,
       "evidence": "Der Bus wird eine Panne gehabt haben, überlegte sie. Oder der Fahrer wird krank geworden sein, und niemand hat ihn ersetzen können.",
-      "pairs": [
-        [
-          "eine Panne gehabt haben",
-          "technische Probleme"
-        ],
-        [
-          "krank geworden sein",
-          "ausgefallen"
-        ]
-      ],
+      "pairs": [["eine Panne gehabt haben", "technische Probleme"], ["krank geworden sein", "ausgefallen"]],
       "explain": "마르타는 버스가 고장 났거나 기사가 아파서 대체할 사람이 없을 거라고 추측해요. '고장(eine Panne)'을 'technische Probleme'로, '아파서(krank geworden)'를 '근무할 수 없게 되었다(ausgefallen)'로 바꿔 말했어요. 노선 폐지는 노인이 나중에 하는 말이고, 마르타는 19시 32분 전에 이미 정류장에 있었으므로 버스를 놓친 것도 아니에요."
     },
     {
       "type": "mc",
       "kind": "meaning",
       "q": "Was bedeutet „Auf dem Land muss man das wohl in Kauf nehmen“ im Text?",
-      "options": [
-        "Solche Verspätungen muss man auf dem Land vermutlich hinnehmen.",
-        "Auf dem Land muss man für den Bus wahrscheinlich mehr bezahlen.",
-        "Auf dem Land muss man sich wohl irgendwann ein eigenes Auto kaufen."
-      ],
+      "options": ["Solche Verspätungen muss man auf dem Land vermutlich hinnehmen.", "Auf dem Land muss man für den Bus wahrscheinlich mehr bezahlen.", "Auf dem Land muss man sich wohl irgendwann ein eigenes Auto kaufen."],
       "answer": 0,
       "evidence": "Auf dem Land muss man das wohl in Kauf nehmen.",
-      "pairs": [
-        [
-          "in Kauf nehmen",
-          "hinnehmen"
-        ],
-        [
-          "wohl",
-          "vermutlich"
-        ]
-      ],
+      "pairs": [["in Kauf nehmen", "hinnehmen"], ["wohl", "vermutlich"]],
       "explain": "여기서 das는 버스가 몇 분 늦는 일을 가리켜요. 'etwas in Kauf nehmen'은 원하지 않는 일을 어쩔 수 없이 받아들인다는 뜻의 기능동사 구문이에요. 'Kauf'라는 단어가 들어 있지만 무엇을 사거나 돈을 더 내는 것과는 관계가 없어요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was erfährt Marta von dem alten Mann über den Bus?",
-      "options": [
-        "dass er heute einmalig ausfällt, weil der Fahrer krank ist",
-        "dass er seit Wochen jeden Abend erst gegen Mitternacht kommt",
-        "dass er angeblich schon seit einiger Zeit nicht mehr verkehrt"
-      ],
+      "options": ["dass er heute einmalig ausfällt, weil der Fahrer krank ist", "dass er seit Wochen jeden Abend erst gegen Mitternacht kommt", "dass er angeblich schon seit einiger Zeit nicht mehr verkehrt"],
       "answer": 2,
       "evidence": "„Der soll seit Wochen nicht mehr fahren“, sagte er.",
-      "pairs": [
-        [
-          "soll seit Wochen nicht mehr fahren",
-          "angeblich schon seit einiger Zeit nicht mehr verkehrt"
-        ]
-      ],
+      "pairs": [["soll seit Wochen nicht mehr fahren", "angeblich schon seit einiger Zeit nicht mehr verkehrt"]],
       "explain": "노인은 버스가 몇 주 전부터 안 다닌다고 '하더라'고 전해요. 전해 들은 말을 나타내는 soll을 'angeblich'로, 'fahren'을 'verkehren'으로 바꿔 말했어요. 기사가 아프다는 것은 마르타의 추측이고, 자정은 노인의 아내가 한 말에 나오는 시간이에요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was will der Mann mit dem Satz „Der Fahrplan hängt immer“ sagen?",
-      "options": [
-        "Der Fahrplan wird regelmäßig erneuert, deshalb kann man sich auf ihn verlassen.",
-        "Ein ausgehängter Fahrplan beweist nicht, dass der Bus auch tatsächlich fährt.",
-        "Der Fahrplan hängt schon so lange dort, dass ihn im Dorf niemand mehr liest."
-      ],
+      "options": ["Der Fahrplan wird regelmäßig erneuert, deshalb kann man sich auf ihn verlassen.", "Ein ausgehängter Fahrplan beweist nicht, dass der Bus auch tatsächlich fährt.", "Der Fahrplan hängt schon so lange dort, dass ihn im Dorf niemand mehr liest."],
       "answer": 1,
       "evidence": "„Der Fahrplan hängt immer“, sagte der Mann ruhig.",
-      "pairs": [
-        [
-          "Der Fahrplan hängt immer",
-          "Ein ausgehängter Fahrplan beweist nicht"
-        ]
-      ],
+      "pairs": [["Der Fahrplan hängt immer", "Ein ausgehängter Fahrplan beweist nicht"]],
       "explain": "마르타가 시간표가 아직 붙어 있으니 버스가 다닐 거라고 하자, 노인은 시간표는 늘 붙어 있다고 답해요. 즉 시간표가 붙어 있다는 사실이 버스가 실제로 다닌다는 증거는 아니라는 뜻이에요."
     },
     {
@@ -172,77 +118,37 @@
       "q": "Wenn Marta sofort zu Fuß losginge, wäre sie noch rechtzeitig zum letzten Zug am Bahnhof.",
       "answer": 1,
       "evidence": "zu Fuß würde sie den letzten Zug nicht mehr erreichen",
-      "pairs": [
-        [
-          "würde sie den letzten Zug nicht mehr erreichen",
-          "wäre sie noch rechtzeitig zum letzten Zug am Bahnhof"
-        ]
-      ],
+      "pairs": [["würde sie den letzten Zug nicht mehr erreichen", "wäre sie noch rechtzeitig zum letzten Zug am Bahnhof"]],
       "explain": "본문은 역까지 족히 8킬로미터라서 걸어서는 마지막 기차를 탈 수 없을 거라고 해요. 문제는 지금 바로 걸어서 출발하면 마지막 기차 시간에 맞춰 역에 도착할 거라고 하므로 본문과 반대예요. 'zu Fuß', 'letzten Zug', 'Bahnhof'는 본문 단어지만 내용은 맞지 않아요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Warum kommt der alte Mann jeden Abend zur Haltestelle?",
-      "options": [
-        "Er fuhr die Linie jahrzehntelang und kann die Gewohnheit nicht ablegen.",
-        "Er hofft, dass der Bus eines Tages wieder fährt und er darin mitfahren kann.",
-        "Seine Frau schickt ihn jeden Abend, damit er an die frische Luft kommt."
-      ],
+      "options": ["Er fuhr die Linie jahrzehntelang und kann die Gewohnheit nicht ablegen.", "Er hofft, dass der Bus eines Tages wieder fährt und er darin mitfahren kann.", "Seine Frau schickt ihn jeden Abend, damit er an die frische Luft kommt."],
       "answer": 0,
       "evidence": "„Ich habe den Bus hier dreißig Jahre lang gefahren. Jeden Abend um 19.32 Uhr. Seit ich in Rente bin, komme ich um diese Zeit hierher. Man kann so etwas nicht einfach abstellen.“",
-      "pairs": [
-        [
-          "dreißig Jahre lang gefahren",
-          "die Linie jahrzehntelang"
-        ],
-        [
-          "nicht einfach abstellen",
-          "die Gewohnheit nicht ablegen"
-        ]
-      ],
+      "pairs": [["dreißig Jahre lang gefahren", "die Linie jahrzehntelang"], ["nicht einfach abstellen", "die Gewohnheit nicht ablegen"]],
       "explain": "노인은 30년 동안 이 버스를 몰았고, 은퇴 후에도 그 시간이면 여기로 오며, 그런 것은 그냥 끌 수 없다고 해요. '30년'을 '수십 년'으로, '끌 수 없다'를 '습관을 버릴 수 없다'로 바꿔 말했어요. 버스가 다시 다니기를 바란다는 말은 없어요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was lässt sich aus dem letzten Absatz über Marta schließen?",
-      "options": [
-        "Sie glaubt dem alten Mann nicht und hält an ihren Vermutungen über den Bus fest.",
-        "Sie erinnert sich jetzt genau an den Zeitungsartikel über die gestrichene Linie.",
-        "Sie begreift, dass sie die Gründe für das Ausbleiben des Busses erfunden hat."
-      ],
+      "options": ["Sie glaubt dem alten Mann nicht und hält an ihren Vermutungen über den Bus fest.", "Sie erinnert sich jetzt genau an den Zeitungsartikel über die gestrichene Linie.", "Sie begreift, dass sie die Gründe für das Ausbleiben des Busses erfunden hat."],
       "answer": 2,
       "evidence": "Sie dachte an die Zeitungsmeldung, die sie nie gelesen hatte, an den kranken Fahrer, den es nicht gab.",
-      "pairs": [
-        [
-          "den kranken Fahrer, den es nicht gab",
-          "die Gründe für das Ausbleiben des Busses erfunden hat"
-        ]
-      ],
+      "pairs": [["den kranken Fahrer, den es nicht gab", "die Gründe für das Ausbleiben des Busses erfunden hat"]],
       "explain": "마르타는 '존재하지도 않는 아픈 운전기사(den kranken Fahrer, den es nicht gab)'를 떠올려요. 버스가 오지 않는 이유를 스스로 지어내 설명하고 있었다는 것을 깨닫는 거예요. 그녀는 관련 신문 기사를 읽은 적이 없으므로 기사를 정확히 기억해 낸다는 것도, 노인의 말을 믿지 않고 자기 추측을 고집한다는 것도 맞지 않아요."
     },
     {
       "type": "mc",
       "kind": "intent",
       "q": "Was bewirkt der letzte Absatz der Geschichte?",
-      "options": [
-        "Er löst die Spannung auf: Der Bus kommt doch noch, und Marta erreicht den Zug.",
-        "Er zeigt, dass Marta ins Dorf zurückkehrt und bei ihrer Tante übernachtet.",
-        "Er lässt bewusst offen, ob sich auf der Straße wirklich ein Fahrzeug nähert."
-      ],
+      "options": ["Er löst die Spannung auf: Der Bus kommt doch noch, und Marta erreicht den Zug.", "Er zeigt, dass Marta ins Dorf zurückkehrt und bei ihrer Tante übernachtet.", "Er lässt bewusst offen, ob sich auf der Straße wirklich ein Fahrzeug nähert."],
       "answer": 2,
       "evidence": "Zwei Lichter vielleicht. Oder auch nicht.",
-      "pairs": [
-        [
-          "Zwei Lichter vielleicht. Oder auch nicht.",
-          "lässt bewusst offen"
-        ],
-        [
-          "bewegte sich etwas",
-          "ein Fahrzeug nähert"
-        ]
-      ],
+      "pairs": [["Zwei Lichter vielleicht. Oder auch nicht.", "lässt bewusst offen"], ["bewegte sich etwas", "ein Fahrzeug nähert"]],
       "explain": "마지막 문장은 멀리서 무언가 움직이는데 불빛 두 개일 수도, 아닐 수도 있다고 해요. 작가는 일부러 결말을 열어 두어 독자가 스스로 생각하게 해요. 버스가 왔다거나 마르타가 이모 집으로 돌아갔다는 말은 본문에 없어요."
     }
   ],
@@ -256,60 +162,18 @@
         {
           "de": "„Auf den um 19.32 Uhr. Er muss sich verspätet haben.“",
           "ko": "“19시 32분 버스요. 늦어진 게 분명해요.”",
-          "mark": [
-            "muss",
-            "verspätet haben"
-          ]
+          "mark": ["muss", "verspätet haben"]
         },
         {
           "de": "„Der soll seit Wochen nicht mehr fahren“, sagte er.",
           "ko": "“그 버스는 몇 주 전부터 안 다닌다던데요”라고 그가 말했어요.",
-          "mark": [
-            "soll",
-            "fahren"
-          ]
+          "mark": ["soll", "fahren"]
         },
         {
           "de": "„Meine Frau will mich einmal bis Mitternacht hier gesehen haben. Das glaube ich allerdings nicht.“",
           "ko": "“제 아내는 제가 한 번은 자정까지 여기 있는 걸 봤다고 하는데, 그건 저도 믿지 않아요.”",
-          "mark": [
-            "will",
-            "gesehen haben"
-          ],
-          "parts": [
-            [
-              "„Meine Frau",
-              "주어"
-            ],
-            [
-              "will",
-              "동사"
-            ],
-            [
-              "mich",
-              "4격 목적어"
-            ],
-            [
-              "einmal",
-              "부사어(빈도)"
-            ],
-            [
-              "bis Mitternacht",
-              "부사어(시간)"
-            ],
-            [
-              "hier",
-              "부사어(장소)"
-            ],
-            [
-              "gesehen haben.",
-              "동사(끝)"
-            ],
-            [
-              "Das glaube ich allerdings nicht.“",
-              "기타"
-            ]
-          ]
+          "mark": ["will", "gesehen haben"],
+          "parts": [["„Meine Frau", "주어"], ["will", "동사"], ["mich", "4격 목적어"], ["einmal", "부사어(빈도)"], ["bis Mitternacht", "부사어(시간)"], ["hier", "부사어(장소)"], ["gesehen haben.", "동사(끝)"], ["Das glaube ich allerdings nicht.“", "기타"]]
         }
       ],
       "tip": "'Er muss sich verspätet haben'(틀림없이 늦은 거예요)은 추측이고, 'Er musste sich verspäten'(어쩔 수 없이 늦어야 했어요)은 본래 뜻이에요. 지난 일을 추측할 때는 화법조동사를 과거형으로 바꾸지 않고(muss, dürfte 그대로), 뒤의 동사를 완료형(과거분사 + haben/sein)으로 만들어요. 'Sie könnte zurückgehen'의 könnte는 추측이 아니라 '그렇게 할 수 있다'는 본래 뜻이에요."
@@ -323,48 +187,18 @@
         {
           "de": "Der Bus wird eine Panne gehabt haben, überlegte sie.",
           "ko": "버스가 고장 났겠지요, 하고 그녀는 생각했어요.",
-          "mark": [
-            "wird",
-            "gehabt haben"
-          ],
-          "parts": [
-            [
-              "Der Bus",
-              "주어"
-            ],
-            [
-              "wird",
-              "동사"
-            ],
-            [
-              "eine Panne",
-              "4격 목적어"
-            ],
-            [
-              "gehabt haben,",
-              "동사(끝)"
-            ],
-            [
-              "überlegte sie.",
-              "기타"
-            ]
-          ]
+          "mark": ["wird", "gehabt haben"],
+          "parts": [["Der Bus", "주어"], ["wird", "동사"], ["eine Panne", "4격 목적어"], ["gehabt haben,", "동사(끝)"], ["überlegte sie.", "기타"]]
         },
         {
           "de": "Oder der Fahrer wird krank geworden sein, und niemand hat ihn ersetzen können.",
           "ko": "아니면 기사가 아파서 대신할 사람을 못 구했을 거예요.",
-          "mark": [
-            "wird",
-            "geworden sein"
-          ]
+          "mark": ["wird", "geworden sein"]
         },
         {
           "de": "Nun gut, dachte sie, der Bus wird eben ein paar Minuten Verspätung haben.",
           "ko": "뭐, 할 수 없지요, 하고 그녀는 생각했어요. 버스가 몇 분 늦는 거겠지요.",
-          "mark": [
-            "wird",
-            "haben"
-          ]
+          "mark": ["wird", "haben"]
         }
       ],
       "tip": "'Der Bus wird eine Panne gehabt haben'은 'Der Bus hat wahrscheinlich eine Panne gehabt'와 같은 뜻이에요. 'Der Bus muss eine Panne gehabt haben'보다 확신이 조금 약해요."
@@ -378,51 +212,18 @@
         {
           "de": "Um zwanzig nach sieben stand Marta allein an der Haltestelle.",
           "ko": "일곱 시 이십 분, 마르타는 혼자 정류장에 서 있었어요.",
-          "mark": [
-            "stand"
-          ],
-          "parts": [
-            [
-              "Um zwanzig nach sieben",
-              "부사어(시간)"
-            ],
-            [
-              "stand",
-              "동사"
-            ],
-            [
-              "Marta",
-              "주어"
-            ],
-            [
-              "allein",
-              "부사어(방법)"
-            ],
-            [
-              "an der Haltestelle.",
-              "부사어(장소)"
-            ]
-          ]
+          "mark": ["stand"],
+          "parts": [["Um zwanzig nach sieben", "부사어(시간)"], ["stand", "동사"], ["Marta", "주어"], ["allein", "부사어(방법)"], ["an der Haltestelle.", "부사어(장소)"]]
         },
         {
           "de": "Sie war zu lange bei ihrer Tante geblieben, das wusste sie.",
           "ko": "이모 집에 너무 오래 있었다는 것은 그녀도 알고 있었어요.",
-          "mark": [
-            "war",
-            "geblieben",
-            "wusste"
-          ]
+          "mark": ["war", "geblieben", "wusste"]
         },
         {
           "de": "Er zog eine Taschenuhr hervor, warf einen Blick darauf und steckte sie wieder ein.",
           "ko": "그는 회중시계를 꺼내 한 번 들여다보고는 다시 집어넣었어요.",
-          "mark": [
-            "zog",
-            "hervor",
-            "warf",
-            "steckte",
-            "ein."
-          ]
+          "mark": ["zog", "hervor", "warf", "steckte", "ein."]
         }
       ],
       "tip": "'das wusste sie'에서 보듯 과거형 wusste(알고 있었다)는 wissen의 불규칙 과거형이에요. 과거분사 gewusst와 혼동하지 마세요."
@@ -435,125 +236,37 @@
         {
           "de": "Nun gut, dachte sie, der Bus wird eben ein paar Minuten Verspätung haben.",
           "ko": "뭐, 할 수 없지요, 하고 그녀는 생각했어요. 버스가 몇 분 늦는 거겠지요.",
-          "mark": [
-            "dachte sie"
-          ],
-          "parts": [
-            [
-              "Nun gut,",
-              "기타"
-            ],
-            [
-              "dachte sie,",
-              "기타"
-            ],
-            [
-              "der Bus",
-              "주어"
-            ],
-            [
-              "wird",
-              "동사"
-            ],
-            [
-              "eben",
-              "기타"
-            ],
-            [
-              "ein paar Minuten Verspätung",
-              "4격 목적어"
-            ],
-            [
-              "haben.",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["dachte sie"],
+          "parts": [["Nun gut,", "기타"], ["dachte sie,", "기타"], ["der Bus", "주어"], ["wird", "동사"], ["eben", "기타"], ["ein paar Minuten Verspätung", "4격 목적어"], ["haben.", "동사(끝)"]]
         },
         {
           "de": "Weit hinten, wo sie hinter dem Hügel verschwand, bewegte sich etwas. Zwei Lichter vielleicht. Oder auch nicht.",
           "ko": "저 멀리, 길이 언덕 뒤로 사라지는 곳에서 무언가 움직였어요. 어쩌면 불빛 두 개. 아니면 아무것도 아닐지도요.",
-          "mark": [
-            "Zwei Lichter vielleicht.",
-            "Oder auch nicht."
-          ]
+          "mark": ["Zwei Lichter vielleicht.", "Oder auch nicht."]
         }
       ],
       "tip": "'Zwei Lichter vielleicht.'처럼 동사 없는 문장은 문학에서 인물의 순간적인 인상을 그대로 보여 주는 장치예요. 일반적인 글에서는 피하는 것이 좋아요."
     }
   ],
   "vocab": [
-    {
-      "de": "die Haltestelle, -n",
-      "ko": "정류장"
-    },
-    {
-      "de": "der Fahrplan, -¨e",
-      "ko": "(버스·열차) 시간표"
-    },
-    {
-      "de": "zerkratzt",
-      "ko": "긁힌, 흠집이 난"
-    },
-    {
-      "de": "die Landstraße, -n",
-      "ko": "국도, 시골길"
-    },
-    {
-      "de": "der Empfang (Sg.)",
-      "ko": "(휴대전화) 수신, 신호"
-    },
-    {
-      "de": "auf|brechen (bricht auf, brach auf, ist aufgebrochen)",
-      "ko": "출발하다, 길을 나서다"
-    },
-    {
-      "de": "die Verspätung, -en",
-      "ko": "연착, 지연"
-    },
-    {
-      "de": "die Panne, -n",
-      "ko": "(차량) 고장"
-    },
-    {
-      "de": "ersetzen",
-      "ko": "대신하다, 대체하다"
-    },
-    {
-      "de": "zu|nicken + Dat.",
-      "ko": "~에게 고개를 끄덕이다"
-    },
-    {
-      "de": "der Fahrgast, -¨e",
-      "ko": "승객"
-    },
-    {
-      "de": "streichen (streicht, strich, hat gestrichen)",
-      "ko": "(노선·항목을) 없애다, 취소하다"
-    },
-    {
-      "de": "übernachten",
-      "ko": "하룻밤 묵다"
-    },
-    {
-      "de": "beruhigen",
-      "ko": "진정시키다, 안심시키다"
-    },
-    {
-      "de": "die Rente, -n",
-      "ko": "연금, 은퇴 생활 (in Rente sein: 은퇴해 있다)"
-    },
-    {
-      "de": "ab|stellen",
-      "ko": "(기계·습관을) 끄다, 멈추다"
-    },
-    {
-      "de": "die Taschenuhr, -en",
-      "ko": "회중시계"
-    },
-    {
-      "de": "verschwinden (verschwindet, verschwand, ist verschwunden)",
-      "ko": "사라지다"
-    }
+    { "de": "die Haltestelle, -n", "ko": "정류장" },
+    { "de": "der Fahrplan, -¨e", "ko": "(버스·열차) 시간표" },
+    { "de": "zerkratzt", "ko": "긁힌, 흠집이 난" },
+    { "de": "die Landstraße, -n", "ko": "국도, 시골길" },
+    { "de": "der Empfang (Sg.)", "ko": "(휴대전화) 수신, 신호" },
+    { "de": "auf|brechen (bricht auf, brach auf, ist aufgebrochen)", "ko": "출발하다, 길을 나서다" },
+    { "de": "die Verspätung, -en", "ko": "연착, 지연" },
+    { "de": "die Panne, -n", "ko": "(차량) 고장" },
+    { "de": "ersetzen", "ko": "대신하다, 대체하다" },
+    { "de": "zu|nicken + Dat.", "ko": "~에게 고개를 끄덕이다" },
+    { "de": "der Fahrgast, -¨e", "ko": "승객" },
+    { "de": "streichen (streicht, strich, hat gestrichen)", "ko": "(노선·항목을) 없애다, 취소하다" },
+    { "de": "übernachten", "ko": "하룻밤 묵다" },
+    { "de": "beruhigen", "ko": "진정시키다, 안심시키다" },
+    { "de": "die Rente, -n", "ko": "연금, 은퇴 생활 (in Rente sein: 은퇴해 있다)" },
+    { "de": "ab|stellen", "ko": "(기계·습관을) 끄다, 멈추다" },
+    { "de": "die Taschenuhr, -en", "ko": "회중시계" },
+    { "de": "verschwinden (verschwindet, verschwand, ist verschwunden)", "ko": "사라지다" }
   ],
   "phrases": [
     {

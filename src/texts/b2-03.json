@@ -35,11 +35,7 @@
       "type": "mc",
       "kind": "meaning",
       "q": "Was bedeutet „Überall wird die kleinste Lücke sofort gestopft“ im Text?",
-      "options": [
-        "Jede Lücke in der Warteschlange wird sofort von den Nächsten besetzt.",
-        "Die Wartezeiten an Kasse und Haltestelle werden überall immer kürzer.",
-        "Jeder noch so kurze freie Moment wird sofort mit Ablenkung gefüllt."
-      ],
+      "options": ["Jede Lücke in der Warteschlange wird sofort von den Nächsten besetzt.", "Die Wartezeiten an Kasse und Haltestelle werden überall immer kürzer.", "Jeder noch so kurze freie Moment wird sofort mit Ablenkung gefüllt."],
       "answer": 2,
       "evidence": "Überall wird die kleinste Lücke sofort gestopft",
       "pairs": [["die kleinste Lücke", "noch so kurze freie Moment"], ["gestopft", "mit Ablenkung gefüllt"]],
@@ -58,11 +54,7 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was meint der Autor mit dem Satz „Mir ist das alles leider zu spät eingefallen“?",
-      "options": [
-        "Er hat die Wartezeit nicht so genutzt, wie er es im Nachhinein gern getan hätte.",
-        "Er ist zu spät an der Haltestelle angekommen und hat deshalb den Bus verpasst.",
-        "Er hatte an der Haltestelle einen guten Einfall, den er später vergessen hat."
-      ],
+      "options": ["Er hat die Wartezeit nicht so genutzt, wie er es im Nachhinein gern getan hätte.", "Er ist zu spät an der Haltestelle angekommen und hat deshalb den Bus verpasst.", "Er hatte an der Haltestelle einen guten Einfall, den er später vergessen hat."],
       "answer": 0,
       "evidence": "Mir ist das alles leider zu spät eingefallen.",
       "pairs": [["zu spät eingefallen", "im Nachhinein"]],
@@ -90,11 +82,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wie verhält sich laut Text jemand, der ohne Handy warten muss?",
-      "options": [
-        "Er studiert den Fahrplan und zählt die Wolken am Himmel.",
-        "Er wirkt unsicher und sieht sich um, als vermisse er etwas.",
-        "Er hält es keine zwei Minuten aus und geht unruhig umher."
-      ],
+      "options": ["Er studiert den Fahrplan und zählt die Wolken am Himmel.", "Er wirkt unsicher und sieht sich um, als vermisse er etwas.", "Er hält es keine zwei Minuten aus und geht unruhig umher."],
       "answer": 1,
       "evidence": "Und wer ausnahmsweise ohne Handy dasteht, blickt verlegen umher, als wenn er etwas verloren hätte.",
       "pairs": [["blickt verlegen umher", "wirkt unsicher und sieht sich um"], ["als wenn er etwas verloren hätte", "als vermisse er etwas"]],
@@ -104,11 +92,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was nimmt sich der Autor für die Zukunft vor?",
-      "options": [
-        "Seine Ideen nicht mehr ins Handy zu tippen, sondern aufzuschreiben.",
-        "Den Mann mit dem Schal endlich selbst nach dem Grund zu fragen.",
-        "Künftig in allen Wartesituationen auf das Handy zu verzichten."
-      ],
+      "options": ["Seine Ideen nicht mehr ins Handy zu tippen, sondern aufzuschreiben.", "Den Mann mit dem Schal endlich selbst nach dem Grund zu fragen.", "Künftig in allen Wartesituationen auf das Handy zu verzichten."],
       "answer": 2,
       "evidence": "Ab sofort bleibt das Handy in der Tasche, wenn ich irgendwo warten muss.",
       "pairs": [["bleibt das Handy in der Tasche", "auf das Handy zu verzichten"], ["wenn ich irgendwo warten muss", "in allen Wartesituationen"], ["Ab sofort", "Künftig"]],
@@ -118,11 +102,7 @@
       "type": "mc",
       "kind": "intent",
       "q": "Welche Wirkung hat der letzte Satz „Man will ja schließlich nichts vergessen“?",
-      "options": [
-        "Der Autor nimmt sich selbst auf den Arm, weil er seinen Vorsatz sofort relativiert.",
-        "Der Autor gibt den Lesern den ernst gemeinten Rat, Einfälle immer sofort zu notieren.",
-        "Der Autor warnt davor, dass man ohne Handy wichtige Dinge und Termine vergisst."
-      ],
+      "options": ["Der Autor nimmt sich selbst auf den Arm, weil er seinen Vorsatz sofort relativiert.", "Der Autor gibt den Lesern den ernst gemeinten Rat, Einfälle immer sofort zu notieren.", "Der Autor warnt davor, dass man ohne Handy wichtige Dinge und Termine vergisst."],
       "answer": 0,
       "evidence": "Und sollte mir dabei tatsächlich eine geniale Idee kommen – ich tippe sie selbstverständlich sofort ins Handy.",
       "pairs": [["ich tippe sie selbstverständlich sofort ins Handy", "seinen Vorsatz sofort relativiert"]],
@@ -132,11 +112,7 @@
       "type": "mc",
       "kind": "intent",
       "q": "Welche Absicht verfolgt der Autor mit diesem Text?",
-      "options": [
-        "Er will die Leser sachlich über neue Forschungsergebnisse zur Kreativität informieren.",
-        "Er will mit Ironie und Übertreibung zum Nachdenken über die Handynutzung anregen.",
-        "Er will erreichen, dass Handys an Bushaltestellen und in Wartezimmern verboten werden."
-      ],
+      "options": ["Er will die Leser sachlich über neue Forschungsergebnisse zur Kreativität informieren.", "Er will mit Ironie und Übertreibung zum Nachdenken über die Handynutzung anregen.", "Er will erreichen, dass Handys an Bushaltestellen und in Wartezimmern verboten werden."],
       "answer": 1,
       "evidence": "Zwei Minuten ohne Beschäftigung – wer hält das noch aus?",
       "pairs": [],

@@ -7,12 +7,7 @@
   "type": "Ratgeber",
   "typeKo": "조언 기사(학생 잡지)",
   "intro": "WG에서 흔히 생기는 갈등 사례 세 가지와 조정 전문가의 조언을 담은 글이에요.",
-  "focus": [
-    "indem · dadurch, dass",
-    "sodass · so … dass",
-    "ohne dass · anstatt dass · außer wenn",
-    "es geht um · es geht darum, dass"
-  ],
+  "focus": ["indem · dadurch, dass", "sodass · so … dass", "ohne dass · anstatt dass · außer wenn", "es geht um · es geht darum, dass"],
   "paragraphs": [
     {
       "de": "Dreckige Teller im Spülbecken, fremde Haare in der Dusche, ein Mitbewohner, der nachts Freunde mitbringt: In fast jeder Wohngemeinschaft gibt es Dinge, über die man sich ärgert. Meist bleibt es bei kleinen Reibereien. Manchmal aber schaukelt sich der Ärger so hoch, dass am Ende jemand auszieht. Drei typische Fälle – und was eine Mediatorin dazu rät.",
@@ -84,39 +79,17 @@
       "q": "Lena hat Jonas lange Zeit nicht gesagt, dass seine ungespülten Töpfe sie stören.",
       "answer": 0,
       "evidence": "Angesprochen hat sie ihn darauf nie.",
-      "pairs": [
-        [
-          "Angesprochen hat sie ihn darauf nie",
-          "lange Zeit nicht gesagt"
-        ],
-        [
-          "lässt die Töpfe aber tagelang stehen",
-          "seine ungespülten Töpfe"
-        ]
-      ],
+      "pairs": [["Angesprochen hat sie ihn darauf nie", "lange Zeit nicht gesagt"], ["lässt die Töpfe aber tagelang stehen", "seine ungespülten Töpfe"]],
       "explain": "본문은 레나가 그 일로 요나스에게 한 번도 말을 꺼내지 않았다고 해요. 'nie angesprochen'을 'lange Zeit nicht gesagt'로 바꿔 말했어요. 마지막 문단에서 결국 말했으므로 '오랫동안'이 정확해요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Worüber ärgert man sich in Merts WG?",
-      "options": [
-        "Die Freundin eines Mitbewohners nutzt das Bad mit, zahlt aber nichts für die Wohnung.",
-        "Ein Mitbewohner bringt nachts regelmäßig Freunde mit und stört die anderen beim Schlafen.",
-        "Die Freundin eines Mitbewohners schlägt morgens die Tür zu, wenn sie das Bad benutzt."
-      ],
+      "options": ["Die Freundin eines Mitbewohners nutzt das Bad mit, zahlt aber nichts für die Wohnung.", "Ein Mitbewohner bringt nachts regelmäßig Freunde mit und stört die anderen beim Schlafen.", "Die Freundin eines Mitbewohners schlägt morgens die Tür zu, wenn sie das Bad benutzt."],
       "answer": 0,
       "evidence": "Sie duscht morgens als Erste, ihr Joghurt steht im Kühlschrank, an der Miete beteiligt sie sich jedoch nicht.",
-      "pairs": [
-        [
-          "an der Miete beteiligt sie sich jedoch nicht",
-          "zahlt aber nichts für die Wohnung"
-        ],
-        [
-          "duscht morgens als Erste",
-          "nutzt das Bad mit"
-        ]
-      ],
+      "pairs": [["an der Miete beteiligt sie sich jedoch nicht", "zahlt aber nichts für die Wohnung"], ["duscht morgens als Erste", "nutzt das Bad mit"]],
       "explain": "여자친구가 욕실과 냉장고를 함께 쓰면서도 월세는 분담하지 않는다고 해요. '월세를 분담하지 않는다'를 '집에 돈을 내지 않는다'로 바꿔 말했어요. 문을 세게 닫는 사람은 여자친구가 아니라 나머지 룸메이트들이고, 밤에 친구를 데려오는 사람은 도입부의 예시예요."
     },
     {
@@ -125,35 +98,17 @@
       "q": "Als Sofia beim Frühstück die Kosten anspricht, reagieren ihre Mitbewohner gelassen.",
       "answer": 1,
       "evidence": "fühlen sich die anderen so angegriffen, dass das Gespräch nach zwei Minuten beendet ist",
-      "pairs": [
-        [
-          "fühlen sich die anderen so angegriffen",
-          "reagieren ihre Mitbewohner gelassen"
-        ],
-        [
-          "das Thema",
-          "die Kosten"
-        ]
-      ],
+      "pairs": [["fühlen sich die anderen so angegriffen", "reagieren ihre Mitbewohner gelassen"], ["das Thema", "die Kosten"]],
       "explain": "본문은 소피아가 아침 식사 자리에서 이 이야기를 꺼내자 다른 사람들이 심하게 공격받았다고 느껴 대화가 2분 만에 끝났다고 해요. 그러니 룸메이트들이 '차분하게 반응했다(gelassen reagieren)'는 말은 본문과 반대예요. 'beim Frühstück', 'anspricht' 같은 본문 단어가 그대로 나와도 내용은 맞지 않아요."
     },
     {
       "type": "mc",
       "kind": "meaning",
       "q": "Was bedeutet „bleibt Sofia auf den Kosten sitzen“ im Text?",
-      "options": [
-        "Sofia bleibt beim Frühstück sitzen, um über die Kosten zu sprechen.",
-        "Sofia muss die Ausgaben allein tragen, weil niemand sie ihr erstattet.",
-        "Sofia weigert sich, weiterhin Spülmittel und Müllbeutel einzukaufen."
-      ],
+      "options": ["Sofia bleibt beim Frühstück sitzen, um über die Kosten zu sprechen.", "Sofia muss die Ausgaben allein tragen, weil niemand sie ihr erstattet.", "Sofia weigert sich, weiterhin Spülmittel und Müllbeutel einzukaufen."],
       "answer": 1,
       "evidence": "bleibt Sofia auf den Kosten sitzen",
-      "pairs": [
-        [
-          "auf den Kosten sitzen",
-          "die Ausgaben allein tragen"
-        ]
-      ],
+      "pairs": [["auf den Kosten sitzen", "die Ausgaben allein tragen"]],
       "explain": "'auf etwas sitzen bleiben'은 남이 가져가거나 갚아 주지 않아서 자기가 떠안게 된다는 뜻의 관용 표현이에요. 실제로 앉아 있다는 뜻이 아니고, 소피아가 구매를 거부한다는 말도 본문에 없어요."
     },
     {
@@ -162,104 +117,47 @@
       "q": "Die Beratungsstelle, an der Ulrike Mahler arbeitet, berät Studierende kostenlos.",
       "answer": 2,
       "evidence": null,
-      "pairs": [
-        [
-          "Mediatorin an einer Beratungsstelle für Studierende",
-          "Die Beratungsstelle, an der Ulrike Mahler arbeitet"
-        ]
-      ],
+      "pairs": [["Mediatorin an einer Beratungsstelle für Studierende", "Die Beratungsstelle, an der Ulrike Mahler arbeitet"]],
       "explain": "말러가 학생 상담소에서 일한다는 말은 있지만, 상담이 무료인지 유료인지는 본문 어디에도 나오지 않아요. 그래서 '본문에 언급 없음'이에요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was meint die Mediatorin mit dem Satz „Fast nie geht es wirklich um den Abwasch“?",
-      "options": [
-        "Streit über den Abwasch kommt in Wohngemeinschaften nur noch selten vor.",
-        "Hinter dem Ärger über Kleinigkeiten steckt meist ein tieferes Problem.",
-        "Über den Abwasch sollte man in einer Wohngemeinschaft gar nicht streiten."
-      ],
+      "options": ["Streit über den Abwasch kommt in Wohngemeinschaften nur noch selten vor.", "Hinter dem Ärger über Kleinigkeiten steckt meist ein tieferes Problem.", "Über den Abwasch sollte man in einer Wohngemeinschaft gar nicht streiten."],
       "answer": 1,
       "evidence": "„Es geht darum, dass sich jemand nicht gesehen fühlt.“",
-      "pairs": [
-        [
-          "Fast nie geht es wirklich um den Abwasch",
-          "Hinter dem Ärger über Kleinigkeiten"
-        ],
-        [
-          "dass sich jemand nicht gesehen fühlt",
-          "ein tieferes Problem"
-        ]
-      ],
+      "pairs": [["Fast nie geht es wirklich um den Abwasch", "Hinter dem Ärger über Kleinigkeiten"], ["dass sich jemand nicht gesehen fühlt", "ein tieferes Problem"]],
       "explain": "바로 다음 문장이 뜻을 밝혀 줘요. 진짜 문제는 설거지가 아니라 누군가 자기를 알아주지 않는다고 느끼는 것, 즉 겉으로 드러난 사소한 일 뒤에 있는 감정이에요. 설거지 싸움이 드물다는 뜻이 아니에요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was rät die Mediatorin als Erstes?",
-      "options": [
-        "Unstimmigkeiten zur Sprache bringen, bevor sie größer werden",
-        "mit einem Gespräch warten, bis sich alle beruhigt haben",
-        "sich über Kleinigkeiten im WG-Alltag gar nicht erst ärgern"
-      ],
+      "options": ["Unstimmigkeiten zur Sprache bringen, bevor sie größer werden", "mit einem Gespräch warten, bis sich alle beruhigt haben", "sich über Kleinigkeiten im WG-Alltag gar nicht erst ärgern"],
       "answer": 0,
       "evidence": "Ihr erster Rat lautet deshalb, Probleme anzusprechen, solange sie noch klein sind.",
-      "pairs": [
-        [
-          "Probleme anzusprechen",
-          "zur Sprache bringen"
-        ],
-        [
-          "solange sie noch klein sind",
-          "bevor sie größer werden"
-        ]
-      ],
+      "pairs": [["Probleme anzusprechen", "zur Sprache bringen"], ["solange sie noch klein sind", "bevor sie größer werden"]],
       "explain": "첫 번째 조언은 문제가 아직 작을 때 말을 꺼내라는 거예요. 'ansprechen'을 'zur Sprache bringen'으로, '아직 작을 때'를 '커지기 전에(bevor sie größer werden)'로 바꿔 말했어요. 기다리라거나 화를 내지 말라는 조언은 본문에 없어요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Warum sollten die Regeln einer WG laut Text gemeinsam ausgehandelt werden?",
-      "options": [
-        "weil ein Putzplan sonst zu unromantisch für die WG wirkt",
-        "weil sonst eine Person allein für den Haushalt zuständig ist",
-        "weil sie sonst nicht von allen Mitbewohnern befolgt werden"
-      ],
+      "options": ["weil ein Putzplan sonst zu unromantisch für die WG wirkt", "weil sonst eine Person allein für den Haushalt zuständig ist", "weil sie sonst nicht von allen Mitbewohnern befolgt werden"],
       "answer": 2,
       "evidence": "nur dann hält sich auch jeder daran",
-      "pairs": [
-        [
-          "nur dann hält sich auch jeder daran",
-          "weil sie sonst nicht von allen Mitbewohnern befolgt werden"
-        ]
-      ],
+      "pairs": [["nur dann hält sich auch jeder daran", "weil sie sonst nicht von allen Mitbewohnern befolgt werden"]],
       "explain": "본문은 규칙을 한 사람이 정하지 않고 함께 협의해서 정해야만 모두가 지킨다고 해요. '그래야만 모두가 지킨다(nur dann hält sich auch jeder daran)'를 '그렇지 않으면 모든 룸메이트가 따르지는 않는다(sonst nicht von allen Mitbewohnern befolgt)'로 바꿔 말했어요. '낭만적이지 않다'는 청소 당번표에 대한 말이고, '혼자 책임진다는 느낌'은 당번표가 없애 주는 느낌이지 함께 협의해야 하는 이유가 아니에요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Niemand ändert sein Verhalten, nur weil er beschimpft wird“?",
-      "options": [
-        "Wer beschimpft wird, verhält sich danach meist noch schlechter.",
-        "Man sollte sein Verhalten nicht ändern, nur weil andere es verlangen.",
-        "Vorwürfe allein bringen niemanden dazu, etwas anders zu machen."
-      ],
+      "options": ["Wer beschimpft wird, verhält sich danach meist noch schlechter.", "Man sollte sein Verhalten nicht ändern, nur weil andere es verlangen.", "Vorwürfe allein bringen niemanden dazu, etwas anders zu machen."],
       "answer": 2,
       "evidence": "Niemand ändert sein Verhalten, nur weil er beschimpft wird",
-      "pairs": [
-        [
-          "beschimpft wird",
-          "Vorwürfe"
-        ],
-        [
-          "nur weil",
-          "allein"
-        ],
-        [
-          "ändert sein Verhalten",
-          "etwas anders zu machen"
-        ]
-      ],
+      "pairs": [["beschimpft wird", "Vorwürfe"], ["nur weil", "allein"], ["ändert sein Verhalten", "etwas anders zu machen"]],
       "explain": "욕을 먹는 것만으로는 아무도 행동을 바꾸지 않는다, 즉 비난만으로는 변화를 끌어낼 수 없다는 뜻이에요. 뒤 문장은 이해가 있어야 바뀐다고 덧붙여요. 행동이 더 나빠진다거나 바꾸지 말라는 권고는 아니에요."
     }
   ],
@@ -273,79 +171,19 @@
         {
           "de": "Viele Konflikte lassen sich vermeiden, indem die WG gemeinsame Regeln festlegt",
           "ko": "많은 갈등은 WG가 공동의 규칙을 정해 두는 것으로 피할 수 있어요",
-          "mark": [
-            "indem",
-            "festlegt"
-          ],
-          "parts": [
-            [
-              "Viele Konflikte",
-              "주어"
-            ],
-            [
-              "lassen",
-              "동사"
-            ],
-            [
-              "sich",
-              "재귀대명사"
-            ],
-            [
-              "vermeiden,",
-              "동사(끝)"
-            ],
-            [
-              "indem die WG gemeinsame Regeln festlegt",
-              "종속절"
-            ]
-          ]
+          "mark": ["indem", "festlegt"],
+          "parts": [["Viele Konflikte", "주어"], ["lassen", "동사"], ["sich", "재귀대명사"], ["vermeiden,", "동사(끝)"], ["indem die WG gemeinsame Regeln festlegt", "종속절"]]
         },
         {
           "de": "Dadurch, dass man die eigene Wahrnehmung beschreibt und den anderen nicht beurteilt, fühlt sich das Gegenüber weniger angegriffen.",
           "ko": "상대를 판단하지 않고 자기가 느낀 것을 설명하면 상대방은 공격받았다는 느낌을 덜 받아요.",
-          "mark": [
-            "Dadurch, dass",
-            "beschreibt",
-            "beurteilt"
-          ],
-          "parts": [
-            [
-              "Dadurch,",
-              "부사어(방법)"
-            ],
-            [
-              "dass man die eigene Wahrnehmung beschreibt und den anderen nicht beurteilt,",
-              "종속절"
-            ],
-            [
-              "fühlt",
-              "동사"
-            ],
-            [
-              "sich",
-              "재귀대명사"
-            ],
-            [
-              "das Gegenüber",
-              "주어"
-            ],
-            [
-              "weniger",
-              "부사어"
-            ],
-            [
-              "angegriffen.",
-              "보어"
-            ]
-          ]
+          "mark": ["Dadurch, dass", "beschreibt", "beurteilt"],
+          "parts": [["Dadurch,", "부사어(방법)"], ["dass man die eigene Wahrnehmung beschreibt und den anderen nicht beurteilt,", "종속절"], ["fühlt", "동사"], ["sich", "재귀대명사"], ["das Gegenüber", "주어"], ["weniger", "부사어"], ["angegriffen.", "보어"]]
         },
         {
           "de": "Dann zeigen sie ihren Ärger, indem sie die Tür etwas lauter zuschlagen als nötig.",
           "ko": "그럴 때는 문을 필요 이상으로 조금 더 세게 닫는 것으로 불만을 드러내요.",
-          "mark": [
-            "indem",
-            "zuschlagen"
-          ]
+          "mark": ["indem", "zuschlagen"]
         }
       ],
       "tip": "indem은 수단과 방법을 나타내요. '~하는 동안'이라는 시간의 뜻은 예스러운 용법이라 오늘날에는 거의 쓰지 않으니, 시간을 말할 때는 während를 쓰세요. 또 한 단어인 indem(접속사)과 띄어 쓴 in dem(전치사 + 관계대명사: das Haus, in dem ich wohne)을 구별하세요."
@@ -359,48 +197,18 @@
         {
           "de": "Wer monatelang schweigt, staut Wut auf, sodass aus einem schmutzigen Teller am Ende ein Grundsatzstreit wird.",
           "ko": "몇 달씩 침묵하는 사람은 분노를 쌓아 두게 되고, 그러면 더러운 접시 하나가 결국 원칙 싸움이 돼요.",
-          "mark": [
-            "sodass",
-            "wird"
-          ],
-          "parts": [
-            [
-              "Wer monatelang schweigt,",
-              "주어"
-            ],
-            [
-              "staut",
-              "동사"
-            ],
-            [
-              "Wut",
-              "4격 목적어"
-            ],
-            [
-              "auf,",
-              "동사(끝)"
-            ],
-            [
-              "sodass aus einem schmutzigen Teller am Ende ein Grundsatzstreit wird.",
-              "종속절"
-            ]
-          ]
+          "mark": ["sodass", "wird"],
+          "parts": [["Wer monatelang schweigt,", "주어"], ["staut", "동사"], ["Wut", "4격 목적어"], ["auf,", "동사(끝)"], ["sodass aus einem schmutzigen Teller am Ende ein Grundsatzstreit wird.", "종속절"]]
         },
         {
           "de": "Manchmal aber schaukelt sich der Ärger so hoch, dass am Ende jemand auszieht.",
           "ko": "하지만 때로는 화가 점점 커져서 결국 누군가 이사를 나가기도 해요.",
-          "mark": [
-            "so hoch",
-            "dass"
-          ]
+          "mark": ["so hoch", "dass"]
         },
         {
           "de": "Als sie das Thema beim Frühstück anspricht, fühlen sich die anderen so angegriffen, dass das Gespräch nach zwei Minuten beendet ist.",
           "ko": "그녀가 아침 식사 자리에서 이 이야기를 꺼내자 다른 사람들은 심하게 공격받았다고 느껴서 대화는 2분 만에 끝나 버려요.",
-          "mark": [
-            "so angegriffen",
-            "dass"
-          ]
+          "mark": ["so angegriffen", "dass"]
         }
       ],
       "tip": "sodass는 결과를, damit은 목적을 나타내요. 'Er räumt auf, sodass sie kochen kann'(결과)과 'Er räumt auf, damit sie kochen kann'(목적)을 구별하세요."
@@ -414,48 +222,18 @@
         {
           "de": "Anstatt dass die WG eine gemeinsame Kasse einrichtet, bleibt Sofia auf den Kosten sitzen.",
           "ko": "WG가 공동 생활비 통을 마련하는 대신, 소피아가 그 비용을 혼자 떠안고 있어요.",
-          "mark": [
-            "Anstatt dass",
-            "einrichtet,"
-          ],
-          "parts": [
-            [
-              "Anstatt dass die WG eine gemeinsame Kasse einrichtet,",
-              "종속절"
-            ],
-            [
-              "bleibt",
-              "동사"
-            ],
-            [
-              "Sofia",
-              "주어"
-            ],
-            [
-              "auf den Kosten",
-              "전치사 목적어"
-            ],
-            [
-              "sitzen.",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["Anstatt dass", "einrichtet,"],
+          "parts": [["Anstatt dass die WG eine gemeinsame Kasse einrichtet,", "종속절"], ["bleibt", "동사"], ["Sofia", "주어"], ["auf den Kosten", "전치사 목적어"], ["sitzen.", "동사(끝)"]]
         },
         {
           "de": "In der Vierer-WG von Mert (26) hat ein Mitbewohner seine Freundin praktisch einziehen lassen, ohne dass die anderen gefragt wurden.",
           "ko": "메르트(26)가 사는 4인 WG에서는 한 룸메이트가 다른 사람들에게 묻지도 않고 여자친구를 사실상 들어와 살게 했어요.",
-          "mark": [
-            "ohne dass",
-            "gefragt wurden"
-          ]
+          "mark": ["ohne dass", "gefragt wurden"]
         },
         {
           "de": "Die anderen drei beschweren sich untereinander, aber nie bei ihm – außer wenn mal wieder das Bad besetzt ist.",
           "ko": "나머지 세 사람은 자기들끼리 불평할 뿐 그에게는 한 번도 말하지 않아요. 욕실이 또 사용 중일 때만 예외예요.",
-          "mark": [
-            "außer wenn",
-            "besetzt ist"
-          ]
+          "mark": ["außer wenn", "besetzt ist"]
         }
       ],
       "tip": "주절과 종속절의 주어가 같으면 ohne … zu / anstatt … zu 부정사구로 줄일 수 있어요. 주어가 다르면 ohne dass / anstatt dass를 써야 해요. ohne dass에 이미 '~하지 않고'라는 뜻이 있으므로 절 안에 nicht를 넣지 않아요."
@@ -469,112 +247,37 @@
         {
           "de": "Bei Sofia (21) geht es ums Geld.",
           "ko": "소피아(21)의 경우는 돈 문제예요.",
-          "mark": [
-            "geht es ums Geld"
-          ],
-          "parts": [
-            [
-              "Bei Sofia (21)",
-              "부사어"
-            ],
-            [
-              "geht",
-              "동사"
-            ],
-            [
-              "es",
-              "주어"
-            ],
-            [
-              "ums Geld.",
-              "전치사 목적어"
-            ]
-          ]
+          "mark": ["geht es ums Geld"],
+          "parts": [["Bei Sofia (21)", "부사어"], ["geht", "동사"], ["es", "주어"], ["ums Geld.", "전치사 목적어"]]
         },
         {
           "de": "„Es geht darum, dass sich jemand nicht gesehen fühlt.“",
           "ko": "“누군가가 자기를 알아주지 않는다고 느끼는 것이 문제예요.”",
-          "mark": [
-            "darum, dass"
-          ]
+          "mark": ["darum, dass"]
         }
       ],
       "tip": "'Worum geht es?'(무슨 이야기예요?)는 글이나 영화의 주제를 물을 때 쓰는 표현이에요."
     }
   ],
   "vocab": [
-    {
-      "de": "die Wohngemeinschaft, -en (WG)",
-      "ko": "셰어하우스, 공동 주거(WG)"
-    },
-    {
-      "de": "der Mitbewohner, -",
-      "ko": "같이 사는 사람, 룸메이트"
-    },
-    {
-      "de": "die Reiberei, -en",
-      "ko": "작은 마찰, 사소한 다툼"
-    },
-    {
-      "de": "der Abwasch (Sg.)",
-      "ko": "설거지"
-    },
-    {
-      "de": "an|sprechen (spricht an, sprach an, hat angesprochen)",
-      "ko": "(문제를) 꺼내다, 말을 걸다"
-    },
-    {
-      "de": "sich beteiligen an + Dat.",
-      "ko": "~에 참여하다, (비용을) 분담하다"
-    },
-    {
-      "de": "sich beschweren über + Akk. / bei + Dat.",
-      "ko": "~에 대해 / ~에게 불평하다"
-    },
-    {
-      "de": "die Haushaltskasse, -n",
-      "ko": "공동 생활비, 가계 자금"
-    },
-    {
-      "de": "das Spülmittel, -",
-      "ko": "주방 세제"
-    },
-    {
-      "de": "an|greifen (greift an, griff an, hat angegriffen)",
-      "ko": "공격하다"
-    },
-    {
-      "de": "die Mediatorin, -nen",
-      "ko": "조정 전문가, 중재자(여성)"
-    },
-    {
-      "de": "die Beratungsstelle, -n",
-      "ko": "상담소"
-    },
-    {
-      "de": "der Grundsatzstreit, -e",
-      "ko": "원칙을 둘러싼 싸움"
-    },
-    {
-      "de": "entlasten",
-      "ko": "부담을 덜어 주다"
-    },
-    {
-      "de": "zuständig",
-      "ko": "담당하는, 책임이 있는"
-    },
-    {
-      "de": "aus|handeln",
-      "ko": "협의해서 정하다"
-    },
-    {
-      "de": "die Wahrnehmung, -en",
-      "ko": "지각, 느낀 것"
-    },
-    {
-      "de": "aus|lösen",
-      "ko": "(감정·반응을) 일으키다"
-    }
+    { "de": "die Wohngemeinschaft, -en (WG)", "ko": "셰어하우스, 공동 주거(WG)" },
+    { "de": "der Mitbewohner, -", "ko": "같이 사는 사람, 룸메이트" },
+    { "de": "die Reiberei, -en", "ko": "작은 마찰, 사소한 다툼" },
+    { "de": "der Abwasch (Sg.)", "ko": "설거지" },
+    { "de": "an|sprechen (spricht an, sprach an, hat angesprochen)", "ko": "(문제를) 꺼내다, 말을 걸다" },
+    { "de": "sich beteiligen an + Dat.", "ko": "~에 참여하다, (비용을) 분담하다" },
+    { "de": "sich beschweren über + Akk. / bei + Dat.", "ko": "~에 대해 / ~에게 불평하다" },
+    { "de": "die Haushaltskasse, -n", "ko": "공동 생활비, 가계 자금" },
+    { "de": "das Spülmittel, -", "ko": "주방 세제" },
+    { "de": "an|greifen (greift an, griff an, hat angegriffen)", "ko": "공격하다" },
+    { "de": "die Mediatorin, -nen", "ko": "조정 전문가, 중재자(여성)" },
+    { "de": "die Beratungsstelle, -n", "ko": "상담소" },
+    { "de": "der Grundsatzstreit, -e", "ko": "원칙을 둘러싼 싸움" },
+    { "de": "entlasten", "ko": "부담을 덜어 주다" },
+    { "de": "zuständig", "ko": "담당하는, 책임이 있는" },
+    { "de": "aus|handeln", "ko": "협의해서 정하다" },
+    { "de": "die Wahrnehmung, -en", "ko": "지각, 느낀 것" },
+    { "de": "aus|lösen", "ko": "(감정·반응을) 일으키다" }
   ],
   "phrases": [
     {

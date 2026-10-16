@@ -7,11 +7,7 @@
   "type": "E-Mail",
   "typeKo": "홈스테이 가족에게 보내는 이메일",
   "intro": "독일 교환학생 생활을 앞둔 한국 고등학생이 홈스테이 가족에게 첫 이메일을 보내요.",
-  "focus": [
-    "간접의문문 (ob, wann, was …)",
-    "미래 (werden + 동사원형)",
-    "공손한 부탁 (Können/Könnten Sie …?)"
-  ],
+  "focus": ["간접의문문 (ob, wann, was …)", "미래 (werden + 동사원형)", "공손한 부탁 (Können/Könnten Sie …?)"],
   "paragraphs": [
     {
       "style": "meta",
@@ -61,86 +57,38 @@
       "q": "Jae-min hat seiner Familie Bilder vom Haus der Hoffmanns gezeigt.",
       "answer": 0,
       "evidence": "Ich habe sie meiner Familie gezeigt, und alle finden Lübeck sehr schön.",
-      "pairs": [
-        [
-          "die Fotos von Ihrem Haus",
-          "Bilder vom Haus der Hoffmanns"
-        ],
-        [
-          "Ich habe sie meiner Familie gezeigt",
-          "hat seiner Familie Bilder"
-        ]
-      ],
+      "pairs": [["die Fotos von Ihrem Haus", "Bilder vom Haus der Hoffmanns"], ["Ich habe sie meiner Familie gezeigt", "hat seiner Familie Bilder"]],
       "explain": "재민은 호프만 가족이 보내 준 집 사진(Fotos)을 자기 가족에게 보여 줬다고 해요. Fotos를 Bilder로, 'Ihrem Haus'를 'Haus der Hoffmanns'로 바꿔 말했어요. 맞는 설명이에요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Wie kommt Jae-min nach Lübeck?",
-      "options": [
-        "Er fliegt direkt nach Lübeck und fährt dann mit dem Taxi weiter.",
-        "Er landet in einer anderen Stadt und fährt dann mit der Bahn weiter.",
-        "Er fliegt bis Hamburg, und die Hoffmanns holen ihn dort mit dem Auto ab."
-      ],
+      "options": ["Er fliegt direkt nach Lübeck und fährt dann mit dem Taxi weiter.", "Er landet in einer anderen Stadt und fährt dann mit der Bahn weiter.", "Er fliegt bis Hamburg, und die Hoffmanns holen ihn dort mit dem Auto ab."],
       "answer": 1,
       "evidence": "Mein Flugzeug landet morgens in Hamburg, von dort nehme ich den Zug.",
-      "pairs": [
-        [
-          "landet morgens in Hamburg",
-          "landet in einer anderen Stadt"
-        ],
-        [
-          "nehme ich den Zug",
-          "fährt dann mit der Bahn weiter"
-        ]
-      ],
+      "pairs": [["landet morgens in Hamburg", "landet in einer anderen Stadt"], ["nehme ich den Zug", "fährt dann mit der Bahn weiter"]],
       "explain": "비행기는 함부르크에 착륙하고 거기서 기차를 탄다고 해요. Hamburg를 '다른 도시'로, Zug를 Bahn으로 바꿔 표현했어요. 세 번째 선택지는 Hamburg, abholen 같은 본문 단어를 쓰지만, 재민은 함부르크에서 기차를 타고 뤼베크 역에서 데리러 와 주는지 묻는 거예요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was macht Jae-min, wenn ihn niemand am Bahnhof abholt?",
-      "options": [
-        "Er fährt mit einem Taxi zur Familie.",
-        "Er wartet am Bahnhof auf die Familie.",
-        "Er ruft die Familie Hoffmann an."
-      ],
+      "options": ["Er fährt mit einem Taxi zur Familie.", "Er wartet am Bahnhof auf die Familie.", "Er ruft die Familie Hoffmann an."],
       "answer": 0,
       "evidence": "Wenn nicht, ist das kein Problem – ich werde dann ein Taxi nehmen.",
-      "pairs": [
-        [
-          "Wenn nicht",
-          "wenn ihn niemand am Bahnhof abholt"
-        ],
-        [
-          "ein Taxi nehmen",
-          "mit einem Taxi zur Familie"
-        ]
-      ],
+      "pairs": [["Wenn nicht", "wenn ihn niemand am Bahnhof abholt"], ["ein Taxi nehmen", "mit einem Taxi zur Familie"]],
       "explain": "아무도 데리러 오지 않으면 택시를 타겠다고 해요. 'Wenn nicht'는 앞 문장의 '누군가 데리러 오는지'를 받아서 '그렇지 않으면'이라는 뜻이에요. 기다리거나 전화하겠다는 말은 없어요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was möchte Jae-min über die Schule wissen?",
-      "options": [
-        "wo die Schule liegt und wie er dorthin kommen kann",
-        "wann die Schule losgeht und was er dafür braucht",
-        "ob er in der Schule eine Schuluniform tragen muss"
-      ],
+      "options": ["wo die Schule liegt und wie er dorthin kommen kann", "wann die Schule losgeht und was er dafür braucht", "welche Fächer es gibt und wie viele Schüler kommen"],
       "answer": 1,
       "evidence": "Wissen Sie schon, wann der Unterricht anfängt? Und könnten Sie mir schreiben, was ich für die Schule mitbringen soll?",
-      "pairs": [
-        [
-          "wann der Unterricht anfängt",
-          "wann die Schule losgeht"
-        ],
-        [
-          "was ich für die Schule mitbringen soll",
-          "was er dafür braucht"
-        ]
-      ],
-      "explain": "재민은 수업이 언제 시작하는지와 학교에 무엇을 가져가야 하는지를 물어요. 'der Unterricht fängt an(수업이 시작된다)'을 'die Schule geht los(학교가 시작된다)'로, mitbringen sollen을 brauchen으로 바꿔 말했어요. 교복은 독일에 없다고 재민이 이미 생각하고 있으니, 입어야 하는지 묻는 것은 아니에요."
+      "pairs": [["wann der Unterricht anfängt", "wann die Schule losgeht"], ["was ich für die Schule mitbringen soll", "was er dafür braucht"]],
+      "explain": "재민은 수업이 언제 시작하는지와 학교에 무엇을 가져가야 하는지를 물어요. 'der Unterricht fängt an(수업이 시작된다)'을 'die Schule geht los(학교가 시작된다)'로, mitbringen sollen을 brauchen으로 바꿔 말했어요. 학교에 어떤 과목이 있는지, 학생이 몇 명 오는지는 편지에서 묻지 않아요."
     },
     {
       "type": "rf",
@@ -148,12 +96,7 @@
       "q": "Jae-min hat vor fünf Jahren angefangen, Gitarre zu spielen.",
       "answer": 0,
       "evidence": "Ich spiele seit fünf Jahren und möchte in Deutschland gern weiterüben.",
-      "pairs": [
-        [
-          "spiele seit fünf Jahren",
-          "hat vor fünf Jahren angefangen"
-        ]
-      ],
+      "pairs": [["spiele seit fünf Jahren", "hat vor fünf Jahren angefangen"]],
       "explain": "'5년째 치고 있다(seit fünf Jahren)'는 5년 전에 시작했다는 뜻이에요. seit를 'vor … angefangen'으로 바꿔 표현했어요. 맞는 설명이에요."
     },
     {
@@ -162,35 +105,17 @@
       "q": "Jae-min weiß schon, dass es in der Nähe der Familie einen Basketballplatz gibt.",
       "answer": 1,
       "evidence": "Außerdem würde ich gern wissen, ob es in der Nähe einen Basketballplatz gibt.",
-      "pairs": [
-        [
-          "würde ich gern wissen, ob",
-          "weiß schon, dass"
-        ]
-      ],
+      "pairs": [["würde ich gern wissen, ob", "weiß schon, dass"]],
       "explain": "재민은 근처에 농구장이 있는지 알고 싶다고 물어봐요. 즉 아직 몰라요. 문제는 '이미 안다(weiß schon, dass)'고 하니까 틀렸어요. ob(~인지)와 dass(~라는 것)의 차이에 주의하세요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was hat Jae-min sich für das Jahr in Deutschland vorgenommen?",
-      "options": [
-        "Er will keine andere Sprache als Deutsch reden, selbst wenn es schwer ist.",
-        "Er will mit der Gastfamilie Deutsch und in der Schule Englisch sprechen.",
-        "Er will zu Hause und in der Schule seine Fehler sofort selbst korrigieren."
-      ],
+      "options": ["Er will keine andere Sprache als Deutsch reden, selbst wenn es schwer ist.", "Er will mit der Gastfamilie Deutsch und in der Schule Englisch sprechen.", "Er will zu Hause und in der Schule seine Fehler sofort selbst korrigieren."],
       "answer": 0,
       "evidence": "Deshalb werde ich zu Hause und in der Schule nur Deutsch sprechen, auch wenn es am Anfang schwer ist.",
-      "pairs": [
-        [
-          "nur Deutsch sprechen",
-          "keine andere Sprache als Deutsch reden"
-        ],
-        [
-          "auch wenn es am Anfang schwer ist",
-          "selbst wenn es schwer ist"
-        ]
-      ],
+      "pairs": [["nur Deutsch sprechen", "keine andere Sprache als Deutsch reden"], ["auch wenn es am Anfang schwer ist", "selbst wenn es schwer ist"]],
       "explain": "재민은 집에서도 학교에서도 독일어만 쓰겠다고 해요. 'nur Deutsch sprechen(독일어만 말하다)'을 'keine andere Sprache als Deutsch reden(독일어 말고 다른 언어는 말하지 않다)'으로, 'auch wenn es am Anfang schwer ist'를 'selbst wenn es schwer ist'로 바꿔 말했어요. 실수는 자기가 고치는 게 아니라 가족에게 고쳐 달라고 부탁해요."
     }
   ],
@@ -204,66 +129,19 @@
         {
           "de": "Können Sie mir sagen, ob mich jemand vom Bahnhof abholt?",
           "ko": "누군가 저를 역으로 데리러 와 주시는지 알려 주실 수 있을까요?",
-          "mark": [
-            "ob",
-            "abholt"
-          ],
-          "parts": [
-            [
-              "Können",
-              "동사"
-            ],
-            [
-              "Sie",
-              "주어"
-            ],
-            [
-              "mir",
-              "3격 목적어"
-            ],
-            [
-              "sagen,",
-              "동사(끝)"
-            ],
-            [
-              "ob mich jemand vom Bahnhof abholt?",
-              "종속절"
-            ]
-          ]
+          "mark": ["ob", "abholt"],
+          "parts": [["Können", "동사"], ["Sie", "주어"], ["mir", "3격 목적어"], ["sagen,", "동사(끝)"], ["ob mich jemand vom Bahnhof abholt?", "종속절"]]
         },
         {
           "de": "Wissen Sie schon, wann der Unterricht anfängt?",
           "ko": "수업이 언제 시작하는지 혹시 아세요?",
-          "mark": [
-            "wann",
-            "anfängt"
-          ],
-          "parts": [
-            [
-              "Wissen",
-              "동사"
-            ],
-            [
-              "Sie",
-              "주어"
-            ],
-            [
-              "schon,",
-              "부사어(시간)"
-            ],
-            [
-              "wann der Unterricht anfängt?",
-              "종속절"
-            ]
-          ]
+          "mark": ["wann", "anfängt"],
+          "parts": [["Wissen", "동사"], ["Sie", "주어"], ["schon,", "부사어(시간)"], ["wann der Unterricht anfängt?", "종속절"]]
         },
         {
           "de": "Außerdem würde ich gern wissen, ob es in der Nähe einen Basketballplatz gibt.",
           "ko": "그리고 근처에 농구장이 있는지도 알고 싶어요.",
-          "mark": [
-            "ob",
-            "gibt"
-          ]
+          "mark": ["ob", "gibt"]
         }
       ],
       "tip": "간접의문문은 직접 묻는 것보다 더 공손하게 들려요. 주절이 질문이면 끝에 물음표(?), 주절이 평서문이면 마침표(.)를 써요: Ich würde gern wissen, ob … gibt. '~인지'는 ob이고, '~라는 것'은 dass예요: Ich weiß nicht, ob es dort einen Basketballplatz gibt. (있는지 몰라요) ↔ Ich weiß, dass es dort einen Basketballplatz gibt. (있다는 걸 알아요)"
@@ -277,82 +155,19 @@
         {
           "de": "Ich werde am 3. September gegen 16 Uhr am Hauptbahnhof Lübeck ankommen.",
           "ko": "저는 9월 3일 16시쯤 뤼베크 중앙역에 도착할 거예요.",
-          "mark": [
-            "werde",
-            "ankommen"
-          ],
-          "parts": [
-            [
-              "Ich",
-              "주어"
-            ],
-            [
-              "werde",
-              "동사"
-            ],
-            [
-              "am 3. September",
-              "부사어(시간)"
-            ],
-            [
-              "gegen 16 Uhr",
-              "부사어(시간)"
-            ],
-            [
-              "am Hauptbahnhof Lübeck",
-              "부사어(장소)"
-            ],
-            [
-              "ankommen.",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["werde", "ankommen"],
+          "parts": [["Ich", "주어"], ["werde", "동사"], ["am 3. September", "부사어(시간)"], ["gegen 16 Uhr", "부사어(시간)"], ["am Hauptbahnhof Lübeck", "부사어(장소)"], ["ankommen.", "동사(끝)"]]
         },
         {
           "de": "Deshalb werde ich zu Hause und in der Schule nur Deutsch sprechen, auch wenn es am Anfang schwer ist.",
           "ko": "그래서 처음에는 어렵더라도 집에서도 학교에서도 독일어만 쓰려고 해요.",
-          "mark": [
-            "werde",
-            "sprechen"
-          ],
-          "parts": [
-            [
-              "Deshalb",
-              "접속부사"
-            ],
-            [
-              "werde",
-              "동사"
-            ],
-            [
-              "ich",
-              "주어"
-            ],
-            [
-              "zu Hause und in der Schule",
-              "부사어(장소)"
-            ],
-            [
-              "nur Deutsch",
-              "4격 목적어"
-            ],
-            [
-              "sprechen,",
-              "동사(끝)"
-            ],
-            [
-              "auch wenn es am Anfang schwer ist.",
-              "종속절"
-            ]
-          ]
+          "mark": ["werde", "sprechen"],
+          "parts": [["Deshalb", "접속부사"], ["werde", "동사"], ["ich", "주어"], ["zu Hause und in der Schule", "부사어(장소)"], ["nur Deutsch", "4격 목적어"], ["sprechen,", "동사(끝)"], ["auch wenn es am Anfang schwer ist.", "종속절"]]
         },
         {
           "de": "Ich werde natürlich leise spielen.",
           "ko": "물론 조용히 칠게요.",
-          "mark": [
-            "werde",
-            "spielen"
-          ]
+          "mark": ["werde", "spielen"]
         }
       ],
       "tip": "werden + 동사원형은 미래이고, werden + 과거분사는 수동태예요. 'Ich werde ein Taxi nehmen'(미래)과 'Das Taxi wird bestellt'(수동태)를 구별하세요."
@@ -366,106 +181,33 @@
         {
           "de": "Und könnten Sie mir schreiben, was ich für die Schule mitbringen soll?",
           "ko": "그리고 제가 학교에 무엇을 가져가야 하는지 적어 주실 수 있을까요?",
-          "mark": [
-            "könnten Sie",
-            "schreiben"
-          ],
-          "parts": [
-            [
-              "Und",
-              "접속사"
-            ],
-            [
-              "könnten",
-              "동사"
-            ],
-            [
-              "Sie",
-              "주어"
-            ],
-            [
-              "mir",
-              "3격 목적어"
-            ],
-            [
-              "schreiben,",
-              "동사(끝)"
-            ],
-            [
-              "was ich für die Schule mitbringen soll?",
-              "종속절"
-            ]
-          ]
+          "mark": ["könnten Sie", "schreiben"],
+          "parts": [["Und", "접속사"], ["könnten", "동사"], ["Sie", "주어"], ["mir", "3격 목적어"], ["schreiben,", "동사(끝)"], ["was ich für die Schule mitbringen soll?", "종속절"]]
         },
         {
           "de": "Bitte korrigieren Sie mich, wenn ich Fehler mache!",
           "ko": "제가 실수하면 고쳐 주세요!",
-          "mark": [
-            "Bitte",
-            "korrigieren Sie"
-          ]
+          "mark": ["Bitte", "korrigieren Sie"]
         }
       ],
       "tip": "Sie에 대한 명령형은 '동사원형 + Sie' 순서예요: Korrigieren Sie mich! 앞에 Bitte를 붙이면 더 부드러워요. 다만 sein은 동사원형이 아니라 seien을 써요: Seien Sie bitte pünktlich!"
     }
   ],
   "vocab": [
-    {
-      "de": "die Ankunft, -¨e",
-      "ko": "도착"
-    },
-    {
-      "de": "der Betreff, -e",
-      "ko": "(이메일의) 제목"
-    },
-    {
-      "de": "an|kommen (kam an, ist angekommen)",
-      "ko": "도착하다"
-    },
-    {
-      "de": "landen (ist gelandet)",
-      "ko": "착륙하다"
-    },
-    {
-      "de": "ab|holen",
-      "ko": "데리러 가다, 마중 나가다"
-    },
-    {
-      "de": "der Koffer, -",
-      "ko": "여행 가방"
-    },
-    {
-      "de": "der Rucksack, -¨e",
-      "ko": "배낭"
-    },
-    {
-      "de": "der Unterricht (Sg.)",
-      "ko": "수업"
-    },
-    {
-      "de": "mit|bringen (brachte mit, hat mitgebracht)",
-      "ko": "가져오다, 가져가다"
-    },
-    {
-      "de": "die Schuluniform, -en",
-      "ko": "교복"
-    },
-    {
-      "de": "weiter|üben",
-      "ko": "계속 연습하다"
-    },
-    {
-      "de": "in der Nähe",
-      "ko": "근처에"
-    },
-    {
-      "de": "der Verein, -e",
-      "ko": "동호회, 클럽"
-    },
-    {
-      "de": "korrigieren",
-      "ko": "고치다, 수정하다"
-    }
+    { "de": "die Ankunft, -¨e", "ko": "도착" },
+    { "de": "der Betreff, -e", "ko": "(이메일의) 제목" },
+    { "de": "an|kommen (kam an, ist angekommen)", "ko": "도착하다" },
+    { "de": "landen (ist gelandet)", "ko": "착륙하다" },
+    { "de": "ab|holen", "ko": "데리러 가다, 마중 나가다" },
+    { "de": "der Koffer, -", "ko": "여행 가방" },
+    { "de": "der Rucksack, -¨e", "ko": "배낭" },
+    { "de": "der Unterricht (Sg.)", "ko": "수업" },
+    { "de": "mit|bringen (brachte mit, hat mitgebracht)", "ko": "가져오다, 가져가다" },
+    { "de": "die Schuluniform, -en", "ko": "교복" },
+    { "de": "weiter|üben", "ko": "계속 연습하다" },
+    { "de": "in der Nähe", "ko": "근처에" },
+    { "de": "der Verein, -e", "ko": "동호회, 클럽" },
+    { "de": "korrigieren", "ko": "고치다, 수정하다" }
   ],
   "phrases": [
     {

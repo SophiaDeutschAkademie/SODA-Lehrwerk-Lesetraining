@@ -7,12 +7,7 @@
   "type": "Kolumne",
   "typeKo": "개인 칼럼",
   "intro": "할 일 목록에 빠져 사는 칼럼니스트가 자신의 습관을 스스로 비웃으며 쓴 글이에요.",
-  "focus": [
-    "분리·비분리 접두사 동사 (über-, um-, unter-, durch-, wieder-)",
-    "관용 표현 (Redewendungen)",
-    "구어체 생략문과 짧은 문장",
-    "비현실 조건문 (접속법 2식)"
-  ],
+  "focus": ["분리·비분리 접두사 동사 (über-, um-, unter-, durch-, wieder-)", "관용 표현 (Redewendungen)", "구어체 생략문과 짧은 문장", "비현실 조건문 (접속법 2식)"],
   "paragraphs": [
     {
       "de": "Ich bin ein Listenmensch. Das sage ich nicht mit Stolz, sondern so, wie andere sagen, dass sie Linkshänder sind: Es ist eben so, man kann nichts dagegen tun. Mein Tag beginnt nicht mit Kaffee, sondern mit einem Blatt Papier, auf das ich schreibe, was ich an diesem Tag alles schaffen werde. Alles. Das Blatt ist dann sehr voll und ich bin sehr zufrieden, und das, bevor ich auch nur einen Punkt erledigt habe.",
@@ -52,24 +47,10 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wie stellt der Autor zu Beginn seine Vorliebe für Listen dar?",
-      "options": [
-        "als eine Gewohnheit, für die er sich schämt und die er ändern möchte",
-        "als eine seltene Fähigkeit, die ihn auszeichnet und auf die er stolz ist",
-        "als eine Eigenart, die er nüchtern feststellt und nicht ablegen kann",
-        "als eine Angewohnheit, die er früh von seinen Eltern übernommen hat"
-      ],
+      "options": ["als eine Gewohnheit, für die er sich schämt und die er ändern möchte", "als eine seltene Fähigkeit, die ihn auszeichnet und auf die er stolz ist", "als eine Eigenart, die er nüchtern feststellt und nicht ablegen kann", "als eine Angewohnheit, die er früh von seinen Eltern übernommen hat"],
       "answer": 2,
       "evidence": "Es ist eben so, man kann nichts dagegen tun.",
-      "pairs": [
-        [
-          "Das sage ich nicht mit Stolz",
-          "nüchtern feststellt"
-        ],
-        [
-          "man kann nichts dagegen tun",
-          "nicht ablegen kann"
-        ]
-      ],
+      "pairs": [["Das sage ich nicht mit Stolz", "nüchtern feststellt"], ["man kann nichts dagegen tun", "nicht ablegen kann"]],
       "explain": "글쓴이는 자랑스럽게 말하는 것이 아니라, 왼손잡이라는 사실을 말하듯 담담하게 말한다고 해요. 바로 뒤에 '원래 그렇고 어쩔 수 없다'고 덧붙이지요. 부끄러워하거나 바꾸고 싶어 한다는 내용, 부모에게서 물려받았다는 내용은 본문에 없어요."
     },
     {
@@ -78,56 +59,27 @@
       "q": "Der Autor empfindet schon beim Aufschreiben seiner Vorhaben eine gewisse Befriedigung.",
       "answer": 0,
       "evidence": "Das Blatt ist dann sehr voll und ich bin sehr zufrieden, und das, bevor ich auch nur einen Punkt erledigt habe.",
-      "pairs": [
-        [
-          "ich bin sehr zufrieden, und das, bevor ich auch nur einen Punkt erledigt habe",
-          "schon beim Aufschreiben seiner Vorhaben eine gewisse Befriedigung"
-        ]
-      ],
+      "pairs": [["ich bin sehr zufrieden, und das, bevor ich auch nur einen Punkt erledigt habe", "schon beim Aufschreiben seiner Vorhaben eine gewisse Befriedigung"]],
       "explain": "항목 하나를 끝내기도 전에 종이가 꽉 찬 것만으로 흐뭇해진다고 했어요. '적는 것만으로 이미 만족을 느낀다'는 문제의 진술과 같은 뜻이에요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Warum schreibt der Autor nachmittags bereits erledigte Dinge auf seine Liste?",
-      "options": [
-        "Weil er nachmittags vergessen hat, was er morgens schon aufgeschrieben hatte.",
-        "Weil er so genauer nachvollziehen kann, wie viel Zeit jede Aufgabe gekostet hat.",
-        "Weil er sich schämt, seinem Freund am Abend eine halb leere Liste zu zeigen.",
-        "Weil ihm das Abhaken ein Erfolgsgefühl gibt, auf das er nicht verzichten will."
-      ],
+      "options": ["Weil er nachmittags vergessen hat, was er morgens schon aufgeschrieben hatte.", "Weil er so genauer nachvollziehen kann, wie viel Zeit jede Aufgabe gekostet hat.", "Weil er sich schämt, seinem Freund am Abend eine halb leere Liste zu zeigen.", "Weil ihm das Abhaken ein Erfolgsgefühl gibt, auf das er nicht verzichten will."],
       "answer": 3,
       "evidence": "Aber dieses kleine Häkchen setzt etwas in mir frei, das sich wie Leistung anfühlt, und ich bin nicht bereit, darauf zu verzichten, nur weil es unverdient ist.",
-      "pairs": [
-        [
-          "setzt etwas in mir frei, das sich wie Leistung anfühlt",
-          "ein Erfolgsgefühl gibt"
-        ],
-        [
-          "nicht bereit, darauf zu verzichten",
-          "auf das er nicht verzichten will"
-        ]
-      ],
+      "pairs": [["setzt etwas in mir frei, das sich wie Leistung anfühlt", "ein Erfolgsgefühl gibt"], ["nicht bereit, darauf zu verzichten", "auf das er nicht verzichten will"]],
       "explain": "체크 표시가 성과처럼 느껴지는 감정을 불러일으키고, 그것이 공짜로 얻은 것이라도 포기하고 싶지 않다고 해요. 친구와 시간 계산은 다른 단락의 이야기예요."
     },
     {
       "type": "mc",
       "kind": "meaning",
       "q": "Was bedeutet „Die Steuererklärung schiebe ich seit März auf die lange Bank“?",
-      "options": [
-        "Er hat die Steuererklärung an eine andere Person weitergegeben.",
-        "Er arbeitet die Steuererklärung seit März Stück für Stück ab.",
-        "Er verschiebt die Steuererklärung seit März, ohne anzufangen.",
-        "Er hat die Steuererklärung seit März endgültig aufgegeben."
-      ],
+      "options": ["Er hat die Steuererklärung an eine andere Person weitergegeben.", "Er arbeitet die Steuererklärung seit März Stück für Stück ab.", "Er verschiebt die Steuererklärung seit März, ohne anzufangen.", "Er hat die Steuererklärung seit März endgültig aufgegeben."],
       "answer": 2,
       "evidence": "Die Steuererklärung schiebe ich seit März auf die lange Bank",
-      "pairs": [
-        [
-          "schiebe ich seit März auf die lange Bank",
-          "verschiebt die Steuererklärung seit März, ohne anzufangen"
-        ]
-      ],
+      "pairs": [["schiebe ich seit März auf die lange Bank", "verschiebt die Steuererklärung seit März, ohne anzufangen"]],
       "explain": "'etwas auf die lange Bank schieben'은 할 일을 계속 미룬다는 관용 표현이에요. 3월부터 세금 신고를 시작하지 않고 있다는 문맥과 맞아요. 포기한 것은 아니에요. 어제 목록에도 '세금 신고 시작하기'가 올라 있었듯이 적어 두기만 하고 손대지 않는 거예요."
     },
     {
@@ -136,56 +88,27 @@
       "q": "Der Autor arbeitet seine Liste von der wichtigsten zur unwichtigsten Aufgabe ab.",
       "answer": 1,
       "evidence": "Ich erledige den unwichtigsten Punkt zuerst, um den wichtigsten umgehen zu können.",
-      "pairs": [
-        [
-          "den unwichtigsten Punkt zuerst",
-          "von der wichtigsten zur unwichtigsten Aufgabe"
-        ]
-      ],
+      "pairs": [["den unwichtigsten Punkt zuerst", "von der wichtigsten zur unwichtigsten Aufgabe"]],
       "explain": "글쓴이는 가장 중요한 일을 피해 가려고 가장 덜 중요한 일부터 처리한다고 해요. 중요한 일부터 차례로 처리한다는 진술은 본문과 정반대예요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Welchen Vorwurf macht der Freund dem Autor?",
-      "options": [
-        "Er benutze das Planen als Vorwand, um das Handeln hinauszuzögern.",
-        "Er plane zu wenig und verliere deshalb den Überblick über den Tag.",
-        "Er schreibe seine Listen zu unordentlich, um sie nutzen zu können.",
-        "Er übertrage seine Listen zu selten auf Zettel und vergesse vieles."
-      ],
+      "options": ["Er benutze das Planen als Vorwand, um das Handeln hinauszuzögern.", "Er plane zu wenig und verliere deshalb den Überblick über den Tag.", "Er schreibe seine Listen zu unordentlich, um sie nutzen zu können.", "Er übertrage seine Listen zu selten auf Zettel und vergesse vieles."],
       "answer": 0,
       "evidence": "Er unterstellte mir, die Liste sei gar kein Werkzeug, sondern eine Ausrede: Solange ich plane, muss ich nichts tun.",
-      "pairs": [
-        [
-          "eine Ausrede",
-          "als Vorwand"
-        ],
-        [
-          "Solange ich plane, muss ich nichts tun",
-          "um das Handeln hinauszuzögern"
-        ]
-      ],
+      "pairs": [["eine Ausrede", "als Vorwand"], ["Solange ich plane, muss ich nichts tun", "um das Handeln hinauszuzögern"]],
       "explain": "친구는 목록이 도구가 아니라 핑계(Ausrede)라고 했어요. 문제에서는 Ausrede를 Vorwand로, '계획하는 동안에는 아무것도 안 해도 된다'를 '행동을 미루기 위해'로 바꿔 표현했어요. 옮겨 적기(Übertragen)는 본문에 나오지만 비난의 내용은 아니에요."
     },
     {
       "type": "mc",
       "kind": "meaning",
       "q": "Was bedeutet „am zweiten verlor ich den Faden“ im Text?",
-      "options": [
-        "den Überblick und den Zusammenhang verlieren",
-        "einen kleinen Gegenstand nicht mehr finden",
-        "die Lust an einer neuen Tätigkeit verlieren",
-        "einen wichtigen Termin am Abend vergessen"
-      ],
+      "options": ["den Überblick und den Zusammenhang verlieren", "einen kleinen Gegenstand nicht mehr finden", "die Lust an einer neuen Tätigkeit verlieren", "einen wichtigen Termin am Abend vergessen"],
       "answer": 0,
       "evidence": "am zweiten verlor ich den Faden: Ich fing drei Dinge an, brachte keines zu Ende",
-      "pairs": [
-        [
-          "verlor ich den Faden",
-          "den Überblick und den Zusammenhang verlieren"
-        ]
-      ],
+      "pairs": [["verlor ich den Faden", "den Überblick und den Zusammenhang verlieren"]],
       "explain": "'den Faden verlieren'은 이야기나 일의 흐름을 놓쳐서 갈피를 잡지 못한다는 뜻이에요. 뒤에 세 가지 일을 시작해서 하나도 끝내지 못했다는 설명이 이어져요. 의욕을 잃었다는 뜻과는 달라요."
     },
     {
@@ -194,56 +117,27 @@
       "q": "Nach dem Versuch ohne Liste nahm sich der Autor vor, künftig kürzere Listen zu schreiben.",
       "answer": 2,
       "evidence": null,
-      "pairs": [
-        [
-          "Am dritten Morgen lag wieder ein Blatt neben der Kaffeetasse",
-          "künftig kürzere Listen zu schreiben"
-        ]
-      ],
+      "pairs": [["Am dritten Morgen lag wieder ein Blatt neben der Kaffeetasse", "künftig kürzere Listen zu schreiben"]],
       "explain": "본문은 셋째 날 아침에 다시 종이가 놓여 있었다고만 해요. 목록을 더 짧게 쓰기로 했는지는 나오지 않아요. 마지막 단락에서 오늘 항목이 하나뿐이라고 하지만, 그것이 결심의 결과라는 말은 없어요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Hätte ich keine Liste, würde ich wahrscheinlich genauso viel erledigen – aber ich wüsste es nicht.“?",
-      "options": [
-        "Ohne Liste würde er vermutlich weniger schaffen, weil er nicht wüsste, was zu tun ist.",
-        "Die Liste steigert seine Produktivität vermutlich nicht, sie macht ihm sein Tun nur sichtbar.",
-        "Ohne Liste wüsste er nicht, welche Aufgaben noch offen sind, und würde deshalb mehr leisten.",
-        "Er weiß nicht, wie viel er ohne Liste schaffen würde, deshalb schreibt er weiter eine."
-      ],
+      "options": ["Ohne Liste würde er vermutlich weniger schaffen, weil er nicht wüsste, was zu tun ist.", "Die Liste steigert seine Produktivität vermutlich nicht, sie macht ihm sein Tun nur sichtbar.", "Ohne Liste wüsste er nicht, welche Aufgaben noch offen sind, und würde deshalb mehr leisten.", "Er weiß nicht, wie viel er ohne Liste schaffen würde, deshalb schreibt er weiter eine."],
       "answer": 1,
       "evidence": "Hätte ich keine Liste, würde ich wahrscheinlich genauso viel erledigen – aber ich wüsste es nicht.",
-      "pairs": [
-        [
-          "genauso viel erledigen",
-          "steigert seine Produktivität vermutlich nicht"
-        ],
-        [
-          "aber ich wüsste es nicht",
-          "macht ihm sein Tun nur sichtbar"
-        ]
-      ],
+      "pairs": [["genauso viel erledigen", "steigert seine Produktivität vermutlich nicht"], ["aber ich wüsste es nicht", "macht ihm sein Tun nur sichtbar"]],
       "explain": "목록이 없어도 똑같은 만큼 해낼 테지만 그것을 알지 못할 것이라는 말은, 목록이 일을 늘려 주는 것이 아니라 한 일을 눈에 보이게 해 준다는 뜻이에요. 앞 문장에서도 목록은 더 많이 해내기 위한 도구가 아니라고 했어요."
     },
     {
       "type": "mc",
       "kind": "intent",
       "q": "Welche Haltung nimmt der Autor gegenüber seiner Listengewohnheit insgesamt ein?",
-      "options": [
-        "Er verurteilt sie als Zeitverschwendung und kündigt an, damit aufzuhören.",
-        "Er verteidigt sie als bewährte Methode, mit der man nachweislich mehr schafft.",
-        "Er betrachtet sie mit Selbstironie und behält sie trotz ihrer Schwächen bei.",
-        "Er empfiehlt sie allen Lesern als wirksames Mittel gegen das Aufschieben."
-      ],
+      "options": ["Er verurteilt sie als Zeitverschwendung und kündigt an, damit aufzuhören.", "Er verteidigt sie als bewährte Methode, mit der man nachweislich mehr schafft.", "Er betrachtet sie mit Selbstironie und behält sie trotz ihrer Schwächen bei.", "Er empfiehlt sie allen Lesern als wirksames Mittel gegen das Aufschieben."],
       "answer": 2,
       "evidence": "Oft war er es sogar. Nicht wegen der Liste, aber mit ihr.",
-      "pairs": [
-        [
-          "Nicht wegen der Liste, aber mit ihr",
-          "behält sie trotz ihrer Schwächen bei"
-        ]
-      ],
+      "pairs": [["Nicht wegen der Liste, aber mit ihr", "behält sie trotz ihrer Schwächen bei"]],
       "explain": "글쓴이는 자기 속임수와 미루기를 스스로 웃으며 드러내지만, 결국 목록을 계속 써요. 목록이 생산성을 높인다는 주장은 스스로 부정했고, 독자에게 권하거나 그만두겠다고 말하지도 않아요."
     }
   ],
@@ -257,60 +151,19 @@
         {
           "de": "Ich erledige den unwichtigsten Punkt zuerst, um den wichtigsten umgehen zu können.",
           "ko": "가장 중요한 일을 피해 가려고 가장 덜 중요한 일부터 하는 거예요.",
-          "mark": [
-            "umgehen"
-          ],
-          "parts": [
-            [
-              "Ich",
-              "주어"
-            ],
-            [
-              "erledige",
-              "동사"
-            ],
-            [
-              "den unwichtigsten Punkt",
-              "4격 목적어"
-            ],
-            [
-              "zuerst,",
-              "부사어(시간)"
-            ],
-            [
-              "um den wichtigsten umgehen zu können.",
-              "zu 부정사구"
-            ]
-          ]
+          "mark": ["umgehen"],
+          "parts": [["Ich", "주어"], ["erledige", "동사"], ["den unwichtigsten Punkt", "4격 목적어"], ["zuerst,", "부사어(시간)"], ["um den wichtigsten umgehen zu können.", "zu 부정사구"]]
         },
         {
           "de": "dafür habe ich den Keller durchgesehen, die Gewürze umsortiert und einen Artikel über Prokrastination zu Ende gelesen, der mir sehr aus der Seele sprach.",
           "ko": "그 대신 지하실을 살펴보고, 향신료를 다시 정리하고, 미루는 습관에 관한 기사를 끝까지 읽었는데, 그 기사는 제 마음을 그대로 대변해 주더군요.",
-          "mark": [
-            "durchgesehen",
-            "umsortiert"
-          ]
+          "mark": ["durchgesehen", "umsortiert"]
         },
         {
           "de": "wer das erwartet, überschätzt sie.",
           "ko": "그것을 기대하는 사람은 목록을 과대평가하는 거예요.",
-          "mark": [
-            "überschätzt"
-          ],
-          "parts": [
-            [
-              "wer das erwartet,",
-              "주어"
-            ],
-            [
-              "überschätzt",
-              "동사"
-            ],
-            [
-              "sie.",
-              "4격 목적어"
-            ]
-          ]
+          "mark": ["überschätzt"],
+          "parts": [["wer das erwartet,", "주어"], ["überschätzt", "동사"], ["sie.", "4격 목적어"]]
         }
       ],
       "tip": "wieder-도 마찬가지예요. wiederhólen은 '반복하다'(비분리), wíeder|holen은 '다시 가져오다'(분리)예요. 본문의 'ein Rest, der auf den nächsten Tag übergeht'에서 über|gehen은 '넘어가다'라는 구체적인 뜻이라 분리동사이고, 비분리 übergéhen은 '무시하고 지나치다'라는 뜻이에요."
@@ -324,68 +177,19 @@
         {
           "de": "Die Steuererklärung schiebe ich seit März auf die lange Bank",
           "ko": "세금 신고는 3월부터 계속 미루고 있어요.",
-          "mark": [
-            "schiebe",
-            "auf die lange Bank"
-          ],
-          "parts": [
-            [
-              "Die Steuererklärung",
-              "4격 목적어"
-            ],
-            [
-              "schiebe",
-              "동사"
-            ],
-            [
-              "ich",
-              "주어"
-            ],
-            [
-              "seit März",
-              "부사어(시간)"
-            ],
-            [
-              "auf die lange Bank",
-              "기타"
-            ]
-          ]
+          "mark": ["schiebe", "auf die lange Bank"],
+          "parts": [["Die Steuererklärung", "4격 목적어"], ["schiebe", "동사"], ["ich", "주어"], ["seit März", "부사어(시간)"], ["auf die lange Bank", "기타"]]
         },
         {
           "de": "Dass ich dabei Tante Hilde unter den Tisch fallen ließ, tut mir aufrichtig leid.",
           "ko": "그 와중에 힐데 이모를 잊어버린 것은 진심으로 미안해요.",
-          "mark": [
-            "unter den Tisch fallen ließ"
-          ]
+          "mark": ["unter den Tisch fallen ließ"]
         },
         {
           "de": "Ich hatte die Nase voll von der Freiheit.",
           "ko": "자유라면 이제 지긋지긋했거든요.",
-          "mark": [
-            "hatte die Nase voll von"
-          ],
-          "parts": [
-            [
-              "Ich",
-              "주어"
-            ],
-            [
-              "hatte",
-              "동사"
-            ],
-            [
-              "die Nase",
-              "4격 목적어"
-            ],
-            [
-              "voll",
-              "보어"
-            ],
-            [
-              "von der Freiheit.",
-              "전치사 목적어"
-            ]
-          ]
+          "mark": ["hatte die Nase voll von"],
+          "parts": [["Ich", "주어"], ["hatte", "동사"], ["die Nase", "4격 목적어"], ["voll", "보어"], ["von der Freiheit.", "전치사 목적어"]]
         }
       ],
       "tip": "관용 표현은 격과 전치사까지 함께 외우세요: die Nase voll haben von + 3격, jemandem aus der Seele sprechen(3격)."
@@ -399,53 +203,18 @@
         {
           "de": "Mein Tag beginnt nicht mit Kaffee, sondern mit einem Blatt Papier, auf das ich schreibe, was ich an diesem Tag alles schaffen werde. Alles.",
           "ko": "제 하루는 커피가 아니라 종이 한 장으로 시작해요. 그 종이에 저는 오늘 해낼 일을 전부 적어요. 전부요.",
-          "mark": [
-            "Alles."
-          ]
+          "mark": ["Alles."]
         },
         {
           "de": "Natürlich habe ich auch schon versucht, ohne Liste zu leben. Zwei Tage lang.",
           "ko": "물론 목록 없이 살아 보려고 한 적도 있어요. 이틀 동안요.",
-          "mark": [
-            "Zwei Tage lang."
-          ],
-          "parts": [
-            [
-              "Natürlich",
-              "부사어"
-            ],
-            [
-              "habe",
-              "동사"
-            ],
-            [
-              "ich",
-              "주어"
-            ],
-            [
-              "auch schon",
-              "부사어"
-            ],
-            [
-              "versucht,",
-              "동사(끝)"
-            ],
-            [
-              "ohne Liste zu leben.",
-              "zu 부정사구"
-            ],
-            [
-              "Zwei Tage lang.",
-              "부사어(시간)"
-            ]
-          ]
+          "mark": ["Zwei Tage lang."],
+          "parts": [["Natürlich", "부사어"], ["habe", "동사"], ["ich", "주어"], ["auch schon", "부사어"], ["versucht,", "동사(끝)"], ["ohne Liste zu leben.", "zu 부정사구"], ["Zwei Tage lang.", "부사어(시간)"]]
         },
         {
           "de": "Sie steht morgen wieder drauf. Ganz oben.",
           "ko": "이모는 내일 다시 목록에 올라가요. 맨 위에요.",
-          "mark": [
-            "Ganz oben."
-          ]
+          "mark": ["Ganz oben."]
         }
       ],
       "tip": "생략문은 문체 수단이에요. 격식 있는 글이나 시험 작문에서는 완전한 문장을 쓰세요."
@@ -459,144 +228,34 @@
         {
           "de": "Hätte ich keine Liste, würde ich wahrscheinlich genauso viel erledigen – aber ich wüsste es nicht.",
           "ko": "목록이 없더라도 저는 아마 똑같은 만큼 해낼 거예요. 하지만 그걸 알지는 못하겠지요.",
-          "mark": [
-            "Hätte ich",
-            "würde",
-            "erledigen",
-            "wüsste"
-          ],
-          "parts": [
-            [
-              "Hätte ich keine Liste,",
-              "종속절"
-            ],
-            [
-              "würde",
-              "동사"
-            ],
-            [
-              "ich",
-              "주어"
-            ],
-            [
-              "wahrscheinlich",
-              "부사어"
-            ],
-            [
-              "genauso viel",
-              "4격 목적어"
-            ],
-            [
-              "erledigen",
-              "동사(끝)"
-            ],
-            [
-              "– aber",
-              "접속사"
-            ],
-            [
-              "ich",
-              "주어"
-            ],
-            [
-              "wüsste",
-              "동사"
-            ],
-            [
-              "es",
-              "4격 목적어"
-            ],
-            [
-              "nicht.",
-              "부정어"
-            ]
-          ]
+          "mark": ["Hätte ich", "würde", "erledigen", "wüsste"],
+          "parts": [["Hätte ich keine Liste,", "종속절"], ["würde", "동사"], ["ich", "주어"], ["wahrscheinlich", "부사어"], ["genauso viel", "4격 목적어"], ["erledigen", "동사(끝)"], ["– aber", "접속사"], ["ich", "주어"], ["wüsste", "동사"], ["es", "4격 목적어"], ["nicht.", "부정어"]]
         }
       ],
       "tip": "wenn 없이 동사를 앞에 두는 조건절은 문어와 구어 모두에서 쓰여요. 직설법으로 '만약 ~하면'을 말할 때도 가능해요: Kommt er morgen, sage ich es ihm."
     }
   ],
   "vocab": [
-    {
-      "de": "gestehen (gestand, hat gestanden)",
-      "ko": "고백하다, 인정하다"
-    },
-    {
-      "de": "die Steuererklärung, -en",
-      "ko": "세금 신고(서)"
-    },
-    {
-      "de": "vereinbaren",
-      "ko": "(약속·일정을) 잡다, 합의하다"
-    },
-    {
-      "de": "die Prokrastination (Sg.)",
-      "ko": "미루는 습관, 지연 행동"
-    },
-    {
-      "de": "durch|bekommen (bekam durch, hat durchbekommen)",
-      "ko": "(일을) 끝까지 해내다, 처리하다"
-    },
-    {
-      "de": "ab|haken",
-      "ko": "체크 표시를 하다, 끝낸 것으로 처리하다"
-    },
-    {
-      "de": "das Häkchen, -",
-      "ko": "체크 표시"
-    },
-    {
-      "de": "der Schwung (Sg.)",
-      "ko": "힘찬 기세, 탄력"
-    },
-    {
-      "de": "betrügen (betrog, hat betrogen)",
-      "ko": "속이다"
-    },
-    {
-      "de": "unverdient",
-      "ko": "노력 없이 얻은, 자격 없이 받은"
-    },
-    {
-      "de": "die Vermeidung (Sg.)",
-      "ko": "회피, 피함"
-    },
-    {
-      "de": "umgehen (umging, hat umgangen) + Akk.",
-      "ko": "피해 가다, 우회하다"
-    },
-    {
-      "de": "durch|sehen (sieht durch, sah durch, hat durchgesehen)",
-      "ko": "훑어보다, 살펴보다"
-    },
-    {
-      "de": "um|sortieren",
-      "ko": "다시 정리하다, 재분류하다"
-    },
-    {
-      "de": "aufrichtig",
-      "ko": "진심 어린, 솔직한"
-    },
-    {
-      "de": "vor|rechnen + Dat.",
-      "ko": "(~에게) 계산해서 보여 주다"
-    },
-    {
-      "de": "unterstellen + Dat.",
-      "ko": "(~에게 근거 없이) ~라고 여기다, 넘겨짚다"
-    },
-    {
-      "de": "der Einwand, -¨e",
-      "ko": "이의, 반론"
-    },
-    {
-      "de": "überschätzen",
-      "ko": "과대평가하다"
-    },
-    {
-      "de": "sich (Dat.) etwas ein|reden",
-      "ko": "스스로에게 ~라고 믿게 하다"
-    }
+    { "de": "gestehen (gestand, hat gestanden)", "ko": "고백하다, 인정하다" },
+    { "de": "die Steuererklärung, -en", "ko": "세금 신고(서)" },
+    { "de": "vereinbaren", "ko": "(약속·일정을) 잡다, 합의하다" },
+    { "de": "die Prokrastination (Sg.)", "ko": "미루는 습관, 지연 행동" },
+    { "de": "durch|bekommen (bekam durch, hat durchbekommen)", "ko": "(일을) 끝까지 해내다, 처리하다" },
+    { "de": "ab|haken", "ko": "체크 표시를 하다, 끝낸 것으로 처리하다" },
+    { "de": "das Häkchen, -", "ko": "체크 표시" },
+    { "de": "der Schwung (Sg.)", "ko": "힘찬 기세, 탄력" },
+    { "de": "betrügen (betrog, hat betrogen)", "ko": "속이다" },
+    { "de": "unverdient", "ko": "노력 없이 얻은, 자격 없이 받은" },
+    { "de": "die Vermeidung (Sg.)", "ko": "회피, 피함" },
+    { "de": "umgehen (umging, hat umgangen) + Akk.", "ko": "피해 가다, 우회하다" },
+    { "de": "durch|sehen (sieht durch, sah durch, hat durchgesehen)", "ko": "훑어보다, 살펴보다" },
+    { "de": "um|sortieren", "ko": "다시 정리하다, 재분류하다" },
+    { "de": "aufrichtig", "ko": "진심 어린, 솔직한" },
+    { "de": "vor|rechnen + Dat.", "ko": "(~에게) 계산해서 보여 주다" },
+    { "de": "unterstellen + Dat.", "ko": "(~에게 근거 없이) ~라고 여기다, 넘겨짚다" },
+    { "de": "der Einwand, -¨e", "ko": "이의, 반론" },
+    { "de": "überschätzen", "ko": "과대평가하다" },
+    { "de": "sich (Dat.) etwas ein|reden", "ko": "스스로에게 ~라고 믿게 하다" }
   ],
   "phrases": [
     {

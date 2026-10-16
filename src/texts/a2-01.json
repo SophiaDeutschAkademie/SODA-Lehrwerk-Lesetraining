@@ -9,119 +9,184 @@
   "intro": "브레멘으로 이사한 미라가 친구에게 이사와 새집 이야기를 전하는 메일이에요.",
   "focus": ["현재완료 (불규칙 과거분사)", "3·4격 지배 전치사 (Wo? / Wohin?)", "stellen/stehen · legen/liegen · hängen"],
   "paragraphs": [
-    { "style": "meta", "de": "Liebe Hanna,", "ko": "한나에게" },
-    { "de": "endlich habe ich Zeit für eine lange Mail! Vor zwei Wochen bin ich nach Bremen umgezogen, und seit gestern steht kein Karton mehr im Wohnzimmer. Die neue Wohnung liegt im ersten Stock und hat sogar einen kleinen Balkon.",
-      "ko": "드디어 긴 메일을 쓸 시간이 생겼어요! 2주 전에 저는 브레멘으로 이사했고, 어제부터는 거실에 상자가 하나도 없어요. 새집은 2층에 있고 작은 발코니까지 있어요." },
-    { "de": "Beim Umzug haben mir vier Freunde geholfen. Jonas und Timo haben die schweren Kisten getragen, Lea hat die Küche eingeräumt und Sara hat für alle gekocht. Nur das Sofa hat nicht durch die Tür gepasst. Also haben wir es mit einem Seil über den Balkon nach oben gezogen – das hat eine Stunde gedauert, aber es hat funktioniert!",
-      "ko": "이사할 때 친구 네 명이 저를 도와줬어요. 요나스와 티모는 무거운 상자들을 날랐고, 레아는 부엌 살림을 정리해 넣었고, 자라는 모두를 위해 요리를 했어요. 소파만 문으로 들어가지 않았어요. 그래서 우리는 밧줄로 발코니를 통해 소파를 위로 끌어올렸어요. 한 시간이 걸렸지만 성공했어요!" },
-    { "de": "Jetzt sieht die Wohnung schon fast fertig aus. Im Flur steht die Waschmaschine, denn im Bad ist kein Platz für sie. Neben der Waschmaschine liegen noch meine Winterschuhe in einer Tüte. Das Bett und den alten Schrank habe ich ins Schlafzimmer gestellt, den Teppich habe ich vor das Bett gelegt. Neben der Wohnungstür hängt ein großer Spiegel – leider ein bisschen schief. Mein Vater hat ihn am Sonntag aufgehängt. Ich finde das lustig, also bleibt er so. Nur die Bücher liegen noch in Kisten unter dem Fenster.",
-      "ko": "이제 집은 거의 다 정리된 것처럼 보여요. 세탁기는 복도에 있어요. 욕실에는 세탁기를 놓을 자리가 없거든요. 세탁기 옆에는 아직 제 겨울 신발이 봉지에 담긴 채 놓여 있어요. 침대와 낡은 옷장은 침실에 놓았고, 카펫은 침대 앞에 깔았어요. 현관문 옆에는 큰 거울이 걸려 있는데, 아쉽게도 조금 비뚤어요. 아버지가 일요일에 걸어 주셨어요. 저는 그게 재미있어요. 그래서 거울은 그냥 그대로 둘 거예요. 책들만 아직 창문 아래 상자 안에 들어 있어요." },
-    { "de": "Wann kommst du mich besuchen? Im Juni habe ich zwei Wochen Urlaub. Du kannst auf dem Sofa schlafen. Es steht jetzt im Wohnzimmer vor dem Fenster, und von dort sieht man den Fluss. Ruf mich an oder schreib mir, wann du Zeit hast!",
-      "ko": "언제 저를 보러 올 거예요? 6월에 저는 2주 휴가가 있어요. 소파에서 자도 돼요. 소파는 지금 거실 창문 앞에 있는데, 거기서 강이 보여요. 언제 시간이 되는지 전화하거나 메시지를 보내 주세요!" },
-    { "style": "meta", "de": "Liebe Grüße aus Bremen", "ko": "브레멘에서 안부를 전하며" },
-    { "style": "meta", "de": "deine Mira", "ko": "미라가" }
+    {
+      "style": "meta",
+      "de": "Liebe Hanna,",
+      "ko": "한나에게"
+    },
+    {
+      "de": "endlich habe ich Zeit für eine lange Mail! Vor zwei Wochen bin ich nach Bremen umgezogen, und seit gestern steht kein Karton mehr im Wohnzimmer. Die neue Wohnung liegt im ersten Stock und hat sogar einen kleinen Balkon.",
+      "ko": "드디어 긴 메일을 쓸 시간이 생겼어요! 2주 전에 저는 브레멘으로 이사했고, 어제부터는 거실에 상자가 하나도 없어요. 새집은 2층에 있고 작은 발코니까지 있어요."
+    },
+    {
+      "de": "Beim Umzug haben mir vier Freunde geholfen. Jonas und Timo haben die schweren Kisten getragen, Lea hat die Küche eingeräumt und Sara hat für alle gekocht. Nur das Sofa hat nicht durch die Tür gepasst. Also haben wir es mit einem Seil über den Balkon nach oben gezogen – das hat eine Stunde gedauert, aber es hat funktioniert!",
+      "ko": "이사할 때 친구 네 명이 저를 도와줬어요. 요나스와 티모는 무거운 상자들을 날랐고, 레아는 부엌 살림을 정리해 넣었고, 자라는 모두를 위해 요리를 했어요. 소파만 문으로 들어가지 않았어요. 그래서 우리는 밧줄로 발코니를 통해 소파를 위로 끌어올렸어요. 한 시간이 걸렸지만 성공했어요!"
+    },
+    {
+      "de": "Jetzt sieht die Wohnung schon fast fertig aus. Im Flur steht die Waschmaschine, denn im Bad ist kein Platz für sie. Neben der Waschmaschine liegen noch meine Winterschuhe in einer Tüte. Das Bett und den alten Schrank habe ich ins Schlafzimmer gestellt, den Teppich habe ich vor das Bett gelegt. Neben der Wohnungstür hängt ein großer Spiegel – leider ein bisschen schief. Mein Vater hat ihn am Sonntag aufgehängt. Ich finde das lustig, also bleibt er so. Nur die Bücher liegen noch in Kisten unter dem Fenster.",
+      "ko": "이제 집은 거의 다 정리된 것처럼 보여요. 세탁기는 복도에 있어요. 욕실에는 세탁기를 놓을 자리가 없거든요. 세탁기 옆에는 아직 제 겨울 신발이 봉지에 담긴 채 놓여 있어요. 침대와 낡은 옷장은 침실에 놓았고, 카펫은 침대 앞에 깔았어요. 현관문 옆에는 큰 거울이 걸려 있는데, 아쉽게도 조금 비뚤어요. 아버지가 일요일에 걸어 주셨어요. 저는 그게 재미있어요. 그래서 거울은 그냥 그대로 둘 거예요. 책들만 아직 창문 아래 상자 안에 들어 있어요."
+    },
+    {
+      "de": "Wann kommst du mich besuchen? Im Juni habe ich zwei Wochen Urlaub. Du kannst auf dem Sofa schlafen. Es steht jetzt im Wohnzimmer vor dem Fenster, und von dort sieht man den Fluss. Ruf mich an oder schreib mir, wann du Zeit hast!",
+      "ko": "언제 저를 보러 올 거예요? 6월에 저는 2주 휴가가 있어요. 소파에서 자도 돼요. 소파는 지금 거실 창문 앞에 있는데, 거기서 강이 보여요. 언제 시간이 되는지 전화하거나 메시지를 보내 주세요!"
+    },
+    {
+      "style": "meta",
+      "de": "Liebe Grüße aus Bremen",
+      "ko": "브레멘에서 안부를 전하며"
+    },
+    {
+      "style": "meta",
+      "de": "deine Mira",
+      "ko": "미라가"
+    }
   ],
   "questions": [
-    { "type": "rf", "kind": "detail",
+    {
+      "type": "rf",
+      "kind": "detail",
       "q": "Mira wohnt seit vierzehn Tagen in Bremen.",
       "answer": 0,
       "evidence": "Vor zwei Wochen bin ich nach Bremen umgezogen",
       "pairs": [["Vor zwei Wochen", "seit vierzehn Tagen"], ["umgezogen", "wohnt"]],
-      "explain": "'2주 전에 이사했다'(vor zwei Wochen umgezogen)는 말을 '14일째 살고 있다'(seit vierzehn Tagen wohnt)로 바꿔 표현했어요. 2주는 14일이에요." },
-    { "type": "mc", "kind": "detail",
+      "explain": "'2주 전에 이사했다'(vor zwei Wochen umgezogen)는 말을 '14일째 살고 있다'(seit vierzehn Tagen wohnt)로 바꿔 표현했어요. 2주는 14일이에요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
       "q": "Was haben Jonas und Timo beim Umzug gemacht?",
       "options": ["Sie haben für alle Helfer das Essen gekocht.", "Sie haben Kartons in die Wohnung gebracht.", "Sie haben in der Küche alles eingeräumt."],
       "answer": 1,
       "evidence": "Jonas und Timo haben die schweren Kisten getragen",
       "pairs": [["die schweren Kisten getragen", "Kartons in die Wohnung gebracht"]],
-      "explain": "요나스와 티모는 무거운 상자(Kisten)를 날랐어요(getragen). 정답은 이것을 '상자(Kartons)를 집 안으로 가져왔다'로 바꿔 말했어요. 요리는 자라가, 부엌 정리는 레아가 했어요." },
-    { "type": "mc", "kind": "detail",
+      "explain": "요나스와 티모는 무거운 상자(Kisten)를 날랐어요(getragen). 정답은 이것을 '상자(Kartons)를 집 안으로 가져왔다'로 바꿔 말했어요. 요리는 자라가, 부엌 정리는 레아가 했어요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
       "q": "Wie ist das Sofa in die Wohnung gekommen?",
       "options": ["Die Freunde haben es durch die Tür ins Wohnzimmer getragen.", "Die Freunde haben es von draußen in den ersten Stock geholt.", "Mira hat ein neues Sofa gekauft, weil das alte zu groß war."],
       "answer": 1,
       "evidence": "Also haben wir es mit einem Seil über den Balkon nach oben gezogen",
       "pairs": [["mit einem Seil über den Balkon nach oben gezogen", "von draußen in den ersten Stock geholt"]],
-      "explain": "소파는 문으로 들어가지 않아서 밧줄로 발코니를 통해 위로 끌어올렸어요. 발코니로 올렸다는 것은 집 '밖에서'(von draußen) 집이 있는 위층(in den ersten Stock)으로 끌어올렸다는 뜻이에요. 소파는 문으로 들어가지 않았으니 문을 통해 날랐다는 말은 틀리고, 새 소파를 샀다는 말은 본문에 없어요." },
-    { "type": "rf", "kind": "detail",
+      "explain": "소파는 문으로 들어가지 않아서 밧줄로 발코니를 통해 위로 끌어올렸어요. 발코니로 올렸다는 것은 집 '밖에서'(von draußen) 집이 있는 위층(in den ersten Stock)으로 끌어올렸다는 뜻이에요. 소파는 문으로 들어가지 않았으니 문을 통해 날랐다는 말은 틀리고, 새 소파를 샀다는 말은 본문에 없어요."
+    },
+    {
+      "type": "rf",
+      "kind": "detail",
       "q": "Die Waschmaschine steht im Bad, weil der Flur zu klein ist.",
       "answer": 1,
       "evidence": "Im Flur steht die Waschmaschine, denn im Bad ist kein Platz für sie.",
       "pairs": [["Im Flur steht die Waschmaschine", "steht im Bad"], ["im Bad ist kein Platz", "der Flur zu klein"]],
-      "explain": "본문에서는 세탁기가 복도에 있고, 욕실에 자리가 없다고 해요. 문제는 두 장소를 서로 바꿔 놓았어요. Bad, Flur 같은 본문 단어가 그대로 나와도 내용은 반대예요." },
-    { "type": "mc", "kind": "detail",
+      "explain": "본문에서는 세탁기가 복도에 있고, 욕실에 자리가 없다고 해요. 문제는 두 장소를 서로 바꿔 놓았어요. Bad, Flur 같은 본문 단어가 그대로 나와도 내용은 반대예요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
       "q": "Was erfahren wir über den Spiegel?",
       "options": ["Er hängt nicht ganz gerade, aber Mira will ihn so lassen.", "Mira hat ihn am Sonntag im Schlafzimmer aufgehängt.", "Er ist beim Umzug kaputtgegangen und hängt noch nicht."],
       "answer": 0,
       "evidence": "Neben der Wohnungstür hängt ein großer Spiegel – leider ein bisschen schief. Mein Vater hat ihn am Sonntag aufgehängt. Ich finde das lustig, also bleibt er so.",
       "pairs": [["ein bisschen schief", "nicht ganz gerade"], ["also bleibt er so", "will ihn so lassen"]],
-      "explain": "schief(비뚤어진)를 '완전히 똑바르지는 않다'(nicht ganz gerade)로, '그대로 둔다'(bleibt er so)를 '그렇게 두고 싶어 한다'로 바꿔 말했어요. 거울은 아버지가 현관문 옆에 걸었어요. 미라가 침실에 건 것이 아니에요." },
-    { "type": "rf", "kind": "detail",
+      "explain": "schief(비뚤어진)를 '완전히 똑바르지는 않다'(nicht ganz gerade)로, '그대로 둔다'(bleibt er so)를 '그렇게 두고 싶어 한다'로 바꿔 말했어요. 거울은 아버지가 현관문 옆에 걸었어요. 미라가 침실에 건 것이 아니에요."
+    },
+    {
+      "type": "rf",
+      "kind": "detail",
       "q": "Mira hat die Bücher noch nicht ausgepackt.",
       "answer": 0,
       "evidence": "Nur die Bücher liegen noch in Kisten unter dem Fenster.",
       "pairs": [["liegen noch in Kisten", "noch nicht ausgepackt"]],
-      "explain": "책들이 아직 상자 안에 들어 있다는 말은 아직 꺼내지 않았다(noch nicht ausgepackt)는 뜻이에요. 본문의 상황을 다른 말로 바꾼 거예요." },
-    { "type": "mc", "kind": "detail",
+      "explain": "책들이 아직 상자 안에 들어 있다는 말은 아직 꺼내지 않았다(noch nicht ausgepackt)는 뜻이에요. 본문의 상황을 다른 말로 바꾼 거예요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
       "q": "Was soll Hanna machen?",
       "options": ["Sie soll Mira im Juni beim Umzug nach Bremen helfen.", "Sie soll Mira ein Sofa für das Wohnzimmer bringen.", "Sie soll Mira sagen, wann sie zu ihr kommen kann."],
       "answer": 2,
       "evidence": "Ruf mich an oder schreib mir, wann du Zeit hast!",
       "pairs": [["Wann kommst du mich besuchen?", "wann sie zu ihr kommen kann"], ["Ruf mich an oder schreib mir", "sagen"]],
-      "explain": "미라는 한나에게 언제 자기를 보러 올 거냐고 묻고, 언제 시간이 되는지 전화하거나 메시지를 보내 달라고 해요. 즉 언제 자기에게 올 수 있는지 알려 달라는 뜻이에요. 이사는 이미 끝났으니 도움을 부탁하는 것이 아니고, 소파는 미라에게 이미 있어요." }
+      "explain": "미라는 한나에게 언제 자기를 보러 올 거냐고 묻고, 언제 시간이 되는지 전화하거나 메시지를 보내 달라고 해요. 즉 언제 자기에게 올 수 있는지 알려 달라는 뜻이에요. 이사는 이미 끝났으니 도움을 부탁하는 것이 아니고, 소파는 미라에게 이미 있어요."
+    }
   ],
   "grammar": [
-    { "title": "현재완료 – 불규칙 과거분사",
+    {
+      "title": "현재완료 – 불규칙 과거분사",
       "term": "Perfekt mit unregelmäßigen Partizipien",
       "explain": "현재완료는 haben 또는 sein + 과거분사로 만들어요. 과거분사는 문장 끝에 와요(틀 구조). 많은 동사는 과거분사가 규칙형(ge-…-t)이 아니라 불규칙형이에요: helfen → geholfen, tragen → getragen, ziehen → gezogen. 분리동사는 가운데에 ge-가 들어가요: umziehen → umgezogen. 장소 이동을 말하는 umziehen, gehen, kommen 등은 sein과 함께 써요. 하지만 4격 목적어가 있으면 이동을 말해도 보통 haben을 써요: Wir haben das Sofa nach oben gezogen(소파를 위로 끌어올렸어요).",
       "pattern": "haben/sein + … + 과거분사(문장 끝)",
       "examples": [
-        { "de": "Beim Umzug haben mir vier Freunde geholfen.",
+        {
+          "de": "Beim Umzug haben mir vier Freunde geholfen.",
           "ko": "이사할 때 친구 네 명이 저를 도와줬어요.",
           "mark": ["haben", "geholfen"],
-          "parts": [["Beim Umzug", "부사어(시간)"], ["haben", "동사"], ["mir", "3격 목적어"], ["vier Freunde", "주어"], ["geholfen.", "동사(끝)"]] },
-        { "de": "Vor zwei Wochen bin ich nach Bremen umgezogen, und seit gestern steht kein Karton mehr im Wohnzimmer.",
+          "parts": [["Beim Umzug", "부사어(시간)"], ["haben", "동사"], ["mir", "3격 목적어"], ["vier Freunde", "주어"], ["geholfen.", "동사(끝)"]]
+        },
+        {
+          "de": "Vor zwei Wochen bin ich nach Bremen umgezogen, und seit gestern steht kein Karton mehr im Wohnzimmer.",
           "ko": "2주 전에 저는 브레멘으로 이사했고, 어제부터는 거실에 상자가 하나도 없어요.",
-          "mark": ["bin", "umgezogen"] },
-        { "de": "Jonas und Timo haben die schweren Kisten getragen, Lea hat die Küche eingeräumt und Sara hat für alle gekocht.",
+          "mark": ["bin", "umgezogen"]
+        },
+        {
+          "de": "Jonas und Timo haben die schweren Kisten getragen, Lea hat die Küche eingeräumt und Sara hat für alle gekocht.",
           "ko": "요나스와 티모는 무거운 상자들을 날랐고, 레아는 부엌 살림을 정리해 넣었고, 자라는 모두를 위해 요리를 했어요.",
-          "mark": ["getragen", "eingeräumt", "gekocht"] }
+          "mark": ["getragen", "eingeräumt", "gekocht"]
+        }
       ],
-      "tip": "getragen, gezogen처럼 -en으로 끝나면 불규칙, eingeräumt, gekocht처럼 -t로 끝나면 대부분 규칙이에요. 하지만 bringen → gebracht, denken → gedacht처럼 -t로 끝나면서 모음이 바뀌는 불규칙 동사도 있어요. 불규칙 과거분사는 동사와 함께 외워 두세요." },
-    { "title": "3·4격 지배 전치사 – Wo?는 3격, Wohin?은 4격",
+      "tip": "getragen, gezogen처럼 -en으로 끝나면 불규칙, eingeräumt, gekocht처럼 -t로 끝나면 대부분 규칙이에요. 하지만 bringen → gebracht, denken → gedacht처럼 -t로 끝나면서 모음이 바뀌는 불규칙 동사도 있어요. 불규칙 과거분사는 동사와 함께 외워 두세요."
+    },
+    {
+      "title": "3·4격 지배 전치사 – Wo?는 3격, Wohin?은 4격",
       "term": "Wechselpräpositionen",
       "explain": "in, an, auf, unter, über, vor, hinter, neben, zwischen은 두 가지 격을 써요. '어디에 있어요?'(Wo?)처럼 위치를 말하면 3격, '어디로 가요?'(Wohin?)처럼 이동 방향을 말하면 4격이에요. im은 in dem(3격), ins는 in das(4격)를 줄인 형태예요. 본문의 vor dem Fenster(창문 앞에: 위치, 3격)와 vor das Bett(침대 앞으로: 방향, 4격)를 비교해 보세요.",
       "pattern": "Wo? + 3격 (im Flur, unter dem Fenster) / Wohin? + 4격 (ins Schlafzimmer, vor das Bett)",
       "examples": [
-        { "de": "Nur die Bücher liegen noch in Kisten unter dem Fenster.",
+        {
+          "de": "Nur die Bücher liegen noch in Kisten unter dem Fenster.",
           "ko": "책들만 아직 창문 아래 상자 안에 들어 있어요.",
           "mark": ["in Kisten", "unter dem Fenster"],
-          "parts": [["Nur die Bücher", "주어"], ["liegen", "동사"], ["noch", "부사어(시간)"], ["in Kisten", "부사어(장소)"], ["unter dem Fenster.", "부사어(장소)"]] },
-        { "de": "Das Bett und den alten Schrank habe ich ins Schlafzimmer gestellt, den Teppich habe ich vor das Bett gelegt.",
+          "parts": [["Nur die Bücher", "주어"], ["liegen", "동사"], ["noch", "부사어(시간)"], ["in Kisten", "부사어(장소)"], ["unter dem Fenster.", "부사어(장소)"]]
+        },
+        {
+          "de": "Das Bett und den alten Schrank habe ich ins Schlafzimmer gestellt, den Teppich habe ich vor das Bett gelegt.",
           "ko": "침대와 낡은 옷장은 침실에 놓았고, 카펫은 침대 앞에 깔았어요.",
-          "mark": ["ins Schlafzimmer", "vor das Bett"] },
-        { "de": "Im Flur steht die Waschmaschine, denn im Bad ist kein Platz für sie.",
+          "mark": ["ins Schlafzimmer", "vor das Bett"]
+        },
+        {
+          "de": "Im Flur steht die Waschmaschine, denn im Bad ist kein Platz für sie.",
           "ko": "세탁기는 복도에 있어요. 욕실에는 세탁기를 놓을 자리가 없거든요.",
-          "mark": ["Im Flur", "im Bad"] }
+          "mark": ["Im Flur", "im Bad"]
+        }
       ],
-      "tip": "격은 움직임이 있는지가 아니라 Wo?(어디에?)인지 Wohin?(어디로?)인지로 정해져요. stellen, legen, hängen(걸다)과 함께 쓰는 장소 표현은 Wohin?에 대한 답이라 4격이고, stehen, liegen, hängen(걸려 있다)과 함께 쓰는 장소 표현은 Wo?에 대한 답이라 3격이에요. 같은 laufen이라도 공원 안에서 달릴 때는 im Park(3격), 공원 안으로 달려 들어갈 때는 in den Park(4격)라고 해요." },
-    { "title": "stellen/stehen · legen/liegen · hängen",
+      "tip": "격은 움직임이 있는지가 아니라 Wo?(어디에?)인지 Wohin?(어디로?)인지로 정해져요. stellen, legen, hängen(걸다)과 함께 쓰는 장소 표현은 Wohin?에 대한 답이라 4격이고, stehen, liegen, hängen(걸려 있다)과 함께 쓰는 장소 표현은 Wo?에 대한 답이라 3격이에요. 같은 laufen이라도 공원 안에서 달릴 때는 im Park(3격), 공원 안으로 달려 들어갈 때는 in den Park(4격)라고 해요."
+    },
+    {
+      "title": "stellen/stehen · legen/liegen · hängen",
       "term": "Positionsverben",
       "explain": "stellen은 '세워서 놓다', stehen은 '서 있다, 놓여 있다'예요. legen은 '눕혀서 놓다', liegen은 '누워 있다, 놓여 있다'예요. hängen은 '걸다'와 '걸려 있다' 두 뜻으로 써요. stellen, legen, hängen(걸다)은 사람이 하는 행동이라 4격 목적어와 Wohin?(4격)을 쓰고, 과거분사는 규칙형이에요: gestellt, gelegt, gehängt. stehen, liegen, hängen(걸려 있다)은 상태라 Wo?(3격)를 쓰고, 과거분사는 불규칙형이에요: gestanden, gelegen, gehangen.",
       "pattern": "행동: stellen/legen/hängen + 4격 목적어 + Wohin?(4격) / 상태: stehen/liegen/hängen + Wo?(3격)",
       "examples": [
-        { "de": "Neben der Waschmaschine liegen noch meine Winterschuhe in einer Tüte.",
+        {
+          "de": "Neben der Waschmaschine liegen noch meine Winterschuhe in einer Tüte.",
           "ko": "세탁기 옆에는 아직 제 겨울 신발이 봉지에 담긴 채 놓여 있어요.",
           "mark": ["liegen"],
-          "parts": [["Neben der Waschmaschine", "부사어(장소)"], ["liegen", "동사"], ["noch", "부사어(시간)"], ["meine Winterschuhe", "주어"], ["in einer Tüte.", "부사어(장소)"]] },
-        { "de": "Das Bett und den alten Schrank habe ich ins Schlafzimmer gestellt, den Teppich habe ich vor das Bett gelegt.",
+          "parts": [["Neben der Waschmaschine", "부사어(장소)"], ["liegen", "동사"], ["noch", "부사어(시간)"], ["meine Winterschuhe", "주어"], ["in einer Tüte.", "부사어(장소)"]]
+        },
+        {
+          "de": "Das Bett und den alten Schrank habe ich ins Schlafzimmer gestellt, den Teppich habe ich vor das Bett gelegt.",
           "ko": "침대와 낡은 옷장은 침실에 놓았고, 카펫은 침대 앞에 깔았어요.",
           "mark": ["gestellt", "gelegt"],
-          "parts": [["Das Bett und den alten Schrank", "4격 목적어"], ["habe", "동사"], ["ich", "주어"], ["ins Schlafzimmer", "부사어(장소)"], ["gestellt,", "동사(끝)"], ["den Teppich", "4격 목적어"], ["habe", "동사"], ["ich", "주어"], ["vor das Bett", "부사어(장소)"], ["gelegt.", "동사(끝)"]] },
-        { "de": "Neben der Wohnungstür hängt ein großer Spiegel – leider ein bisschen schief.",
+          "parts": [["Das Bett und den alten Schrank", "4격 목적어"], ["habe", "동사"], ["ich", "주어"], ["ins Schlafzimmer", "부사어(장소)"], ["gestellt,", "동사(끝)"], ["den Teppich", "4격 목적어"], ["habe", "동사"], ["ich", "주어"], ["vor das Bett", "부사어(장소)"], ["gelegt.", "동사(끝)"]]
+        },
+        {
+          "de": "Neben der Wohnungstür hängt ein großer Spiegel – leider ein bisschen schief.",
           "ko": "현관문 옆에는 큰 거울이 걸려 있는데, 아쉽게도 조금 비뚤어요.",
-          "mark": ["hängt"] }
+          "mark": ["hängt"]
+        }
       ],
-      "tip": "한국어로는 둘 다 '놓다/놓여 있다'로 번역되기 쉬워요. 독일어에서는 세워 놓는지(stellen), 눕혀 놓는지(legen)를 구별하고, 결과 상태도 stehen, liegen으로 나누어 말해요. 건물이나 장소의 위치를 말할 때도 liegen을 써요: Die neue Wohnung liegt im ersten Stock." }
+      "tip": "한국어로는 둘 다 '놓다/놓여 있다'로 번역되기 쉬워요. 독일어에서는 세워 놓는지(stellen), 눕혀 놓는지(legen)를 구별하고, 결과 상태도 stehen, liegen으로 나누어 말해요. 건물이나 장소의 위치를 말할 때도 liegen을 써요: Die neue Wohnung liegt im ersten Stock."
+    }
   ],
   "vocab": [
     { "de": "der Umzug, -¨e", "ko": "이사" },
@@ -140,13 +205,29 @@
     { "de": "der Teppich, -e", "ko": "카펫, 양탄자" }
   ],
   "phrases": [
-    { "de": "Zeit haben für + Akk.", "ko": "~할 시간이 있다",
-      "ex": "endlich habe ich Zeit für eine lange Mail!", "exko": "드디어 긴 메일을 쓸 시간이 생겼어요!" },
-    { "de": "(kein) Platz sein für + Akk.", "ko": "~을 놓을 자리가 있다(없다)",
-      "ex": "im Bad ist kein Platz für sie", "exko": "욕실에는 세탁기를 놓을 자리가 없어요" },
-    { "de": "Urlaub haben", "ko": "휴가가 있다, 휴가를 보내다",
-      "ex": "Im Juni habe ich zwei Wochen Urlaub.", "exko": "6월에 저는 2주 휴가가 있어요." },
-    { "de": "jemanden besuchen kommen", "ko": "~를 보러 오다, 방문하러 오다",
-      "ex": "Wann kommst du mich besuchen?", "exko": "언제 저를 보러 올 거예요?" }
+    {
+      "de": "Zeit haben für + Akk.",
+      "ko": "~할 시간이 있다",
+      "ex": "endlich habe ich Zeit für eine lange Mail!",
+      "exko": "드디어 긴 메일을 쓸 시간이 생겼어요!"
+    },
+    {
+      "de": "(kein) Platz sein für + Akk.",
+      "ko": "~을 놓을 자리가 있다(없다)",
+      "ex": "im Bad ist kein Platz für sie",
+      "exko": "욕실에는 세탁기를 놓을 자리가 없어요"
+    },
+    {
+      "de": "Urlaub haben",
+      "ko": "휴가가 있다, 휴가를 보내다",
+      "ex": "Im Juni habe ich zwei Wochen Urlaub.",
+      "exko": "6월에 저는 2주 휴가가 있어요."
+    },
+    {
+      "de": "jemanden besuchen kommen",
+      "ko": "~를 보러 오다, 방문하러 오다",
+      "ex": "Wann kommst du mich besuchen?",
+      "exko": "언제 저를 보러 올 거예요?"
+    }
   ]
 }

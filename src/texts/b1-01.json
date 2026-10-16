@@ -57,11 +57,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wie reagierten die Einwohner auf die Idee der Genossenschaft?",
-      "options": [
-        "Nur die Vorsitzende kaufte am ersten Abend Anteile.",
-        "Sie warteten einige Wochen, bevor sie Anteile kauften.",
-        "Viele Dorfbewohner beteiligten sich sofort mit Geld."
-      ],
+      "options": ["Nur die Vorsitzende kaufte am ersten Abend Anteile.", "Sie warteten einige Wochen, bevor sie Anteile kauften.", "Viele Dorfbewohner beteiligten sich sofort mit Geld."],
       "answer": 2,
       "evidence": "schon am ersten Abend wurden mehr als 100 Anteile verkauft",
       "pairs": [["schon am ersten Abend", "sofort"], ["wurden mehr als 100 Anteile verkauft", "beteiligten sich sofort mit Geld"]],
@@ -71,11 +67,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wer kümmert sich um die Buchhaltung des Ladens?",
-      "options": [
-        "die bezahlten Mitarbeiter im Laden",
-        "die ehrenamtlichen Helfer im Laden",
-        "die Vorsitzende der Genossenschaft"
-      ],
+      "options": ["die bezahlten Mitarbeiter im Laden", "die ehrenamtlichen Helfer im Laden", "die Vorsitzende der Genossenschaft"],
       "answer": 0,
       "evidence": "Die Angestellten kümmern sich um Kasse, Bestellungen und Buchhaltung",
       "pairs": [["Die Angestellten", "bezahlten Mitarbeiter"]],
@@ -85,11 +77,7 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Hier weiß man, woher die Kartoffeln kommen“?",
-      "options": [
-        "Die Kartoffeln werden im Laden selbst angebaut.",
-        "Die Kunden kennen die Herkunft der Lebensmittel.",
-        "Die Kunden holen die Kartoffeln selbst vom Hof ab."
-      ],
+      "options": ["Die Kartoffeln werden im Laden selbst angebaut.", "Die Kunden kennen die Herkunft der Lebensmittel.", "Die Kunden holen die Kartoffeln selbst vom Hof ab."],
       "answer": 1,
       "evidence": "Obst, Eier, Käse und Fleisch werden von Höfen aus der Region geliefert, meistens früh am Morgen.",
       "pairs": [["woher die Kartoffeln kommen", "die Herkunft der Lebensmittel"], ["von Höfen aus der Region geliefert", "kennen die Herkunft"]],
@@ -99,11 +87,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was erfährt man über das Café?",
-      "options": [
-        "Es wurde von einer Firma aus der Kreisstadt gebaut.",
-        "Es ist nur vormittags für Rentner geöffnet.",
-        "Es entstand, als das Gebäude renoviert wurde."
-      ],
+      "options": ["Es wurde von einer Firma aus der Kreisstadt gebaut.", "Es ist nur vormittags für Rentner geöffnet.", "Es entstand, als das Gebäude renoviert wurde."],
       "answer": 2,
       "evidence": "Während des Umbaus wurde in einer Ecke des Ladens ein kleines Café eingerichtet.",
       "pairs": [["Während des Umbaus", "als das Gebäude renoviert wurde"], ["eingerichtet", "entstand"]],
@@ -122,11 +106,7 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was will Karin Vogel mit dem Satz „Das kann kein Supermarkt an der Autobahn ersetzen“ sagen?",
-      "options": [
-        "Ein großer Supermarkt außerhalb des Dorfes bietet keinen Ort für Begegnungen.",
-        "Der Dorfladen hat mehr Produkte als ein Supermarkt an der Autobahn.",
-        "Die Genossenschaft möchte bald einen zweiten Laden an der Autobahn eröffnen."
-      ],
+      "options": ["Ein großer Supermarkt außerhalb des Dorfes bietet keinen Ort für Begegnungen.", "Der Dorfladen hat mehr Produkte als ein Supermarkt an der Autobahn.", "Die Genossenschaft möchte bald einen zweiten Laden an der Autobahn eröffnen."],
       "answer": 0,
       "evidence": "Hier trifft man Nachbarn, hier bekommt man Hilfe, hier wird geredet.",
       "pairs": [["Hier trifft man Nachbarn", "Ort für Begegnungen"]],

@@ -7,12 +7,7 @@
   "type": "Historischer Sachtext",
   "typeKo": "역사 해설문",
   "intro": "15세기 마인츠에서 시작된 활판 인쇄술이 유럽을 어떻게 바꾸었는지 설명하는 글이에요.",
-  "focus": [
-    "과거형·과거완료 수동태",
-    "과거 속의 미래 (sollte · würde)",
-    "시간·원인 전치사 (binnen, im Zuge, infolge)",
-    "2격 수식어가 많은 명사 문체"
-  ],
+  "focus": ["과거형·과거완료 수동태", "과거 속의 미래 (sollte · würde)", "시간·원인 전치사 (binnen, im Zuge, infolge)", "2격 수식어가 많은 명사 문체"],
   "paragraphs": [
     {
       "de": "Um das Jahr 1450 wurde in Mainz eine Technik entwickelt, die das geistige Leben Europas binnen weniger Jahrzehnte umwälzen sollte. Johannes Gutenberg, ein aus einer Mainzer Patrizierfamilie stammender Goldschmied, verband mehrere Verfahren, die einzeln bereits bekannt gewesen waren, zu einem neuen Ganzen: Buchstaben aus einer Metalllegierung, die in beliebiger Zahl gegossen und nach dem Druck wiederverwendet werden konnten; eine Presse, wie sie zuvor beim Keltern von Wein verwendet worden war; eine zähflüssige Druckfarbe, die auf dem Metall haftete. Nichts davon war für sich genommen revolutionär. Revolutionär war die Kombination.",
@@ -44,20 +39,10 @@
       "type": "mc",
       "kind": "detail",
       "q": "Worin bestand laut Text Gutenbergs eigentliche Leistung?",
-      "options": [
-        "Er erfand eine völlig neue Presse, die es zuvor in Europa nirgendwo gegeben hatte.",
-        "Er fügte vorhandene Einzeltechniken zu einem funktionierenden Gesamtsystem zusammen.",
-        "Er entwickelte als Erster eine Metalllegierung, aus der sich Buchstaben gießen ließen.",
-        "Er übertrug ein Verfahren aus Ostasien auf die Bedürfnisse europäischer Werkstätten."
-      ],
+      "options": ["Er erfand eine völlig neue Presse, die es zuvor in Europa nirgendwo gegeben hatte.", "Er fügte vorhandene Einzeltechniken zu einem funktionierenden Gesamtsystem zusammen.", "Er entwickelte als Erster eine Metalllegierung, aus der sich Buchstaben gießen ließen.", "Er übertrug ein Verfahren aus Ostasien auf die Bedürfnisse europäischer Werkstätten."],
       "answer": 1,
       "evidence": "Nichts davon war für sich genommen revolutionär. Revolutionär war die Kombination.",
-      "pairs": [
-        [
-          "verband mehrere Verfahren, die einzeln bereits bekannt gewesen waren, zu einem neuen Ganzen",
-          "fügte vorhandene Einzeltechniken zu einem funktionierenden Gesamtsystem zusammen"
-        ]
-      ],
+      "pairs": [["verband mehrere Verfahren, die einzeln bereits bekannt gewesen waren, zu einem neuen Ganzen", "fügte vorhandene Einzeltechniken zu einem funktionierenden Gesamtsystem zusammen"]],
       "explain": "본문은 구텐베르크가 이미 알려져 있던 방법들을 결합했고, 혁명적인 것은 그 결합이었다고 해요. 압착기는 포도주 압착에 이미 쓰이던 것이고, 동아시아 기술을 가져왔다는 내용은 본문에 없어요."
     },
     {
@@ -66,56 +51,27 @@
       "q": "Gutenberg konnte die Herstellung der Bibel aus dem Erlös der ersten verkauften Exemplare bezahlen.",
       "answer": 1,
       "evidence": "Werkstatt, Lettern, Papier und Gehilfen mussten vorfinanziert werden, lange bevor ein einziges Exemplar verkauft werden konnte.",
-      "pairs": [
-        [
-          "mussten vorfinanziert werden, lange bevor ein einziges Exemplar verkauft werden konnte",
-          "aus dem Erlös der ersten verkauften Exemplare bezahlen"
-        ]
-      ],
+      "pairs": [["mussten vorfinanziert werden, lange bevor ein einziges Exemplar verkauft werden konnte", "aus dem Erlös der ersten verkauften Exemplare bezahlen"]],
       "explain": "vorfinanzieren은 수입이 생기기 전에 비용을 미리 대는 것을 뜻해요. 공방, 활자, 종이, 일꾼의 비용을 단 한 부도 팔기 훨씬 전에 마련해야 했고, 그 돈은 푸스트에게서 빌렸어요. 첫 판매 수익으로 비용을 댔다는 진술은 본문과 반대예요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Wie endete die Auseinandersetzung zwischen Gutenberg und Fust?",
-      "options": [
-        "Gutenberg zahlte seine Schulden bei Fust zurück und behielt die ganze Werkstatt.",
-        "Beide einigten sich und führten die Druckerei gemeinsam mit Peter Schöffer weiter.",
-        "Der Geldgeber Fust gewann den Prozess und übernahm danach den größten Teil des Betriebs.",
-        "Fust verlor den Prozess und musste Gutenberg die Werkstatt samt Gehilfen überlassen."
-      ],
+      "options": ["Gutenberg zahlte seine Schulden bei Fust zurück und behielt die ganze Werkstatt.", "Beide einigten sich und führten die Druckerei gemeinsam mit Peter Schöffer weiter.", "Der Geldgeber Fust gewann den Prozess und übernahm danach den größten Teil des Betriebs.", "Fust verlor den Prozess und musste Gutenberg die Werkstatt samt Gehilfen überlassen."],
       "answer": 2,
       "evidence": "Fust verklagte seinen Schuldner, und das Gericht entschied zu seinen Gunsten.",
-      "pairs": [
-        [
-          "das Gericht entschied zu seinen Gunsten",
-          "gewann den Prozess"
-        ],
-        [
-          "Ein Großteil der Werkstatt fiel daraufhin an Fust",
-          "übernahm danach den größten Teil des Betriebs"
-        ]
-      ],
+      "pairs": [["das Gericht entschied zu seinen Gunsten", "gewann den Prozess"], ["Ein Großteil der Werkstatt fiel daraufhin an Fust", "übernahm danach den größten Teil des Betriebs"]],
       "explain": "법원이 푸스트에게 유리하게 판결했고 공방의 대부분이 그에게 넘어갔어요. 쇠퍼와 사업을 이어 간 사람은 푸스트이지 두 사람이 함께한 것이 아니에요. 'seinen Schuldner'는 빚진 사람, 즉 구텐베르크를 가리켜요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Die Technik ließ sich jedoch nicht in Mainz festhalten.“?",
-      "options": [
-        "Die Mainzer Werkstatt war nicht in der Lage, das Verfahren weiterzuentwickeln.",
-        "Das Verfahren blieb nicht auf eine Stadt beschränkt, sondern breitete sich aus.",
-        "In Mainz wurde das Drucken nach dem Prozess gegen Gutenberg amtlich untersagt.",
-        "Die Technik war so kompliziert, dass sie außerhalb von Mainz niemand beherrschte."
-      ],
+      "options": ["Die Mainzer Werkstatt war nicht in der Lage, das Verfahren weiterzuentwickeln.", "Das Verfahren blieb nicht auf eine Stadt beschränkt, sondern breitete sich aus.", "In Mainz wurde das Drucken nach dem Prozess gegen Gutenberg amtlich untersagt.", "Die Technik war so kompliziert, dass sie außerhalb von Mainz niemand beherrschte."],
       "answer": 1,
       "evidence": "Gesellen, die in der Werkstatt gelernt hatten, zogen in andere Städte und gründeten eigene Druckereien",
-      "pairs": [
-        [
-          "ließ sich jedoch nicht in Mainz festhalten",
-          "blieb nicht auf eine Stadt beschränkt, sondern breitete sich aus"
-        ]
-      ],
+      "pairs": [["ließ sich jedoch nicht in Mainz festhalten", "blieb nicht auf eine Stadt beschränkt, sondern breitete sich aus"]],
       "explain": "'마인츠에 붙들어 둘 수 없었다'는 말은 기술이 한 도시에 머물지 않고 퍼져 나갔다는 뜻이에요. 바로 다음 문장에서 직인들이 다른 도시로 가서 인쇄소를 세웠다고 설명해요."
     },
     {
@@ -124,32 +80,17 @@
       "q": "Dem Text zufolge führte der Buchdruck dazu, dass ein Text nicht mehr an einen einzelnen Besitzer gebunden war.",
       "answer": 0,
       "evidence": "Ein Text gehörte nicht mehr dem, der die einzige Abschrift hütete.",
-      "pairs": [
-        [
-          "gehörte nicht mehr dem, der die einzige Abschrift hütete",
-          "nicht mehr an einen einzelnen Besitzer gebunden"
-        ]
-      ],
+      "pairs": [["gehörte nicht mehr dem, der die einzige Abschrift hütete", "nicht mehr an einen einzelnen Besitzer gebunden"]],
       "explain": "글이 더 이상 유일한 필사본을 지키는 사람의 것이 아니었다는 말은, 글이 한 사람의 소유에 묶이지 않게 되었다는 뜻이에요. 본문은 이를 지식과 소유의 관계가 달라진 것으로 설명해요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Warum konnten sich Luthers Texte so schnell verbreiten?",
-      "options": [
-        "Weil die Obrigkeit den Nachdruck seiner Schriften damals offiziell erlaubt hatte.",
-        "Weil Luther in Wittenberg selbst eine große Druckerei mit vielen Gehilfen betrieb.",
-        "Weil bereits überall im Reich Druckereien existierten, die seine Texte nachdruckten.",
-        "Weil seine Thesen in lateinischer Sprache für Gelehrte in ganz Europa lesbar waren."
-      ],
+      "options": ["Weil die Obrigkeit den Nachdruck seiner Schriften damals offiziell erlaubt hatte.", "Weil Luther in Wittenberg selbst eine große Druckerei mit vielen Gehilfen betrieb.", "Weil bereits überall im Reich Druckereien existierten, die seine Texte nachdruckten.", "Weil seine Thesen in lateinischer Sprache für Gelehrte in ganz Europa lesbar waren."],
       "answer": 2,
       "evidence": "waren Druckereien längst in allen Teilen des Reiches vorhanden",
-      "pairs": [
-        [
-          "längst in allen Teilen des Reiches vorhanden",
-          "bereits überall im Reich"
-        ]
-      ],
+      "pairs": [["längst in allen Teilen des Reiches vorhanden", "bereits überall im Reich"]],
       "explain": "루터가 논제를 발표했을 때 인쇄소가 이미 제국 전역에 있었다고 해요. 권력은 오히려 대응이 늦었고, 팸플릿은 라틴어가 아니라 독일어로 쓰였어요. 루터가 직접 인쇄소를 운영했다는 내용은 없어요."
     },
     {
@@ -158,80 +99,37 @@
       "q": "Luther hat seine Bibelübersetzung in Mainz drucken lassen.",
       "answer": 2,
       "evidence": null,
-      "pairs": [
-        [
-          "Luthers Bibelübersetzung",
-          "seine Bibelübersetzung"
-        ]
-      ],
+      "pairs": [["Luthers Bibelübersetzung", "seine Bibelübersetzung"]],
       "explain": "본문은 루터의 성경 번역이 독일어 문어의 형성에 이바지했다고만 말해요. 그 번역이 어디에서 인쇄되었는지는 본문에 나오지 않아요."
     },
     {
       "type": "mc",
       "kind": "meaning",
       "q": "Was bedeutet „schlechthin“ im Satz „in Mainz den Ursprung des Drucks mit beweglichen Lettern schlechthin zu sehen“?",
-      "options": [
-        "in einem schlechten, abwertenden Sinn des Wortes",
-        "im eigentlichen Sinne, ohne jede Einschränkung",
-        "nur für einen bestimmten Zeitraum der Geschichte",
-        "in erster Linie unter wirtschaftlichem Aspekt"
-      ],
+      "options": ["in einem schlechten, abwertenden Sinn des Wortes", "im eigentlichen Sinne, ohne jede Einschränkung", "nur für einen bestimmten Zeitraum der Geschichte", "in erster Linie unter wirtschaftlichem Aspekt"],
       "answer": 1,
       "evidence": "wäre es irreführend, in Mainz den Ursprung des Drucks mit beweglichen Lettern schlechthin zu sehen",
-      "pairs": [
-        [
-          "schlechthin",
-          "im eigentlichen Sinne, ohne jede Einschränkung"
-        ]
-      ],
+      "pairs": [["schlechthin", "im eigentlichen Sinne, ohne jede Einschränkung"]],
       "explain": "schlechthin은 명사 뒤에 붙어 '그 자체, 절대적인 의미에서'라는 뜻을 더해요. schlecht(나쁜)와는 관계가 없어요. 마인츠를 금속활자 인쇄 전체의 유일한 기원으로 보는 것은 잘못이라는 말이에요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was will der Autor mit dem Satz „Dass sich die koreanische Technik nicht in vergleichbarer Weise verbreitete, lag nicht an ihrer Qualität, sondern an den Umständen“ sagen?",
-      "options": [
-        "Die koreanische Technik war der europäischen unterlegen und setzte sich deshalb nicht durch.",
-        "Die Verbreitung des Drucks wurde in Korea aus religiösen Gründen gesetzlich verboten.",
-        "In Korea bremste die Bindung an den Staat die Verbreitung, nicht die technische Qualität.",
-        "Die koreanische Technik wurde in Europa übernommen, weil sie besser war als Gutenbergs."
-      ],
+      "options": ["Die koreanische Technik war der europäischen unterlegen und setzte sich deshalb nicht durch.", "Die Verbreitung des Drucks wurde in Korea aus religiösen Gründen gesetzlich verboten.", "In Korea bremste die Bindung an den Staat die Verbreitung, nicht die technische Qualität.", "Die koreanische Technik wurde in Europa übernommen, weil sie besser war als Gutenbergs."],
       "answer": 2,
       "evidence": "Der Druck lag dort weitgehend in staatlicher Hand und diente vor allem der Herstellung einer begrenzten Zahl von Büchern für Hof und Verwaltung.",
-      "pairs": [
-        [
-          "lag nicht an ihrer Qualität",
-          "nicht die technische Qualität"
-        ],
-        [
-          "in staatlicher Hand",
-          "Bindung an den Staat"
-        ]
-      ],
+      "pairs": [["lag nicht an ihrer Qualität", "nicht die technische Qualität"], ["in staatlicher Hand", "Bindung an den Staat"]],
       "explain": "확산의 차이는 기술의 품질이 아니라 상황, 즉 인쇄가 국가의 손에 있었고 궁정과 관청을 위한 제한된 수의 책만 만들었다는 점 때문이라고 해요. 기술이 뒤떨어졌다거나 법으로 금지되었다는 말은 본문에 없어요."
     },
     {
       "type": "mc",
       "kind": "gist",
       "q": "Welche Aussage gibt die Gesamtaussage des Textes am besten wieder?",
-      "options": [
-        "Gutenberg war ein geschäftlich erfolgreicher Erfinder, dessen Technik vor allem der Kirche nützte.",
-        "Der Buchdruck entstand zuerst in Korea und wurde von Gutenberg lediglich nach Europa gebracht.",
-        "Die Reformation war die eigentliche Ursache dafür, dass sich der Buchdruck in Europa durchsetzte.",
-        "Eine in Mainz zusammengeführte Technik veränderte Wissen, Religion und Sprache in ganz Europa."
-      ],
+      "options": ["Gutenberg war ein geschäftlich erfolgreicher Erfinder, dessen Technik vor allem der Kirche nützte.", "Der Buchdruck entstand zuerst in Korea und wurde von Gutenberg lediglich nach Europa gebracht.", "Die Reformation war die eigentliche Ursache dafür, dass sich der Buchdruck in Europa durchsetzte.", "Eine in Mainz zusammengeführte Technik veränderte Wissen, Religion und Sprache in ganz Europa."],
       "answer": 3,
       "evidence": "Um das Jahr 1450 wurde in Mainz eine Technik entwickelt, die das geistige Leben Europas binnen weniger Jahrzehnte umwälzen sollte.",
-      "pairs": [
-        [
-          "das geistige Leben Europas binnen weniger Jahrzehnte umwälzen",
-          "veränderte Wissen, Religion und Sprache in ganz Europa"
-        ],
-        [
-          "verband mehrere Verfahren",
-          "zusammengeführte Technik"
-        ]
-      ],
+      "pairs": [["das geistige Leben Europas binnen weniger Jahrzehnte umwälzen", "veränderte Wissen, Religion und Sprache in ganz Europa"], ["verband mehrere Verfahren", "zusammengeführte Technik"]],
       "explain": "본문은 기술의 결합, 금전적 실패, 유럽 전역으로의 확산, 종교개혁과 언어의 변화, 그리고 직지라는 더 이른 사례까지 다뤄요. 구텐베르크가 사업에 성공했다거나 한국 기술을 가져왔다는 내용은 본문과 달라요. 종교개혁은 인쇄술의 결과이지 원인이 아니에요."
     }
   ],
@@ -245,75 +143,19 @@
         {
           "de": "Um das Jahr 1450 wurde in Mainz eine Technik entwickelt, die das geistige Leben Europas binnen weniger Jahrzehnte umwälzen sollte.",
           "ko": "1450년 무렵 마인츠에서 한 기술이 개발되었는데, 이 기술은 불과 수십 년 만에 유럽의 정신적 삶을 뒤바꾸게 됩니다.",
-          "mark": [
-            "wurde",
-            "entwickelt"
-          ],
-          "parts": [
-            [
-              "Um das Jahr 1450",
-              "부사어(시간)"
-            ],
-            [
-              "wurde",
-              "동사"
-            ],
-            [
-              "in Mainz",
-              "부사어(장소)"
-            ],
-            [
-              "eine Technik",
-              "주어"
-            ],
-            [
-              "entwickelt,",
-              "동사(끝)"
-            ],
-            [
-              "die das geistige Leben Europas binnen weniger Jahrzehnte umwälzen sollte.",
-              "관계절"
-            ]
-          ]
+          "mark": ["wurde", "entwickelt"],
+          "parts": [["Um das Jahr 1450", "부사어(시간)"], ["wurde", "동사"], ["in Mainz", "부사어(장소)"], ["eine Technik", "주어"], ["entwickelt,", "동사(끝)"], ["die das geistige Leben Europas binnen weniger Jahrzehnte umwälzen sollte.", "관계절"]]
         },
         {
           "de": "Was zuvor von Schreibern in monatelanger Arbeit kopiert worden war, konnte nun in Hunderten gleichlautender Exemplare hergestellt werden.",
           "ko": "이전에 필사가들이 여러 달에 걸쳐 베꼈던 것을 이제는 똑같은 내용의 수백 부로 만들어 낼 수 있었습니다.",
-          "mark": [
-            "kopiert worden war",
-            "konnte",
-            "hergestellt werden"
-          ],
-          "parts": [
-            [
-              "Was zuvor von Schreibern in monatelanger Arbeit kopiert worden war,",
-              "주어"
-            ],
-            [
-              "konnte",
-              "동사"
-            ],
-            [
-              "nun",
-              "부사어(시간)"
-            ],
-            [
-              "in Hunderten gleichlautender Exemplare",
-              "부사어(방법)"
-            ],
-            [
-              "hergestellt werden.",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["kopiert worden war", "konnte", "hergestellt werden"],
+          "parts": [["Was zuvor von Schreibern in monatelanger Arbeit kopiert worden war,", "주어"], ["konnte", "동사"], ["nun", "부사어(시간)"], ["in Hunderten gleichlautender Exemplare", "부사어(방법)"], ["hergestellt werden.", "동사(끝)"]]
         },
         {
           "de": "In Ostasien war mit beweglichen Typen aus Ton und Holz schon Jahrhunderte zuvor experimentiert worden",
           "ko": "동아시아에서는 이미 수백 년 전부터 흙과 나무로 만든 활자로 실험이 이루어졌습니다.",
-          "mark": [
-            "war",
-            "experimentiert worden"
-          ]
+          "mark": ["war", "experimentiert worden"]
         }
       ],
       "tip": "능동 과거완료는 'hatte + 과거분사'(hatte gelernt), 수동 과거완료는 'war + 과거분사 + worden'(war verwendet worden)이에요. 두 형태를 혼동하지 않도록 주의하세요."
@@ -327,43 +169,13 @@
         {
           "de": "und gerade dieser Umstand sollte für seine Ausbreitung entscheidend werden.",
           "ko": "바로 이 점이 그 확산에 결정적인 역할을 하게 됩니다.",
-          "mark": [
-            "sollte",
-            "werden"
-          ],
-          "parts": [
-            [
-              "und",
-              "접속사"
-            ],
-            [
-              "gerade dieser Umstand",
-              "주어"
-            ],
-            [
-              "sollte",
-              "동사"
-            ],
-            [
-              "für seine Ausbreitung",
-              "전치사 목적어"
-            ],
-            [
-              "entscheidend",
-              "보어"
-            ],
-            [
-              "werden.",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["sollte", "werden"],
+          "parts": [["und", "접속사"], ["gerade dieser Umstand", "주어"], ["sollte", "동사"], ["für seine Ausbreitung", "전치사 목적어"], ["entscheidend", "보어"], ["werden.", "동사(끝)"]]
         },
         {
           "de": "Dass seine Presse einmal als eine der folgenreichsten Erfindungen der Geschichte gelten würde, konnte er nicht ahnen",
           "ko": "자신의 인쇄기가 훗날 역사상 가장 큰 결과를 낳은 발명 가운데 하나로 평가받게 되리라는 것을 그는 짐작할 수 없었습니다.",
-          "mark": [
-            "gelten würde"
-          ]
+          "mark": ["gelten würde"]
         }
       ],
       "tip": "'Er sollte das Buch lesen.'은 문맥에 따라 '그는 그 책을 읽어야 했다'(의무)일 수도, '그는 훗날 그 책을 읽게 된다'(과거 속의 미래)일 수도 있어요. 역사 서술에서 결과를 되돌아보는 문맥이면 대개 후자예요."
@@ -377,45 +189,18 @@
         {
           "de": "binnen einer Generation wurde in den meisten größeren Städten Europas gedruckt, von Italien bis in den Ostseeraum.",
           "ko": "한 세대 안에 이탈리아에서 발트해 연안에 이르기까지 유럽의 큰 도시 대부분에서 인쇄가 이루어졌습니다.",
-          "mark": [
-            "binnen einer Generation"
-          ],
-          "parts": [
-            [
-              "binnen einer Generation",
-              "부사어(시간)"
-            ],
-            [
-              "wurde",
-              "동사"
-            ],
-            [
-              "in den meisten größeren Städten Europas",
-              "부사어(장소)"
-            ],
-            [
-              "gedruckt,",
-              "동사(끝)"
-            ],
-            [
-              "von Italien bis in den Ostseeraum.",
-              "부사어(장소)"
-            ]
-          ]
+          "mark": ["binnen einer Generation"],
+          "parts": [["binnen einer Generation", "부사어(시간)"], ["wurde", "동사"], ["in den meisten größeren Städten Europas", "부사어(장소)"], ["gedruckt,", "동사(끝)"], ["von Italien bis in den Ostseeraum.", "부사어(장소)"]]
         },
         {
           "de": "Um die Mitte der 1450er-Jahre kam es infolge der hohen Schulden zum Streit",
           "ko": "1450년대 중반에 많은 빚 때문에 분쟁이 일어났습니다.",
-          "mark": [
-            "infolge der hohen Schulden"
-          ]
+          "mark": ["infolge der hohen Schulden"]
         },
         {
           "de": "Im Zuge dieser Entwicklung veränderte sich auch die Sprache selbst",
           "ko": "이 흐름 속에서 언어 자체도 변했습니다.",
-          "mark": [
-            "Im Zuge dieser Entwicklung"
-          ]
+          "mark": ["Im Zuge dieser Entwicklung"]
         }
       ],
       "tip": "infolge는 원인(~ 때문에), im Zuge는 과정(~하는 가운데)이에요. 'infolge dieser Entwicklung'은 발전이 원인이라는 뜻이고, 'im Zuge dieser Entwicklung'은 발전이 진행되는 동안이라는 뜻이에요."
@@ -429,141 +214,39 @@
         {
           "de": "Der Druck lag dort weitgehend in staatlicher Hand und diente vor allem der Herstellung einer begrenzten Zahl von Büchern für Hof und Verwaltung.",
           "ko": "그곳에서 인쇄는 대체로 국가의 손에 있었고, 주로 궁정과 관청을 위한 제한된 수의 책을 만드는 데 쓰였습니다.",
-          "mark": [
-            "der Herstellung einer begrenzten Zahl von Büchern"
-          ],
-          "parts": [
-            [
-              "Der Druck",
-              "주어"
-            ],
-            [
-              "lag",
-              "동사"
-            ],
-            [
-              "dort",
-              "부사어(장소)"
-            ],
-            [
-              "weitgehend",
-              "부사어"
-            ],
-            [
-              "in staatlicher Hand",
-              "전치사 목적어"
-            ],
-            [
-              "und",
-              "접속사"
-            ],
-            [
-              "diente",
-              "동사"
-            ],
-            [
-              "vor allem",
-              "부사어"
-            ],
-            [
-              "der Herstellung einer begrenzten Zahl von Büchern für Hof und Verwaltung.",
-              "3격 목적어"
-            ]
-          ]
+          "mark": ["der Herstellung einer begrenzten Zahl von Büchern"],
+          "parts": [["Der Druck", "주어"], ["lag", "동사"], ["dort", "부사어(장소)"], ["weitgehend", "부사어"], ["in staatlicher Hand", "전치사 목적어"], ["und", "접속사"], ["diente", "동사"], ["vor allem", "부사어"], ["der Herstellung einer begrenzten Zahl von Büchern für Hof und Verwaltung.", "3격 목적어"]]
         },
         {
           "de": "Das bekannteste Erzeugnis der neuen Werkstatt war die lateinische Bibel, die um 1455 fertiggestellt wurde und heute als Gutenberg-Bibel bekannt ist.",
           "ko": "이 새로운 공방의 가장 유명한 생산물은 1455년 무렵 완성되어 오늘날 구텐베르크 성경으로 알려진 라틴어 성경입니다.",
-          "mark": [
-            "der neuen Werkstatt",
-            "fertiggestellt wurde"
-          ]
+          "mark": ["der neuen Werkstatt", "fertiggestellt wurde"]
         }
       ],
       "tip": "dienen은 3격을 지배해요. diente der Herstellung은 '제작에 쓰였어요'라는 뜻이고, 그 뒤의 einer begrenzten Zahl은 Herstellung을 꾸미는 2격이에요."
     }
   ],
   "vocab": [
-    {
-      "de": "um|wälzen",
-      "ko": "뒤바꾸다, 근본적으로 변혁하다"
-    },
-    {
-      "de": "der Goldschmied, -e",
-      "ko": "금세공인"
-    },
-    {
-      "de": "das Verfahren, -",
-      "ko": "방법, 공정"
-    },
-    {
-      "de": "die Legierung, -en",
-      "ko": "합금"
-    },
-    {
-      "de": "gießen (gießt, goss, hat gegossen)",
-      "ko": "(금속을) 주조하다; 붓다"
-    },
-    {
-      "de": "die Letter, -n",
-      "ko": "(인쇄용) 활자"
-    },
-    {
-      "de": "das Erzeugnis, -se",
-      "ko": "생산물, 제품"
-    },
-    {
-      "de": "die Auflage, -n",
-      "ko": "(인쇄) 부수, 판"
-    },
-    {
-      "de": "das Pergament, -e",
-      "ko": "양피지"
-    },
-    {
-      "de": "vor|finanzieren",
-      "ko": "(비용을) 미리 마련하다, 선투자하다"
-    },
-    {
-      "de": "verklagen",
-      "ko": "고소하다, 소송을 걸다"
-    },
-    {
-      "de": "der Schuldner, -",
-      "ko": "채무자, 빚진 사람"
-    },
-    {
-      "de": "der Geselle, -n",
-      "ko": "직인 (수련을 마친 장인 보조)"
-    },
-    {
-      "de": "die Abschrift, -en",
-      "ko": "필사본, 사본"
-    },
-    {
-      "de": "die Sprengkraft (Sg.)",
-      "ko": "폭발력, 판을 뒤흔드는 힘"
-    },
-    {
-      "de": "die Obrigkeit, -en",
-      "ko": "(옛) 권력 당국, 지배층"
-    },
-    {
-      "de": "die Flugschrift, -en",
-      "ko": "(선전용) 팸플릿, 소책자"
-    },
-    {
-      "de": "sich heraus|bilden",
-      "ko": "형성되다, 생겨나다"
-    },
-    {
-      "de": "irreführend",
-      "ko": "오해를 부르는, 잘못된 방향으로 이끄는"
-    },
-    {
-      "de": "sich erschließen (erschloss sich, hat sich erschlossen) + Dat.",
-      "ko": "(~에게) 드러나다, 이해되다"
-    }
+    { "de": "um|wälzen", "ko": "뒤바꾸다, 근본적으로 변혁하다" },
+    { "de": "der Goldschmied, -e", "ko": "금세공인" },
+    { "de": "das Verfahren, -", "ko": "방법, 공정" },
+    { "de": "die Legierung, -en", "ko": "합금" },
+    { "de": "gießen (gießt, goss, hat gegossen)", "ko": "(금속을) 주조하다; 붓다" },
+    { "de": "die Letter, -n", "ko": "(인쇄용) 활자" },
+    { "de": "das Erzeugnis, -se", "ko": "생산물, 제품" },
+    { "de": "die Auflage, -n", "ko": "(인쇄) 부수, 판" },
+    { "de": "das Pergament, -e", "ko": "양피지" },
+    { "de": "vor|finanzieren", "ko": "(비용을) 미리 마련하다, 선투자하다" },
+    { "de": "verklagen", "ko": "고소하다, 소송을 걸다" },
+    { "de": "der Schuldner, -", "ko": "채무자, 빚진 사람" },
+    { "de": "der Geselle, -n", "ko": "직인 (수련을 마친 장인 보조)" },
+    { "de": "die Abschrift, -en", "ko": "필사본, 사본" },
+    { "de": "die Sprengkraft (Sg.)", "ko": "폭발력, 판을 뒤흔드는 힘" },
+    { "de": "die Obrigkeit, -en", "ko": "(옛) 권력 당국, 지배층" },
+    { "de": "die Flugschrift, -en", "ko": "(선전용) 팸플릿, 소책자" },
+    { "de": "sich heraus|bilden", "ko": "형성되다, 생겨나다" },
+    { "de": "irreführend", "ko": "오해를 부르는, 잘못된 방향으로 이끄는" },
+    { "de": "sich erschließen (erschloss sich, hat sich erschlossen) + Dat.", "ko": "(~에게) 드러나다, 이해되다" }
   ],
   "phrases": [
     {

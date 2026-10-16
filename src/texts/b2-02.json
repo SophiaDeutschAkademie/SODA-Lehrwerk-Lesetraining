@@ -7,12 +7,7 @@
   "type": "Populärwissenschaftlicher Artikel",
   "typeKo": "대중 과학 기사",
   "intro": "망각이 어떻게 일어나는지, 그리고 그것이 왜 유용한지를 설명하는 과학 기사예요.",
-  "focus": [
-    "확장된 분사 수식어",
-    "상태수동 vs. 수동태",
-    "명사화된 동사원형",
-    "과거형과 현재형의 교체"
-  ],
+  "focus": ["확장된 분사 수식어", "상태수동 vs. 수동태", "명사화된 동사원형", "과거형과 현재형의 교체"],
   "paragraphs": [
     {
       "de": "Wer eine Fremdsprache lernt, kennt das Gefühl: Die gestern noch sicher beherrschten Vokabeln sind heute wie weggeblasen. Vergessen gilt als Schwäche des Gedächtnisses, als Panne, die man am liebsten abstellen würde. Die Gedächtnisforschung zeichnet jedoch ein anderes Bild. Vergessen ist kein Fehler im System, sondern ein Teil davon – und ohne das Vergessen kämen wir im Alltag kaum zurecht.",
@@ -44,19 +39,10 @@
       "type": "mc",
       "kind": "meaning",
       "q": "Was bedeutet „wie weggeblasen“ im Text?",
-      "options": [
-        "völlig durcheinandergeraten",
-        "nur noch schwer auszusprechen",
-        "plötzlich spurlos verschwunden"
-      ],
+      "options": ["völlig durcheinandergeraten", "nur noch schwer auszusprechen", "plötzlich spurlos verschwunden"],
       "answer": 2,
       "evidence": "Die gestern noch sicher beherrschten Vokabeln sind heute wie weggeblasen.",
-      "pairs": [
-        [
-          "wie weggeblasen",
-          "plötzlich spurlos verschwunden"
-        ]
-      ],
+      "pairs": [["wie weggeblasen", "plötzlich spurlos verschwunden"]],
       "explain": "wie weggeblasen은 '바람에 날아간 것처럼'이라는 뜻으로, 어제까지 알던 단어가 오늘은 흔적도 없이 사라졌다는 말이에요. 단어가 뒤섞였다거나 발음하기 어렵다는 뜻이 아니에요."
     },
     {
@@ -65,58 +51,27 @@
       "q": "Ebbinghaus ließ für seine Untersuchung andere Personen Silbenreihen auswendig lernen.",
       "answer": 1,
       "evidence": "Er machte sich selbst zur Versuchsperson.",
-      "pairs": [
-        [
-          "machte sich selbst zur Versuchsperson",
-          "andere Personen Silbenreihen auswendig lernen"
-        ]
-      ],
+      "pairs": [["machte sich selbst zur Versuchsperson", "andere Personen Silbenreihen auswendig lernen"]],
       "explain": "에빙하우스는 자기 자신을 피험자로 삼았어요(machte sich selbst zur Versuchsperson). 문제는 다른 사람들에게 음절 목록을 외우게 했다고 했으니 틀린 내용이에요. Silbenreihen, auswendig lernen 같은 단어가 그대로 쓰여 함정이 돼요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Warum verwendete Ebbinghaus sinnlose Silben?",
-      "options": [
-        "Weil sich sinnlose Silben leichter merken lassen als echte Wörter.",
-        "Weil dadurch keine Vorkenntnisse die Ergebnisse beeinflussen konnten.",
-        "Weil er die Abstände der Wiederholungen genau festlegen wollte."
-      ],
+      "options": ["Weil sich sinnlose Silben leichter merken lassen als echte Wörter.", "Weil dadurch keine Vorkenntnisse die Ergebnisse beeinflussen konnten.", "Weil er die Abstände der Wiederholungen genau festlegen wollte."],
       "answer": 1,
       "evidence": "Um auszuschließen, dass bereits bekannte Wörter die Ergebnisse verfälschten, lernte er lange Reihen sinnloser Silben wie „dax“ oder „zuk“ auswendig.",
-      "pairs": [
-        [
-          "bereits bekannte Wörter",
-          "Vorkenntnisse"
-        ],
-        [
-          "die Ergebnisse verfälschten",
-          "die Ergebnisse beeinflussen"
-        ]
-      ],
+      "pairs": [["bereits bekannte Wörter", "Vorkenntnisse"], ["die Ergebnisse verfälschten", "die Ergebnisse beeinflussen"]],
       "explain": "이미 알고 있는 단어들이 결과를 왜곡하지 않도록(um auszuschließen, dass …) 무의미한 음절을 쓴 거예요. 즉 사전 지식의 영향을 배제하려는 목적이에요. '더 쉽게 외울 수 있었다'와 '정해진 간격'은 본문의 다른 부분에서 가져온 함정이에요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Was die ersten Tage übersteht, bleibt vergleichsweise stabil“?",
-      "options": [
-        "In den ersten Tagen nach dem Lernen bleibt alles Gelernte noch erhalten.",
-        "Was man nach einigen Tagen noch weiß, vergisst man danach nur noch langsam.",
-        "Wer in den ersten Tagen regelmäßig wiederholt, vergisst später gar nichts mehr."
-      ],
+      "options": ["In den ersten Tagen nach dem Lernen bleibt alles Gelernte noch erhalten.", "Was man nach einigen Tagen noch weiß, vergisst man danach nur noch langsam.", "Wer in den ersten Tagen regelmäßig wiederholt, vergisst später gar nichts mehr."],
       "answer": 1,
       "evidence": "Was die ersten Tage übersteht, bleibt vergleichsweise stabil.",
-      "pairs": [
-        [
-          "übersteht",
-          "nach einigen Tagen noch weiß"
-        ],
-        [
-          "bleibt vergleichsweise stabil",
-          "vergisst man danach nur noch langsam"
-        ]
-      ],
+      "pairs": [["übersteht", "nach einigen Tagen noch weiß"], ["bleibt vergleichsweise stabil", "vergisst man danach nur noch langsam"]],
       "explain": "'처음 며칠을 견뎌 낸 것'은 며칠이 지난 뒤에도 아직 기억하고 있는 내용이고, '비교적 안정적으로 남는다'는 그 뒤로는 천천히만 잊힌다는 뜻이에요. 첫 며칠 동안 전부 남는다는 것은 본문과 반대이고(학습 직후에 상당 부분이 사라져요), 나중에 전혀 잊지 않는다는 말은 본문에 없어요."
     },
     {
@@ -125,16 +80,7 @@
       "q": "Wiederholungen wirken nachhaltiger, wenn die Pausen dazwischen immer länger werden.",
       "answer": 0,
       "evidence": "Wer dieselben Wörter dagegen in wachsenden Abständen wiederholt – nach einem Tag, nach drei Tagen, nach einer Woche –, prägt sie sich dauerhaft ein.",
-      "pairs": [
-        [
-          "in wachsenden Abständen",
-          "die Pausen dazwischen immer länger werden"
-        ],
-        [
-          "prägt sie sich dauerhaft ein",
-          "wirken nachhaltiger"
-        ]
-      ],
+      "pairs": [["in wachsenden Abständen", "die Pausen dazwischen immer länger werden"], ["prägt sie sich dauerhaft ein", "wirken nachhaltiger"]],
       "explain": "본문은 점점 길어지는 간격으로(in wachsenden Abständen) 반복하면 단어가 오래 기억에 남는다고 해요. '간격이 커진다'를 '사이의 쉬는 시간이 점점 길어진다'로, '오래 새긴다'를 '더 지속적으로 작용한다'로 바꿔 말한 거예요."
     },
     {
@@ -143,85 +89,37 @@
       "q": "Damit sich das Gelernte festigt, braucht das Gehirn mindestens acht Stunden Schlaf.",
       "answer": 2,
       "evidence": null,
-      "pairs": [
-        [
-          "ausreichend Schlaf",
-          "mindestens acht Stunden Schlaf"
-        ]
-      ],
+      "pairs": [["ausreichend Schlaf", "mindestens acht Stunden Schlaf"]],
       "explain": "본문은 잠이 배운 것을 단단히 자리 잡게 하고 '충분한 잠'이 필요하다고 말하지만, 몇 시간을 자야 하는지는 전혀 언급하지 않아요. 그래서 맞다고도 틀리다고도 할 수 없어요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was geschieht laut Text mit den meisten Eindrücken des Alltags?",
-      "options": [
-        "Sie werden von vornherein nicht ins Langzeitgedächtnis übernommen.",
-        "Sie werden im Gehirn für immer abgelegt und bei Bedarf abgerufen.",
-        "Sie werden nachts erneut durchgespielt und so dauerhaft gespeichert."
-      ],
+      "options": ["Sie werden von vornherein nicht ins Langzeitgedächtnis übernommen.", "Sie werden im Gehirn für immer abgelegt und bei Bedarf abgerufen.", "Sie werden nachts erneut durchgespielt und so dauerhaft gespeichert."],
       "answer": 0,
       "evidence": "Die ständig eintreffenden Reize – Gesichter in der U-Bahn, Werbeslogans, das Wetter von vorletzter Woche – werden größtenteils gar nicht erst dauerhaft gespeichert.",
-      "pairs": [
-        [
-          "Die ständig eintreffenden Reize",
-          "Eindrücken des Alltags"
-        ],
-        [
-          "größtenteils",
-          "den meisten"
-        ],
-        [
-          "gar nicht erst dauerhaft gespeichert",
-          "von vornherein nicht ins Langzeitgedächtnis"
-        ]
-      ],
+      "pairs": [["Die ständig eintreffenden Reize", "Eindrücken des Alltags"], ["größtenteils", "den meisten"], ["gar nicht erst dauerhaft gespeichert", "von vornherein nicht ins Langzeitgedächtnis"]],
       "explain": "끊임없이 밀려드는 자극, 즉 일상의 인상들은 대부분 애초에 오래 저장되지 않는다고 해요. 이것을 '처음부터 장기 기억에 들어가지 않는다'로 바꿔 말했어요. 뇌는 기록 보관소가 아니라고 했으므로 두 번째 선택지는 틀리고, 세 번째 선택지의 durchgespielt(다시 재생된다)는 잠에 관한 단락에서 가져온 함정이에요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was will der Autor mit dem Satz „Wer also vor einer Prüfung die Nacht durcharbeitet, nimmt dem Gehirn genau die Zeit, die es für diese Arbeit braucht“ sagen?",
-      "options": [
-        "Wer nachts arbeitet, braucht für dieselbe Aufgabe länger als tagsüber, weil er müder ist.",
-        "Wer vor einer Prüfung zu wenig schläft, kann sich am nächsten Tag schlecht konzentrieren.",
-        "Wer die Nacht zum Lernen nutzt, verhindert, dass sich das Gelernte im Schlaf festigt."
-      ],
+      "options": ["Wer nachts arbeitet, braucht für dieselbe Aufgabe länger als tagsüber, weil er müder ist.", "Wer vor einer Prüfung zu wenig schläft, kann sich am nächsten Tag schlecht konzentrieren.", "Wer die Nacht zum Lernen nutzt, verhindert, dass sich das Gelernte im Schlaf festigt."],
       "answer": 2,
       "evidence": "Wer also vor einer Prüfung die Nacht durcharbeitet, nimmt dem Gehirn genau die Zeit, die es für diese Arbeit braucht.",
-      "pairs": [
-        [
-          "die Nacht durcharbeitet",
-          "die Nacht zum Lernen nutzt"
-        ],
-        [
-          "nimmt dem Gehirn genau die Zeit, die es für diese Arbeit braucht",
-          "verhindert, dass sich das Gelernte im Schlaf festigt"
-        ]
-      ],
+      "pairs": [["die Nacht durcharbeitet", "die Nacht zum Lernen nutzt"], ["nimmt dem Gehirn genau die Zeit, die es für diese Arbeit braucht", "verhindert, dass sich das Gelernte im Schlaf festigt"]],
       "explain": "'이 작업'은 앞 문장에서 설명한, 밤에 배운 내용을 다시 재생하고 연결하는 뇌의 작업이에요. 밤을 새우면 뇌가 그 일을 할 시간을 빼앗는다는 말이므로, 잠을 통한 정착이 막힌다는 뜻이에요. 집중력 저하는 상식적으로 맞을 수 있지만 이 문장이 말하는 내용은 아니에요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Welchen Rat gibt der Text Lernenden?",
-      "options": [
-        "Den Stoff in größeren Abständen erneut durchzugehen und genug zu schlafen.",
-        "Möglichst viel Stoff in einer Sitzung aufzunehmen, solange man noch frisch ist.",
-        "Vergessene Vokabeln sofort noch einmal auswendig zu lernen, bis sie sitzen."
-      ],
+      "options": ["Den Stoff in größeren Abständen erneut durchzugehen und genug zu schlafen.", "Möglichst viel Stoff in einer Sitzung aufzunehmen, solange man noch frisch ist.", "Vergessene Vokabeln sofort noch einmal auswendig zu lernen, bis sie sitzen."],
       "answer": 0,
       "evidence": "Ein über Wochen verteiltes Wiederholen und ausreichend Schlaf bewirken mehr als jede durchgearbeitete Nacht.",
-      "pairs": [
-        [
-          "über Wochen verteiltes Wiederholen",
-          "in größeren Abständen erneut durchzugehen"
-        ],
-        [
-          "ausreichend Schlaf",
-          "genug zu schlafen"
-        ]
-      ],
+      "pairs": [["über Wochen verteiltes Wiederholen", "in größeren Abständen erneut durchzugehen"], ["ausreichend Schlaf", "genug zu schlafen"]],
       "explain": "마지막 단락은 몇 주에 걸쳐 나누어 하는 반복과 충분한 잠이 밤샘 공부보다 효과가 크다고 해요. 한 번에 많이 받아들이는 것은 본문이 오히려 '중요하지 않다'고 한 방식이고, 잊은 단어를 곧바로 다시 외우라는 조언은 본문에 없어요."
     }
   ],
@@ -235,66 +133,18 @@
         {
           "de": "Die in kurzer Zeit eingepaukten Wörter sind zwar für die Prüfung am nächsten Morgen noch verfügbar, danach aber schnell wieder verschwunden.",
           "ko": "짧은 시간에 벼락치기로 외운 단어들은 다음 날 아침 시험까지는 아직 쓸 수 있지만, 그 뒤에는 금세 다시 사라져요.",
-          "mark": [
-            "Die in kurzer Zeit eingepaukten Wörter"
-          ],
-          "parts": [
-            [
-              "Die in kurzer Zeit eingepaukten Wörter",
-              "주어"
-            ],
-            [
-              "sind",
-              "동사"
-            ],
-            [
-              "zwar",
-              "부사어"
-            ],
-            [
-              "für die Prüfung am nächsten Morgen",
-              "부사어"
-            ],
-            [
-              "noch",
-              "부사어(시간)"
-            ],
-            [
-              "verfügbar,",
-              "보어"
-            ],
-            [
-              "danach",
-              "부사어(시간)"
-            ],
-            [
-              "aber",
-              "접속사"
-            ],
-            [
-              "schnell wieder",
-              "부사어"
-            ],
-            [
-              "verschwunden.",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["Die in kurzer Zeit eingepaukten Wörter"],
+          "parts": [["Die in kurzer Zeit eingepaukten Wörter", "주어"], ["sind", "동사"], ["zwar", "부사어"], ["für die Prüfung am nächsten Morgen", "부사어"], ["noch", "부사어(시간)"], ["verfügbar,", "보어"], ["danach", "부사어(시간)"], ["aber", "접속사"], ["schnell wieder", "부사어"], ["verschwunden.", "동사(끝)"]]
         },
         {
           "de": "Die ständig eintreffenden Reize – Gesichter in der U-Bahn, Werbeslogans, das Wetter von vorletzter Woche – werden größtenteils gar nicht erst dauerhaft gespeichert.",
           "ko": "끊임없이 밀려드는 자극들, 즉 지하철에서 본 얼굴, 광고 문구, 지지난주의 날씨 같은 것들은 대부분 애초에 오래 저장되지 않아요.",
-          "mark": [
-            "Die ständig eintreffenden Reize"
-          ]
+          "mark": ["Die ständig eintreffenden Reize"]
         },
         {
           "de": "Ein über Wochen verteiltes Wiederholen und ausreichend Schlaf bewirken mehr als jede durchgearbeitete Nacht.",
           "ko": "몇 주에 걸쳐 나누어 하는 반복과 충분한 잠은 그 어떤 밤샘 공부보다 더 큰 효과를 내요.",
-          "mark": [
-            "Ein über Wochen verteiltes Wiederholen",
-            "jede durchgearbeitete Nacht"
-          ]
+          "mark": ["Ein über Wochen verteiltes Wiederholen", "jede durchgearbeitete Nacht"]
         }
       ],
       "tip": "die in kurzer Zeit eingepaukten Wörter = die Wörter, die in kurzer Zeit eingepaukt wurden. die ständig eintreffenden Reize = die Reize, die ständig eintreffen. 과거분사 수식어는 보통 수동 관계절로, 현재분사 수식어는 능동 관계절로 바뀌어요."
@@ -308,69 +158,19 @@
         {
           "de": "Was tagsüber aufgenommen wird, ist zunächst nur vorläufig gespeichert.",
           "ko": "낮 동안 받아들인 것은 처음에는 임시로만 저장되어 있어요.",
-          "mark": [
-            "aufgenommen wird",
-            "ist",
-            "gespeichert"
-          ],
-          "parts": [
-            [
-              "Was tagsüber aufgenommen wird,",
-              "종속절"
-            ],
-            [
-              "ist",
-              "동사"
-            ],
-            [
-              "zunächst",
-              "부사어(시간)"
-            ],
-            [
-              "nur vorläufig",
-              "부사어"
-            ],
-            [
-              "gespeichert.",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["aufgenommen wird", "ist", "gespeichert"],
+          "parts": [["Was tagsüber aufgenommen wird,", "종속절"], ["ist", "동사"], ["zunächst", "부사어(시간)"], ["nur vorläufig", "부사어"], ["gespeichert.", "동사(끝)"]]
         },
         {
           "de": "In der Nacht wird es nach heutigem Kenntnisstand erneut durchgespielt und mit bereits vorhandenem Wissen verknüpft; am Morgen ist das Gelernte fester verankert als am Abend zuvor.",
           "ko": "오늘날의 지식에 따르면 밤에 그 내용이 다시 재생되고 이미 있던 지식과 연결돼요. 아침이 되면 배운 것은 전날 저녁보다 더 단단히 자리 잡혀 있어요.",
-          "mark": [
-            "wird",
-            "durchgespielt",
-            "verknüpft",
-            "ist",
-            "verankert"
-          ]
+          "mark": ["wird", "durchgespielt", "verknüpft", "ist", "verankert"]
         },
         {
           "de": "Das Gehirn ist kein Archiv, in dem jede Information für immer abgelegt ist.",
           "ko": "뇌는 모든 정보가 영원히 보관되어 있는 기록 보관소가 아니에요.",
-          "mark": [
-            "abgelegt ist"
-          ],
-          "parts": [
-            [
-              "Das Gehirn",
-              "주어"
-            ],
-            [
-              "ist",
-              "동사"
-            ],
-            [
-              "kein Archiv,",
-              "보어"
-            ],
-            [
-              "in dem jede Information für immer abgelegt ist.",
-              "관계절"
-            ]
-          ]
+          "mark": ["abgelegt ist"],
+          "parts": [["Das Gehirn", "주어"], ["ist", "동사"], ["kein Archiv,", "보어"], ["in dem jede Information für immer abgelegt ist.", "관계절"]]
         }
       ],
       "tip": "수동태의 현재완료(ist gespeichert worden)와 상태수동(ist gespeichert)을 혼동하지 마세요. 끝에 worden이 있으면 '저장되었다'는 과정의 완료이고, worden이 없으면 '저장되어 있다'는 상태예요."
@@ -384,63 +184,19 @@
         {
           "de": "Hier kommt die eigentliche Funktion des Vergessens ins Spiel.",
           "ko": "여기서 망각의 본래 기능이 등장해요.",
-          "mark": [
-            "des Vergessens"
-          ]
+          "mark": ["des Vergessens"]
         },
         {
           "de": "Jedes Abrufen, das ein wenig Mühe kostet, festigt die Gedächtnisspur.",
           "ko": "약간의 노력이 드는 인출은 그때마다 기억의 흔적을 다져 줘요.",
-          "mark": [
-            "Jedes Abrufen"
-          ],
-          "parts": [
-            [
-              "Jedes Abrufen,",
-              "주어"
-            ],
-            [
-              "das ein wenig Mühe kostet,",
-              "관계절"
-            ],
-            [
-              "festigt",
-              "동사"
-            ],
-            [
-              "die Gedächtnisspur.",
-              "4격 목적어"
-            ]
-          ]
+          "mark": ["Jedes Abrufen"],
+          "parts": [["Jedes Abrufen,", "주어"], ["das ein wenig Mühe kostet,", "관계절"], ["festigt", "동사"], ["die Gedächtnisspur.", "4격 목적어"]]
         },
         {
           "de": "Das Vergessen lässt sich nicht abschaffen.",
           "ko": "망각은 없앨 수 없어요.",
-          "mark": [
-            "Das Vergessen"
-          ],
-          "parts": [
-            [
-              "Das Vergessen",
-              "주어"
-            ],
-            [
-              "lässt",
-              "동사"
-            ],
-            [
-              "sich",
-              "재귀대명사"
-            ],
-            [
-              "nicht",
-              "부정어"
-            ],
-            [
-              "abschaffen.",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["Das Vergessen"],
+          "parts": [["Das Vergessen", "주어"], ["lässt", "동사"], ["sich", "재귀대명사"], ["nicht", "부정어"], ["abschaffen.", "동사(끝)"]]
         }
       ],
       "tip": "과거분사도 같은 방식으로 명사가 돼요. das Gelernte(배운 것), des Gelernten(배운 것의)처럼 형용사 어미변화를 따라요."
@@ -454,119 +210,42 @@
         {
           "de": "Für seine 1885 veröffentlichte Untersuchung „Über das Gedächtnis“ wählte er einen ungewöhnlichen Weg: Er machte sich selbst zur Versuchsperson.",
           "ko": "1885년에 발표한 연구 「기억에 관하여」를 위해 에빙하우스는 특이한 방법을 택했어요. 자기 자신을 피험자로 삼은 것이에요.",
-          "mark": [
-            "wählte",
-            "machte"
-          ]
+          "mark": ["wählte", "machte"]
         },
         {
           "de": "Das Ergebnis ist heute als Vergessenskurve bekannt: Kurz nach dem Lernen geht ein großer Teil des Gelernten verloren, danach flacht die Kurve ab.",
           "ko": "그 결과는 오늘날 망각 곡선으로 알려져 있어요. 학습 직후에 배운 것의 상당 부분이 사라지고, 그 뒤로는 곡선이 완만해져요.",
-          "mark": [
-            "ist",
-            "geht",
-            "flacht",
-            "ab"
-          ]
+          "mark": ["ist", "geht", "flacht", "ab"]
         },
         {
           "de": "Die moderne Forschung bestätigt diesen Befund.",
           "ko": "현대 연구도 이 결과를 뒷받침해요.",
-          "mark": [
-            "bestätigt"
-          ],
-          "parts": [
-            [
-              "Die moderne Forschung",
-              "주어"
-            ],
-            [
-              "bestätigt",
-              "동사"
-            ],
-            [
-              "diesen Befund.",
-              "4격 목적어"
-            ]
-          ]
+          "mark": ["bestätigt"],
+          "parts": [["Die moderne Forschung", "주어"], ["bestätigt", "동사"], ["diesen Befund.", "4격 목적어"]]
         }
       ],
       "tip": "같은 단락 안에서도 시제가 바뀔 수 있어요. 에빙하우스가 한 일은 과거형(stellte fest), 그 결과에서 나온 일반 법칙은 현재형(bestätigt, prägt ein)이에요."
     }
   ],
   "vocab": [
-    {
-      "de": "das Gedächtnis, -se",
-      "ko": "기억, 기억력"
-    },
-    {
-      "de": "beherrschen",
-      "ko": "(언어·지식을) 완전히 익히다, 숙달하다"
-    },
-    {
-      "de": "die Panne, -n",
-      "ko": "고장, 차질"
-    },
-    {
-      "de": "verblassen (ist verblasst)",
-      "ko": "(기억·색이) 희미해지다"
-    },
-    {
-      "de": "nach|weisen (weist nach, wies nach, hat nachgewiesen)",
-      "ko": "입증하다, 증명하다"
-    },
-    {
-      "de": "die Versuchsperson, -en",
-      "ko": "피험자, 실험 참가자"
-    },
-    {
-      "de": "aus|schließen (schließt aus, schloss aus, hat ausgeschlossen)",
-      "ko": "배제하다"
-    },
-    {
-      "de": "verfälschen",
-      "ko": "왜곡하다"
-    },
-    {
-      "de": "abrufbar",
-      "ko": "불러낼 수 있는, 떠올릴 수 있는"
-    },
-    {
-      "de": "ab|flachen (ist abgeflacht)",
-      "ko": "완만해지다, 평평해지다"
-    },
-    {
-      "de": "der Befund, -e",
-      "ko": "(연구·조사의) 결과, 소견"
-    },
-    {
-      "de": "ein|pauken",
-      "ko": "벼락치기로 외우다"
-    },
-    {
-      "de": "sich (Dat.) etwas ein|prägen",
-      "ko": "확실히 외우다, 깊이 새기다"
-    },
-    {
-      "de": "verankern",
-      "ko": "단단히 자리 잡게 하다, 정착시키다"
-    },
-    {
-      "de": "verknüpfen",
-      "ko": "연결하다, 결합하다"
-    },
-    {
-      "de": "der Reiz, -e",
-      "ko": "자극"
-    },
-    {
-      "de": "aus|sortieren",
-      "ko": "골라내어 버리다"
-    },
-    {
-      "de": "ein|stufen",
-      "ko": "분류하다, 등급을 매기다"
-    }
+    { "de": "das Gedächtnis, -se", "ko": "기억, 기억력" },
+    { "de": "beherrschen", "ko": "(언어·지식을) 완전히 익히다, 숙달하다" },
+    { "de": "die Panne, -n", "ko": "고장, 차질" },
+    { "de": "verblassen (ist verblasst)", "ko": "(기억·색이) 희미해지다" },
+    { "de": "nach|weisen (weist nach, wies nach, hat nachgewiesen)", "ko": "입증하다, 증명하다" },
+    { "de": "die Versuchsperson, -en", "ko": "피험자, 실험 참가자" },
+    { "de": "aus|schließen (schließt aus, schloss aus, hat ausgeschlossen)", "ko": "배제하다" },
+    { "de": "verfälschen", "ko": "왜곡하다" },
+    { "de": "abrufbar", "ko": "불러낼 수 있는, 떠올릴 수 있는" },
+    { "de": "ab|flachen (ist abgeflacht)", "ko": "완만해지다, 평평해지다" },
+    { "de": "der Befund, -e", "ko": "(연구·조사의) 결과, 소견" },
+    { "de": "ein|pauken", "ko": "벼락치기로 외우다" },
+    { "de": "sich (Dat.) etwas ein|prägen", "ko": "확실히 외우다, 깊이 새기다" },
+    { "de": "verankern", "ko": "단단히 자리 잡게 하다, 정착시키다" },
+    { "de": "verknüpfen", "ko": "연결하다, 결합하다" },
+    { "de": "der Reiz, -e", "ko": "자극" },
+    { "de": "aus|sortieren", "ko": "골라내어 버리다" },
+    { "de": "ein|stufen", "ko": "분류하다, 등급을 매기다" }
   ],
   "phrases": [
     {

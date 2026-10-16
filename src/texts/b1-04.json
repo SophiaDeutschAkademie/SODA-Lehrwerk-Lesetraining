@@ -64,11 +64,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was passiert laut Text, wenn das Fenster den ganzen Tag gekippt bleibt?",
-      "options": [
-        "Die Luft wird ständig erneuert, aber dadurch wird es zu kalt im Raum.",
-        "Die Luft bleibt fast gleich, aber die Wände am Fenster verlieren Wärme.",
-        "Die Wände um das Fenster trocknen aus, weil zu viel Luft hereinkommt."
-      ],
+      "options": ["Die Luft wird ständig erneuert, aber dadurch wird es zu kalt im Raum.", "Die Luft bleibt fast gleich, aber die Wände am Fenster verlieren Wärme.", "Die Wände um das Fenster trocknen aus, weil zu viel Luft hereinkommt."],
       "answer": 1,
       "evidence": "Dabei wird die Luft kaum ausgetauscht, aber die Wände um das Fenster kühlen stark aus.",
       "pairs": [["kaum ausgetauscht", "bleibt fast gleich"], ["kühlen stark aus", "verlieren Wärme"]],
@@ -78,11 +74,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was ist mit „Durchzug“ gemeint?",
-      "options": [
-        "Man öffnet mehrere gegenüberliegende Fenster zur gleichen Zeit.",
-        "Man lässt ein Fenster im Winter fünf bis zehn Minuten lang gekippt.",
-        "Man öffnet alle Fenster der Wohnung nacheinander für einige Minuten."
-      ],
+      "options": ["Man öffnet mehrere gegenüberliegende Fenster zur gleichen Zeit.", "Man lässt ein Fenster im Winter fünf bis zehn Minuten lang gekippt.", "Man öffnet alle Fenster der Wohnung nacheinander für einige Minuten."],
       "answer": 0,
       "evidence": "Dafür öffnet man Fenster auf zwei Seiten der Wohnung gleichzeitig.",
       "pairs": [["Fenster auf zwei Seiten der Wohnung", "mehrere gegenüberliegende Fenster"], ["gleichzeitig", "zur gleichen Zeit"]],
@@ -92,11 +84,7 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Drehen Sie die Heizkörper herunter, bevor Sie die Fenster öffnen, damit die Wärme nicht direkt nach draußen entweicht“?",
-      "options": [
-        "Man soll die Heizung ausschalten und erst am nächsten Tag wieder einschalten.",
-        "Bei offenem Fenster soll die Heizung niedrig stehen, sonst heizt man umsonst.",
-        "Man soll die Fenster nur öffnen, wenn die Heizkörper schon ganz kalt sind."
-      ],
+      "options": ["Man soll die Heizung ausschalten und erst am nächsten Tag wieder einschalten.", "Bei offenem Fenster soll die Heizung niedrig stehen, sonst heizt man umsonst.", "Man soll die Fenster nur öffnen, wenn die Heizkörper schon ganz kalt sind."],
       "answer": 1,
       "evidence": "Ein kurz gelüfteter Raum ist nämlich schnell wieder warm, weil die Wände ihre Wärme behalten haben.",
       "pairs": [["die Heizkörper herunter", "die Heizung niedrig"], ["damit die Wärme nicht direkt nach draußen entweicht", "sonst heizt man umsonst"]],
@@ -115,11 +103,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was empfiehlt der Text für die Küche?",
-      "options": [
-        "Beim Kochen sollte die Küchentür offen bleiben, damit der Dampf sich verteilt.",
-        "Der Dampf sollte durchs Fenster entweichen und nicht in die Wohnung ziehen.",
-        "In der Küche sollte man die Wäsche trocknen, weil es dort am wärmsten ist."
-      ],
+      "options": ["Beim Kochen sollte die Küchentür offen bleiben, damit der Dampf sich verteilt.", "Der Dampf sollte durchs Fenster entweichen und nicht in die Wohnung ziehen.", "In der Küche sollte man die Wäsche trocknen, weil es dort am wärmsten ist."],
       "answer": 1,
       "evidence": "Schließen Sie beim Kochen die Küchentür, um den Dampf im Raum zu halten, und öffnen Sie gleichzeitig das Fenster.",
       "pairs": [["Schließen Sie beim Kochen die Küchentür", "nicht in die Wohnung ziehen"], ["öffnen Sie gleichzeitig das Fenster", "durchs Fenster entweichen"]],
@@ -129,11 +113,7 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was will der Text mit dem Satz „Liegt sie längere Zeit darüber, muss man öfter lüften“ sagen?",
-      "options": [
-        "Wenn die Luft lange feuchter als 60 Prozent ist, sollte man häufiger Fenster öffnen.",
-        "Wenn das Hygrometer länger als 60 Minuten misst, zeigt es die Werte genauer an.",
-        "Wenn die Möbel zu lange direkt an der Außenwand stehen, muss man sie öfter abrücken."
-      ],
+      "options": ["Wenn die Luft lange feuchter als 60 Prozent ist, sollte man häufiger Fenster öffnen.", "Wenn das Hygrometer länger als 60 Minuten misst, zeigt es die Werte genauer an.", "Wenn die Möbel zu lange direkt an der Außenwand stehen, muss man sie öfter abrücken."],
       "answer": 0,
       "evidence": "Die Luftfeuchtigkeit sollte grob zwischen 40 und 60 Prozent liegen.",
       "pairs": [["Liegt sie längere Zeit darüber", "Wenn die Luft lange feuchter als 60 Prozent ist"], ["muss man öfter lüften", "sollte man häufiger Fenster öffnen"]],

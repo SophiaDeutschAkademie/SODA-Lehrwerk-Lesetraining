@@ -7,10 +7,7 @@
   "type": "Zeitungsbericht",
   "typeKo": "지역 신문 기사",
   "intro": "카셀 중앙역 분실물 보관소에서 일하는 직원이 그곳에 들어오는 물건들에 대해 이야기해요.",
-  "focus": [
-    "부정대명사 (jemand, niemand, etwas, nichts …)",
-    "3격·4격 목적어와 대명사"
-  ],
+  "focus": ["부정대명사 (jemand, niemand, etwas, nichts …)", "3격·4격 목적어와 대명사"],
   "paragraphs": [
     {
       "de": "Kassel. Jeden Tag lässt jemand etwas im Zug liegen – und vieles davon landet im Fundbüro am Hauptbahnhof. Dort arbeitet Ilse Brück seit zwölf Jahren. Sie kennt die Geschichten hinter den Sachen.",
@@ -38,23 +35,10 @@
       "type": "mc",
       "kind": "detail",
       "q": "Welche Gegenstände kommen am häufigsten ins Fundbüro?",
-      "options": [
-        "Dinge für Regenwetter",
-        "Geräte zum Telefonieren",
-        "Dinge zum Lesen im Zug"
-      ],
+      "options": ["Dinge für Regenwetter", "Geräte zum Telefonieren", "Dinge zum Lesen im Zug"],
       "answer": 0,
       "evidence": "„Regenschirme bekommen wir am meisten, dann kommen Handys und Brillen“",
-      "pairs": [
-        [
-          "Regenschirme",
-          "Dinge für Regenwetter"
-        ],
-        [
-          "am meisten",
-          "am häufigsten"
-        ]
-      ],
+      "pairs": [["Regenschirme", "Dinge für Regenwetter"], ["am meisten", "am häufigsten"]],
       "explain": "브뤼크 씨는 우산이 가장 많이(am meisten) 들어온다고 해요. Regenschirme(우산)를 '비 올 때 쓰는 물건'으로 바꿔 말했어요. 휴대전화(Handys)는 그다음이고, 어린이책은 선반에 있다고만 했어요."
     },
     {
@@ -63,39 +47,17 @@
       "q": "Das Musikinstrument hat ein Mitarbeiter der Bahn ins Fundbüro gebracht.",
       "answer": 0,
       "evidence": "Vor einem Monat brachte ein Zugbegleiter eine Gitarre",
-      "pairs": [
-        [
-          "ein Zugbegleiter",
-          "ein Mitarbeiter der Bahn"
-        ],
-        [
-          "eine Gitarre",
-          "Das Musikinstrument"
-        ]
-      ],
+      "pairs": [["ein Zugbegleiter", "ein Mitarbeiter der Bahn"], ["eine Gitarre", "Das Musikinstrument"]],
       "explain": "본문에서는 열차 승무원(Zugbegleiter)이 기타를 가져왔다고 해요. 승무원은 철도 회사 직원이고, 기타는 악기예요. 그래서 맞는 설명이에요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was hat Frau Brück mit dem Hamster gemacht?",
-      "options": [
-        "Sie hat ihn in einen neuen Käfig gesetzt.",
-        "Sie hat ihm zuerst etwas zu trinken gegeben.",
-        "Sie hat ihn am selben Tag einem Mädchen gegeben."
-      ],
+      "options": ["Sie hat ihn in einen neuen Käfig gesetzt.", "Sie hat ihm zuerst etwas zu trinken gegeben.", "Sie hat ihn am selben Tag einem Mädchen gegeben."],
       "answer": 1,
       "evidence": "„Dem Hamster habe ich erst mal frisches Wasser gegeben“",
-      "pairs": [
-        [
-          "erst mal",
-          "zuerst"
-        ],
-        [
-          "frisches Wasser gegeben",
-          "etwas zu trinken gegeben"
-        ]
-      ],
+      "pairs": [["erst mal", "zuerst"], ["frisches Wasser gegeben", "etwas zu trinken gegeben"]],
       "explain": "브뤼크 씨는 햄스터에게 우선 신선한 물을 줬다고 해요. '물'을 '마실 것'으로 바꿔 표현했어요. 햄스터는 이미 우리(Käfig)에 들어 있었고, 여자아이는 그날이 아니라 다음 날(am nächsten Tag) 찾아갔어요."
     },
     {
@@ -104,58 +66,27 @@
       "q": "Wer etwas verloren hat, muss persönlich zum Fundbüro kommen und fragen.",
       "answer": 1,
       "evidence": "Wer etwas verliert, kann im Fundbüro anrufen oder online nachfragen.",
-      "pairs": [
-        [
-          "kann im Fundbüro anrufen oder online nachfragen",
-          "muss persönlich zum Fundbüro kommen und fragen"
-        ]
-      ],
+      "pairs": [["kann im Fundbüro anrufen oder online nachfragen", "muss persönlich zum Fundbüro kommen und fragen"]],
       "explain": "본문은 물건을 잃어버린 사람이 전화하거나 온라인으로 문의할 수 있다고 해요. 직접 찾아가야 한다는 말은 없고, 오히려 그러지 않아도 되는 방법을 알려 주고 있어요. 그래서 틀렸어요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Wer hat den Hochzeitsring gefunden?",
-      "options": [
-        "ein Mann kurz vor seiner Hochzeit",
-        "eine Mitarbeiterin des Fundbüros",
-        "jemand, der noch zur Schule geht"
-      ],
+      "options": ["ein Mann kurz vor seiner Hochzeit", "eine Mitarbeiterin des Fundbüros", "jemand, der noch zur Schule geht"],
       "answer": 2,
       "evidence": "Ein Schüler fand den Ring und brachte ihn ins Fundbüro.",
-      "pairs": [
-        [
-          "Ein Schüler",
-          "jemand, der noch zur Schule geht"
-        ],
-        [
-          "fand den Ring",
-          "hat den Hochzeitsring gefunden"
-        ]
-      ],
+      "pairs": [["Ein Schüler", "jemand, der noch zur Schule geht"], ["fand den Ring", "hat den Hochzeitsring gefunden"]],
       "explain": "반지를 발견한 사람은 한 학생(Schüler)이에요. 이것을 '아직 학교에 다니는 사람'으로 바꿔 말했어요. 결혼을 앞둔 남자는 반지를 잃어버린 사람이고, 브뤼크 씨는 반지를 돌려준 사람이에요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was passiert mit Sachen, die drei Monate lang niemand abholt?",
-      "options": [
-        "Das Fundbüro behält sie noch mindestens ein Jahr lang im Lager.",
-        "Die Mitarbeiterinnen dürfen sie dann mit nach Hause nehmen.",
-        "Man kann sie kaufen, oder soziale Organisationen bekommen sie."
-      ],
+      "options": ["Das Fundbüro behält sie noch mindestens ein Jahr lang im Lager.", "Die Mitarbeiterinnen dürfen sie dann mit nach Hause nehmen.", "Man kann sie kaufen, oder soziale Organisationen bekommen sie."],
       "answer": 2,
       "evidence": "Nach drei Monaten verkauft das Fundbüro sie oder gibt sie an soziale Einrichtungen weiter.",
-      "pairs": [
-        [
-          "verkauft das Fundbüro sie",
-          "Man kann sie kaufen"
-        ],
-        [
-          "gibt sie an soziale Einrichtungen weiter",
-          "soziale Organisationen bekommen sie"
-        ]
-      ],
+      "pairs": [["verkauft das Fundbüro sie", "Man kann sie kaufen"], ["gibt sie an soziale Einrichtungen weiter", "soziale Organisationen bekommen sie"]],
       "explain": "석 달 뒤에는 분실물 보관소가 물건을 팔거나 사회복지 기관에 넘긴다고 해요. '판다'를 '살 수 있다'로, '넘긴다'를 '받는다'로 시점을 바꿔 표현했어요. 1년 이상 보관한다거나 직원이 가져간다는 내용은 본문에 없어요."
     },
     {
@@ -164,12 +95,7 @@
       "q": "Das Mädchen wollte den Hamster im Zug lassen.",
       "answer": 1,
       "evidence": "Es hat ihn tatsächlich im Zug vergessen – aber nur, weil es gerade ein sehr spannendes Buch gelesen hat.",
-      "pairs": [
-        [
-          "tatsächlich im Zug vergessen",
-          "wollte den Hamster im Zug lassen"
-        ]
-      ],
+      "pairs": [["tatsächlich im Zug vergessen", "wollte den Hamster im Zug lassen"]],
       "explain": "여자아이는 재미있는 책을 읽느라 햄스터를 정말로 깜빡 잊었어요(vergessen). 잊어버린 것이지 일부러 두고 내리려고 한(wollte … lassen) 게 아니에요. 그래서 틀렸어요."
     }
   ],
@@ -183,74 +109,19 @@
         {
           "de": "Manche Sachen holt niemand ab.",
           "ko": "어떤 물건들은 아무도 찾아가지 않아요.",
-          "mark": [
-            "Manche",
-            "niemand"
-          ],
-          "parts": [
-            [
-              "Manche Sachen",
-              "4격 목적어"
-            ],
-            [
-              "holt",
-              "동사"
-            ],
-            [
-              "niemand",
-              "주어"
-            ],
-            [
-              "ab.",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["Manche", "niemand"],
+          "parts": [["Manche Sachen", "4격 목적어"], ["holt", "동사"], ["niemand", "주어"], ["ab.", "동사(끝)"]]
         },
         {
           "de": "Jeden Tag lässt jemand etwas im Zug liegen – und vieles davon landet im Fundbüro am Hauptbahnhof.",
           "ko": "매일 누군가가 기차에 무언가를 두고 내려요. 그중 많은 물건이 중앙역 분실물 보관소로 들어와요.",
-          "mark": [
-            "jemand",
-            "etwas",
-            "vieles"
-          ]
+          "mark": ["jemand", "etwas", "vieles"]
         },
         {
           "de": "Wer etwas verliert, kann im Fundbüro anrufen oder online nachfragen.",
           "ko": "무언가를 잃어버린 사람은 분실물 보관소에 전화하거나 온라인으로 문의할 수 있어요.",
-          "mark": [
-            "etwas"
-          ],
-          "parts": [
-            [
-              "Wer etwas verliert,",
-              "종속절"
-            ],
-            [
-              "kann",
-              "동사"
-            ],
-            [
-              "im Fundbüro",
-              "부사어(장소)"
-            ],
-            [
-              "anrufen",
-              "동사(끝)"
-            ],
-            [
-              "oder",
-              "접속사"
-            ],
-            [
-              "online",
-              "부사어(방법)"
-            ],
-            [
-              "nachfragen.",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["etwas"],
+          "parts": [["Wer etwas verliert,", "종속절"], ["kann", "동사"], ["im Fundbüro", "부사어(장소)"], ["anrufen", "동사(끝)"], ["oder", "접속사"], ["online", "부사어(방법)"], ["nachfragen.", "동사(끝)"]]
         }
       ],
       "tip": "niemand와 nichts에는 이미 부정의 뜻이 있어서 nicht를 또 쓰지 않아요: Manche Sachen holt niemand ab. 이 문장의 주어는 niemand이고(동사 holt가 단수예요), Manche Sachen은 1번 자리에 온 4격 목적어예요. Wer etwas verliert, …의 wer는 부정대명사가 아니라 '~하는 사람은 (누구나)'라는 뜻으로 종속절을 이끌어요. 이 종속절 전체가 주절의 주어예요."
@@ -264,86 +135,14 @@
         {
           "de": "„Dem Hamster habe ich erst mal frisches Wasser gegeben“, erzählt sie und lacht.",
           "ko": "“햄스터에게 우선 신선한 물부터 줬어요.” 그녀가 이렇게 이야기하며 웃어요.",
-          "mark": [
-            "Dem Hamster",
-            "frisches Wasser"
-          ],
-          "parts": [
-            [
-              "„Dem Hamster",
-              "3격 목적어"
-            ],
-            [
-              "habe",
-              "동사"
-            ],
-            [
-              "ich",
-              "주어"
-            ],
-            [
-              "erst mal",
-              "부사어(시간)"
-            ],
-            [
-              "frisches Wasser",
-              "4격 목적어"
-            ],
-            [
-              "gegeben“,",
-              "동사(끝)"
-            ],
-            [
-              "erzählt",
-              "동사"
-            ],
-            [
-              "sie",
-              "주어"
-            ],
-            [
-              "und",
-              "접속사"
-            ],
-            [
-              "lacht.",
-              "동사"
-            ]
-          ]
+          "mark": ["Dem Hamster", "frisches Wasser"],
+          "parts": [["„Dem Hamster", "3격 목적어"], ["habe", "동사"], ["ich", "주어"], ["erst mal", "부사어(시간)"], ["frisches Wasser", "4격 목적어"], ["gegeben“,", "동사(끝)"], ["erzählt", "동사"], ["sie", "주어"], ["und", "접속사"], ["lacht.", "동사"]]
         },
         {
           "de": "Er hat mir dreimal die Hand geschüttelt",
           "ko": "저와 세 번이나 악수를 했어요.",
-          "mark": [
-            "mir",
-            "die Hand"
-          ],
-          "parts": [
-            [
-              "Er",
-              "주어"
-            ],
-            [
-              "hat",
-              "동사"
-            ],
-            [
-              "mir",
-              "3격 목적어"
-            ],
-            [
-              "dreimal",
-              "부사어(빈도)"
-            ],
-            [
-              "die Hand",
-              "4격 목적어"
-            ],
-            [
-              "geschüttelt",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["mir", "die Hand"],
+          "parts": [["Er", "주어"], ["hat", "동사"], ["mir", "3격 목적어"], ["dreimal", "부사어(빈도)"], ["die Hand", "4격 목적어"], ["geschüttelt", "동사(끝)"]]
         }
       ],
       "tip": "인칭대명사의 3격과 4격을 짝으로 외워 두세요: ich → mir/mich, du → dir/dich, er → ihm/ihn, sie → ihr/sie, es → ihm/es, wir → uns/uns, ihr → euch/euch, sie(복수) → ihnen/sie, Sie → Ihnen/Sie."
@@ -357,160 +156,40 @@
         {
           "de": "Ein Schüler fand den Ring und brachte ihn ins Fundbüro.",
           "ko": "한 학생이 그 반지를 발견해서 분실물 보관소에 가져왔어요.",
-          "mark": [
-            "den Ring",
-            "ihn"
-          ],
-          "parts": [
-            [
-              "Ein Schüler",
-              "주어"
-            ],
-            [
-              "fand",
-              "동사"
-            ],
-            [
-              "den Ring",
-              "4격 목적어"
-            ],
-            [
-              "und",
-              "접속사"
-            ],
-            [
-              "brachte",
-              "동사"
-            ],
-            [
-              "ihn",
-              "4격 목적어"
-            ],
-            [
-              "ins Fundbüro.",
-              "부사어(장소)"
-            ]
-          ]
+          "mark": ["den Ring", "ihn"],
+          "parts": [["Ein Schüler", "주어"], ["fand", "동사"], ["den Ring", "4격 목적어"], ["und", "접속사"], ["brachte", "동사"], ["ihn", "4격 목적어"], ["ins Fundbüro.", "부사어(장소)"]]
         },
         {
           "de": "Der Mann hat ihn noch am selben Abend abgeholt.",
           "ko": "그 남자분은 바로 그날 저녁에 반지를 찾아갔어요.",
-          "mark": [
-            "ihn"
-          ],
-          "parts": [
-            [
-              "Der Mann",
-              "주어"
-            ],
-            [
-              "hat",
-              "동사"
-            ],
-            [
-              "ihn",
-              "4격 목적어"
-            ],
-            [
-              "noch am selben Abend",
-              "부사어(시간)"
-            ],
-            [
-              "abgeholt.",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["ihn"],
+          "parts": [["Der Mann", "주어"], ["hat", "동사"], ["ihn", "4격 목적어"], ["noch am selben Abend", "부사어(시간)"], ["abgeholt.", "동사(끝)"]]
         },
         {
           "de": "Den hat am nächsten Tag ein Mädchen abgeholt.",
           "ko": "햄스터는 다음 날 한 여자아이가 찾아갔어요.",
-          "mark": [
-            "Den"
-          ],
-          "parts": [
-            [
-              "Den",
-              "4격 목적어"
-            ],
-            [
-              "hat",
-              "동사"
-            ],
-            [
-              "am nächsten Tag",
-              "부사어(시간)"
-            ],
-            [
-              "ein Mädchen",
-              "주어"
-            ],
-            [
-              "abgeholt.",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["Den"],
+          "parts": [["Den", "4격 목적어"], ["hat", "동사"], ["am nächsten Tag", "부사어(시간)"], ["ein Mädchen", "주어"], ["abgeholt.", "동사(끝)"]]
         }
       ],
       "tip": "'Wenn man ihn findet, kann der Besitzer ihn abholen.'에서 ihn은 두 번 다 den Gegenstand(그 물건)를 가리켜요. 대명사가 무엇을 가리키는지 늘 확인하세요."
     }
   ],
   "vocab": [
-    {
-      "de": "das Fundbüro, -s",
-      "ko": "분실물 보관소"
-    },
-    {
-      "de": "landen (ist gelandet)",
-      "ko": "(결국 어떤 곳에) 들어가다, 가게 되다; 착륙하다"
-    },
-    {
-      "de": "der Regenschirm, -e",
-      "ko": "우산"
-    },
-    {
-      "de": "die Brille, -n",
-      "ko": "안경"
-    },
-    {
-      "de": "das Regal, -e",
-      "ko": "선반, 책장"
-    },
-    {
-      "de": "ungewöhnlich",
-      "ko": "특이한, 흔치 않은"
-    },
-    {
-      "de": "der Zugbegleiter, -",
-      "ko": "열차 승무원"
-    },
-    {
-      "de": "der Käfig, -e",
-      "ko": "(동물) 우리, 새장"
-    },
-    {
-      "de": "verlieren (verlor, hat verloren)",
-      "ko": "잃어버리다"
-    },
-    {
-      "de": "nach|fragen",
-      "ko": "문의하다, 물어보다"
-    },
-    {
-      "de": "der Gegenstand, -¨e",
-      "ko": "물건, 물체"
-    },
-    {
-      "de": "das Lager, -",
-      "ko": "창고"
-    },
-    {
-      "de": "der Besitzer, -",
-      "ko": "주인, 소유자"
-    },
-    {
-      "de": "die Einrichtung, -en",
-      "ko": "기관, 시설"
-    }
+    { "de": "das Fundbüro, -s", "ko": "분실물 보관소" },
+    { "de": "landen (ist gelandet)", "ko": "(결국 어떤 곳에) 들어가다, 가게 되다; 착륙하다" },
+    { "de": "der Regenschirm, -e", "ko": "우산" },
+    { "de": "die Brille, -n", "ko": "안경" },
+    { "de": "das Regal, -e", "ko": "선반, 책장" },
+    { "de": "ungewöhnlich", "ko": "특이한, 흔치 않은" },
+    { "de": "der Zugbegleiter, -", "ko": "열차 승무원" },
+    { "de": "der Käfig, -e", "ko": "(동물) 우리, 새장" },
+    { "de": "verlieren (verlor, hat verloren)", "ko": "잃어버리다" },
+    { "de": "nach|fragen", "ko": "문의하다, 물어보다" },
+    { "de": "der Gegenstand, -¨e", "ko": "물건, 물체" },
+    { "de": "das Lager, -", "ko": "창고" },
+    { "de": "der Besitzer, -", "ko": "주인, 소유자" },
+    { "de": "die Einrichtung, -en", "ko": "기관, 시설" }
   ],
   "phrases": [
     {

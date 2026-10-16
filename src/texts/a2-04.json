@@ -9,126 +9,211 @@
   "intro": "온라인 쇼핑몰에 잘못 배송된 재킷에 대해 항의하는 메일과 고객센터의 답장이에요.",
   "focus": ["접속법 2식으로 정중하게 부탁하기 (würde, könnten, hätte gern, wäre)", "dass 종속절", "격식 있는 이메일 형식"],
   "paragraphs": [
-    { "style": "meta", "de": "Betreff: Bestellung Nr. 48213 – falsche Jacke geliefert", "ko": "제목: 주문 번호 48213 – 잘못된 재킷 배송" },
-    { "style": "meta", "de": "Sehr geehrte Damen und Herren,", "ko": "담당자님께" },
-    { "de": "am 2. Oktober habe ich in Ihrem Onlineshop eine grüne Winterjacke in Größe M bestellt. Auf Ihrer Internetseite stand, dass die Lieferung drei Tage dauert. Das Paket ist aber erst gestern angekommen, also fünf Tage später als versprochen.",
-      "ko": "10월 2일에 귀사의 온라인 쇼핑몰에서 초록색 겨울 재킷 M 사이즈를 주문했습니다. 귀사의 홈페이지에는 배송이 3일 걸린다고 쓰여 있었습니다. 그런데 소포는 어제서야 도착했습니다. 약속보다 5일이나 늦은 것입니다." },
-    { "de": "Leider habe ich beim Auspacken festgestellt, dass in dem Paket eine blaue Jacke in Größe L war. Die Jacke ist mir viel zu groß, und die Farbe gefällt mir nicht. Ich finde es schade, dass so ein Fehler passiert ist.",
-      "ko": "아쉽게도 포장을 뜯으면서 소포 안에 파란색 재킷 L 사이즈가 들어 있다는 것을 알게 되었습니다. 그 재킷은 저에게 너무 크고 색깔도 마음에 들지 않습니다. 이런 실수가 일어났다는 것이 유감스럽습니다." },
-    { "de": "Ich möchte mein Geld nicht zurück, sondern ich hätte gern die richtige Jacke. Könnten Sie mir bitte die grüne Jacke in Größe M so schnell wie möglich schicken? Außerdem würde ich Sie bitten, mir ein Rücksendeetikett zu senden, damit ich die falsche Jacke kostenlos zurückschicken kann. Es wäre schön, wenn Sie mir kurz Bescheid geben könnten, wann die neue Lieferung kommt.",
-      "ko": "저는 돈을 돌려받고 싶은 것이 아니라 제대로 된 재킷을 받고 싶습니다. 초록색 재킷 M 사이즈를 가능한 한 빨리 보내 주시겠습니까? 또한 잘못 온 재킷을 무료로 반송할 수 있도록 반송 라벨을 보내 주시기 바랍니다. 새 배송이 언제 도착하는지 간단히 알려 주시면 좋겠습니다." },
-    { "style": "meta", "de": "Mit freundlichen Grüßen", "ko": "감사합니다." },
-    { "style": "meta", "de": "Jakob Brenner", "ko": "야코프 브레너 드림" },
-    { "style": "h", "de": "Antwort des Kundenservice", "ko": "고객센터의 답장" },
-    { "style": "meta", "de": "Sehr geehrter Herr Brenner,", "ko": "브레너 고객님께" },
-    { "de": "vielen Dank für Ihre Nachricht. Es tut uns sehr leid, dass Sie die falsche Jacke bekommen haben und so lange warten mussten. Das Rücksendeetikett finden Sie im Anhang dieser E-Mail. Ihre grüne Jacke in Größe M haben wir heute verschickt; sie wird in zwei bis drei Tagen bei Ihnen sein. Als Entschuldigung schenken wir Ihnen einen Gutschein über 10 Euro für Ihre nächste Bestellung. Wir hoffen, dass Sie uns trotzdem treu bleiben.",
-      "ko": "메시지 감사합니다. 잘못된 재킷을 받으시고 오래 기다리시게 해서 대단히 죄송합니다. 반송 라벨은 이 이메일의 첨부 파일에 있습니다. 고객님의 초록색 재킷 M 사이즈는 오늘 발송했으며, 2~3일 안에 도착할 것입니다. 사과의 뜻으로 다음 주문에 쓰실 수 있는 10유로 상품권을 드립니다. 그럼에도 저희를 계속 이용해 주시기를 바랍니다." },
-    { "style": "meta", "de": "Freundliche Grüße", "ko": "감사합니다." },
-    { "style": "meta", "de": "Ihr Kundenservice-Team", "ko": "고객센터 팀 드림" }
+    {
+      "style": "meta",
+      "de": "Betreff: Bestellung Nr. 48213 – falsche Jacke geliefert",
+      "ko": "제목: 주문 번호 48213 – 잘못된 재킷 배송"
+    },
+    {
+      "style": "meta",
+      "de": "Sehr geehrte Damen und Herren,",
+      "ko": "담당자님께"
+    },
+    {
+      "de": "am 2. Oktober habe ich in Ihrem Onlineshop eine grüne Winterjacke in Größe M bestellt. Auf Ihrer Internetseite stand, dass die Lieferung drei Tage dauert. Das Paket ist aber erst gestern angekommen, also fünf Tage später als versprochen.",
+      "ko": "10월 2일에 귀사의 온라인 쇼핑몰에서 초록색 겨울 재킷 M 사이즈를 주문했습니다. 귀사의 홈페이지에는 배송이 3일 걸린다고 쓰여 있었습니다. 그런데 소포는 어제서야 도착했습니다. 약속보다 5일이나 늦은 것입니다."
+    },
+    {
+      "de": "Leider habe ich beim Auspacken festgestellt, dass in dem Paket eine blaue Jacke in Größe L war. Die Jacke ist mir viel zu groß, und die Farbe gefällt mir nicht. Ich finde es schade, dass so ein Fehler passiert ist.",
+      "ko": "아쉽게도 포장을 뜯으면서 소포 안에 파란색 재킷 L 사이즈가 들어 있다는 것을 알게 되었습니다. 그 재킷은 저에게 너무 크고 색깔도 마음에 들지 않습니다. 이런 실수가 일어났다는 것이 유감스럽습니다."
+    },
+    {
+      "de": "Ich möchte mein Geld nicht zurück, sondern ich hätte gern die richtige Jacke. Könnten Sie mir bitte die grüne Jacke in Größe M so schnell wie möglich schicken? Außerdem würde ich Sie bitten, mir ein Rücksendeetikett zu senden, damit ich die falsche Jacke kostenlos zurückschicken kann. Es wäre schön, wenn Sie mir kurz Bescheid geben könnten, wann die neue Lieferung kommt.",
+      "ko": "저는 돈을 돌려받고 싶은 것이 아니라 제대로 된 재킷을 받고 싶습니다. 초록색 재킷 M 사이즈를 가능한 한 빨리 보내 주시겠습니까? 또한 잘못 온 재킷을 무료로 반송할 수 있도록 반송 라벨을 보내 주시기 바랍니다. 새 배송이 언제 도착하는지 간단히 알려 주시면 좋겠습니다."
+    },
+    {
+      "style": "meta",
+      "de": "Mit freundlichen Grüßen",
+      "ko": "감사합니다."
+    },
+    {
+      "style": "meta",
+      "de": "Jakob Brenner",
+      "ko": "야코프 브레너 드림"
+    },
+    {
+      "style": "h",
+      "de": "Antwort des Kundenservice",
+      "ko": "고객센터의 답장"
+    },
+    {
+      "style": "meta",
+      "de": "Sehr geehrter Herr Brenner,",
+      "ko": "브레너 고객님께"
+    },
+    {
+      "de": "vielen Dank für Ihre Nachricht. Es tut uns sehr leid, dass Sie die falsche Jacke bekommen haben und so lange warten mussten. Das Rücksendeetikett finden Sie im Anhang dieser E-Mail. Ihre grüne Jacke in Größe M haben wir heute verschickt; sie wird in zwei bis drei Tagen bei Ihnen sein. Als Entschuldigung schenken wir Ihnen einen Gutschein über 10 Euro für Ihre nächste Bestellung. Wir hoffen, dass Sie uns trotzdem treu bleiben.",
+      "ko": "메시지 감사합니다. 잘못된 재킷을 받으시고 오래 기다리시게 해서 대단히 죄송합니다. 반송 라벨은 이 이메일의 첨부 파일에 있습니다. 고객님의 초록색 재킷 M 사이즈는 오늘 발송했으며, 2~3일 안에 도착할 것입니다. 사과의 뜻으로 다음 주문에 쓰실 수 있는 10유로 상품권을 드립니다. 그럼에도 저희를 계속 이용해 주시기를 바랍니다."
+    },
+    {
+      "style": "meta",
+      "de": "Freundliche Grüße",
+      "ko": "감사합니다."
+    },
+    {
+      "style": "meta",
+      "de": "Ihr Kundenservice-Team",
+      "ko": "고객센터 팀 드림"
+    }
   ],
   "questions": [
-    { "type": "rf", "kind": "detail",
+    {
+      "type": "rf",
+      "kind": "detail",
       "q": "Das Paket ist fünf Tage nach der Bestellung angekommen.",
       "answer": 1,
       "evidence": "Das Paket ist aber erst gestern angekommen, also fünf Tage später als versprochen.",
       "pairs": [["fünf Tage später als versprochen", "fünf Tage nach der Bestellung"], ["die Lieferung drei Tage dauert", "nach der Bestellung"]],
-      "explain": "소포는 '약속보다'(als versprochen) 5일 늦게 왔어요. 약속한 배송 기간이 3일이었으니, 주문한 날부터 5일 뒤가 아니라 그보다 더 늦게 온 거예요. fünf Tage라는 숫자는 같지만 기준점이 다르니 als versprochen까지 꼭 읽어야 해요." },
-    { "type": "mc", "kind": "detail",
+      "explain": "소포는 '약속보다'(als versprochen) 5일 늦게 왔어요. 약속한 배송 기간이 3일이었으니, 주문한 날부터 5일 뒤가 아니라 그보다 더 늦게 온 거예요. fünf Tage라는 숫자는 같지만 기준점이 다르니 als versprochen까지 꼭 읽어야 해요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
       "q": "Was stimmt mit der gelieferten Jacke nicht?",
       "options": ["Sie hat die richtige Größe, aber eine andere Farbe.", "Sie hat die richtige Farbe, ist aber viel zu klein.", "Farbe und Größe sind beide anders als bestellt."],
       "answer": 2,
       "evidence": "dass in dem Paket eine blaue Jacke in Größe L war",
       "pairs": [["eine grüne Winterjacke in Größe M bestellt", "als bestellt"], ["eine blaue Jacke in Größe L", "Farbe und Größe sind beide anders"]],
-      "explain": "주문한 것은 초록색 M이고, 온 것은 파란색 L이에요. 색깔과 사이즈가 둘 다 달라요. 첫 번째 선택지는 사이즈가 맞다고, 두 번째 선택지는 색깔이 맞다고 해서 틀려요. 재킷은 너무 작은 것이 아니라 너무 커요(viel zu groß)." },
-    { "type": "mc", "kind": "detail",
+      "explain": "주문한 것은 초록색 M이고, 온 것은 파란색 L이에요. 색깔과 사이즈가 둘 다 달라요. 첫 번째 선택지는 사이즈가 맞다고, 두 번째 선택지는 색깔이 맞다고 해서 틀려요. 재킷은 너무 작은 것이 아니라 너무 커요(viel zu groß)."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
       "q": "Was möchte Herr Brenner vom Onlineshop?",
       "options": ["Er möchte die blaue Jacke behalten und Geld zurück.", "Er möchte die Jacke bekommen, die er bestellt hat.", "Er möchte sein Geld zurück und keine Jacke mehr."],
       "answer": 1,
       "evidence": "sondern ich hätte gern die richtige Jacke",
       "pairs": [["hätte gern die richtige Jacke", "die Jacke bekommen, die er bestellt hat"], ["mein Geld nicht zurück", "sein Geld zurück"]],
-      "explain": "브레너 씨는 돈을 돌려받는 것이 아니라 제대로 된 재킷(die richtige Jacke), 즉 주문한 재킷을 받고 싶어 해요. Geld zurück이라는 말은 본문에 나오지만 그가 원하지 않는 것으로 나와요. 파란 재킷을 갖겠다는 말도 없어요." },
-    { "type": "mc", "kind": "detail",
+      "explain": "브레너 씨는 돈을 돌려받는 것이 아니라 제대로 된 재킷(die richtige Jacke), 즉 주문한 재킷을 받고 싶어 해요. Geld zurück이라는 말은 본문에 나오지만 그가 원하지 않는 것으로 나와요. 파란 재킷을 갖겠다는 말도 없어요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
       "q": "Wozu braucht Herr Brenner das Rücksendeetikett?",
       "options": ["Damit er für die Rücksendung nichts bezahlen muss.", "Damit die neue Jacke schneller bei ihm ankommt.", "Damit er die Jacke im Geschäft umtauschen kann."],
       "answer": 0,
       "evidence": "damit ich die falsche Jacke kostenlos zurückschicken kann",
       "pairs": [["kostenlos zurückschicken", "für die Rücksendung nichts bezahlen muss"]],
-      "explain": "반송 라벨이 있으면 잘못 온 재킷을 무료로(kostenlos) 돌려보낼 수 있어요. kostenlos를 '아무것도 지불할 필요가 없다'(nichts bezahlen muss)로 바꿔 말했어요. 라벨은 새 재킷의 배송 속도와는 관계가 없어요." },
-    { "type": "rf", "kind": "detail",
+      "explain": "반송 라벨이 있으면 잘못 온 재킷을 무료로(kostenlos) 돌려보낼 수 있어요. kostenlos를 '아무것도 지불할 필요가 없다'(nichts bezahlen muss)로 바꿔 말했어요. 라벨은 새 재킷의 배송 속도와는 관계가 없어요."
+    },
+    {
+      "type": "rf",
+      "kind": "detail",
       "q": "Der Onlineshop schickt Herrn Brenner das Rücksendeetikett mit der Post.",
       "answer": 1,
       "evidence": "Das Rücksendeetikett finden Sie im Anhang dieser E-Mail.",
       "pairs": [["im Anhang dieser E-Mail", "mit der Post"]],
-      "explain": "반송 라벨은 답장 메일의 첨부 파일(Anhang)에 들어 있어요. 우편으로 오는 것이 아니에요. Rücksendeetikett이라는 단어는 같지만 받는 방법이 달라요." },
-    { "type": "mc", "kind": "detail",
+      "explain": "반송 라벨은 답장 메일의 첨부 파일(Anhang)에 들어 있어요. 우편으로 오는 것이 아니에요. Rücksendeetikett이라는 단어는 같지만 받는 방법이 달라요."
+    },
+    {
+      "type": "mc",
+      "kind": "detail",
       "q": "Was bekommt Herr Brenner zusätzlich zur neuen Jacke?",
       "options": ["Er bekommt 10 Euro per Überweisung auf sein Konto.", "Er kann beim nächsten Einkauf 10 Euro weniger zahlen.", "Er bekommt die nächste Lieferung gratis nach Hause."],
       "answer": 1,
       "evidence": "Als Entschuldigung schenken wir Ihnen einen Gutschein über 10 Euro für Ihre nächste Bestellung.",
       "pairs": [["einen Gutschein über 10 Euro für Ihre nächste Bestellung", "beim nächsten Einkauf 10 Euro weniger zahlen"]],
-      "explain": "고객센터는 다음 주문에 쓸 수 있는 10유로 상품권(Gutschein)을 줘요. 상품권은 다음에 살 때 10유로를 덜 내는 것이지, 계좌로 돈을 돌려주는 것이 아니에요. 다음 배송이 무료라는 말도 없어요." },
-    { "type": "rf", "kind": "intent",
+      "explain": "고객센터는 다음 주문에 쓸 수 있는 10유로 상품권(Gutschein)을 줘요. 상품권은 다음에 살 때 10유로를 덜 내는 것이지, 계좌로 돈을 돌려주는 것이 아니에요. 다음 배송이 무료라는 말도 없어요."
+    },
+    {
+      "type": "rf",
+      "kind": "intent",
       "q": "Der Kundenservice möchte, dass Herr Brenner auch in Zukunft bei diesem Shop einkauft.",
       "answer": 0,
       "evidence": "Wir hoffen, dass Sie uns trotzdem treu bleiben.",
       "pairs": [["uns trotzdem treu bleiben", "auch in Zukunft bei diesem Shop einkauft"]],
-      "explain": "'그럼에도 저희를 계속 이용해 주시기를'(uns treu bleiben)이라는 말은 앞으로도 이 쇼핑몰에서 계속 사 주기를 바란다는 뜻이에요. treu bleiben(충실하게 남다)을 쉬운 말로 풀어 쓴 거예요." }
+      "explain": "'그럼에도 저희를 계속 이용해 주시기를'(uns treu bleiben)이라는 말은 앞으로도 이 쇼핑몰에서 계속 사 주기를 바란다는 뜻이에요. treu bleiben(충실하게 남다)을 쉬운 말로 풀어 쓴 거예요."
+    }
   ],
   "grammar": [
-    { "title": "접속법 2식으로 정중하게 부탁하기",
+    {
+      "title": "접속법 2식으로 정중하게 부탁하기",
       "term": "Höfliche Bitten mit Konjunktiv II",
       "explain": "격식 있는 편지나 가게에서 부탁할 때는 접속법 2식을 써요. 그러면 직접적인 요구가 아니라 부드러운 부탁이 돼요. 자주 쓰는 형태는 네 가지예요. Könnten Sie …?(~해 주시겠어요?), Ich würde Sie bitten, … zu …(~해 주시기 바랍니다), Ich hätte gern …(~을 받고 싶습니다), Es wäre schön, wenn …(~하면 좋겠습니다). könnten, hätte, wäre는 과거형에 움라우트를 붙인 형태이고, würde는 다른 동사와 함께 써요: würde + … + 동사원형.",
       "pattern": "Könnten Sie …? / Ich würde Sie bitten, … zu + 동사원형 / Ich hätte gern + 4격 / Es wäre schön, wenn …",
       "examples": [
-        { "de": "Könnten Sie mir bitte die grüne Jacke in Größe M so schnell wie möglich schicken?",
+        {
+          "de": "Könnten Sie mir bitte die grüne Jacke in Größe M so schnell wie möglich schicken?",
           "ko": "초록색 재킷 M 사이즈를 가능한 한 빨리 보내 주시겠습니까?",
           "mark": ["Könnten", "schicken"],
-          "parts": [["Könnten", "동사"], ["Sie", "주어"], ["mir", "3격 목적어"], ["bitte", "기타"], ["die grüne Jacke in Größe M", "4격 목적어"], ["so schnell wie möglich", "부사어(방법)"], ["schicken?", "동사(끝)"]] },
-        { "de": "Außerdem würde ich Sie bitten, mir ein Rücksendeetikett zu senden, damit ich die falsche Jacke kostenlos zurückschicken kann.",
+          "parts": [["Könnten", "동사"], ["Sie", "주어"], ["mir", "3격 목적어"], ["bitte", "기타"], ["die grüne Jacke in Größe M", "4격 목적어"], ["so schnell wie möglich", "부사어(방법)"], ["schicken?", "동사(끝)"]]
+        },
+        {
+          "de": "Außerdem würde ich Sie bitten, mir ein Rücksendeetikett zu senden, damit ich die falsche Jacke kostenlos zurückschicken kann.",
           "ko": "또한 잘못 온 재킷을 무료로 반송할 수 있도록 반송 라벨을 보내 주시기 바랍니다.",
           "mark": ["würde", "bitten"],
-          "parts": [["Außerdem", "접속부사"], ["würde", "동사"], ["ich", "주어"], ["Sie", "4격 목적어"], ["bitten,", "동사(끝)"], ["mir ein Rücksendeetikett zu senden,", "zu 부정사구"], ["damit ich die falsche Jacke kostenlos zurückschicken kann.", "종속절"]] },
-        { "de": "Es wäre schön, wenn Sie mir kurz Bescheid geben könnten, wann die neue Lieferung kommt.",
+          "parts": [["Außerdem", "접속부사"], ["würde", "동사"], ["ich", "주어"], ["Sie", "4격 목적어"], ["bitten,", "동사(끝)"], ["mir ein Rücksendeetikett zu senden,", "zu 부정사구"], ["damit ich die falsche Jacke kostenlos zurückschicken kann.", "종속절"]]
+        },
+        {
+          "de": "Es wäre schön, wenn Sie mir kurz Bescheid geben könnten, wann die neue Lieferung kommt.",
           "ko": "새 배송이 언제 도착하는지 간단히 알려 주시면 좋겠습니다.",
-          "mark": ["wäre", "könnten"] }
+          "mark": ["wäre", "könnten"]
+        }
       ],
-      "tip": "Können Sie mir … schicken?도 틀리지 않지만, Könnten Sie …?가 더 정중해요. 원하는 것을 말할 때도 Ich will … 대신 Ich hätte gern …이라고 하면 훨씬 공손하게 들려요: Ich möchte mein Geld nicht zurück, sondern ich hätte gern die richtige Jacke. 이 문장의 möchte도 원래 mögen의 접속법 2식이에요." },
-    { "title": "dass 종속절",
+      "tip": "Können Sie mir … schicken?도 틀리지 않지만, Könnten Sie …?가 더 정중해요. 원하는 것을 말할 때도 Ich will … 대신 Ich hätte gern …이라고 하면 훨씬 공손하게 들려요: Ich möchte mein Geld nicht zurück, sondern ich hätte gern die richtige Jacke. 이 문장의 möchte도 원래 mögen의 접속법 2식이에요."
+    },
+    {
+      "title": "dass 종속절",
       "term": "dass-Sätze",
       "explain": "dass는 종속접속사예요. '~라는 것, ~하다는 것'이라는 뜻이고, dass 절은 주절에서 '무엇을'이나 '무엇이'에 해당하는 내용을 말해요. 주절과 dass 절 사이에는 항상 쉼표를 찍고, dass 절의 변화한 동사는 문장 끝으로 가요. 알게 된 사실(feststellen, dass), 감정(Es tut uns leid, dass / Ich finde es schade, dass), 바람(Wir hoffen, dass)을 말할 때 자주 써요. dass 절 안에 화법조동사나 현재완료가 있으면 변화한 동사가 맨 끝에 와요: … dass Sie … bekommen haben und … warten mussten.",
       "pattern": "주절, dass + … + 동사(끝)",
       "examples": [
-        { "de": "Leider habe ich beim Auspacken festgestellt, dass in dem Paket eine blaue Jacke in Größe L war.",
+        {
+          "de": "Leider habe ich beim Auspacken festgestellt, dass in dem Paket eine blaue Jacke in Größe L war.",
           "ko": "아쉽게도 포장을 뜯으면서 소포 안에 파란색 재킷 L 사이즈가 들어 있다는 것을 알게 되었습니다.",
           "mark": ["dass", "war."],
-          "parts": [["Leider", "부사어"], ["habe", "동사"], ["ich", "주어"], ["beim Auspacken", "부사어(시간)"], ["festgestellt,", "동사(끝)"], ["dass", "접속사"], ["in dem Paket", "부사어(장소)"], ["eine blaue Jacke in Größe L", "주어"], ["war.", "동사(끝)"]] },
-        { "de": "Es tut uns sehr leid, dass Sie die falsche Jacke bekommen haben und so lange warten mussten.",
+          "parts": [["Leider", "부사어"], ["habe", "동사"], ["ich", "주어"], ["beim Auspacken", "부사어(시간)"], ["festgestellt,", "동사(끝)"], ["dass", "접속사"], ["in dem Paket", "부사어(장소)"], ["eine blaue Jacke in Größe L", "주어"], ["war.", "동사(끝)"]]
+        },
+        {
+          "de": "Es tut uns sehr leid, dass Sie die falsche Jacke bekommen haben und so lange warten mussten.",
           "ko": "잘못된 재킷을 받으시고 오래 기다리시게 해서 대단히 죄송합니다.",
-          "mark": ["dass", "bekommen haben", "warten mussten"] },
-        { "de": "Wir hoffen, dass Sie uns trotzdem treu bleiben.",
+          "mark": ["dass", "bekommen haben", "warten mussten"]
+        },
+        {
+          "de": "Wir hoffen, dass Sie uns trotzdem treu bleiben.",
           "ko": "그럼에도 저희를 계속 이용해 주시기를 바랍니다.",
           "mark": ["dass", "bleiben."],
-          "parts": [["Wir", "주어"], ["hoffen,", "동사"], ["dass", "접속사"], ["Sie", "주어"], ["uns", "3격 목적어"], ["trotzdem", "접속부사"], ["treu", "보어"], ["bleiben.", "동사(끝)"]] }
+          "parts": [["Wir", "주어"], ["hoffen,", "동사"], ["dass", "접속사"], ["Sie", "주어"], ["uns", "3격 목적어"], ["trotzdem", "접속부사"], ["treu", "보어"], ["bleiben.", "동사(끝)"]]
+        }
       ],
-      "tip": "dass(접속사)와 das(관사·대명사)를 구별하세요. '~라는 것'이라는 뜻으로 문장을 이어 주면 ss를 써요. Es tut uns leid, dass …의 es는 뒤에 오는 dass 절을 미리 가리키는 상관어예요." },
-    { "title": "격식 있는 이메일의 형식",
+      "tip": "dass(접속사)와 das(관사·대명사)를 구별하세요. '~라는 것'이라는 뜻으로 문장을 이어 주면 ss를 써요. Es tut uns leid, dass …의 es는 뒤에 오는 dass 절을 미리 가리키는 상관어예요."
+    },
+    {
+      "title": "격식 있는 이메일의 형식",
       "term": "Formelle E-Mail: Anrede, Betreff, Grußformel",
       "explain": "회사나 모르는 사람에게 쓰는 격식 있는 이메일은 정해진 형식이 있어요. 제목(Betreff)에 용건을 짧게 쓰고, 상대를 모르면 Sehr geehrte Damen und Herren, 이름을 알면 Sehr geehrter Herr … / Sehr geehrte Frau …로 시작해요. 인사말 뒤에 쉼표를 찍고, 다음 줄의 첫 단어는 소문자로 써요(명사와 Sie, Ihr 등은 그대로 대문자): Sehr geehrte Damen und Herren, am 2. Oktober habe ich …. 끝인사는 Mit freundlichen Grüßen이고(답장의 Freundliche Grüße도 같은 뜻), 그 뒤에는 마침표나 쉼표를 찍지 않아요. 상대는 항상 Sie로 불러요.",
       "pattern": "Betreff: … / Sehr geehrte(r) …, / 본문 (소문자로 시작) / Mit freundlichen Grüßen / 이름",
       "examples": [
-        { "de": "Sehr geehrte Damen und Herren,",
+        {
+          "de": "Sehr geehrte Damen und Herren,",
           "ko": "담당자님께",
           "mark": ["Sehr geehrte Damen und Herren,"],
-          "parts": [["Sehr geehrte Damen und Herren,", "기타"]] },
-        { "de": "am 2. Oktober habe ich in Ihrem Onlineshop eine grüne Winterjacke in Größe M bestellt.",
+          "parts": [["Sehr geehrte Damen und Herren,", "기타"]]
+        },
+        {
+          "de": "am 2. Oktober habe ich in Ihrem Onlineshop eine grüne Winterjacke in Größe M bestellt.",
           "ko": "10월 2일에 귀사의 온라인 쇼핑몰에서 초록색 겨울 재킷 M 사이즈를 주문했습니다.",
           "mark": ["am", "Ihrem"],
-          "parts": [["am 2. Oktober", "부사어(시간)"], ["habe", "동사"], ["ich", "주어"], ["in Ihrem Onlineshop", "부사어(장소)"], ["eine grüne Winterjacke in Größe M", "4격 목적어"], ["bestellt.", "동사(끝)"]] },
-        { "de": "Sehr geehrter Herr Brenner,",
+          "parts": [["am 2. Oktober", "부사어(시간)"], ["habe", "동사"], ["ich", "주어"], ["in Ihrem Onlineshop", "부사어(장소)"], ["eine grüne Winterjacke in Größe M", "4격 목적어"], ["bestellt.", "동사(끝)"]]
+        },
+        {
+          "de": "Sehr geehrter Herr Brenner,",
           "ko": "브레너 고객님께",
-          "mark": ["Sehr geehrter Herr Brenner,"] }
+          "mark": ["Sehr geehrter Herr Brenner,"]
+        }
       ],
-      "tip": "Sehr geehrte Frau Müller(여성), Sehr geehrter Herr Brenner(남성)처럼 형용사 어미가 달라져요. 상대를 높여 부르는 Sie와 Ihnen, Ihr는 문장 가운데에서도 항상 대문자로 써요. 소문자 sie는 '그녀' 또는 '그들'이라는 뜻이에요." }
+      "tip": "Sehr geehrte Frau Müller(여성), Sehr geehrter Herr Brenner(남성)처럼 형용사 어미가 달라져요. 상대를 높여 부르는 Sie와 Ihnen, Ihr는 문장 가운데에서도 항상 대문자로 써요. 소문자 sie는 '그녀' 또는 '그들'이라는 뜻이에요."
+    }
   ],
   "vocab": [
     { "de": "die Lieferung, -en", "ko": "배송, 납품" },
@@ -147,13 +232,29 @@
     { "de": "der Gutschein, -e", "ko": "상품권, 쿠폰" }
   ],
   "phrases": [
-    { "de": "so schnell wie möglich", "ko": "가능한 한 빨리",
-      "ex": "Könnten Sie mir bitte die grüne Jacke in Größe M so schnell wie möglich schicken?", "exko": "초록색 재킷 M 사이즈를 가능한 한 빨리 보내 주시겠습니까?" },
-    { "de": "jemandem Bescheid geben", "ko": "~에게 알려 주다",
-      "ex": "wenn Sie mir kurz Bescheid geben könnten", "exko": "저에게 간단히 알려 주실 수 있다면" },
-    { "de": "Es tut uns leid, dass …", "ko": "~해서 죄송합니다",
-      "ex": "Es tut uns sehr leid, dass Sie die falsche Jacke bekommen haben", "exko": "잘못된 재킷을 받으시게 해서 대단히 죄송합니다" },
-    { "de": "jemandem treu bleiben", "ko": "~를 계속 이용하다, ~에게 충실하게 남다",
-      "ex": "Wir hoffen, dass Sie uns trotzdem treu bleiben.", "exko": "그럼에도 저희를 계속 이용해 주시기를 바랍니다." }
+    {
+      "de": "so schnell wie möglich",
+      "ko": "가능한 한 빨리",
+      "ex": "Könnten Sie mir bitte die grüne Jacke in Größe M so schnell wie möglich schicken?",
+      "exko": "초록색 재킷 M 사이즈를 가능한 한 빨리 보내 주시겠습니까?"
+    },
+    {
+      "de": "jemandem Bescheid geben",
+      "ko": "~에게 알려 주다",
+      "ex": "wenn Sie mir kurz Bescheid geben könnten",
+      "exko": "저에게 간단히 알려 주실 수 있다면"
+    },
+    {
+      "de": "Es tut uns leid, dass …",
+      "ko": "~해서 죄송합니다",
+      "ex": "Es tut uns sehr leid, dass Sie die falsche Jacke bekommen haben",
+      "exko": "잘못된 재킷을 받으시게 해서 대단히 죄송합니다"
+    },
+    {
+      "de": "jemandem treu bleiben",
+      "ko": "~를 계속 이용하다, ~에게 충실하게 남다",
+      "ex": "Wir hoffen, dass Sie uns trotzdem treu bleiben.",
+      "exko": "그럼에도 저희를 계속 이용해 주시기를 바랍니다."
+    }
   ]
 }

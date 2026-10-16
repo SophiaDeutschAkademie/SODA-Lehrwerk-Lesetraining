@@ -7,12 +7,7 @@
   "type": "Erörterung",
   "typeKo": "논설문(찬반 논증)",
   "intro": "자동차 없는 도심을 둘러싼 찬성과 반대 근거를 따져 보는 논설문이에요.",
-  "focus": [
-    "wenn 없는 조건문",
-    "sofern · vorausgesetzt, dass",
-    "논증 연결어",
-    "접속법 2식"
-  ],
+  "focus": ["wenn 없는 조건문", "sofern · vorausgesetzt, dass", "논증 연결어", "접속법 2식"],
   "paragraphs": [
     {
       "de": "Kaum ein verkehrspolitisches Thema wird in deutschen Städten derzeit so leidenschaftlich diskutiert wie die autofreie Innenstadt. Während einige Kommunen bereits ganze Straßenzüge für den privaten Autoverkehr gesperrt haben, wehren sich andernorts Händler und Anwohner gegen solche Pläne. Handelt es sich bei der Verbannung des Autos aus den Zentren also um einen notwendigen Schritt in eine lebenswertere Zukunft – oder um eine Bevormundung der Bürgerinnen und Bürger?",
@@ -42,47 +37,17 @@
       "q": "In manchen Städten dürfen Privatautos bestimmte Straßen inzwischen nicht mehr befahren.",
       "answer": 0,
       "evidence": "Während einige Kommunen bereits ganze Straßenzüge für den privaten Autoverkehr gesperrt haben",
-      "pairs": [
-        [
-          "einige Kommunen",
-          "manchen Städten"
-        ],
-        [
-          "den privaten Autoverkehr",
-          "Privatautos"
-        ],
-        [
-          "gesperrt haben",
-          "nicht mehr befahren"
-        ]
-      ],
+      "pairs": [["einige Kommunen", "manchen Städten"], ["den privaten Autoverkehr", "Privatautos"], ["gesperrt haben", "nicht mehr befahren"]],
       "explain": "본문은 일부 지자체가 이미 거리 전체를 개인 자동차 통행 금지 구역으로 지정했다고 해요. '통행 금지했다(gesperrt)'를 '더 이상 다닐 수 없다(nicht mehr befahren)'로, 'Kommunen'을 'Städte'로 바꿔 말했어요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was könnte laut Text mit den heutigen Parkflächen in der Innenstadt geschehen?",
-      "options": [
-        "Sie könnten für den Lieferverkehr und für Handwerker reserviert werden.",
-        "Sie könnten begrünt und für Radfahrer und Fußgänger umgestaltet werden.",
-        "Sie könnten in Stellplätze für Menschen mit Behinderung umgewandelt werden."
-      ],
+      "options": ["Sie könnten für den Lieferverkehr und für Handwerker reserviert werden.", "Sie könnten begrünt und für Radfahrer und Fußgänger umgestaltet werden.", "Sie könnten in Stellplätze für Menschen mit Behinderung umgewandelt werden."],
       "answer": 1,
       "evidence": "Wo heute Autos parken, könnten Bäume gepflanzt, Bänke aufgestellt und Radwege verbreitert werden.",
-      "pairs": [
-        [
-          "Wo heute Autos parken",
-          "heutigen Parkflächen"
-        ],
-        [
-          "Bäume gepflanzt",
-          "begrünt"
-        ],
-        [
-          "Radwege verbreitert",
-          "für Radfahrer"
-        ]
-      ],
+      "pairs": [["Wo heute Autos parken", "heutigen Parkflächen"], ["Bäume gepflanzt", "begrünt"], ["Radwege verbreitert", "für Radfahrer"]],
       "explain": "본문은 지금 자동차가 주차된 자리에 나무를 심고 벤치를 놓고 자전거 도로를 넓힐 수 있다고 해요. 이를 '녹지로 만들고 자전거·보행자용으로 바꾼다'로 요약했어요. 배송 차량과 장애인은 본문의 다른 부분에 나오는 말이라 함정이에요."
     },
     {
@@ -91,47 +56,17 @@
       "q": "Handwerksbetriebe können ihre Ausrüstung problemlos mit öffentlichen Verkehrsmitteln befördern.",
       "answer": 1,
       "evidence": "und auch Handwerker können ihr Werkzeug nicht in der Straßenbahn transportieren.",
-      "pairs": [
-        [
-          "ihr Werkzeug",
-          "ihre Ausrüstung"
-        ],
-        [
-          "in der Straßenbahn",
-          "mit öffentlichen Verkehrsmitteln"
-        ],
-        [
-          "nicht in der Straßenbahn transportieren",
-          "problemlos mit öffentlichen Verkehrsmitteln befördern"
-        ]
-      ],
+      "pairs": [["ihr Werkzeug", "ihre Ausrüstung"], ["in der Straßenbahn", "mit öffentlichen Verkehrsmitteln"], ["nicht in der Straßenbahn transportieren", "problemlos mit öffentlichen Verkehrsmitteln befördern"]],
       "explain": "본문은 기술자들이 공구를 트램에 싣고 다닐 수 없다고 해요. 문제는 '문제없이 대중교통으로 운반할 수 있다'고 하므로 본문과 반대예요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Warum sind viele Pendler dem Text zufolge auf das Auto angewiesen?",
-      "options": [
-        "weil sie schwere Einkäufe nicht mit dem Fahrrad nach Hause bringen können",
-        "weil sie für ihre Arbeit Werkzeug und Waren im Auto transportieren müssen",
-        "weil die Busse und Bahnen außerhalb der Stadt nur einmal pro Stunde fahren"
-      ],
+      "options": ["weil sie schwere Einkäufe nicht mit dem Fahrrad nach Hause bringen können", "weil sie für ihre Arbeit Werkzeug und Waren im Auto transportieren müssen", "weil die Busse und Bahnen außerhalb der Stadt nur einmal pro Stunde fahren"],
       "answer": 2,
       "evidence": "solange der Nahverkehr dort lediglich im Stundentakt fährt",
-      "pairs": [
-        [
-          "lediglich im Stundentakt",
-          "nur einmal pro Stunde"
-        ],
-        [
-          "aus dem Umland",
-          "außerhalb der Stadt"
-        ],
-        [
-          "der Nahverkehr",
-          "Busse und Bahnen"
-        ]
-      ],
+      "pairs": [["lediglich im Stundentakt", "nur einmal pro Stunde"], ["aus dem Umland", "außerhalb der Stadt"], ["der Nahverkehr", "Busse und Bahnen"]],
       "explain": "본문은 외곽 지역의 대중교통이 한 시간에 한 대만 다니는 한 통근자들이 자동차로만 직장에 갈 수 있다고 해요. '한 시간 간격(im Stundentakt)'을 '한 시간에 한 번(einmal pro Stunde)'으로, '외곽 지역(Umland)'을 '도시 밖(außerhalb der Stadt)'으로 바꿔 말했어요. 무거운 짐은 쇼핑하는 손님, 공구와 물건 운반은 기술자와 배송 차량에 관한 이야기예요."
     },
     {
@@ -140,104 +75,47 @@
       "q": "Die Mehrheit der Stadtbewohner spricht sich für eine autofreie Innenstadt aus.",
       "answer": 2,
       "evidence": null,
-      "pairs": [
-        [
-          "Befürworter",
-          "spricht sich für eine autofreie Innenstadt aus"
-        ]
-      ],
+      "pairs": [["Befürworter", "spricht sich für eine autofreie Innenstadt aus"]],
       "explain": "본문에는 찬성하는 사람들(Befürworter)과 반대하는 상인·주민이 모두 나오지만, 어느 쪽이 다수인지는 어디에도 나오지 않아요. 그래서 '본문에 언급 없음'이 정답이에요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Betrachtet man beide Seiten, so wird deutlich, dass sich die Frage nicht mit einem einfachen Ja oder Nein beantworten lässt“?",
-      "options": [
-        "Beide Seiten müssen erst befragt werden, bevor die Stadt eine Entscheidung treffen kann.",
-        "Keine der beiden Seiten hat überzeugende Argumente, deshalb bleibt die Frage unentschieden.",
-        "Beim Abwägen beider Seiten zeigt sich, dass die Antwort differenziert ausfallen muss."
-      ],
+      "options": ["Beide Seiten müssen erst befragt werden, bevor die Stadt eine Entscheidung treffen kann.", "Keine der beiden Seiten hat überzeugende Argumente, deshalb bleibt die Frage unentschieden.", "Beim Abwägen beider Seiten zeigt sich, dass die Antwort differenziert ausfallen muss."],
       "answer": 2,
       "evidence": "Betrachtet man beide Seiten, so wird deutlich, dass sich die Frage nicht mit einem einfachen Ja oder Nein beantworten lässt.",
-      "pairs": [
-        [
-          "Betrachtet man beide Seiten",
-          "Beim Abwägen beider Seiten"
-        ],
-        [
-          "nicht mit einem einfachen Ja oder Nein",
-          "differenziert ausfallen muss"
-        ]
-      ],
+      "pairs": [["Betrachtet man beide Seiten", "Beim Abwägen beider Seiten"], ["nicht mit einem einfachen Ja oder Nein", "differenziert ausfallen muss"]],
       "explain": "'beide Seiten betrachten'은 찬반 양쪽의 논거를 따져 본다는 뜻이고, '단순한 예/아니요로 답할 수 없다'는 것은 답이 조건에 따라 달라진다는 뜻이에요. 양쪽 논거가 설득력이 없다거나 사람들에게 물어봐야 한다는 뜻은 아니에요."
     },
     {
       "type": "mc",
       "kind": "gist",
       "q": "Was empfiehlt der Text am Ende?",
-      "options": [
-        "Sperrungen allmählich auszuweiten und gleichzeitig Alternativen zum Auto anzubieten",
-        "die gesamte Innenstadt sofort zu sperren und über Ausnahmen später zu entscheiden",
-        "auf jede Sperrung zu verzichten, solange sich Händler und Anwohner dagegen wehren"
-      ],
+      "options": ["Sperrungen allmählich auszuweiten und gleichzeitig Alternativen zum Auto anzubieten", "die gesamte Innenstadt sofort zu sperren und über Ausnahmen später zu entscheiden", "auf jede Sperrung zu verzichten, solange sich Händler und Anwohner dagegen wehren"],
       "answer": 0,
       "evidence": "Sinnvoller erscheint ein schrittweises Vorgehen: zunächst einzelne Straßen, dann ganze Viertel, begleitet von einem Ausbau des Nahverkehrs und klaren Ausnahmeregelungen.",
-      "pairs": [
-        [
-          "schrittweises Vorgehen",
-          "allmählich auszuweiten"
-        ],
-        [
-          "Ausbau des Nahverkehrs",
-          "Alternativen zum Auto anzubieten"
-        ]
-      ],
+      "pairs": [["schrittweises Vorgehen", "allmählich auszuweiten"], ["Ausbau des Nahverkehrs", "Alternativen zum Auto anzubieten"]],
       "explain": "본문은 개별 거리에서 구역 전체로 단계적으로 넓혀 가면서 대중교통을 확충하라고 해요. 'schrittweise'를 'allmählich ausweiten'으로 바꿔 말했어요. 즉각적인 전면 금지는 본문이 거부하는 방식이고, 상인과 주민의 반대를 이유로 포기하라는 말도 없어요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was ist mit dem Satz „Ein Verbot über Nacht wäre deshalb der falsche Weg“ gemeint?",
-      "options": [
-        "Fahrverbote, die nur in der Nacht gelten, bringen wenig.",
-        "Eine plötzliche, vollständige Sperrung wäre ein Fehler.",
-        "Ein Fahrverbot in der Innenstadt wäre grundsätzlich falsch."
-      ],
+      "options": ["Fahrverbote, die nur in der Nacht gelten, bringen wenig.", "Eine plötzliche, vollständige Sperrung wäre ein Fehler.", "Ein Fahrverbot in der Innenstadt wäre grundsätzlich falsch."],
       "answer": 1,
       "evidence": "Ein Verbot über Nacht wäre deshalb der falsche Weg.",
-      "pairs": [
-        [
-          "über Nacht",
-          "plötzliche"
-        ],
-        [
-          "der falsche Weg",
-          "ein Fehler"
-        ]
-      ],
+      "pairs": [["über Nacht", "plötzliche"], ["der falsche Weg", "ein Fehler"]],
       "explain": "'über Nacht'는 여기서 '밤에'가 아니라 '하룻밤 사이에, 갑자기'라는 뜻의 관용 표현이에요. 그래서 '갑작스러운 전면 금지는 잘못이다'가 맞고, 야간 운행 금지로 이해하면 단어 뜻에 속은 거예요. 글쓴이는 금지 자체가 아니라 갑작스러운 금지에 반대하므로 운행 금지가 원칙적으로 잘못이라는 해석도 틀려요."
     },
     {
       "type": "mc",
       "kind": "intent",
       "q": "Welche Position vertritt der Text insgesamt?",
-      "options": [
-        "Er lehnt autofreie Innenstädte ab, weil sie Bürger bevormunden und Händler schädigen.",
-        "Er befürwortet sie grundsätzlich, verlangt aber Alternativen für Menschen ohne Auto.",
-        "Er hält sie für unrealistisch, solange Händler, Anwohner und viele Pendler dagegen sind."
-      ],
+      "options": ["Er lehnt autofreie Innenstädte ab, weil sie Bürger bevormunden und Händler schädigen.", "Er befürwortet sie grundsätzlich, verlangt aber Alternativen für Menschen ohne Auto.", "Er hält sie für unrealistisch, solange Händler, Anwohner und viele Pendler dagegen sind."],
       "answer": 1,
       "evidence": "Gelingt dies, ist die autofreie Innenstadt kein Akt der Bevormundung, sondern ein Gewinn für alle – auch für diejenigen, die heute noch skeptisch sind.",
-      "pairs": [
-        [
-          "kein Akt der Bevormundung, sondern ein Gewinn für alle",
-          "befürwortet sie grundsätzlich"
-        ],
-        [
-          "die ohne Auto nicht mobil sind",
-          "Menschen ohne Auto"
-        ]
-      ],
+      "pairs": [["kein Akt der Bevormundung, sondern ein Gewinn für alle", "befürwortet sie grundsätzlich"], ["die ohne Auto nicht mobil sind", "Menschen ohne Auto"]],
       "explain": "글쓴이는 환경·건강상의 이점을 인정하면서도 자동차 없이는 이동할 수 없는 사람들을 고려한 단계적 도입을 요구해요. 그래서 '원칙적으로 찬성하되 배려를 요구한다'가 글 전체의 입장이에요. 'Bevormundung'은 본문이 부정하는 말이라 함정이에요."
     }
   ],
@@ -251,67 +129,19 @@
         {
           "de": "Wird der Durchgangsverkehr aus dem Zentrum verbannt, sinkt die Belastung durch Feinstaub und Stickoxide spürbar.",
           "ko": "통과 차량을 도심에서 몰아내면 미세먼지와 질소산화물로 인한 오염 부담이 눈에 띄게 줄어듭니다.",
-          "mark": [
-            "Wird",
-            "verbannt",
-            "sinkt"
-          ],
-          "parts": [
-            [
-              "Wird der Durchgangsverkehr aus dem Zentrum verbannt,",
-              "종속절"
-            ],
-            [
-              "sinkt",
-              "동사"
-            ],
-            [
-              "die Belastung durch Feinstaub und Stickoxide",
-              "주어"
-            ],
-            [
-              "spürbar.",
-              "부사어(방법)"
-            ]
-          ]
+          "mark": ["Wird", "verbannt", "sinkt"],
+          "parts": [["Wird der Durchgangsverkehr aus dem Zentrum verbannt,", "종속절"], ["sinkt", "동사"], ["die Belastung durch Feinstaub und Stickoxide", "주어"], ["spürbar.", "부사어(방법)"]]
         },
         {
           "de": "Betrachtet man beide Seiten, so wird deutlich, dass sich die Frage nicht mit einem einfachen Ja oder Nein beantworten lässt.",
           "ko": "양쪽을 모두 살펴보면 이 문제가 단순한 찬반으로는 답할 수 없는 문제라는 점이 분명해집니다.",
-          "mark": [
-            "Betrachtet man",
-            "so wird"
-          ]
+          "mark": ["Betrachtet man", "so wird"]
         },
         {
           "de": "Gelingt dies, ist die autofreie Innenstadt kein Akt der Bevormundung, sondern ein Gewinn für alle – auch für diejenigen, die heute noch skeptisch sind.",
           "ko": "이것이 성공한다면 자동차 없는 도심은 과도한 간섭이 아니라 모두에게, 지금은 아직 회의적인 사람들에게도, 이득이 될 것입니다.",
-          "mark": [
-            "Gelingt dies,",
-            "ist"
-          ],
-          "parts": [
-            [
-              "Gelingt dies,",
-              "종속절"
-            ],
-            [
-              "ist",
-              "동사"
-            ],
-            [
-              "die autofreie Innenstadt",
-              "주어"
-            ],
-            [
-              "kein Akt der Bevormundung, sondern ein Gewinn für alle",
-              "보어"
-            ],
-            [
-              "– auch für diejenigen, die heute noch skeptisch sind.",
-              "기타"
-            ]
-          ]
+          "mark": ["Gelingt dies,", "ist"],
+          "parts": [["Gelingt dies,", "종속절"], ["ist", "동사"], ["die autofreie Innenstadt", "주어"], ["kein Akt der Bevormundung, sondern ein Gewinn für alle", "보어"], ["– auch für diejenigen, die heute noch skeptisch sind.", "기타"]]
         }
       ],
       "tip": "wenn을 뺀 조건절은 보통 주절 앞에 와요. 'Die Belastung sinkt, wird der Verkehr verbannt'처럼 현재형 조건절을 주절 뒤에 두면 어색해요. 주절 뒤에 오는 것은 주로 sollte나 접속법 2식으로 시작하는 조건절이에요(Rufen Sie mich an, sollten Sie Fragen haben)."
@@ -325,53 +155,18 @@
         {
           "de": "Eine Sperrung ist daher nur vertretbar, sofern gleichzeitig Alternativen geschaffen werden",
           "ko": "따라서 통행 제한은 동시에 대안이 마련될 때에만 정당화될 수 있습니다",
-          "mark": [
-            "sofern",
-            "geschaffen werden"
-          ],
-          "parts": [
-            [
-              "Eine Sperrung",
-              "주어"
-            ],
-            [
-              "ist",
-              "동사"
-            ],
-            [
-              "daher",
-              "부사어(이유)"
-            ],
-            [
-              "nur",
-              "부사어"
-            ],
-            [
-              "vertretbar,",
-              "보어"
-            ],
-            [
-              "sofern gleichzeitig Alternativen geschaffen werden",
-              "종속절"
-            ]
-          ]
+          "mark": ["sofern", "geschaffen werden"],
+          "parts": [["Eine Sperrung", "주어"], ["ist", "동사"], ["daher", "부사어(이유)"], ["nur", "부사어"], ["vertretbar,", "보어"], ["sofern gleichzeitig Alternativen geschaffen werden", "종속절"]]
         },
         {
           "de": "Vorausgesetzt, dass der Handel von Anfang an einbezogen wird, dürften auch die Umsatzeinbußen geringer ausfallen als befürchtet",
           "ko": "상인들을 처음부터 참여시킨다는 전제가 있다면 매출 감소도 우려했던 것보다 작을 것입니다",
-          "mark": [
-            "Vorausgesetzt, dass",
-            "einbezogen wird",
-            "dürften"
-          ]
+          "mark": ["Vorausgesetzt, dass", "einbezogen wird", "dürften"]
         },
         {
           "de": "Nicht zuletzt sinkt die Zahl der Unfälle, sofern sich Fußgänger und Radfahrer die Straße nicht länger mit dem Autoverkehr teilen müssen.",
           "ko": "보행자와 자전거 이용자가 더 이상 자동차와 도로를 나눠 쓰지 않아도 된다면 사고 건수가 줄어든다는 점도 빼놓을 수 없습니다.",
-          "mark": [
-            "sofern",
-            "teilen müssen"
-          ]
+          "mark": ["sofern", "teilen müssen"]
         }
       ],
       "tip": "sofern은 '그 조건이 충족되는 한'이라는 뜻으로 조건 자체를 강조하고, falls는 '혹시 ~라면'처럼 그 일이 일어날지 불확실할 때 써요."
@@ -385,38 +180,18 @@
         {
           "de": "Demgegenüber stehen gewichtige Einwände.",
           "ko": "이에 맞서는 무게 있는 반론들도 있습니다.",
-          "mark": [
-            "Demgegenüber stehen"
-          ],
-          "parts": [
-            [
-              "Demgegenüber",
-              "접속부사"
-            ],
-            [
-              "stehen",
-              "동사"
-            ],
-            [
-              "gewichtige Einwände.",
-              "주어"
-            ]
-          ]
+          "mark": ["Demgegenüber stehen"],
+          "parts": [["Demgegenüber", "접속부사"], ["stehen", "동사"], ["gewichtige Einwände.", "주어"]]
         },
         {
           "de": "Einerseits sind die Vorteile für Umwelt und Gesundheit kaum zu bestreiten; andererseits darf eine Verkehrswende nicht zulasten derjenigen gehen, die ohne Auto nicht mobil sind.",
           "ko": "한편으로 환경과 건강에 주는 이점은 부정하기 어렵습니다. 다른 한편으로 교통 전환은 자동차 없이는 이동할 수 없는 사람들에게 손해를 끼쳐서는 안 됩니다.",
-          "mark": [
-            "Einerseits sind",
-            "andererseits darf"
-          ]
+          "mark": ["Einerseits sind", "andererseits darf"]
         },
         {
           "de": "Darüber hinaus gewinnen die Städte Platz: Wo heute Autos parken, könnten Bäume gepflanzt, Bänke aufgestellt und Radwege verbreitert werden.",
           "ko": "그 밖에도 도시는 공간을 얻게 됩니다. 지금 자동차가 주차된 자리에 나무를 심고 벤치를 놓고 자전거 도로를 넓힐 수 있을 것입니다.",
-          "mark": [
-            "Darüber hinaus gewinnen"
-          ]
+          "mark": ["Darüber hinaus gewinnen"]
         }
       ],
       "tip": "einerseits … andererseits는 서로 긴장 관계에 있는 두 측면을, zum einen … zum anderen은 같은 방향의 근거 두 개를 나열할 때 많이 써요."
@@ -430,120 +205,42 @@
         {
           "de": "Ein Verbot über Nacht wäre deshalb der falsche Weg.",
           "ko": "따라서 하룻밤 사이의 금지는 잘못된 길일 것입니다.",
-          "mark": [
-            "wäre"
-          ],
-          "parts": [
-            [
-              "Ein Verbot über Nacht",
-              "주어"
-            ],
-            [
-              "wäre",
-              "동사"
-            ],
-            [
-              "deshalb",
-              "부사어(이유)"
-            ],
-            [
-              "der falsche Weg.",
-              "보어"
-            ]
-          ]
+          "mark": ["wäre"],
+          "parts": [["Ein Verbot über Nacht", "주어"], ["wäre", "동사"], ["deshalb", "부사어(이유)"], ["der falsche Weg.", "보어"]]
         },
         {
           "de": "Der Einzelhandel befürchtet außerdem Umsatzeinbußen, da Kundinnen und Kunden mit schweren Einkaufstaschen kaum aufs Fahrrad umsteigen dürften.",
           "ko": "또한 소매업계는 매출 감소를 우려합니다. 무거운 장바구니를 든 손님들이 자전거로 갈아탈 가능성은 거의 없을 것이기 때문입니다.",
-          "mark": [
-            "umsteigen dürften"
-          ]
+          "mark": ["umsteigen dürften"]
         },
         {
           "de": "Kinder könnten gefahrlos spielen, Cafés ihre Tische auf die Straße stellen, und der Weg durch die Stadt würde wieder zum Vergnügen.",
           "ko": "아이들은 위험 없이 놀 수 있고, 카페는 테이블을 거리에 내놓을 수 있으며, 도시를 걷는 길은 다시 즐거움이 될 것입니다.",
-          "mark": [
-            "könnten",
-            "würde"
-          ]
+          "mark": ["könnten", "würde"]
         }
       ],
       "tip": "직설법 'Ein Verbot ist der falsche Weg'는 단정이고, wäre를 쓰면 '그렇게 한다면 …일 것이다'라는 가정의 뉘앙스가 더해져요."
     }
   ],
   "vocab": [
-    {
-      "de": "die Bevormundung (Sg.)",
-      "ko": "과도한 간섭, 남의 결정을 대신하려는 태도"
-    },
-    {
-      "de": "die Kommune, -n",
-      "ko": "지방자치단체, 지자체"
-    },
-    {
-      "de": "sperren",
-      "ko": "(도로를) 통제하다, 폐쇄하다"
-    },
-    {
-      "de": "der Anwohner, -",
-      "ko": "인근 주민"
-    },
-    {
-      "de": "die Belastung, -en",
-      "ko": "부담, (환경) 오염 부하"
-    },
-    {
-      "de": "der Feinstaub (Sg.)",
-      "ko": "미세먼지"
-    },
-    {
-      "de": "verbannen",
-      "ko": "몰아내다, 추방하다"
-    },
-    {
-      "de": "der Befürworter, -",
-      "ko": "찬성자, 지지자"
-    },
-    {
-      "de": "der Einwand, -¨e",
-      "ko": "반론, 이의"
-    },
-    {
-      "de": "der Einzelhandel (Sg.)",
-      "ko": "소매업"
-    },
-    {
-      "de": "die Umsatzeinbuße, -n",
-      "ko": "매출 감소"
-    },
-    {
-      "de": "der Lieferverkehr (Sg.)",
-      "ko": "배송 차량 통행"
-    },
-    {
-      "de": "der Pendler, -",
-      "ko": "통근자"
-    },
-    {
-      "de": "das Umland (Sg.)",
-      "ko": "(도시) 외곽 지역, 근교"
-    },
-    {
-      "de": "der Nahverkehr (Sg.)",
-      "ko": "근거리 대중교통"
-    },
-    {
-      "de": "die Ausnahmegenehmigung, -en",
-      "ko": "예외 허가"
-    },
-    {
-      "de": "vertretbar",
-      "ko": "정당화할 수 있는, 받아들일 만한"
-    },
-    {
-      "de": "schrittweise",
-      "ko": "단계적으로"
-    }
+    { "de": "die Bevormundung (Sg.)", "ko": "과도한 간섭, 남의 결정을 대신하려는 태도" },
+    { "de": "die Kommune, -n", "ko": "지방자치단체, 지자체" },
+    { "de": "sperren", "ko": "(도로를) 통제하다, 폐쇄하다" },
+    { "de": "der Anwohner, -", "ko": "인근 주민" },
+    { "de": "die Belastung, -en", "ko": "부담, (환경) 오염 부하" },
+    { "de": "der Feinstaub (Sg.)", "ko": "미세먼지" },
+    { "de": "verbannen", "ko": "몰아내다, 추방하다" },
+    { "de": "der Befürworter, -", "ko": "찬성자, 지지자" },
+    { "de": "der Einwand, -¨e", "ko": "반론, 이의" },
+    { "de": "der Einzelhandel (Sg.)", "ko": "소매업" },
+    { "de": "die Umsatzeinbuße, -n", "ko": "매출 감소" },
+    { "de": "der Lieferverkehr (Sg.)", "ko": "배송 차량 통행" },
+    { "de": "der Pendler, -", "ko": "통근자" },
+    { "de": "das Umland (Sg.)", "ko": "(도시) 외곽 지역, 근교" },
+    { "de": "der Nahverkehr (Sg.)", "ko": "근거리 대중교통" },
+    { "de": "die Ausnahmegenehmigung, -en", "ko": "예외 허가" },
+    { "de": "vertretbar", "ko": "정당화할 수 있는, 받아들일 만한" },
+    { "de": "schrittweise", "ko": "단계적으로" }
   ],
   "phrases": [
     {

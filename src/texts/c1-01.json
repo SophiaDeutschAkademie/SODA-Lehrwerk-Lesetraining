@@ -7,12 +7,7 @@
   "type": "Glosse",
   "typeKo": "풍자 칼럼",
   "intro": "독일인의 시간 엄수 문화를 가볍게 비꼬며 들여다보는 신문 칼럼이에요.",
-  "focus": [
-    "화법 불변화사 (Modalpartikel)",
-    "수사 의문문",
-    "틀 뒤 자리 (Nachfeld)와 후치",
-    "1번 자리(Vorfeld)의 다양한 성분"
-  ],
+  "focus": ["화법 불변화사 (Modalpartikel)", "수사 의문문", "틀 뒤 자리 (Nachfeld)와 후치", "1번 자리(Vorfeld)의 다양한 성분"],
   "paragraphs": [
     {
       "style": "meta",
@@ -51,16 +46,7 @@
       "q": "Wer zu einer privaten Einladung vor der verabredeten Zeit erscheint, erwischt die Einladenden noch mitten in den Vorbereitungen.",
       "answer": 0,
       "evidence": "dass die Gastgeber gerade noch den Salat anmachen und beim Klingeln zusammenzucken werden",
-      "pairs": [
-        [
-          "gerade noch den Salat anmachen",
-          "mitten in den Vorbereitungen"
-        ],
-        [
-          "die Gastgeber",
-          "die Einladenden"
-        ]
-      ],
+      "pairs": [["gerade noch den Salat anmachen", "mitten in den Vorbereitungen"], ["die Gastgeber", "die Einladenden"]],
       "explain": "본문은 손님이 5분 일찍 초인종을 누르면 집주인들이 아직 샐러드를 버무리다가 움찔한다고 해요. '샐러드를 버무리는 중'을 '준비가 한창인 때'로, Gastgeber를 Einladenden으로 바꿔 말했어요."
     },
     {
@@ -69,140 +55,57 @@
       "q": "Wer früh im Besprechungsraum sitzt, nutzt die Wartezeit, um sich in Unterlagen einzulesen, die ihm noch neu sind.",
       "answer": 1,
       "evidence": "blättern demonstrativ in Unterlagen, die sie längst kennen",
-      "pairs": [
-        [
-          "Unterlagen, die sie längst kennen",
-          "Unterlagen einzulesen, die ihm noch neu sind"
-        ],
-        [
-          "blättern demonstrativ",
-          "nutzt die Wartezeit, um sich in Unterlagen einzulesen"
-        ]
-      ],
+      "pairs": [["Unterlagen, die sie längst kennen", "Unterlagen einzulesen, die ihm noch neu sind"], ["blättern demonstrativ", "nutzt die Wartezeit, um sich in Unterlagen einzulesen"]],
       "explain": "본문에서 일찍 온 사람들은 이미 훤히 아는(längst kennen) 서류를 보란 듯이(demonstrativ) 넘겨요. 처음 보는 서류를 읽으며 준비하는 것이 아니라 일종의 과시예요. 이 문장은 Unterlagen이라는 단어를 그대로 쓰면서 '아직 낯선 서류'로 바꿔 놓아 본문과 반대가 돼요."
     },
     {
       "type": "mc",
       "kind": "intent",
       "q": "Was will die Autorin mit der Schilderung der Besprechung um neun Uhr zeigen?",
-      "options": [
-        "wie unerbittlich Verspätung bewertet wird, auch ohne offene Kritik",
-        "wie effizient Besprechungen in deutschen Firmen pünktlich beginnen",
-        "dass die Nachzügler ungerecht behandelt werden und sich wehren sollten",
-        "dass man wichtige Unterlagen besser schon vor der Besprechung liest"
-      ],
+      "options": ["wie unerbittlich Verspätung bewertet wird, auch ohne offene Kritik", "wie effizient Besprechungen in deutschen Firmen pünktlich beginnen", "dass die Nachzügler ungerecht behandelt werden und sich wehren sollten", "dass man wichtige Unterlagen besser schon vor der Besprechung liest"],
       "answer": 0,
       "evidence": "Das ist ja keine Information. Das ist ein Urteil.",
-      "pairs": [
-        [
-          "Das ist ein Urteil.",
-          "unerbittlich Verspätung bewertet wird"
-        ],
-        [
-          "Dann warten wir noch kurz auf die Nachzügler.",
-          "auch ohne offene Kritik"
-        ]
-      ],
+      "pairs": [["Das ist ein Urteil.", "unerbittlich Verspätung bewertet wird"], ["Dann warten wir noch kurz auf die Nachzügler.", "auch ohne offene Kritik"]],
       "explain": "글쓴이는 '늦는 분들 잠깐 기다리죠'라는 평범해 보이는 문장을 정보가 아니라 '판결'이라고 불러요. 아무도 대놓고 비판하지 않지만 지각은 이미 가혹하게 평가된다는 뜻이에요. 효율성이나 서류 준비는 본문의 요점이 아니에요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Wann rechnen die Gastgeber einer Party laut Text tatsächlich mit ihren Gästen, wenn auf der Einladung acht Uhr steht?",
-      "options": [
-        "kurz vor der angegebenen Zeit, wie es das Sprichwort verlangt",
-        "pünktlich zur angegebenen Zeit, weil Verspätung unhöflich wirkt",
-        "ungefähr eine Stunde später, als auf der Einladung angegeben ist",
-        "spätestens eine halbe Stunde nach der Zeit auf der Einladung"
-      ],
+      "options": ["kurz vor der angegebenen Zeit, wie es das Sprichwort verlangt", "pünktlich zur angegebenen Zeit, weil Verspätung unhöflich wirkt", "ungefähr eine Stunde später, als auf der Einladung angegeben ist", "etwa zwei Stunden später, weil sie noch das Essen vorbereiten"],
       "answer": 2,
       "evidence": "erwartet wird man gegen neun",
-      "pairs": [
-        [
-          "erwartet wird man gegen neun",
-          "ungefähr eine Stunde später, als auf der Einladung angegeben ist"
-        ],
-        [
-          "gemeint ist halb neun",
-          "spätestens eine halbe Stunde nach der Zeit auf der Einladung"
-        ],
-        [
-          "Wer pünktlich kommt, stört.",
-          "pünktlich zur angegebenen Zeit"
-        ]
-      ],
-      "explain": "초대장에 여덟 시라고 적혀 있어도 집주인이 실제로 손님이 오리라고 예상하는 시간은 아홉 시쯤이에요(erwartet wird man gegen neun). 그래서 적힌 시간보다 약 한 시간 뒤가 정답이에요. '여덟 시 반'은 초대장이 속뜻으로 가리키는 시간일 뿐 늦어도 그때까지 오라는 말이 아니고, 파티에서는 제시간에 오는 사람이 오히려 방해가 된다고 해요."
+      "pairs": [["erwartet wird man gegen neun", "ungefähr eine Stunde später, als auf der Einladung angegeben ist"], ["gegen neun", "zwei Stunden später"], ["Wer pünktlich kommt, stört.", "pünktlich zur angegebenen Zeit"]],
+      "explain": "초대장에 여덟 시라고 적혀 있어도 집주인이 실제로 손님이 오리라고 예상하는 시간은 아홉 시쯤이에요(erwartet wird man gegen neun). 그래서 적힌 시간보다 약 한 시간 뒤가 정답이에요. 두 시간 뒤라는 말은 본문에 없고(아홉 시쯤이라고 했어요), 파티에서는 제시간에 오는 사람이 오히려 방해가 된다고 해요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Worüber ärgern sich die Deutschen laut Text in Wirklichkeit, wenn ein Zug Verspätung hat?",
-      "options": [
-        "über die unverständlichen Durchsagen der Bahn auf dem Bahnsteig",
-        "über die verlorene Zeit, die ihnen eine Verspätung an sich kostet",
-        "darüber, dass die Züge anderer Länder mittlerweile pünktlicher fahren",
-        "darüber, dass sie ihrem Anspruch auf Pünktlichkeit nicht genügen"
-      ],
+      "options": ["über die unverständlichen Durchsagen der Bahn auf dem Bahnsteig", "über die verlorene Zeit, die ihnen eine Verspätung an sich kostet", "darüber, dass die Züge anderer Länder mittlerweile pünktlicher fahren", "darüber, dass sie ihrem Anspruch auf Pünktlichkeit nicht genügen"],
       "answer": 3,
       "evidence": "sondern darüber, dass ausgerechnet wir, die selbst ernannten Weltmeister der Pünktlichkeit, es nicht hinbekommen",
-      "pairs": [
-        [
-          "die selbst ernannten Weltmeister der Pünktlichkeit",
-          "ihrem Anspruch auf Pünktlichkeit"
-        ],
-        [
-          "es nicht hinbekommen",
-          "nicht genügen"
-        ],
-        [
-          "nicht über die Verspätung an sich",
-          "die verlorene Zeit, die ihnen eine Verspätung an sich kostet"
-        ]
-      ],
+      "pairs": [["die selbst ernannten Weltmeister der Pünktlichkeit", "ihrem Anspruch auf Pünktlichkeit"], ["es nicht hinbekommen", "nicht genügen"], ["nicht über die Verspätung an sich", "die verlorene Zeit, die ihnen eine Verspätung an sich kostet"]],
       "explain": "본문은 연착 자체(an sich)가 아니라, 스스로 시간 엄수의 세계 챔피언이라 자처하는 우리가 그걸 해내지 못한다는 사실에 화가 난다고 해요. die selbst ernannten Weltmeister der Pünktlichkeit를 '시간 엄수에 대한 자신들의 기준(ihrem Anspruch auf Pünktlichkeit)'으로, es nicht hinbekommen을 '그 기준에 못 미친다(nicht genügen)'로 바꿔 말했어요. an sich가 들어간 선택지는 본문이 부정한 내용이고, 다른 나라와의 비교는 본문에 없어요."
     },
     {
       "type": "mc",
       "kind": "meaning",
       "q": "Was bedeutet „gehört inzwischen zum guten Ton“ im Text?",
-      "options": [
-        "wird mittlerweile von höflichen Menschen bewusst vermieden",
-        "gilt heute als Zeichen eines guten musikalischen Geschmacks",
-        "gilt mittlerweile als sozial üblich und wird geradezu erwartet",
-        "ist nur noch in gebildeten Kreisen üblich und gilt als fein"
-      ],
+      "options": ["wird mittlerweile von höflichen Menschen bewusst vermieden", "gilt heute als Zeichen eines guten musikalischen Geschmacks", "gilt mittlerweile als sozial üblich und wird geradezu erwartet", "ist nur noch in gebildeten Kreisen üblich und gilt als fein"],
       "answer": 2,
       "evidence": "Über die Deutsche Bahn Witze zu machen, gehört inzwischen zum guten Ton, ungefähr so wie das Wetter zu beklagen.",
-      "pairs": [
-        [
-          "gehört inzwischen zum guten Ton",
-          "gilt mittlerweile als sozial üblich"
-        ],
-        [
-          "ungefähr so wie das Wetter zu beklagen",
-          "wird geradezu erwartet"
-        ]
-      ],
+      "pairs": [["gehört inzwischen zum guten Ton", "gilt mittlerweile als sozial üblich"], ["ungefähr so wie das Wetter zu beklagen", "wird geradezu erwartet"]],
       "explain": "zum guten Ton gehören은 '예의상 으레 하는 일이다, 사회적으로 당연하게 여겨진다'는 뜻이에요. 날씨 불평처럼 누구나 하는 일이라는 비교가 힌트예요. Ton을 '음악 소리'로 읽으면 함정에 빠져요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was ist mit dem Satz „Der verspätete Zug kratzt am Selbstbild“ gemeint?",
-      "options": [
-        "Verspätete Züge beschädigen den Ruf der Bahn bei Reisenden im Ausland.",
-        "Zu späte Züge erschüttern das Bild, das die Deutschen von sich haben.",
-        "Fahrgäste, die ihren Zug verpassen, schämen sich vor anderen Reisenden.",
-        "Die Bahn sollte ihr schlechtes Image durch pünktlichere Züge verbessern."
-      ],
+      "options": ["Verspätete Züge beschädigen den Ruf der Bahn bei Reisenden im Ausland.", "Zu späte Züge erschüttern das Bild, das die Deutschen von sich haben.", "Fahrgäste, die ihren Zug verpassen, schämen sich vor anderen Reisenden.", "Die Bahn sollte ihr schlechtes Image durch pünktlichere Züge verbessern."],
       "answer": 1,
       "evidence": "Der verspätete Zug kratzt am Selbstbild",
-      "pairs": [
-        [
-          "kratzt am Selbstbild",
-          "erschüttern das Bild, das die Deutschen von sich haben"
-        ]
-      ],
+      "pairs": [["kratzt am Selbstbild", "erschüttern das Bild, das die Deutschen von sich haben"]],
       "explain": "Selbstbild는 자기 자신에 대한 이미지이고, an etwas kratzen은 '흠집을 내다'예요. 연착하는 기차가 '우리는 시간을 잘 지키는 민족'이라는 독일인의 자기 인식을 흔든다는 뜻이에요. 철도 회사의 평판 이야기가 아니에요."
     },
     {
@@ -211,64 +114,27 @@
       "q": "Dem Text zufolge sind die Züge in Deutschland in den letzten Jahren unpünktlicher geworden.",
       "answer": 2,
       "evidence": null,
-      "pairs": [
-        [
-          "gehört inzwischen zum guten Ton",
-          "in den letzten Jahren unpünktlicher geworden"
-        ]
-      ],
+      "pairs": [["gehört inzwischen zum guten Ton", "in den letzten Jahren unpünktlicher geworden"]],
       "explain": "본문은 철도를 두고 농담하는 일이 '이제(inzwischen)' 당연해졌다고만 말해요. 연착이 예전보다 늘었는지 줄었는지에 대한 정보는 없어요. inzwischen과 wieder einmal이라는 표현 때문에 추세가 있다고 넘겨짚기 쉬워요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Wie geht die Autorin mit den verschiedenen Erklärungen für die deutsche Pünktlichkeit um?",
-      "options": [
-        "Sie findet die Bedeutung der Pünktlichkeit wichtiger als deren Ursprung.",
-        "Sie hält die Industrialisierung für die einzig überzeugende Erklärung.",
-        "Sie weist alle drei Erklärungen als wissenschaftlich unhaltbar zurück.",
-        "Sie sieht im Klima den wichtigsten Faktor, denn niemand wartet gern draußen."
-      ],
+      "options": ["Sie findet die Bedeutung der Pünktlichkeit wichtiger als deren Ursprung.", "Sie hält die Industrialisierung für die einzig überzeugende Erklärung.", "Sie weist alle drei Erklärungen als wissenschaftlich unhaltbar zurück.", "Sie sieht im Klima den wichtigsten Faktor, denn niemand wartet gern draußen."],
       "answer": 0,
       "evidence": "Vermutlich ist es von allem etwas, und vermutlich ist es auch egal. Interessanter ist doch die Frage, was Pünktlichkeit eigentlich bedeutet.",
-      "pairs": [
-        [
-          "vermutlich ist es auch egal",
-          "wichtiger als deren Ursprung"
-        ],
-        [
-          "was Pünktlichkeit eigentlich bedeutet",
-          "die Bedeutung der Pünktlichkeit"
-        ]
-      ],
+      "pairs": [["vermutlich ist es auch egal", "wichtiger als deren Ursprung"], ["was Pünktlichkeit eigentlich bedeutet", "die Bedeutung der Pünktlichkeit"]],
       "explain": "글쓴이는 세 가지 설명이 '모두 조금씩 맞을 테고, 어차피 중요하지도 않다'고 하면서, 시간 엄수가 무엇을 뜻하는지가 더 흥미롭다고 해요. 어느 한 설명을 고르지도, 모두 거부하지도 않아요."
     },
     {
       "type": "mc",
       "kind": "intent",
       "q": "Welche Haltung zur Pünktlichkeit nimmt die Autorin am Ende des Textes ein?",
-      "options": [
-        "Sie lehnt sie als gesellschaftlichen Zwang ab und rät, sie im Alltag bewusst zu ignorieren.",
-        "Sie hält sie für altmodisch und erwartet, dass sie in absehbarer Zeit verschwinden wird.",
-        "Sie hält sie für einen Beweis von Disziplin, der die Deutschen von anderen unterscheidet.",
-        "Sie versteht sie als Zeichen von Wertschätzung, belächelt aber die strenge Auslegung."
-      ],
+      "options": ["Sie lehnt sie als gesellschaftlichen Zwang ab und rät, sie im Alltag bewusst zu ignorieren.", "Sie hält sie für altmodisch und erwartet, dass sie in absehbarer Zeit verschwinden wird.", "Sie hält sie für einen Beweis von Disziplin, der die Deutschen von anderen unterscheidet.", "Sie versteht sie als Zeichen von Wertschätzung, belächelt aber die strenge Auslegung."],
       "answer": 3,
       "evidence": "Die fünf Minuten vor der Zeit beweisen keine Disziplin, sondern Rücksicht – eine Geste, die gar nicht auffallen will.",
-      "pairs": [
-        [
-          "sondern Rücksicht",
-          "Zeichen von Wertschätzung"
-        ],
-        [
-          "ein Dogma gemacht haben",
-          "die strenge Auslegung"
-        ],
-        [
-          "beweisen keine Disziplin",
-          "einen Beweis von Disziplin"
-        ]
-      ],
+      "pairs": [["sondern Rücksicht", "Zeichen von Wertschätzung"], ["ein Dogma gemacht haben", "die strenge Auslegung"], ["beweisen keine Disziplin", "einen Beweis von Disziplin"]],
       "explain": "글쓴이는 5분 일찍 오는 것이 규율이 아니라 배려(Rücksicht)의 표시라고 하면서도, 그것을 교리로 만들어 버린 모습은 웃으며 바라봐요. 마지막에 '한 바퀴 더 돌고 오라'는 권유도 농담 섞인 표현이에요. Disziplin이 들어간 선택지는 본문과 정반대예요."
     }
   ],
@@ -282,71 +148,19 @@
         {
           "de": "Das ist ja keine Information.",
           "ko": "이건 (보시다시피) 정보가 아니에요.",
-          "mark": [
-            "ja"
-          ],
-          "parts": [
-            [
-              "Das",
-              "주어"
-            ],
-            [
-              "ist",
-              "동사"
-            ],
-            [
-              "ja",
-              "기타"
-            ],
-            [
-              "keine Information.",
-              "보어"
-            ]
-          ]
+          "mark": ["ja"],
+          "parts": [["Das", "주어"], ["ist", "동사"], ["ja", "기타"], ["keine Information.", "보어"]]
         },
         {
           "de": "Nur hat es einem eben niemand gesagt.",
           "ko": "다만 정작 본인에게는 (어쩔 수 없게도) 아무도 그 사실을 말해 주지 않았을 뿐이에요.",
-          "mark": [
-            "eben"
-          ],
-          "parts": [
-            [
-              "Nur",
-              "접속부사"
-            ],
-            [
-              "hat",
-              "동사"
-            ],
-            [
-              "es",
-              "4격 목적어"
-            ],
-            [
-              "einem",
-              "3격 목적어"
-            ],
-            [
-              "eben",
-              "기타"
-            ],
-            [
-              "niemand",
-              "주어"
-            ],
-            [
-              "gesagt.",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["eben"],
+          "parts": [["Nur", "접속부사"], ["hat", "동사"], ["es", "4격 목적어"], ["einem", "3격 목적어"], ["eben", "기타"], ["niemand", "주어"], ["gesagt.", "동사(끝)"]]
         },
         {
           "de": "Woher kommt das bloß?",
           "ko": "도대체 이건 어디서 온 걸까요?",
-          "mark": [
-            "bloß"
-          ]
+          "mark": ["bloß"]
         }
       ],
       "tip": "같은 단어가 화법 불변화사로도, 일반 부사로도 쓰여요. 'Insofern hat das Sprichwort schon recht'의 schon은 '옳기는 옳다'처럼 한발 물러서서 인정하는 불변화사이고, 'der hat eigentlich schon verloren'의 schon은 '이미'라는 뜻의 시간 부사예요. bereits로 바꿔 보면 구별할 수 있어요. 시간 부사 schon은 bereits로 바꿀 수 있지만, 불변화사 schon은 바꿀 수 없어요. 시험 작문에서는 화법 불변화사를 많이 쓰기보다 한두 개를 정확히 쓰는 것이 좋아요."
@@ -359,37 +173,18 @@
         {
           "de": "Kennen Sie das?",
           "ko": "이런 경험 있으세요?",
-          "mark": [
-            "Kennen Sie das?"
-          ],
-          "parts": [
-            [
-              "Kennen",
-              "동사"
-            ],
-            [
-              "Sie",
-              "주어"
-            ],
-            [
-              "das?",
-              "4격 목적어"
-            ]
-          ]
+          "mark": ["Kennen Sie das?"],
+          "parts": [["Kennen", "동사"], ["Sie", "주어"], ["das?", "4격 목적어"]]
         },
         {
           "de": "Ist das übertrieben? Vielleicht.",
           "ko": "과장일까요? 그럴지도요.",
-          "mark": [
-            "Ist das übertrieben?"
-          ]
+          "mark": ["Ist das übertrieben?"]
         },
         {
           "de": "Oder ist sie nicht vielmehr eine stille Form von Höflichkeit, die sagt: Ich nehme deine Zeit so ernst wie meine?",
           "ko": "아니면 오히려 '당신의 시간을 제 시간만큼 진지하게 여깁니다'라고 말하는 조용한 형태의 예의가 아닐까요?",
-          "mark": [
-            "ist sie nicht vielmehr"
-          ]
+          "mark": ["ist sie nicht vielmehr"]
         }
       ],
       "tip": "수사 의문문은 답이 이미 정해져 있거나('Oder ist sie nicht vielmehr …?'의 답은 '시간 엄수는 예의예요'), 글쓴이가 바로 뒤에서 스스로 답해요('Ist das übertrieben? Vielleicht.'). 독해 문제에서 '글쓴이의 의견'을 물으면 질문 자체가 아니라 이 답을 보세요."
@@ -403,69 +198,18 @@
         {
           "de": "Der verspätete Zug kratzt am Selbstbild, und wir haben uns bis heute nicht abgefunden mit dieser Lücke zwischen Anspruch und Fahrplan.",
           "ko": "연착하는 기차는 자아상에 흠집을 내고, 우리는 이상과 시간표 사이의 이 간극을 오늘까지도 받아들이지 못했어요.",
-          "mark": [
-            "abgefunden mit dieser Lücke zwischen Anspruch und Fahrplan"
-          ],
-          "parts": [
-            [
-              "Der verspätete Zug",
-              "주어"
-            ],
-            [
-              "kratzt",
-              "동사"
-            ],
-            [
-              "am Selbstbild,",
-              "전치사 목적어"
-            ],
-            [
-              "und",
-              "접속사"
-            ],
-            [
-              "wir",
-              "주어"
-            ],
-            [
-              "haben",
-              "동사"
-            ],
-            [
-              "uns",
-              "재귀대명사"
-            ],
-            [
-              "bis heute",
-              "부사어(시간)"
-            ],
-            [
-              "nicht",
-              "부정어"
-            ],
-            [
-              "abgefunden",
-              "동사(끝)"
-            ],
-            [
-              "mit dieser Lücke zwischen Anspruch und Fahrplan.",
-              "전치사 목적어"
-            ]
-          ]
+          "mark": ["abgefunden mit dieser Lücke zwischen Anspruch und Fahrplan"],
+          "parts": [["Der verspätete Zug", "주어"], ["kratzt", "동사"], ["am Selbstbild,", "전치사 목적어"], ["und", "접속사"], ["wir", "주어"], ["haben", "동사"], ["uns", "재귀대명사"], ["bis heute", "부사어(시간)"], ["nicht", "부정어"], ["abgefunden", "동사(끝)"], ["mit dieser Lücke zwischen Anspruch und Fahrplan.", "전치사 목적어"]]
         },
         {
           "de": "Dabei ist unser Verhältnis zu ihr komplizierter, als es scheint.",
           "ko": "하지만 철도를 대하는 우리의 태도는 보기보다 복잡해요.",
-          "mark": [
-            "als es scheint"
-          ]
+          "mark": ["als es scheint"]
         },
         {
           "de": "Man wird dann freundlich aufs Sofa gesetzt, bekommt ein Glas und eine Schale Nüsse – und wartet. Auf die anderen.",
           "ko": "그러면 친절하게 소파로 안내받아 앉고, 잔 하나와 견과류 한 접시를 받고 – 기다려요. 다른 사람들을요.",
-          "mark": [
-            "wartet. Auf die anderen."
-          ]
+          "mark": ["wartet. Auf die anderen."]
         }
       ],
       "tip": "비교구와 종속절은 틀 뒤에 두는 것이 정상이에요. 하지만 전치사 목적어를 틀 뒤로 보내는 것은 구어체·문학적 문체예요. 시험 작문에서는 Wir haben uns mit dieser Lücke nicht abgefunden처럼 틀 안에 두는 것이 안전해요."
@@ -479,175 +223,45 @@
         {
           "de": "Über die Deutsche Bahn Witze zu machen, gehört inzwischen zum guten Ton, ungefähr so wie das Wetter zu beklagen.",
           "ko": "독일 철도를 두고 농담하는 건 이제 날씨 타령과 비슷하게 으레 하는 일이 되었어요.",
-          "mark": [
-            "Über die Deutsche Bahn Witze zu machen",
-            "gehört"
-          ],
-          "parts": [
-            [
-              "Über die Deutsche Bahn Witze zu machen,",
-              "주어"
-            ],
-            [
-              "gehört",
-              "동사"
-            ],
-            [
-              "inzwischen",
-              "부사어(시간)"
-            ],
-            [
-              "zum guten Ton,",
-              "전치사 목적어"
-            ],
-            [
-              "ungefähr so wie das Wetter zu beklagen.",
-              "부사어(방법)"
-            ]
-          ]
+          "mark": ["Über die Deutsche Bahn Witze zu machen", "gehört"],
+          "parts": [["Über die Deutsche Bahn Witze zu machen,", "주어"], ["gehört", "동사"], ["inzwischen", "부사어(시간)"], ["zum guten Ton,", "전치사 목적어"], ["ungefähr so wie das Wetter zu beklagen.", "부사어(방법)"]]
         },
         {
           "de": "Auf der Einladung steht acht, gemeint ist halb neun, erwartet wird man gegen neun.",
           "ko": "초대장에는 여덟 시라고 쓰여 있지만 뜻하는 건 여덟 시 반이고, 실제로는 아홉 시쯤 오기를 기대해요.",
-          "mark": [
-            "gemeint ist",
-            "erwartet wird"
-          ],
-          "parts": [
-            [
-              "Auf der Einladung",
-              "부사어(장소)"
-            ],
-            [
-              "steht",
-              "동사"
-            ],
-            [
-              "acht,",
-              "주어"
-            ],
-            [
-              "gemeint",
-              "동사(끝)"
-            ],
-            [
-              "ist",
-              "동사"
-            ],
-            [
-              "halb neun,",
-              "주어"
-            ],
-            [
-              "erwartet",
-              "동사(끝)"
-            ],
-            [
-              "wird",
-              "동사"
-            ],
-            [
-              "man",
-              "주어"
-            ],
-            [
-              "gegen neun.",
-              "부사어(시간)"
-            ]
-          ]
+          "mark": ["gemeint ist", "erwartet wird"],
+          "parts": [["Auf der Einladung", "부사어(장소)"], ["steht", "동사"], ["acht,", "주어"], ["gemeint", "동사(끝)"], ["ist", "동사"], ["halb neun,", "주어"], ["erwartet", "동사(끝)"], ["wird", "동사"], ["man", "주어"], ["gegen neun.", "부사어(시간)"]]
         },
         {
           "de": "Interessanter ist doch die Frage, was Pünktlichkeit eigentlich bedeutet.",
           "ko": "더 흥미로운 건 시간 엄수가 대체 무엇을 뜻하느냐는 질문이에요.",
-          "mark": [
-            "Interessanter ist"
-          ]
+          "mark": ["Interessanter ist"]
         }
       ],
       "tip": "1번 자리에 주어 이외의 성분이 오면 주어는 동사 뒤로 가요. 보통 동사 바로 뒤에 오지만(erwartet wird man), 대명사나 화법 불변화사가 주어 앞에 올 수도 있어요(Nur hat es einem eben niemand gesagt). 두 성분을 동시에 1번 자리에 두는 것은 틀린 문장이에요."
     }
   ],
   "vocab": [
-    {
-      "de": "die Pünktlichkeit (Sg.)",
-      "ko": "시간 엄수"
-    },
-    {
-      "de": "zusammen|zucken (ist zusammengezuckt)",
-      "ko": "움찔하다"
-    },
-    {
-      "de": "das Sprichwort, -¨er",
-      "ko": "속담"
-    },
-    {
-      "de": "die Besprechung, -en",
-      "ko": "회의"
-    },
-    {
-      "de": "demonstrativ",
-      "ko": "보란 듯이, 과시하듯"
-    },
-    {
-      "de": "die Unterlagen (Pl.)",
-      "ko": "서류"
-    },
-    {
-      "de": "der Nachzügler, -",
-      "ko": "늦게 오는 사람"
-    },
-    {
-      "de": "das Urteil, -e",
-      "ko": "판결, 평가"
-    },
-    {
-      "de": "unausgesprochen",
-      "ko": "입 밖에 내지 않은, 암묵적인"
-    },
-    {
-      "de": "ausgerechnet",
-      "ko": "하필이면"
-    },
-    {
-      "de": "beklagen + Akk.",
-      "ko": "한탄하다, 불평하다"
-    },
-    {
-      "de": "die Verspätung, -en",
-      "ko": "연착, 지각"
-    },
-    {
-      "de": "das Selbstbild, -er",
-      "ko": "자아상, 자기 이미지"
-    },
-    {
-      "de": "die Durchsage, -n",
-      "ko": "안내 방송"
-    },
-    {
-      "de": "die Tugend, -en",
-      "ko": "미덕"
-    },
-    {
-      "de": "die Pedanterie (Sg.)",
-      "ko": "지나친 꼼꼼함, 융통성 없음"
-    },
-    {
-      "de": "die Rücksicht (Sg.)",
-      "ko": "배려"
-    },
-    {
-      "de": "das Dogma, Dogmen",
-      "ko": "교리, 절대적인 원칙"
-    },
-    {
-      "de": "freilich",
-      "ko": "물론, 다만"
-    },
-    {
-      "de": "der Anspruch, -¨e",
-      "ko": "기대 수준, 요구"
-    }
+    { "de": "die Pünktlichkeit (Sg.)", "ko": "시간 엄수" },
+    { "de": "zusammen|zucken (ist zusammengezuckt)", "ko": "움찔하다" },
+    { "de": "das Sprichwort, -¨er", "ko": "속담" },
+    { "de": "die Besprechung, -en", "ko": "회의" },
+    { "de": "demonstrativ", "ko": "보란 듯이, 과시하듯" },
+    { "de": "die Unterlagen (Pl.)", "ko": "서류" },
+    { "de": "der Nachzügler, -", "ko": "늦게 오는 사람" },
+    { "de": "das Urteil, -e", "ko": "판결, 평가" },
+    { "de": "unausgesprochen", "ko": "입 밖에 내지 않은, 암묵적인" },
+    { "de": "ausgerechnet", "ko": "하필이면" },
+    { "de": "beklagen + Akk.", "ko": "한탄하다, 불평하다" },
+    { "de": "die Verspätung, -en", "ko": "연착, 지각" },
+    { "de": "das Selbstbild, -er", "ko": "자아상, 자기 이미지" },
+    { "de": "die Durchsage, -n", "ko": "안내 방송" },
+    { "de": "die Tugend, -en", "ko": "미덕" },
+    { "de": "die Pedanterie (Sg.)", "ko": "지나친 꼼꼼함, 융통성 없음" },
+    { "de": "die Rücksicht (Sg.)", "ko": "배려" },
+    { "de": "das Dogma, Dogmen", "ko": "교리, 절대적인 원칙" },
+    { "de": "freilich", "ko": "물론, 다만" },
+    { "de": "der Anspruch, -¨e", "ko": "기대 수준, 요구" }
   ],
   "phrases": [
     {

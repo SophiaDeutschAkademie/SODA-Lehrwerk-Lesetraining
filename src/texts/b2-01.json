@@ -57,11 +57,7 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Wer gute Leute gewinnen will, muss heute mehr bieten als ein sicheres Gehalt“?",
-      "options": [
-        "Qualifizierte Bewerber wollen heute bessere Arbeitsbedingungen, nicht nur einen festen Lohn.",
-        "Die Stadt muss ihren Beschäftigten höhere Gehälter zahlen, damit diese nicht kündigen.",
-        "Gute Mitarbeiter wechseln heute öfter den Arbeitgeber, wenn ihnen mehr Geld geboten wird."
-      ],
+      "options": ["Qualifizierte Bewerber wollen heute bessere Arbeitsbedingungen, nicht nur einen festen Lohn.", "Die Stadt muss ihren Beschäftigten höhere Gehälter zahlen, damit diese nicht kündigen.", "Gute Mitarbeiter wechseln heute öfter den Arbeitgeber, wenn ihnen mehr Geld geboten wird."],
       "answer": 0,
       "evidence": "Wer gute Leute gewinnen will, muss heute mehr bieten als ein sicheres Gehalt",
       "pairs": [["gute Leute gewinnen", "Qualifizierte Bewerber"], ["mehr bieten als ein sicheres Gehalt", "bessere Arbeitsbedingungen, nicht nur einen festen Lohn"]],
@@ -71,11 +67,7 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was ist mit dem Satz „Daran werde man arbeiten“ gemeint?",
-      "options": [
-        "Die Beschäftigten sollen an den betroffenen Tagen länger arbeiten.",
-        "Die Stadt will die Zahl der Krankmeldungen noch genauer untersuchen.",
-        "Die Stadt will das Problem mit den Terminen in den Griff bekommen."
-      ],
+      "options": ["Die Beschäftigten sollen an den betroffenen Tagen länger arbeiten.", "Die Stadt will die Zahl der Krankmeldungen noch genauer untersuchen.", "Die Stadt will das Problem mit den Terminen in den Griff bekommen."],
       "answer": 2,
       "evidence": "Sie räumte allerdings ein, dass es an einzelnen Tagen zu Engpässen bei der Terminvergabe gekommen sei.",
       "pairs": [["Engpässen bei der Terminvergabe", "Problem mit den Terminen"], ["Daran werde man arbeiten", "in den Griff bekommen"]],
@@ -85,11 +77,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Womit erklärt der Personalrat, dass die Arbeit trotz des freien Tages geschafft wird?",
-      "options": [
-        "Die Beschäftigten arbeiten an den übrigen vier Tagen entsprechend länger.",
-        "Die Arbeit wurde effizienter organisiert, und manche Anliegen laufen digital.",
-        "Die Stadt hat zusätzliches Personal für die Terminvergabe im Rathaus eingestellt."
-      ],
+      "options": ["Die Beschäftigten arbeiten an den übrigen vier Tagen entsprechend länger.", "Die Arbeit wurde effizienter organisiert, und manche Anliegen laufen digital.", "Die Stadt hat zusätzliches Personal für die Terminvergabe im Rathaus eingestellt."],
       "answer": 1,
       "evidence": "vielmehr habe man die Abläufe gestrafft: Besprechungen seien kürzer geworden, und viele Anträge könnten die Bürger inzwischen online stellen.",
       "pairs": [["die Abläufe gestrafft", "effizienter organisiert"], ["viele Anträge könnten die Bürger inzwischen online stellen", "manche Anliegen laufen digital"]],
@@ -99,11 +87,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was kritisiert Gisela Hartmann?",
-      "options": [
-        "Dass das Bürgerbüro nun freitags geschlossen bleibt.",
-        "Dass es Wochen dauerte, bis sie einen Termin bekam.",
-        "Dass die Öffnungszeiten am Abend zu kurz geworden sind."
-      ],
+      "options": ["Dass das Bürgerbüro nun freitags geschlossen bleibt.", "Dass es Wochen dauerte, bis sie einen Termin bekam.", "Dass die Öffnungszeiten am Abend zu kurz geworden sind."],
       "answer": 1,
       "evidence": "sie habe drei Wochen auf einen Termin für ihren neuen Personalausweis warten müssen.",
       "pairs": [["drei Wochen auf einen Termin", "Wochen dauerte, bis sie einen Termin bekam"]],
@@ -122,11 +106,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Welche Einschränkung macht die Wissenschaftlerin Lea Brandner?",
-      "options": [
-        "Die positiven Effekte werden nach etwa einem Jahr wieder verschwinden.",
-        "Die Beschäftigten im Bürgerbüro waren von Anfang an wenig motiviert.",
-        "Die Ergebnisse lassen sich nicht auf alle Arbeitsbereiche übertragen."
-      ],
+      "options": ["Die positiven Effekte werden nach etwa einem Jahr wieder verschwinden.", "Die Beschäftigten im Bürgerbüro waren von Anfang an wenig motiviert.", "Die Ergebnisse lassen sich nicht auf alle Arbeitsbereiche übertragen."],
       "answer": 2,
       "evidence": "Außerdem gebe es Bereiche, in denen das Modell kaum funktionieren würde – etwa dort, wo rund um die Uhr Personal gebraucht werde.",
       "pairs": [["Bereiche, in denen das Modell kaum funktionieren würde", "nicht auf alle Arbeitsbereiche übertragen"]],
@@ -136,11 +116,7 @@
       "type": "mc",
       "kind": "intent",
       "q": "Welche Absicht verfolgt der Bericht?",
-      "options": [
-        "Er will die Leserinnen und Leser von den Vorteilen der Vier-Tage-Woche überzeugen.",
-        "Er will die bisherigen Erfahrungen aus mehreren Blickwinkeln ausgewogen darstellen.",
-        "Er will die Bürgermeisterin wegen der Probleme bei der Terminvergabe kritisieren."
-      ],
+      "options": ["Er will die Leserinnen und Leser von den Vorteilen der Vier-Tage-Woche überzeugen.", "Er will die bisherigen Erfahrungen aus mehreren Blickwinkeln ausgewogen darstellen.", "Er will die Bürgermeisterin wegen der Probleme bei der Terminvergabe kritisieren."],
       "answer": 1,
       "evidence": "Zur Halbzeit des Versuchs hat die Stadt nun eine erste Zwischenbilanz vorgelegt.",
       "pairs": [["eine erste Zwischenbilanz", "die bisherigen Erfahrungen"]],

@@ -90,11 +90,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was muss in Petra Langs Firma passieren, bevor jemand seinen Hund mitbringen darf?",
-      "options": [
-        "Die Geschäftsführerin muss den Hund vorher persönlich kennenlernen.",
-        "Alle, die direkt mit der Person zusammenarbeiten, müssen zustimmen.",
-        "Der Hund muss zuerst einen Tag lang allein in der Küche bleiben."
-      ],
+      "options": ["Die Geschäftsführerin muss den Hund vorher persönlich kennenlernen.", "Alle, die direkt mit der Person zusammenarbeiten, müssen zustimmen.", "Der Hund muss zuerst einen Tag lang allein in der Küche bleiben."],
       "answer": 1,
       "evidence": "wer einen Hund mitbringen will, braucht das Einverständnis der direkten Kolleginnen und Kollegen",
       "pairs": [["braucht das Einverständnis", "müssen zustimmen"], ["der direkten Kolleginnen und Kollegen", "Alle, die direkt mit der Person zusammenarbeiten"]],
@@ -104,11 +100,7 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was will Tim Albers mit dem Satz „Niemand hatte mich vorher gefragt“ sagen?",
-      "options": [
-        "Er war nicht an der Entscheidung beteiligt, obwohl sie ihn betraf.",
-        "Er wusste nicht, dass sein Kollege einen Hund ins Büro mitbringt.",
-        "Seine Kollegen interessierten sich nicht für seine Meinung zum Artikel."
-      ],
+      "options": ["Er war nicht an der Entscheidung beteiligt, obwohl sie ihn betraf.", "Er wusste nicht, dass sein Kollege einen Hund ins Büro mitbringt.", "Seine Kollegen interessierten sich nicht für seine Meinung zum Artikel."],
       "answer": 0,
       "evidence": "Vor zwei Jahren brachte ein Kollege seinen Hund mit, und ich musste schließlich das Zimmer wechseln.",
       "pairs": [["Niemand hatte mich vorher gefragt", "nicht an der Entscheidung beteiligt"]],
@@ -118,11 +110,7 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Ein Kompromiss kostet etwas Mühe, aber er lohnt sich“?",
-      "options": [
-        "Feste Regeln für Hunde sind teuer, deshalb verzichten viele Firmen darauf.",
-        "Eine Lösung für beide Seiten zu finden ist anstrengend, zahlt sich aber aus.",
-        "Ein Verbot ist am Ende die einfachste und beste Lösung für alle Beteiligten."
-      ],
+      "options": ["Feste Regeln für Hunde sind teuer, deshalb verzichten viele Firmen darauf.", "Eine Lösung für beide Seiten zu finden ist anstrengend, zahlt sich aber aus.", "Ein Verbot ist am Ende die einfachste und beste Lösung für alle Beteiligten."],
       "answer": 1,
       "evidence": "Ohne Regeln gäbe es schnell Streit, und am Ende könnten alle verlieren",
       "pairs": [["kostet etwas Mühe", "ist anstrengend"], ["lohnt sich", "zahlt sich aber aus"], ["Kompromiss", "Lösung für beide Seiten"]],
@@ -132,11 +120,7 @@
       "type": "mc",
       "kind": "gist",
       "q": "Welche Aussage fasst die Position von Petra Lang am besten zusammen?",
-      "options": [
-        "Hunde gehören nicht ins Büro, weil sie zu viel Streit verursachen.",
-        "Hunde im Büro sind möglich, wenn sich alle auf feste Regeln einigen.",
-        "Jede Firma sollte Hunde erlauben, weil sie die Stimmung verbessern."
-      ],
+      "options": ["Hunde gehören nicht ins Büro, weil sie zu viel Streit verursachen.", "Hunde im Büro sind möglich, wenn sich alle auf feste Regeln einigen.", "Jede Firma sollte Hunde erlauben, weil sie die Stimmung verbessern."],
       "answer": 1,
       "evidence": "Ich bin aber auch nicht der Meinung, dass alles erlaubt sein sollte.",
       "pairs": [["nicht der Meinung, dass alles erlaubt sein sollte", "sich alle auf feste Regeln einigen"]],

@@ -44,11 +44,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wie erklären sich die Nachbarn das Verhalten von Frau Lindner?",
-      "options": [
-        "Sie glauben, dass sie arrogant und unfreundlich ist.",
-        "Sie vermuten, dass sie seit Jahren schlecht hört.",
-        "Sie denken, dass sie neu hier ist und niemanden kennt."
-      ],
+      "options": ["Sie glauben, dass sie arrogant und unfreundlich ist.", "Sie vermuten, dass sie seit Jahren schlecht hört.", "Sie denken, dass sie neu hier ist und niemanden kennt."],
       "answer": 0,
       "evidence": "Die hält sich für etwas Besseres.",
       "pairs": [["hält sich für etwas Besseres", "arrogant"]],
@@ -67,11 +63,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Warum landete das Paket beim Erzähler?",
-      "options": [
-        "Frau Lindner hatte ihn gebeten, es für sie anzunehmen.",
-        "Der Bote hatte an der Tür der Empfängerin keinen Erfolg.",
-        "Der Bote hatte die Stockwerke im Treppenhaus verwechselt."
-      ],
+      "options": ["Frau Lindner hatte ihn gebeten, es für sie anzunehmen.", "Der Bote hatte an der Tür der Empfängerin keinen Erfolg.", "Der Bote hatte die Stockwerke im Treppenhaus verwechselt."],
       "answer": 1,
       "evidence": "Er hatte ein Paket, das für Frau Lindner bestimmt war, und oben öffnete niemand.",
       "pairs": [["oben öffnete niemand", "an der Tür der Empfängerin keinen Erfolg"], ["für Frau Lindner bestimmt", "der Empfängerin"]],
@@ -81,11 +73,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was passierte, als der Erzähler an Frau Lindners Tür klopfte?",
-      "options": [
-        "Sie öffnete sofort, weil sie das Paket schon erwartete.",
-        "Sie öffnete erst spät, als er bereits aufgeben wollte.",
-        "Sie öffnete nicht, also ließ er das Paket vor der Tür."
-      ],
+      "options": ["Sie öffnete sofort, weil sie das Paket schon erwartete.", "Sie öffnete erst spät, als er bereits aufgeben wollte.", "Sie öffnete nicht, also ließ er das Paket vor der Tür."],
       "answer": 1,
       "evidence": "Erst als ich schon gehen wollte, öffnete sie.",
       "pairs": [["Erst als ich schon gehen wollte", "als er bereits aufgeben wollte"]],
@@ -95,11 +83,7 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was will Frau Lindner mit dem Satz „Die Musik höre ich inzwischen mehr mit den Fingern als mit den Ohren“ sagen?",
-      "options": [
-        "Da ihr Gehör nachgelassen hat, erlebt sie Musik vor allem beim Spielen.",
-        "Sie kann die Musik nur noch mit den Fingern auf dem Klavier zählen.",
-        "Sie hört Musik inzwischen lieber über Kopfhörer als über Lautsprecher."
-      ],
+      "options": ["Da ihr Gehör nachgelassen hat, erlebt sie Musik vor allem beim Spielen.", "Sie kann die Musik nur noch mit den Fingern auf dem Klavier zählen.", "Sie hört Musik inzwischen lieber über Kopfhörer als über Lautsprecher."],
       "answer": 0,
       "evidence": "Aber seit einigen Jahren wird mein Gehör immer schlechter.",
       "pairs": [["mehr mit den Fingern als mit den Ohren", "vor allem beim Spielen"], ["wird mein Gehör immer schlechter", "ihr Gehör nachgelassen hat"]],
@@ -109,11 +93,7 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Da hört mir hoffentlich niemand zu“?",
-      "options": [
-        "Sie möchte nachts spielen, damit die Nachbarn besser zuhören können.",
-        "Sie spielt nachts, weil sie glaubt, dass sie dann niemanden stört.",
-        "Sie hofft, dass nachts endlich jemand im Haus ihrer Musik zuhört."
-      ],
+      "options": ["Sie möchte nachts spielen, damit die Nachbarn besser zuhören können.", "Sie spielt nachts, weil sie glaubt, dass sie dann niemanden stört.", "Sie hofft, dass nachts endlich jemand im Haus ihrer Musik zuhört."],
       "answer": 1,
       "evidence": "Deshalb spiele ich nur noch nachts.",
       "pairs": [["hört mir hoffentlich niemand zu", "dass sie dann niemanden stört"]],

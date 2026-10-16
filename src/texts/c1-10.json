@@ -7,12 +7,7 @@
   "type": "Essay",
   "typeKo": "에세이",
   "intro": "신뢰가 무엇이며 왜 사회가 신뢰 없이는 돌아가지 않는지 성찰하는 글이에요.",
-  "focus": [
-    "상관어 es · darauf + 종속절",
-    "일반화 관계절 (wer …, der … / was …, das …)",
-    "양보절 (so … auch, wie … auch immer, selbst wenn)",
-    "접속법 2식 비현실 조건"
-  ],
+  "focus": ["상관어 es · darauf + 종속절", "일반화 관계절 (wer …, der … / was …, das …)", "양보절 (so … auch, wie … auch immer, selbst wenn)", "접속법 2식 비현실 조건"],
   "paragraphs": [
     {
       "de": "Wer morgens das Haus verlässt, hat bereits mehr Vertrauen aufgebracht, als ihm bewusst ist. Er verlässt sich darauf, dass die Brötchen beim Bäcker nicht verdorben sind, dass der Busfahrer nüchtern ist, dass die Ärztin, die ihm am Nachmittag ein Medikament verschreibt, weiß, was sie tut. Nichts davon hat er geprüft, und nichts davon könnte er prüfen, ohne dass sein Tag darüber zerfiele. Es gehört zu den stillen Voraussetzungen des Alltags, dass wir ständig Dinge für wahr halten, von deren Wahrheit wir uns nicht überzeugt haben. Vertrauen ist, so gesehen, kein Gefühl, das wir uns leisten, sondern eine Bedingung, ohne die wir nicht handeln könnten.",
@@ -48,24 +43,10 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Vertrauen ist, so gesehen, kein Gefühl, das wir uns leisten, sondern eine Bedingung, ohne die wir nicht handeln könnten.“?",
-      "options": [
-        "Vertrauen ist ein Luxus, den sich nur Menschen in sicheren Verhältnissen erlauben können.",
-        "Vertrauen ist weniger eine Empfindung als eine praktische Voraussetzung für das Handeln.",
-        "Vertrauen ist ein Gefühl, das man sich durch sorgfältiges Prüfen erst verdienen muss.",
-        "Vertrauen ist eine Bedingung, die wir anderen stellen, bevor wir mit ihnen handeln."
-      ],
+      "options": ["Vertrauen ist ein Luxus, den sich nur Menschen in sicheren Verhältnissen erlauben können.", "Vertrauen ist weniger eine Empfindung als eine praktische Voraussetzung für das Handeln.", "Vertrauen ist ein Gefühl, das man sich durch sorgfältiges Prüfen erst verdienen muss.", "Vertrauen ist eine Bedingung, die wir anderen stellen, bevor wir mit ihnen handeln."],
       "answer": 1,
       "evidence": "Vertrauen ist, so gesehen, kein Gefühl, das wir uns leisten, sondern eine Bedingung, ohne die wir nicht handeln könnten.",
-      "pairs": [
-        [
-          "kein Gefühl, das wir uns leisten",
-          "weniger eine Empfindung"
-        ],
-        [
-          "eine Bedingung, ohne die wir nicht handeln könnten",
-          "eine praktische Voraussetzung für das Handeln"
-        ]
-      ],
+      "pairs": [["kein Gefühl, das wir uns leisten", "weniger eine Empfindung"], ["eine Bedingung, ohne die wir nicht handeln könnten", "eine praktische Voraussetzung für das Handeln"]],
       "explain": "'sich etwas leisten'은 여유가 있어서 누린다는 뜻인데, 글쓴이는 신뢰가 그런 감정이 아니라 행동의 전제 조건이라고 해요. 즉 감정의 문제라기보다 일상이 돌아가기 위한 필수 조건이라는 뜻이에요. '사치'라는 선택지는 글쓴이가 부정한 쪽을 그대로 택한 것이라 틀려요."
     },
     {
@@ -74,108 +55,47 @@
       "q": "Der Autor kritisiert Luhmanns Beschreibung als zu trocken, um das Wesentliche am Vertrauen zu erfassen.",
       "answer": 1,
       "evidence": "Die Formulierung klingt spröde, trifft aber den Kern.",
-      "pairs": [
-        [
-          "klingt spröde",
-          "zu trocken"
-        ],
-        [
-          "trifft aber den Kern",
-          "das Wesentliche am Vertrauen zu erfassen"
-        ]
-      ],
+      "pairs": [["klingt spröde", "zu trocken"], ["trifft aber den Kern", "das Wesentliche am Vertrauen zu erfassen"]],
       "explain": "'spröde klingen'은 딱딱하고 메마르게 들린다는 뜻이고, 'den Kern treffen'은 핵심을 찌른다는 뜻이에요. 글쓴이는 루만의 표현이 건조하게 들리지만 바로 핵심을 짚는다고 인정하므로, 핵심을 놓친다고 비판한다는 진술은 본문과 반대예요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Wie erklärt der Autor im Anschluss an Luhmann die Funktion des Vertrauens?",
-      "options": [
-        "Vertrauen hilft, die Zukunft genauer vorherzusagen, als es ohne Vertrauen möglich wäre.",
-        "Vertrauen blendet manche Entwicklungen aus und macht so Entscheidungen erst möglich.",
-        "Vertrauen erhöht die Zahl der Möglichkeiten, zwischen denen ein Einzelner wählen kann.",
-        "Vertrauen ersetzt die Entscheidung durch eine sorgfältige Prüfung aller Möglichkeiten."
-      ],
+      "options": ["Vertrauen hilft, die Zukunft genauer vorherzusagen, als es ohne Vertrauen möglich wäre.", "Vertrauen blendet manche Entwicklungen aus und macht so Entscheidungen erst möglich.", "Vertrauen erhöht die Zahl der Möglichkeiten, zwischen denen ein Einzelner wählen kann.", "Vertrauen ersetzt die Entscheidung durch eine sorgfältige Prüfung aller Möglichkeiten."],
       "answer": 1,
       "evidence": "Vertrauen schließt Möglichkeiten aus.",
-      "pairs": [
-        [
-          "schließt Möglichkeiten aus",
-          "blendet manche Entwicklungen aus"
-        ],
-        [
-          "käme man zu keiner Entscheidung mehr",
-          "macht so Entscheidungen erst möglich"
-        ]
-      ],
+      "pairs": [["schließt Möglichkeiten aus", "blendet manche Entwicklungen aus"], ["käme man zu keiner Entscheidung mehr", "macht so Entscheidungen erst möglich"]],
       "explain": "신뢰는 가능성을 배제함으로써 결정을 가능하게 한다고 해요. 모든 가능성을 고려하면 어떤 결정에도 이르지 못한다는 앞 문장과 연결돼요. 미래를 더 정확히 예측하는 것이 아니라 미래가 덜 열려 있는 것처럼 행동하는 거예요."
     },
     {
       "type": "mc",
       "kind": "meaning",
       "q": "Was bedeutet „Vorschuss“ im Satz „Vertrauen ist ein Vorschuss, der nicht gedeckt ist“?",
-      "options": [
-        "eine Vorleistung, deren Erwiderung noch ungewiss ist",
-        "ein Vorteil, den man von Anfang an gegenüber anderen hat",
-        "eine Sicherheit, die man vor einem Geschäft hinterlegt",
-        "ein Vorurteil, das man gegenüber anderen Menschen hegt"
-      ],
+      "options": ["eine Vorleistung, deren Erwiderung noch ungewiss ist", "ein Vorteil, den man von Anfang an gegenüber anderen hat", "eine Sicherheit, die man vor einem Geschäft hinterlegt", "ein Vorurteil, das man gegenüber anderen Menschen hegt"],
       "answer": 0,
       "evidence": "Vertrauen ist ein Vorschuss, der nicht gedeckt ist, eine Wette darauf, dass der andere sich so verhalten wird, wie man es erwartet.",
-      "pairs": [
-        [
-          "Vorschuss, der nicht gedeckt ist",
-          "Vorleistung, deren Erwiderung noch ungewiss ist"
-        ]
-      ],
+      "pairs": [["Vorschuss, der nicht gedeckt ist", "Vorleistung, deren Erwiderung noch ungewiss ist"]],
       "explain": "Vorschuss는 원래 일을 하기 전에 미리 받는 돈(선지급)이에요. 여기서는 상대가 보답할지 모르는 상태에서 먼저 내주는 것이라는 비유로 쓰였고, 'nicht gedeckt'(담보가 없는)와 'Wette'(내기)가 그 뜻을 뒷받침해요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Wie steht der Autor zur Kontrolle?",
-      "options": [
-        "Er lehnt sie ab, weil sie in allen Bereichen mehr Schaden als Nutzen bringt.",
-        "Er hält sie für unverzichtbar, weil Vertrauen allein zu riskant und unsicher ist.",
-        "Er sieht in ihr die einzige Möglichkeit, Verlässlichkeit dauerhaft zu sichern.",
-        "Er hält sie in manchen Bereichen für sinnvoll, nennt aber ihre verborgenen Kosten."
-      ],
+      "options": ["Er lehnt sie ab, weil sie in allen Bereichen mehr Schaden als Nutzen bringt.", "Er hält sie für unverzichtbar, weil Vertrauen allein zu riskant und unsicher ist.", "Er sieht in ihr die einzige Möglichkeit, Verlässlichkeit dauerhaft zu sichern.", "Er hält sie in manchen Bereichen für sinnvoll, nennt aber ihre verborgenen Kosten."],
       "answer": 3,
       "evidence": "Das ist nicht grundsätzlich verkehrt – niemand wünscht sich eine Luftfahrt, die auf Vertrauen statt auf Wartungsprotokollen beruht.",
-      "pairs": [
-        [
-          "nicht grundsätzlich verkehrt",
-          "in manchen Bereichen für sinnvoll"
-        ],
-        [
-          "einen höheren, als es auf den ersten Blick scheint",
-          "ihre verborgenen Kosten"
-        ]
-      ],
+      "pairs": [["nicht grundsätzlich verkehrt", "in manchen Bereichen für sinnvoll"], ["einen höheren, als es auf den ersten Blick scheint", "ihre verborgenen Kosten"]],
       "explain": "글쓴이는 통제가 근본적으로 잘못된 것은 아니라고 하면서 항공 정비를 예로 들고, 이어서 통제에는 언뜻 보기보다 큰 대가가 따른다고 지적해요. 모든 영역에서 해롭다는 것도, 없어서는 안 된다는 것도 글쓴이의 입장이 아니에요. 통제로 생기는 신뢰성은 시선이 닿는 곳까지만 미친다고 했으므로 '지속적으로 보장한다'는 선택지도 틀려요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was ist mit dem Satz „So entsteht eine Verlässlichkeit, die genauso weit reicht wie der Blick des Kontrolleurs – und keinen Schritt weiter.“ gemeint?",
-      "options": [
-        "Kontrolleure sollten ihren Blick erweitern, damit die Verlässlichkeit deutlich zunimmt.",
-        "Überwachung erzeugt ein Verhalten, das nur dort verlässlich bleibt, wo jemand hinsieht.",
-        "Kontrolle schafft eine Verlässlichkeit, die auch bestehen bleibt, wenn niemand hinsieht.",
-        "Je weiter der Kontrolleur blickt, desto weniger verlässlich werden die Kontrollierten."
-      ],
+      "options": ["Kontrolleure sollten ihren Blick erweitern, damit die Verlässlichkeit deutlich zunimmt.", "Überwachung erzeugt ein Verhalten, das nur dort verlässlich bleibt, wo jemand hinsieht.", "Kontrolle schafft eine Verlässlichkeit, die auch bestehen bleibt, wenn niemand hinsieht.", "Je weiter der Kontrolleur blickt, desto weniger verlässlich werden die Kontrollierten."],
       "answer": 1,
       "evidence": "wer sich beobachtet weiß, der handelt für den Beobachter.",
-      "pairs": [
-        [
-          "genauso weit reicht wie der Blick des Kontrolleurs",
-          "nur dort verlässlich bleibt, wo jemand hinsieht"
-        ],
-        [
-          "keinen Schritt weiter",
-          "nur dort"
-        ]
-      ],
+      "pairs": [["genauso weit reicht wie der Blick des Kontrolleurs", "nur dort verlässlich bleibt, wo jemand hinsieht"], ["keinen Schritt weiter", "nur dort"]],
       "explain": "통제로 생기는 신뢰성은 감독자의 시선이 닿는 범위까지만 미친다고 해요. 즉 보고 있을 때만 믿을 수 있는 행동이라는 뜻이에요. 시선 밖에서도 유지된다는 선택지는 정반대이고, 시야를 넓히라는 권고는 본문에 없어요."
     },
     {
@@ -184,40 +104,17 @@
       "q": "Laut dem Autor erfährt man selbst bei enttäuschtem Vertrauen etwas, was man durch Kontrolle nie erfahren hätte.",
       "answer": 0,
       "evidence": "Selbst wenn es enttäuscht wird, hat es etwas sichtbar gemacht, was Kontrolle verbirgt – nämlich wie der andere sich verhält, wenn niemand hinsieht.",
-      "pairs": [
-        [
-          "hat es etwas sichtbar gemacht",
-          "erfährt man selbst bei enttäuschtem Vertrauen etwas"
-        ],
-        [
-          "was Kontrolle verbirgt",
-          "was man durch Kontrolle nie erfahren hätte"
-        ]
-      ],
+      "pairs": [["hat es etwas sichtbar gemacht", "erfährt man selbst bei enttäuschtem Vertrauen etwas"], ["was Kontrolle verbirgt", "was man durch Kontrolle nie erfahren hätte"]],
       "explain": "신뢰가 저버려지더라도 통제가 감추는 것, 곧 아무도 보지 않을 때 상대가 어떻게 행동하는지가 드러난다고 해요. 본문의 'sichtbar machen'(드러내다)을 문제에서는 'erfahren'(알게 되다)으로, 'verbirgt'(감춘다)를 'nie erfahren hätte'(결코 알 수 없었을 것이다)로 바꿔 표현했어요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Warum ist eine Beziehung, in der sich beide Seiten vollständig absichern, laut Text keine Beziehung mehr?",
-      "options": [
-        "Weil Verträge in persönlichen Beziehungen prinzipiell schädlich und unnötig sind.",
-        "Weil vollständige Absicherung in der Praxis zu teuer ist, um sie durchzuhalten.",
-        "Weil zu einer Beziehung notwendig gehört, sich dem anderen ungeschützt auszusetzen.",
-        "Weil beide Seiten dann nicht mehr vorhersehen können, was der andere tun wird."
-      ],
+      "options": ["Weil Verträge in persönlichen Beziehungen prinzipiell schädlich und unnötig sind.", "Weil vollständige Absicherung in der Praxis zu teuer ist, um sie durchzuhalten.", "Weil zu einer Beziehung notwendig gehört, sich dem anderen ungeschützt auszusetzen.", "Weil beide Seiten dann nicht mehr vorhersehen können, was der andere tun wird."],
       "answer": 2,
       "evidence": "Dass Vertrauen verletzlich macht, ist kein Nebeneffekt, sondern sein Wesen.",
-      "pairs": [
-        [
-          "verletzlich macht",
-          "sich dem anderen ungeschützt auszusetzen"
-        ],
-        [
-          "kein Nebeneffekt, sondern sein Wesen",
-          "notwendig gehört"
-        ]
-      ],
+      "pairs": [["verletzlich macht", "sich dem anderen ungeschützt auszusetzen"], ["kein Nebeneffekt, sondern sein Wesen", "notwendig gehört"]],
       "explain": "상처받을 수 있다는 것이 신뢰의 본질이고, 완전히 자신을 보호하는 관계는 계약일 뿐이라고 해요. 즉 관계에는 자신을 보호하지 않고 내맡기는 것이 필수라는 뜻이에요. 계약이 해롭다거나 비용이 많이 든다는 말은 이 대목에 없어요."
     },
     {
@@ -226,36 +123,17 @@
       "q": "Besonders hoch ist das wechselseitige Vertrauen dem Autor zufolge in den nordeuropäischen Ländern.",
       "answer": 2,
       "evidence": null,
-      "pairs": [
-        [
-          "Gesellschaften mit hohem wechselseitigem Vertrauen",
-          "in den nordeuropäischen Ländern"
-        ]
-      ],
+      "pairs": [["Gesellschaften mit hohem wechselseitigem Vertrauen", "in den nordeuropäischen Ländern"]],
       "explain": "본문은 서로에 대한 신뢰가 높은 사회가 경제적으로 더 유연하다고 일반적으로 말할 뿐이에요. 어느 나라나 지역이 그런지는 언급하지 않아요. 북유럽에 대한 배경지식이 있더라도 본문에 없는 내용이면 '본문에 없음'을 골라야 해요."
     },
     {
       "type": "mc",
       "kind": "gist",
       "q": "Welche Aussage gibt den Gedankengang des Essays am besten wieder?",
-      "options": [
-        "Vertrauen ist riskant, aber notwendig – Kontrolle und Misstrauen ersetzen es nur teuer und lückenhaft.",
-        "Vertrauen sollte durch Verträge und Kontrolle ersetzt werden, weil es den Menschen verletzlich macht.",
-        "Wer anderen vertraut, wird enttäuscht; deshalb ist Misstrauen auf lange Sicht die sicherere Haltung.",
-        "Luhmann hat gezeigt, dass Vertrauen vor allem im Wirtschaftsleben und in der Politik eine Rolle spielt."
-      ],
+      "options": ["Vertrauen ist riskant, aber notwendig – Kontrolle und Misstrauen ersetzen es nur teuer und lückenhaft.", "Vertrauen sollte durch Verträge und Kontrolle ersetzt werden, weil es den Menschen verletzlich macht.", "Wer anderen vertraut, wird enttäuscht; deshalb ist Misstrauen auf lange Sicht die sicherere Haltung.", "Luhmann hat gezeigt, dass Vertrauen vor allem im Wirtschaftsleben und in der Politik eine Rolle spielt."],
       "answer": 0,
       "evidence": "Dass es ohne ihn nicht geht, weiß jeder, der morgens das Haus verlässt.",
-      "pairs": [
-        [
-          "Dass es ohne ihn nicht geht",
-          "aber notwendig"
-        ],
-        [
-          "Misstrauen erscheint demgegenüber als die sicherere Haltung. Es ist jedoch die teurere.",
-          "Kontrolle und Misstrauen ersetzen es nur teuer und lückenhaft"
-        ]
-      ],
+      "pairs": [["Dass es ohne ihn nicht geht", "aber notwendig"], ["Misstrauen erscheint demgegenüber als die sicherere Haltung. Es ist jedoch die teurere.", "Kontrolle und Misstrauen ersetzen es nur teuer und lückenhaft"]],
       "explain": "글은 신뢰가 담보 없는 선지급이라 위험하지만 행동의 전제라고 보고, 통제는 시선이 닿는 곳까지만 효과가 있으며 불신은 사회를 마비시킨다고 논증해요. 불신이 더 안전하다는 것은 글쓴이가 반박하는 입장이에요."
     }
   ],
@@ -269,46 +147,18 @@
         {
           "de": "Er verlässt sich darauf, dass die Brötchen beim Bäcker nicht verdorben sind, dass der Busfahrer nüchtern ist, dass die Ärztin, die ihm am Nachmittag ein Medikament verschreibt, weiß, was sie tut.",
           "ko": "그는 빵집의 빵이 상하지 않았다는 것, 버스 기사가 술에 취해 있지 않다는 것, 오후에 약을 처방해 줄 의사가 자기 일을 제대로 안다는 것을 믿고 의지합니다.",
-          "mark": [
-            "darauf",
-            "dass die Brötchen",
-            "dass der Busfahrer",
-            "dass die Ärztin"
-          ]
+          "mark": ["darauf", "dass die Brötchen", "dass der Busfahrer", "dass die Ärztin"]
         },
         {
           "de": "Es gehört zu den stillen Voraussetzungen des Alltags, dass wir ständig Dinge für wahr halten, von deren Wahrheit wir uns nicht überzeugt haben.",
           "ko": "우리가 그 진실성을 스스로 확인하지 않은 일들을 끊임없이 사실로 받아들인다는 것은 일상의 조용한 전제 가운데 하나입니다.",
-          "mark": [
-            "Es",
-            "dass wir ständig Dinge für wahr halten"
-          ],
-          "parts": [
-            [
-              "Es",
-              "주어"
-            ],
-            [
-              "gehört",
-              "동사"
-            ],
-            [
-              "zu den stillen Voraussetzungen des Alltags,",
-              "전치사 목적어"
-            ],
-            [
-              "dass wir ständig Dinge für wahr halten, von deren Wahrheit wir uns nicht überzeugt haben.",
-              "종속절"
-            ]
-          ]
+          "mark": ["Es", "dass wir ständig Dinge für wahr halten"],
+          "parts": [["Es", "주어"], ["gehört", "동사"], ["zu den stillen Voraussetzungen des Alltags,", "전치사 목적어"], ["dass wir ständig Dinge für wahr halten, von deren Wahrheit wir uns nicht überzeugt haben.", "종속절"]]
         },
         {
           "de": "Wer vertraut, gibt dem anderen die Möglichkeit, ihm zu schaden, und verzichtet zugleich darauf, sich dagegen abzusichern.",
           "ko": "신뢰하는 사람은 상대에게 자신을 해칠 가능성을 내주면서 동시에 그에 대비해 자신을 보호하기를 포기합니다.",
-          "mark": [
-            "darauf",
-            "sich dagegen abzusichern"
-          ]
+          "mark": ["darauf", "sich dagegen abzusichern"]
         }
       ],
       "tip": "상관어는 종속절이 주절 뒤에 올 때 쓰고, 종속절이 앞에 오면 생략해요. 'Ob sich der Vorschuss auszahlt, weiß niemand.'에는 그래서 상관어가 없어요."
@@ -322,72 +172,19 @@
         {
           "de": "Wem vertraut wird, der steht vor einer Wahl, die der Kontrollierte nicht hat",
           "ko": "신뢰받는 사람은 통제받는 사람에게는 없는 선택 앞에 섭니다.",
-          "mark": [
-            "Wem vertraut wird, der"
-          ],
-          "parts": [
-            [
-              "Wem vertraut wird,",
-              "관계절"
-            ],
-            [
-              "der",
-              "주어"
-            ],
-            [
-              "steht",
-              "동사"
-            ],
-            [
-              "vor einer Wahl,",
-              "전치사 목적어"
-            ],
-            [
-              "die der Kontrollierte nicht hat",
-              "관계절"
-            ]
-          ]
+          "mark": ["Wem vertraut wird, der"],
+          "parts": [["Wem vertraut wird,", "관계절"], ["der", "주어"], ["steht", "동사"], ["vor einer Wahl,", "전치사 목적어"], ["die der Kontrollierte nicht hat", "관계절"]]
         },
         {
           "de": "Was ständig überprüft wird, das richtet sich nach der Prüfung aus und nicht mehr nach der Sache; wer sich beobachtet weiß, der handelt für den Beobachter.",
           "ko": "끊임없이 검사받는 것은 더 이상 일 자체가 아니라 검사에 맞추어 움직이게 되고, 자신이 관찰되고 있음을 아는 사람은 관찰자를 위해 행동합니다.",
-          "mark": [
-            "Was ständig überprüft wird, das",
-            "wer sich beobachtet weiß, der"
-          ]
+          "mark": ["Was ständig überprüft wird, das", "wer sich beobachtet weiß, der"]
         },
         {
           "de": "Wer morgens das Haus verlässt, hat bereits mehr Vertrauen aufgebracht, als ihm bewusst ist.",
           "ko": "아침에 집을 나서는 사람은 이미 자신이 의식하는 것보다 더 많은 신뢰를 쏟아부은 상태입니다.",
-          "mark": [
-            "Wer morgens das Haus verlässt,"
-          ],
-          "parts": [
-            [
-              "Wer morgens das Haus verlässt,",
-              "주어"
-            ],
-            [
-              "hat",
-              "동사"
-            ],
-            [
-              "bereits",
-              "부사어(시간)"
-            ],
-            [
-              "mehr Vertrauen",
-              "4격 목적어"
-            ],
-            [
-              "aufgebracht,",
-              "동사(끝)"
-            ],
-            [
-              "als ihm bewusst ist.",
-              "종속절"
-            ]
-          ]
+          "mark": ["Wer morgens das Haus verlässt,"],
+          "parts": [["Wer morgens das Haus verlässt,", "주어"], ["hat", "동사"], ["bereits", "부사어(시간)"], ["mehr Vertrauen", "4격 목적어"], ["aufgebracht,", "동사(끝)"], ["als ihm bewusst ist.", "종속절"]]
         }
       ],
       "tip": "wer 관계절 전체가 주절의 주어 역할을 해요. 그래서 'Wer vertraut, tut so …'처럼 주절의 동사가 관계절 바로 뒤에 와요."
@@ -401,51 +198,18 @@
         {
           "de": "So unvernünftig das auch klingen mag, so wenig lässt es sich vermeiden",
           "ko": "이것이 아무리 비합리적으로 들리더라도 피할 수는 없습니다.",
-          "mark": [
-            "So unvernünftig das auch klingen mag",
-            "so wenig"
-          ],
-          "parts": [
-            [
-              "So unvernünftig das auch klingen mag,",
-              "종속절"
-            ],
-            [
-              "so wenig",
-              "부사어"
-            ],
-            [
-              "lässt",
-              "동사"
-            ],
-            [
-              "es",
-              "주어"
-            ],
-            [
-              "sich",
-              "재귀대명사"
-            ],
-            [
-              "vermeiden",
-              "동사(끝)"
-            ]
-          ]
+          "mark": ["So unvernünftig das auch klingen mag", "so wenig"],
+          "parts": [["So unvernünftig das auch klingen mag,", "종속절"], ["so wenig", "부사어"], ["lässt", "동사"], ["es", "주어"], ["sich", "재귀대명사"], ["vermeiden", "동사(끝)"]]
         },
         {
           "de": "Wie plausibel die Gründe für das Misstrauen im Einzelfall auch immer sein mögen – in der Summe lähmt es.",
           "ko": "개별 사례에서 불신의 이유가 아무리 그럴듯하더라도, 전체로 보면 불신은 사회를 마비시킵니다.",
-          "mark": [
-            "Wie plausibel",
-            "auch immer sein mögen"
-          ]
+          "mark": ["Wie plausibel", "auch immer sein mögen"]
         },
         {
           "de": "Selbst wenn es enttäuscht wird, hat es etwas sichtbar gemacht, was Kontrolle verbirgt – nämlich wie der andere sich verhält, wenn niemand hinsieht.",
           "ko": "설령 저버려지더라도 신뢰는 통제가 감추는 것, 곧 아무도 보지 않을 때 상대가 어떻게 행동하는지를 드러내 보여 줍니다.",
-          "mark": [
-            "Selbst wenn es enttäuscht wird"
-          ]
+          "mark": ["Selbst wenn es enttäuscht wird"]
         }
       ],
       "tip": "obwohl은 실제 사실을 인정하면서 양보해요(실제로 그렇지만). 'so … auch'와 'wie … auch immer'는 정도가 어떠하든 상관없다는 뜻이고, 'selbst wenn'은 아직 일어나지 않은 경우까지 가정해요."
@@ -459,126 +223,39 @@
         {
           "de": "wollte man jede davon ernsthaft in Betracht ziehen, käme man zu keiner Entscheidung mehr.",
           "ko": "그 하나하나를 진지하게 고려하려 한다면 어떤 결정에도 이르지 못할 것입니다.",
-          "mark": [
-            "wollte man",
-            "käme man"
-          ],
-          "parts": [
-            [
-              "wollte man jede davon ernsthaft in Betracht ziehen,",
-              "종속절"
-            ],
-            [
-              "käme",
-              "동사"
-            ],
-            [
-              "man",
-              "주어"
-            ],
-            [
-              "zu keiner Entscheidung",
-              "전치사 목적어"
-            ],
-            [
-              "mehr.",
-              "부사어"
-            ]
-          ]
+          "mark": ["wollte man", "käme man"],
+          "parts": [["wollte man jede davon ernsthaft in Betracht ziehen,", "종속절"], ["käme", "동사"], ["man", "주어"], ["zu keiner Entscheidung", "전치사 목적어"], ["mehr.", "부사어"]]
         },
         {
           "de": "Es wäre naiv, daraus zu folgern, man solle einfach jedem vertrauen.",
           "ko": "여기서 그저 누구나 믿어야 한다는 결론을 끌어낸다면 순진한 일일 것입니다.",
-          "mark": [
-            "wäre",
-            "zu folgern"
-          ]
+          "mark": ["wäre", "zu folgern"]
         }
       ],
       "tip": "'man solle einfach jedem vertrauen'의 solle는 접속법 1식으로, 결론의 내용을 간접적으로 전하는 간접화법이에요."
     }
   ],
   "vocab": [
-    {
-      "de": "das Vertrauen (Sg.)",
-      "ko": "신뢰"
-    },
-    {
-      "de": "sich verlassen auf + Akk. (verlässt sich, verließ sich, hat sich verlassen)",
-      "ko": "~을 믿고 의지하다"
-    },
-    {
-      "de": "nüchtern",
-      "ko": "술에 취하지 않은; 냉정한"
-    },
-    {
-      "de": "verschreiben (verschrieb, hat verschrieben)",
-      "ko": "(약을) 처방하다"
-    },
-    {
-      "de": "die Voraussetzung, -en",
-      "ko": "전제, 조건"
-    },
-    {
-      "de": "spröde",
-      "ko": "딱딱한, 메마른; 잘 부서지는"
-    },
-    {
-      "de": "überblicken",
-      "ko": "조망하다, 한눈에 파악하다"
-    },
-    {
-      "de": "aus|schließen (schloss aus, hat ausgeschlossen)",
-      "ko": "배제하다, 제외하다"
-    },
-    {
-      "de": "der Vorschuss, -¨e",
-      "ko": "선지급, 가불; (비유) 먼저 내주는 것"
-    },
-    {
-      "de": "die Überprüfung, -en",
-      "ko": "검증, 검사"
-    },
-    {
-      "de": "überwachen",
-      "ko": "감시하다"
-    },
-    {
-      "de": "die Verlässlichkeit (Sg.)",
-      "ko": "신뢰성, 믿을 만함"
-    },
-    {
-      "de": "erfüllen",
-      "ko": "(기대·신뢰에) 부응하다, 채우다"
-    },
-    {
-      "de": "enttäuschen",
-      "ko": "실망시키다, (신뢰를) 저버리다"
-    },
-    {
-      "de": "verletzlich",
-      "ko": "상처받기 쉬운, 취약한"
-    },
-    {
-      "de": "sich ab|sichern gegen + Akk.",
-      "ko": "~에 대비해 자신을 보호하다"
-    },
-    {
-      "de": "die Zumutung, -en",
-      "ko": "무리한 요구, 감당해야 할 부담"
-    },
-    {
-      "de": "das Misstrauen (Sg.)",
-      "ko": "불신"
-    },
-    {
-      "de": "lähmen",
-      "ko": "마비시키다"
-    },
-    {
-      "de": "die Ahnungslosigkeit (Sg.)",
-      "ko": "무지, 아무것도 모름"
-    }
+    { "de": "das Vertrauen (Sg.)", "ko": "신뢰" },
+    { "de": "sich verlassen auf + Akk. (verlässt sich, verließ sich, hat sich verlassen)", "ko": "~을 믿고 의지하다" },
+    { "de": "nüchtern", "ko": "술에 취하지 않은; 냉정한" },
+    { "de": "verschreiben (verschrieb, hat verschrieben)", "ko": "(약을) 처방하다" },
+    { "de": "die Voraussetzung, -en", "ko": "전제, 조건" },
+    { "de": "spröde", "ko": "딱딱한, 메마른; 잘 부서지는" },
+    { "de": "überblicken", "ko": "조망하다, 한눈에 파악하다" },
+    { "de": "aus|schließen (schloss aus, hat ausgeschlossen)", "ko": "배제하다, 제외하다" },
+    { "de": "der Vorschuss, -¨e", "ko": "선지급, 가불; (비유) 먼저 내주는 것" },
+    { "de": "die Überprüfung, -en", "ko": "검증, 검사" },
+    { "de": "überwachen", "ko": "감시하다" },
+    { "de": "die Verlässlichkeit (Sg.)", "ko": "신뢰성, 믿을 만함" },
+    { "de": "erfüllen", "ko": "(기대·신뢰에) 부응하다, 채우다" },
+    { "de": "enttäuschen", "ko": "실망시키다, (신뢰를) 저버리다" },
+    { "de": "verletzlich", "ko": "상처받기 쉬운, 취약한" },
+    { "de": "sich ab|sichern gegen + Akk.", "ko": "~에 대비해 자신을 보호하다" },
+    { "de": "die Zumutung, -en", "ko": "무리한 요구, 감당해야 할 부담" },
+    { "de": "das Misstrauen (Sg.)", "ko": "불신" },
+    { "de": "lähmen", "ko": "마비시키다" },
+    { "de": "die Ahnungslosigkeit (Sg.)", "ko": "무지, 아무것도 모름" }
   ],
   "phrases": [
     {

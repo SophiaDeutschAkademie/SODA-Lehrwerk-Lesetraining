@@ -7,12 +7,7 @@
   "type": "Literarische Kurzprosa",
   "typeKo": "문학 단편 (1인칭 서술)",
   "intro": "돌아가신 할머니의 집을 정리하다가 오래된 여행 가방을 발견한 손녀의 이야기예요.",
-  "focus": [
-    "분사구문 (축약된 종속절)",
-    "과거형과 과거완료의 교체",
-    "체험 화법 (erlebte Rede)",
-    "도치와 생략의 문체"
-  ],
+  "focus": ["분사구문 (축약된 종속절)", "과거형과 과거완료의 교체", "체험 화법 (erlebte Rede)", "도치와 생략의 문체"],
   "paragraphs": [
     {
       "de": "Der Schlüssel klemmte, wie er immer geklemmt hatte. Man musste ihn ein Stück zurückdrehen, anheben und dann erst nach rechts – ein Handgriff, den ich als Kind gelernt und nie vergessen hatte. Dreißig Jahre lang war ich durch diese Tür gegangen, um jemanden zu besuchen. Nun ging ich hindurch, um aufzuräumen. Im Flur angekommen, blieb ich stehen und atmete ein: Bohnerwachs, Lavendel, und darunter, kaum noch wahrnehmbar, der Geruch ihrer Hustenbonbons. Drei Wochen war sie jetzt tot.",
@@ -48,28 +43,10 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was erfährt man über das Verhältnis der Erzählerin zur Wohnung ihrer Großmutter?",
-      "options": [
-        "Sie hat dort als Kind mehrere Jahre bei der Großmutter gewohnt.",
-        "Sie hatte die Wohnung seit ihrer Kindheit nicht wieder betreten.",
-        "Sie kennt die Wohnung seit Jahrzehnten durch regelmäßige Besuche.",
-        "Sie kam früher oft, um der Großmutter beim Aufräumen zu helfen."
-      ],
+      "options": ["Sie hat dort als Kind mehrere Jahre bei der Großmutter gewohnt.", "Sie hatte die Wohnung seit ihrer Kindheit nicht wieder betreten.", "Sie kennt die Wohnung seit Jahrzehnten durch regelmäßige Besuche.", "Sie kam früher oft, um der Großmutter beim Aufräumen zu helfen."],
       "answer": 2,
       "evidence": "Dreißig Jahre lang war ich durch diese Tür gegangen, um jemanden zu besuchen.",
-      "pairs": [
-        [
-          "Dreißig Jahre lang",
-          "seit Jahrzehnten"
-        ],
-        [
-          "um jemanden zu besuchen",
-          "durch regelmäßige Besuche"
-        ],
-        [
-          "Nun ging ich hindurch, um aufzuräumen.",
-          "um der Großmutter beim Aufräumen zu helfen"
-        ]
-      ],
+      "pairs": [["Dreißig Jahre lang", "seit Jahrzehnten"], ["um jemanden zu besuchen", "durch regelmäßige Besuche"], ["Nun ging ich hindurch, um aufzuräumen.", "um der Großmutter beim Aufräumen zu helfen"]],
       "explain": "30년 동안 누군가를 만나러 이 문을 지나다녔다는 문장을 '수십 년 전부터 정기적인 방문으로 집을 안다'로 바꿔 말했어요. 열쇠 다루는 법을 어릴 때 배웠다는 것은 어릴 때부터 드나들었다는 뜻이지, 거기 살았다는 뜻은 아니에요. 예전에는 사람을 만나러 왔고 이제는 정리하러 왔다고 대비하므로(Nun ging ich hindurch, um aufzuräumen), 정리를 도우러 왔다는 선택지도 틀려요."
     },
     {
@@ -78,84 +55,37 @@
       "q": "Die Mutter der Erzählerin wäre gern mitgekommen, hatte an diesem Tag aber keine Zeit.",
       "answer": 1,
       "evidence": "Sie selbst wollte nicht kommen.",
-      "pairs": [
-        [
-          "wollte nicht kommen",
-          "wäre gern mitgekommen"
-        ],
-        [
-          "Sie könne das nicht",
-          "keine Zeit"
-        ]
-      ],
+      "pairs": [["wollte nicht kommen", "wäre gern mitgekommen"], ["Sie könne das nicht", "keine Zeit"]],
       "explain": "본문은 어머니가 '오고 싶어 하지 않았다(wollte nicht kommen)'고 분명히 말해요. 전화로 한 말 '그걸 못 하겠다(Sie könne das nicht)'도 시간이 없다는 뜻이 아니라 감정적으로 감당할 수 없다는 뜻이에요. 이 문장은 본문의 kommen을 mitkommen으로 가져다 쓰면서 어머니의 마음을 정반대로 바꿔 놓았어요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Warum kommt die Erzählerin im Wohnzimmer nur langsam voran?",
-      "options": [
-        "weil die Liste der Mutter für dieses Zimmer keine Hinweise enthält",
-        "weil sie immer wieder an unbedeutenden Gegenständen hängen bleibt",
-        "weil dort besonders viele Bücher für die Bücherei einzupacken sind",
-        "weil sie dort schon gezielt nach dem Koffer auf dem Schrank sucht"
-      ],
+      "options": ["weil die Liste der Mutter für dieses Zimmer keine Hinweise enthält", "weil sie immer wieder an unbedeutenden Gegenständen hängen bleibt", "weil dort besonders viele Bücher für die Bücherei einzupacken sind", "weil sie dort schon gezielt nach dem Koffer auf dem Schrank sucht"],
       "answer": 1,
       "evidence": "weil ich jede zweite Schublade aufzog und dann minutenlang irgendeinen Knopf in der Hand hielt",
-      "pairs": [
-        [
-          "minutenlang irgendeinen Knopf in der Hand hielt",
-          "an unbedeutenden Gegenständen hängen bleibt"
-        ],
-        [
-          "jede zweite Schublade",
-          "immer wieder"
-        ]
-      ],
+      "pairs": [["minutenlang irgendeinen Knopf in der Hand hielt", "an unbedeutenden Gegenständen hängen bleibt"], ["jede zweite Schublade", "immer wieder"]],
       "explain": "서랍을 열고 '웬 단추 하나를 몇 분씩 손에 쥐고 있었다'는 것은 사소한 물건에 자꾸 마음이 머물렀다는 뜻이에요. irgendein Knopf를 unbedeutende Gegenstände로 일반화했어요. 가방은 침실에서 나중에 발견돼요."
     },
     {
       "type": "mc",
       "kind": "meaning",
       "q": "Was bedeutet „Das Schlafzimmer hob ich mir für den Schluss auf.“?",
-      "options": [
-        "Sie räumte das Schlafzimmer als letzten Raum der Wohnung aus.",
-        "Sie räumte im Schlafzimmer zuletzt alles wieder an seinen Platz.",
-        "Sie ließ das Schlafzimmer unberührt und schloss die Tür ab.",
-        "Sie hob im Schlafzimmer alles auf, was auf dem Boden herumlag."
-      ],
+      "options": ["Sie räumte das Schlafzimmer als letzten Raum der Wohnung aus.", "Sie räumte im Schlafzimmer zuletzt alles wieder an seinen Platz.", "Sie ließ das Schlafzimmer unberührt und schloss die Tür ab.", "Sie hob im Schlafzimmer alles auf, was auf dem Boden herumlag."],
       "answer": 0,
       "evidence": "Das Schlafzimmer hob ich mir für den Schluss auf.",
-      "pairs": [
-        [
-          "hob ich mir für den Schluss auf",
-          "als letzten Raum"
-        ]
-      ],
+      "pairs": [["hob ich mir für den Schluss auf", "als letzten Raum"]],
       "explain": "sich etwas aufheben은 '~을 나중을 위해 남겨 두다'라는 뜻이에요. 그러니 침실은 맨 마지막에 치웠다는 말이에요. aufheben의 다른 뜻인 '줍다, 들어 올리다'로 읽으면 함정에 빠져요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Woran erkennt die Erzählerin sofort, dass die Briefe nicht von ihrem Großvater stammen?",
-      "options": [
-        "an dem Absender in Lissabon auf den Umschlägen",
-        "an dem Namen, mit dem die Briefe signiert sind",
-        "an der Art, wie die Buchstaben gestaltet sind",
-        "an dem Datum auf dem ältesten Brief im Koffer"
-      ],
+      "options": ["an dem Absender in Lissabon auf den Umschlägen", "an dem Namen, mit dem die Briefe signiert sind", "an der Art, wie die Buchstaben gestaltet sind", "an dem Datum auf dem ältesten Brief im Koffer"],
       "answer": 2,
       "evidence": "Mein Großvater hatte eine steile, ungeduldige Schrift gehabt; diese hier war rund und sorgfältig, als hätte jemand Zeit gehabt.",
-      "pairs": [
-        [
-          "Die Handschrift kannte ich nicht.",
-          "an der Art, wie die Buchstaben gestaltet sind"
-        ],
-        [
-          "Mein Großvater hatte eine steile, ungeduldige Schrift gehabt",
-          "nicht von ihrem Großvater stammen"
-        ]
-      ],
+      "pairs": [["Die Handschrift kannte ich nicht.", "an der Art, wie die Buchstaben gestaltet sind"], ["Mein Großvater hatte eine steile, ungeduldige Schrift gehabt", "nicht von ihrem Großvater stammen"]],
       "explain": "가방을 열어 편지 묶음을 보자마자 모르는 필체(Handschrift)라는 것을 알아채고, 할아버지의 가파르고 성급한 글씨와 비교해요. Handschrift를 '글자가 만들어진 모양'으로 풀어 썼어요. 리스본과 서명 T는 첫 편지를 읽은 뒤에야 나와요."
     },
     {
@@ -164,112 +94,47 @@
       "q": "Teodor redete die Großmutter mit einem Namen an, den sonst niemand für sie verwendete.",
       "answer": 0,
       "evidence": "„Liebe Hanna“, stand da, und schon das war falsch, denn niemand hatte meine Großmutter je Hanna genannt.",
-      "pairs": [
-        [
-          "„Liebe Hanna“, stand da",
-          "redete die Großmutter mit einem Namen an"
-        ],
-        [
-          "niemand hatte meine Großmutter je Hanna genannt",
-          "den sonst niemand für sie verwendete"
-        ]
-      ],
+      "pairs": [["„Liebe Hanna“, stand da", "redete die Großmutter mit einem Namen an"], ["niemand hatte meine Großmutter je Hanna genannt", "den sonst niemand für sie verwendete"]],
       "explain": "편지는 '사랑하는 한나에게(Liebe Hanna)'로 시작하는데, 서술자는 아무도 할머니를 한나라고 부른 적이 없고 모두에게 할머니는 요한나였다고 해요. 즉 테오도르는 다른 누구도 쓰지 않던 이름으로 할머니를 불렀어요. schon das war falsch(이미 그것부터 맞지 않았다)는 편지가 잘못 왔다는 뜻이 아니라, 서술자가 알던 할머니의 이름과 다르다는 뜻이에요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was will die Erzählerin mit dem Satz „Die Briefe hörten 1974 auf, nicht abrupt, sondern wie etwas, das leiser wird.“ sagen?",
-      "options": [
-        "Die Briefe wurden im Lauf der Jahre immer kürzer und kaum noch zu lesen.",
-        "Der Briefwechsel endete nicht plötzlich, sondern klang allmählich aus.",
-        "Ab 1974 schrieb Teodor seltener, weil er die Hoffnung verloren hatte.",
-        "Die Großmutter antwortete ab 1974 nur noch in größeren Zeitabständen."
-      ],
+      "options": ["Die Briefe wurden im Lauf der Jahre immer kürzer und kaum noch zu lesen.", "Der Briefwechsel endete nicht plötzlich, sondern klang allmählich aus.", "Ab 1974 schrieb Teodor seltener, weil er die Hoffnung verloren hatte.", "Die Großmutter antwortete ab 1974 nur noch in größeren Zeitabständen."],
       "answer": 1,
       "evidence": "Die Briefe hörten 1974 auf, nicht abrupt, sondern wie etwas, das leiser wird.",
-      "pairs": [
-        [
-          "nicht abrupt",
-          "nicht plötzlich"
-        ],
-        [
-          "wie etwas, das leiser wird",
-          "klang allmählich aus"
-        ]
-      ],
+      "pairs": [["nicht abrupt", "nicht plötzlich"], ["wie etwas, das leiser wird", "klang allmählich aus"]],
       "explain": "'갑자기가 아니라 무언가가 점점 잦아들듯이' 끝났다는 것은 편지가 한순간에 끊긴 것이 아니라 서서히 사그라졌다는 비유예요. 편지는 1974년에 끝났으므로 '1974년부터 드물어졌다'는 말은 맞지 않고, 테오도르가 희망을 잃었다거나 할머니가 답장을 드문드문 했다는 이야기는 본문에 없어요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Welche Vermutung stellt die Erzählerin über den Aufbewahrungsort des Koffers an?",
-      "options": [
-        "Die Großmutter habe den Koffer so gründlich versteckt, dass ihn niemand mehr finden sollte.",
-        "Die Großmutter habe den Koffer im Lauf der Jahre vergessen, weil er so weit oben stand.",
-        "Die Großmutter habe den Koffer womöglich bewusst so aufbewahrt, dass jemand ihn finden konnte.",
-        "Der Großvater habe den Koffer einst selbst dort oben abgestellt, ohne jemals hineinzusehen."
-      ],
+      "options": ["Die Großmutter habe den Koffer so gründlich versteckt, dass ihn niemand mehr finden sollte.", "Die Großmutter habe den Koffer im Lauf der Jahre vergessen, weil er so weit oben stand.", "Die Großmutter habe den Koffer womöglich bewusst so aufbewahrt, dass jemand ihn finden konnte.", "Der Großvater habe den Koffer einst selbst dort oben abgestellt, ohne jemals hineinzusehen."],
       "answer": 2,
       "evidence": "Vielleicht hatte sie gewollt, dass irgendwann jemand die Leiter holte.",
-      "pairs": [
-        [
-          "dass irgendwann jemand die Leiter holte",
-          "dass jemand ihn finden konnte"
-        ],
-        [
-          "Vielleicht hatte sie gewollt",
-          "womöglich bewusst"
-        ]
-      ],
+      "pairs": [["dass irgendwann jemand die Leiter holte", "dass jemand ihn finden konnte"], ["Vielleicht hatte sie gewollt", "womöglich bewusst"]],
       "explain": "서술자는 할머니가 언젠가 누군가 사다리를 가져오기를 바랐을지도 모른다고 추측해요. 사다리를 가져온다는 것은 곧 가방을 발견한다는 뜻이에요. '제대로 숨기지는 않았다'고 했으니 철저히 숨겼다는 선택지는 반대이고, 할아버지가 가방을 올려 두었다는 이야기는 없어요."
     },
     {
       "type": "mc",
       "kind": "meaning",
       "q": "Was bedeutet „Jetzt bekamen sie ein Gewicht, das mir nicht gefiel.“?",
-      "options": [
-        "Die alten Gegenstände waren der Erzählerin inzwischen zu schwer, um sie allein zu tragen.",
-        "Die Erzählerin ärgerte sich, dass sie die Kleinigkeiten früher nicht ernst genommen hatte.",
-        "Die Erinnerungen waren so unangenehm, dass die Erzählerin sie sofort wieder verdrängte.",
-        "Die unscheinbaren Dinge erschienen der Erzählerin plötzlich bedeutsam und beunruhigend."
-      ],
+      "options": ["Die alten Gegenstände waren der Erzählerin inzwischen zu schwer, um sie allein zu tragen.", "Die Erzählerin ärgerte sich, dass sie die Kleinigkeiten früher nicht ernst genommen hatte.", "Die Erinnerungen waren so unangenehm, dass die Erzählerin sie sofort wieder verdrängte.", "Die unscheinbaren Dinge erschienen der Erzählerin plötzlich bedeutsam und beunruhigend."],
       "answer": 3,
       "evidence": "Jetzt bekamen sie ein Gewicht, das mir nicht gefiel.",
-      "pairs": [
-        [
-          "bekamen sie ein Gewicht",
-          "erschienen der Erzählerin plötzlich bedeutsam"
-        ],
-        [
-          "das mir nicht gefiel",
-          "und beunruhigend"
-        ]
-      ],
+      "pairs": [["bekamen sie ein Gewicht", "erschienen der Erzählerin plötzlich bedeutsam"], ["das mir nicht gefiel", "und beunruhigend"]],
       "explain": "Gewicht는 여기서 물리적인 무게가 아니라 '의미, 중요성'이에요. 예전에는 아무 뜻도 없던(nichts bedeutet hatten) 사소한 일들이 편지를 읽은 뒤 갑자기 의미를 갖게 되었고, 그 의미가 서술자에게 불편하다는 말이에요. 바로 뒤의 '할머니는 행복했잖아요, 그렇죠?'가 그 불편함을 보여 줘요."
     },
     {
       "type": "mc",
       "kind": "intent",
       "q": "Wie ist die Entscheidung der Erzählerin am Schluss zu verstehen?",
-      "options": [
-        "Sie übergibt den Koffer ihrer Mutter, damit diese selbst über den Inhalt entscheidet.",
-        "Sie behält den Koffer und verschweigt der Mutter den Fund, ohne sich sicher zu sein.",
-        "Sie entsorgt alle Briefe, um das Andenken an den Großvater nicht zu beschädigen.",
-        "Sie bringt den Koffer zurück auf den Schrank, wo die Großmutter ihn aufbewahrt hat."
-      ],
+      "options": ["Sie übergibt den Koffer ihrer Mutter, damit diese selbst über den Inhalt entscheidet.", "Sie behält den Koffer und verschweigt der Mutter den Fund, ohne sich sicher zu sein.", "Sie entsorgt alle Briefe, um das Andenken an den Großvater nicht zu beschädigen.", "Sie bringt den Koffer zurück auf den Schrank, wo die Großmutter ihn aufbewahrt hat."],
       "answer": 1,
       "evidence": "Die Liste meiner Mutter hatte für ihn keine Spalte, und ich beschloss, ihm auch keine zu geben. Ob das richtig war, weiß ich bis heute nicht.",
-      "pairs": [
-        [
-          "ich beschloss, ihm auch keine zu geben",
-          "verschweigt der Mutter den Fund"
-        ],
-        [
-          "Ob das richtig war, weiß ich bis heute nicht.",
-          "ohne sich sicher zu sein"
-        ]
-      ],
+      "pairs": [["ich beschloss, ihm auch keine zu geben", "verschweigt der Mutter den Fund"], ["Ob das richtig war, weiß ich bis heute nicht.", "ohne sich sicher zu sein"]],
       "explain": "'목록에 칸을 만들어 주지 않기로 했다'는 것은 어머니에게 가방의 존재를 알리지 않기로 했다는 뜻이고, 가방을 차로 날랐으니 본인이 가져간 거예요. 마지막에 '옳았는지 지금도 모른다'고 하므로 확신 없는 결정이에요. 버리지 않았다고 분명히 말해요."
     }
   ],
@@ -283,79 +148,19 @@
         {
           "de": "Im Flur angekommen, blieb ich stehen und atmete ein: Bohnerwachs, Lavendel, und darunter, kaum noch wahrnehmbar, der Geruch ihrer Hustenbonbons.",
           "ko": "현관에 들어서서 저는 걸음을 멈추고 숨을 들이마셨어요. 마루 왁스 냄새, 라벤더 향, 그리고 그 아래로 이제 거의 느껴지지 않을 만큼 희미한 할머니의 기침 사탕 냄새.",
-          "mark": [
-            "Im Flur angekommen"
-          ],
-          "parts": [
-            [
-              "Im Flur angekommen,",
-              "종속절"
-            ],
-            [
-              "blieb",
-              "동사"
-            ],
-            [
-              "ich",
-              "주어"
-            ],
-            [
-              "stehen",
-              "동사(끝)"
-            ],
-            [
-              "und",
-              "접속사"
-            ],
-            [
-              "atmete",
-              "동사"
-            ],
-            [
-              "ein:",
-              "동사(끝)"
-            ],
-            [
-              "Bohnerwachs, Lavendel, und darunter, kaum noch wahrnehmbar, der Geruch ihrer Hustenbonbons.",
-              "기타"
-            ]
-          ]
+          "mark": ["Im Flur angekommen"],
+          "parts": [["Im Flur angekommen,", "종속절"], ["blieb", "동사"], ["ich", "주어"], ["stehen", "동사(끝)"], ["und", "접속사"], ["atmete", "동사"], ["ein:", "동사(끝)"], ["Bohnerwachs, Lavendel, und darunter, kaum noch wahrnehmbar, der Geruch ihrer Hustenbonbons.", "기타"]]
         },
         {
           "de": "Den ersten Brief in der Hand, setzte ich mich auf die Bettkante.",
           "ko": "첫 번째 편지를 손에 든 채 저는 침대 가장자리에 앉았어요.",
-          "mark": [
-            "Den ersten Brief in der Hand"
-          ],
-          "parts": [
-            [
-              "Den ersten Brief in der Hand,",
-              "종속절"
-            ],
-            [
-              "setzte",
-              "동사"
-            ],
-            [
-              "ich",
-              "주어"
-            ],
-            [
-              "mich",
-              "재귀대명사"
-            ],
-            [
-              "auf die Bettkante.",
-              "부사어(장소)"
-            ]
-          ]
+          "mark": ["Den ersten Brief in der Hand"],
+          "parts": [["Den ersten Brief in der Hand,", "종속절"], ["setzte", "동사"], ["ich", "주어"], ["mich", "재귀대명사"], ["auf die Bettkante.", "부사어(장소)"]]
         },
         {
           "de": "Die Bündel in derselben Reihenfolge zurückgepackt, schloss ich gegen Abend den Koffer.",
           "ko": "편지 묶음을 같은 순서로 도로 넣은 다음, 저는 저녁 무렵 가방을 닫았어요.",
-          "mark": [
-            "Die Bündel in derselben Reihenfolge zurückgepackt"
-          ]
+          "mark": ["Die Bündel in derselben Reihenfolge zurückgepackt"]
         }
       ],
       "tip": "분사구문 뒤에는 바로 동사가 와요(Im Flur angekommen, blieb ich …). 분사구문이 1번 자리를 차지한 것으로 보기 때문이에요. 주어가 다르면 쓸 수 없어요. '*Im Flur angekommen, klingelte das Telefon'은 틀린 문장이에요."
@@ -369,41 +174,18 @@
         {
           "de": "Der Schlüssel klemmte, wie er immer geklemmt hatte.",
           "ko": "열쇠는 늘 그랬듯이 뻑뻑하게 걸렸어요.",
-          "mark": [
-            "klemmte",
-            "geklemmt hatte"
-          ],
-          "parts": [
-            [
-              "Der Schlüssel",
-              "주어"
-            ],
-            [
-              "klemmte,",
-              "동사"
-            ],
-            [
-              "wie er immer geklemmt hatte.",
-              "종속절"
-            ]
-          ]
+          "mark": ["klemmte", "geklemmt hatte"],
+          "parts": [["Der Schlüssel", "주어"], ["klemmte,", "동사"], ["wie er immer geklemmt hatte.", "종속절"]]
         },
         {
           "de": "Mein Großvater hatte eine steile, ungeduldige Schrift gehabt; diese hier war rund und sorgfältig, als hätte jemand Zeit gehabt.",
           "ko": "할아버지는 가파르고 성급한 글씨를 썼는데, 이 글씨는 둥글고 정성스러웠어요. 마치 쓰는 사람에게 시간이 있었던 것처럼요.",
-          "mark": [
-            "hatte",
-            "gehabt",
-            "war"
-          ]
+          "mark": ["hatte", "gehabt", "war"]
         },
         {
           "de": "Und plötzlich fielen mir Dinge ein, die ich nie verstanden hatte.",
           "ko": "그러자 갑자기 제가 한 번도 이해하지 못했던 일들이 떠올랐어요.",
-          "mark": [
-            "fielen",
-            "verstanden hatte"
-          ]
+          "mark": ["fielen", "verstanden hatte"]
         }
       ],
       "tip": "'Meine Mutter hatte mir Kartons dagelassen'처럼 장면이 시작되기 전에 이미 끝난 일은 과거완료예요. 과거완료를 쓰지 않으면 어머니가 그 자리에서 상자를 두고 간 것처럼 읽혀요."
@@ -417,50 +199,18 @@
         {
           "de": "Hatte ich ihn je gesehen? Vielleicht als Kind, von unten, als dunklen Umriss unter der Zimmerdecke.",
           "ko": "제가 이걸 본 적이 있던가요? 어쩌면 어릴 때, 아래에서, 천장 가까이의 어두운 윤곽으로 보았을지도요.",
-          "mark": [
-            "Hatte ich ihn je gesehen?"
-          ],
-          "parts": [
-            [
-              "Hatte",
-              "동사"
-            ],
-            [
-              "ich",
-              "주어"
-            ],
-            [
-              "ihn",
-              "4격 목적어"
-            ],
-            [
-              "je",
-              "부사어(시간)"
-            ],
-            [
-              "gesehen?",
-              "동사(끝)"
-            ],
-            [
-              "Vielleicht als Kind, von unten, als dunklen Umriss unter der Zimmerdecke.",
-              "기타"
-            ]
-          ]
+          "mark": ["Hatte ich ihn je gesehen?"],
+          "parts": [["Hatte", "동사"], ["ich", "주어"], ["ihn", "4격 목적어"], ["je", "부사어(시간)"], ["gesehen?", "동사(끝)"], ["Vielleicht als Kind, von unten, als dunklen Umriss unter der Zimmerdecke.", "기타"]]
         },
         {
           "de": "Warum hatte sie ihn nicht weggeworfen? Warum hatte sie ihn nicht wenigstens versteckt, richtig versteckt?",
           "ko": "왜 버리지 않았을까요? 왜 최소한 숨기지라도 않았을까요, 그것도 제대로 숨기지 않았을까요?",
-          "mark": [
-            "Warum hatte sie ihn nicht weggeworfen?"
-          ]
+          "mark": ["Warum hatte sie ihn nicht weggeworfen?"]
         },
         {
           "de": "Sie war doch glücklich gewesen, oder? War sie das nicht?",
           "ko": "할머니는 그래도 행복했잖아요, 그렇죠? 그렇지 않았나요?",
-          "mark": [
-            "doch",
-            "oder?"
-          ]
+          "mark": ["doch", "oder?"]
         }
       ],
       "tip": "간접화법(Sie könne das nicht, hatte sie gesagt)은 접속법 1식을 쓰고 누가 말했는지 밝혀요. 체험 화법은 직설법 과거형을 쓰고 '~라고 생각했다'는 말을 생략해요. 둘을 구별하세요."
@@ -474,132 +224,44 @@
         {
           "de": "Briefe. Ein ganzer Koffer voller Briefe, gebündelt mit Garn, die Bündel nach Jahren geordnet, das älteste von 1961.",
           "ko": "편지였어요. 가방 가득 편지가 실로 묶여 있었고, 묶음은 연도별로 정리되어 있었어요. 가장 오래된 것은 1961년 것이었어요.",
-          "mark": [
-            "Briefe.",
-            "Ein ganzer Koffer voller Briefe"
-          ]
+          "mark": ["Briefe.", "Ein ganzer Koffer voller Briefe"]
         },
         {
           "de": "Ich dachte an meine Mutter, die nicht hatte kommen können. Die seit drei Wochen nachts nicht schlief und tagsüber so tat, als ginge es.",
           "ko": "저는 올 수 없었던 어머니를 생각했어요. 3주째 밤에 잠을 못 자면서 낮에는 괜찮은 척하는 어머니를요.",
-          "mark": [
-            "Die seit drei Wochen nachts nicht schlief"
-          ]
+          "mark": ["Die seit drei Wochen nachts nicht schlief"]
         },
         {
           "de": "Nun ging ich hindurch, um aufzuräumen.",
           "ko": "이제는 정리를 하러 이 문을 지나고 있었어요.",
-          "mark": [
-            "Nun ging ich"
-          ],
-          "parts": [
-            [
-              "Nun",
-              "부사어(시간)"
-            ],
-            [
-              "ging",
-              "동사"
-            ],
-            [
-              "ich",
-              "주어"
-            ],
-            [
-              "hindurch,",
-              "동사(끝)"
-            ],
-            [
-              "um aufzuräumen.",
-              "zu 부정사구"
-            ]
-          ]
+          "mark": ["Nun ging ich"],
+          "parts": [["Nun", "부사어(시간)"], ["ging", "동사"], ["ich", "주어"], ["hindurch,", "동사(끝)"], ["um aufzuräumen.", "zu 부정사구"]]
         }
       ],
       "tip": "'die nicht hatte kommen können'은 화법조동사의 과거완료예요. 종속절에서는 hatte가 두 동사원형(kommen können) 앞에 와요. 이것을 Ersatzinfinitiv 어순이라고 해요."
     }
   ],
   "vocab": [
-    {
-      "de": "klemmen",
-      "ko": "(문·열쇠 등이) 뻑뻑하게 걸리다, 끼이다"
-    },
-    {
-      "de": "der Handgriff, -e",
-      "ko": "손놀림, 손동작"
-    },
-    {
-      "de": "aus|räumen + Akk.",
-      "ko": "(집·방을) 비우다, 치우다"
-    },
-    {
-      "de": "wahrnehmbar",
-      "ko": "감지할 수 있는, 느껴지는"
-    },
-    {
-      "de": "da|lassen (lässt da, ließ da, hat dagelassen)",
-      "ko": "남겨 두고 가다"
-    },
-    {
-      "de": "nach|fragen",
-      "ko": "더 묻다, 캐묻다"
-    },
-    {
-      "de": "die Schublade, -n",
-      "ko": "서랍"
-    },
-    {
-      "de": "sich etwas auf|heben (hebt auf, hob auf, hat aufgehoben)",
-      "ko": "~을 (나중을 위해) 남겨 두다"
-    },
-    {
-      "de": "die Trittleiter, -n",
-      "ko": "접이식 사다리, 발판 사다리"
-    },
-    {
-      "de": "der Umriss, -e",
-      "ko": "윤곽"
-    },
-    {
-      "de": "auf|klappen + Akk.",
-      "ko": "(뚜껑을) 열어젖히다"
-    },
-    {
-      "de": "bündeln + Akk.",
-      "ko": "묶다, 다발로 만들다"
-    },
-    {
-      "de": "sorgfältig",
-      "ko": "정성스러운, 꼼꼼한"
-    },
-    {
-      "de": "die Bettkante, -n",
-      "ko": "침대 가장자리"
-    },
-    {
-      "de": "abrupt",
-      "ko": "갑작스러운, 돌연한"
-    },
-    {
-      "de": "auf|bewahren + Akk.",
-      "ko": "보관하다, 간직하다"
-    },
-    {
-      "de": "verbergen (verbirgt, verbarg, hat verborgen)",
-      "ko": "감추다, 숨기다"
-    },
-    {
-      "de": "an|stoßen (stößt an, stieß an, hat angestoßen)",
-      "ko": "(팔꿈치 등으로) 툭 치다"
-    },
-    {
-      "de": "verehren + Akk.",
-      "ko": "존경하다, 숭배하다"
-    },
-    {
-      "de": "die Spalte, -n",
-      "ko": "(표의) 칸, 열"
-    }
+    { "de": "klemmen", "ko": "(문·열쇠 등이) 뻑뻑하게 걸리다, 끼이다" },
+    { "de": "der Handgriff, -e", "ko": "손놀림, 손동작" },
+    { "de": "aus|räumen + Akk.", "ko": "(집·방을) 비우다, 치우다" },
+    { "de": "wahrnehmbar", "ko": "감지할 수 있는, 느껴지는" },
+    { "de": "da|lassen (lässt da, ließ da, hat dagelassen)", "ko": "남겨 두고 가다" },
+    { "de": "nach|fragen", "ko": "더 묻다, 캐묻다" },
+    { "de": "die Schublade, -n", "ko": "서랍" },
+    { "de": "sich etwas auf|heben (hebt auf, hob auf, hat aufgehoben)", "ko": "~을 (나중을 위해) 남겨 두다" },
+    { "de": "die Trittleiter, -n", "ko": "접이식 사다리, 발판 사다리" },
+    { "de": "der Umriss, -e", "ko": "윤곽" },
+    { "de": "auf|klappen + Akk.", "ko": "(뚜껑을) 열어젖히다" },
+    { "de": "bündeln + Akk.", "ko": "묶다, 다발로 만들다" },
+    { "de": "sorgfältig", "ko": "정성스러운, 꼼꼼한" },
+    { "de": "die Bettkante, -n", "ko": "침대 가장자리" },
+    { "de": "abrupt", "ko": "갑작스러운, 돌연한" },
+    { "de": "auf|bewahren + Akk.", "ko": "보관하다, 간직하다" },
+    { "de": "verbergen (verbirgt, verbarg, hat verborgen)", "ko": "감추다, 숨기다" },
+    { "de": "an|stoßen (stößt an, stieß an, hat angestoßen)", "ko": "(팔꿈치 등으로) 툭 치다" },
+    { "de": "verehren + Akk.", "ko": "존경하다, 숭배하다" },
+    { "de": "die Spalte, -n", "ko": "(표의) 칸, 열" }
   ],
   "phrases": [
     {

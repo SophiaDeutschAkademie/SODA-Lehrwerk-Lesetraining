@@ -44,11 +44,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was erfährt man über die Vorbereitung der Fahrt?",
-      "options": [
-        "Carl Benz wusste vorher nicht, was seine Frau vorhatte.",
-        "Carl Benz begleitete seine Frau und die Söhne nach Pforzheim.",
-        "Bertha Benz plante die Strecke gemeinsam mit ihrem Mann."
-      ],
+      "options": ["Carl Benz wusste vorher nicht, was seine Frau vorhatte.", "Carl Benz begleitete seine Frau und die Söhne nach Pforzheim.", "Bertha Benz plante die Strecke gemeinsam mit ihrem Mann."],
       "answer": 0,
       "evidence": "Bevor sie losfuhr, erzählte sie ihrem Mann nichts von dem Plan.",
       "pairs": [["erzählte sie ihrem Mann nichts von dem Plan", "wusste vorher nicht, was seine Frau vorhatte"]],
@@ -58,11 +54,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Warum ging Bertha Benz in Wiesloch in eine Apotheke?",
-      "options": [
-        "weil die Bremsen dringend repariert werden mussten",
-        "weil sie ein Medikament für ihre Söhne brauchte",
-        "weil ihr unterwegs der Treibstoff ausgegangen war"
-      ],
+      "options": ["weil die Bremsen dringend repariert werden mussten", "weil sie ein Medikament für ihre Söhne brauchte", "weil ihr unterwegs der Treibstoff ausgegangen war"],
       "answer": 2,
       "evidence": "Als der Kraftstoff zu Ende ging",
       "pairs": [["der Kraftstoff zu Ende ging", "der Treibstoff ausgegangen war"]],
@@ -72,11 +64,7 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Die Apotheke wird deshalb heute oft als erste Tankstelle der Welt bezeichnet“?",
-      "options": [
-        "Die Apotheke wurde nach der Fahrt zu einer Tankstelle umgebaut.",
-        "Weil Bertha Benz dort Kraftstoff kaufte, nennt man die Apotheke so.",
-        "In Wiesloch steht heute noch die älteste Tankstelle Deutschlands."
-      ],
+      "options": ["Die Apotheke wurde nach der Fahrt zu einer Tankstelle umgebaut.", "Weil Bertha Benz dort Kraftstoff kaufte, nennt man die Apotheke so.", "In Wiesloch steht heute noch die älteste Tankstelle Deutschlands."],
       "answer": 1,
       "evidence": "ein Reinigungsmittel, das damals als Treibstoff diente",
       "pairs": [["als erste Tankstelle der Welt bezeichnet", "nennt man die Apotheke so"], ["Ligroin, ein Reinigungsmittel, das damals als Treibstoff diente", "Kraftstoff kaufte"]],
@@ -95,11 +83,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wie kam der Wagen die Berge hinauf?",
-      "options": [
-        "Bertha Benz schaltete in einen zusätzlichen Gang für Steigungen.",
-        "Die Mutter lenkte, und der Motor zog den Wagen langsam hinauf.",
-        "Die beiden Jungen mussten mit Muskelkraft am Wagen nachhelfen."
-      ],
+      "options": ["Bertha Benz schaltete in einen zusätzlichen Gang für Steigungen.", "Die Mutter lenkte, und der Motor zog den Wagen langsam hinauf.", "Die beiden Jungen mussten mit Muskelkraft am Wagen nachhelfen."],
       "answer": 2,
       "evidence": "Dann mussten die Söhne schieben, während ihre Mutter lenkte.",
       "pairs": [["die Söhne", "Die beiden Jungen"], ["schieben", "mit Muskelkraft am Wagen nachhelfen"]],
@@ -118,11 +102,7 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was ist mit dem Satz „Man konnte damit wirklich reisen“ gemeint?",
-      "options": [
-        "Das Auto war nicht bloß zum Vorführen da, sondern ein Verkehrsmittel.",
-        "Mit dem Auto kam man damals schneller ans Ziel als mit der Eisenbahn.",
-        "Die Fahrt von Mannheim nach Pforzheim war trotz aller Pannen bequem."
-      ],
+      "options": ["Das Auto war nicht bloß zum Vorführen da, sondern ein Verkehrsmittel.", "Mit dem Auto kam man damals schneller ans Ziel als mit der Eisenbahn.", "Die Fahrt von Mannheim nach Pforzheim war trotz aller Pannen bequem."],
       "answer": 0,
       "evidence": "Vor allem aber hatte sie bewiesen, dass das Automobil mehr war als ein teures Spielzeug",
       "pairs": [["mehr war als ein teures Spielzeug", "nicht bloß zum Vorführen da"], ["wirklich reisen", "ein Verkehrsmittel"]],

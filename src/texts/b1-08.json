@@ -78,11 +78,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Warum fragt Frau Schuster nach einem Parkplatz?",
-      "options": [
-        "Sie fährt auf jeden Fall mit dem Auto an den Bodensee.",
-        "Sie weiß noch nicht sicher, ob sie mit dem Auto anreist.",
-        "Sie möchte ihre eigenen Räder im Auto transportieren."
-      ],
+      "options": ["Sie fährt auf jeden Fall mit dem Auto an den Bodensee.", "Sie weiß noch nicht sicher, ob sie mit dem Auto anreist.", "Sie möchte ihre eigenen Räder im Auto transportieren."],
       "answer": 1,
       "evidence": "Falls wir mit dem Auto kommen, bräuchten wir auch einen Parkplatz.",
       "pairs": [["Falls wir mit dem Auto kommen", "weiß noch nicht sicher, ob sie mit dem Auto anreist"], ["bräuchten wir auch einen Parkplatz", "nach einem Parkplatz"]],
@@ -92,11 +88,7 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Ich werde Ihnen die Wohnung bis Freitag reservieren.“?",
-      "options": [
-        "Frau Mertens hält die Wohnung noch einige Tage lang für die Familie frei.",
-        "Die Familie kann die Wohnung nur bis Freitag benutzen und muss dann gehen.",
-        "Frau Mertens hat die Wohnung schon verbindlich an die Familie vermietet."
-      ],
+      "options": ["Frau Mertens hält die Wohnung noch einige Tage lang für die Familie frei.", "Die Familie kann die Wohnung nur bis Freitag benutzen und muss dann gehen.", "Frau Mertens hat die Wohnung schon verbindlich an die Familie vermietet."],
       "answer": 0,
       "evidence": "Ich werde Ihnen die Wohnung bis Freitag reservieren.",
       "pairs": [["bis Freitag reservieren", "einige Tage lang für die Familie frei"], ["Falls Sie sich für die Wohnung entscheiden", "schon verbindlich an die Familie vermietet"]],
@@ -115,11 +107,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Was erfährt man über die Reinigung der Wohnung?",
-      "options": [
-        "Die Gäste müssen die Wohnung vor ihrer Abreise selbst reinigen.",
-        "Frau Mertens putzt die Wohnung jeden Tag selbst, auch am Wochenende.",
-        "Bevor neue Gäste einziehen, wird die Wohnung von anderen geputzt."
-      ],
+      "options": ["Die Gäste müssen die Wohnung vor ihrer Abreise selbst reinigen.", "Frau Mertens putzt die Wohnung jeden Tag selbst, auch am Wochenende.", "Bevor neue Gäste einziehen, wird die Wohnung von anderen geputzt."],
       "answer": 2,
       "evidence": "Wir lassen die Wohnung vor jeder Ankunft gründlich reinigen, damit sich alle Gäste wohlfühlen.",
       "pairs": [["Wir lassen die Wohnung vor jeder Ankunft gründlich reinigen", "wird die Wohnung von anderen geputzt"], ["vor jeder Ankunft", "Bevor neue Gäste einziehen"]],
@@ -129,11 +117,7 @@
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Die Brötchen können Sie sich weiterhin bringen lassen“?",
-      "options": [
-        "Die Gäste müssen die Brötchen selbst beim Bäcker abholen.",
-        "Die Gäste bekommen die Brötchen nach wie vor geliefert.",
-        "Frau Mertens bringt den Gästen morgens persönlich Brötchen."
-      ],
+      "options": ["Die Gäste müssen die Brötchen selbst beim Bäcker abholen.", "Die Gäste bekommen die Brötchen nach wie vor geliefert.", "Frau Mertens bringt den Gästen morgens persönlich Brötchen."],
       "answer": 1,
       "evidence": "Die Brötchen können Sie sich weiterhin bringen lassen: Hängen Sie einfach am Abend den Bestellzettel an die Tür, dann hängt die Bäckerei die Tüte bis 8 Uhr daran.",
       "pairs": [["weiterhin", "nach wie vor"], ["können Sie sich weiterhin bringen lassen", "bekommen die Brötchen nach wie vor geliefert"]],
@@ -152,11 +136,7 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wie bekommt die Familie die Schlüssel, wenn Frau Mertens am Anreisetag nicht da ist?",
-      "options": [
-        "Die Schlüssel liegen bei einer Person, die nebenan wohnt.",
-        "Frau Mertens schickt die Schlüssel vorher mit der Post.",
-        "Die Bäckerei hängt die Schlüssel in einer Tüte an die Tür."
-      ],
+      "options": ["Die Schlüssel liegen bei einer Person, die nebenan wohnt.", "Frau Mertens schickt die Schlüssel vorher mit der Post.", "Die Bäckerei hängt die Schlüssel in einer Tüte an die Tür."],
       "answer": 0,
       "evidence": "oder ich lasse sie bei meiner Nachbarin, falls ich nicht zu Hause bin.",
       "pairs": [["bei meiner Nachbarin", "bei einer Person, die nebenan wohnt"], ["falls ich nicht zu Hause bin", "wenn Frau Mertens am Anreisetag nicht da ist"]],
