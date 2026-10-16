@@ -96,11 +96,15 @@
       "evidence": "Geh über die Brücke – jetzt bist du schon auf dem Flohmarkt.",
       "pairs": [
         [
-          "Geh über die Brücke – jetzt bist du schon auf dem Flohmarkt",
+          "über die Brücke",
           "vor der Brücke"
+        ],
+        [
+          "jetzt bist du schon auf dem Flohmarkt",
+          "Der Flohmarkt ist"
         ]
       ],
-      "explain": "다리를 건너면 바로 벼룩시장이에요. 그러니까 벼룩시장은 다리 앞이 아니라 다리 건너편에 있어요. 다리까지 가는 길이 먼저 나오기 때문에 헷갈리기 쉬워요."
+      "explain": "다리를 건너면(über die Brücke) 그제야 벼룩시장이에요. 그러니까 벼룩시장은 다리 앞(vor der Brücke)이 아니라 다리 건너편에 있어요. Brücke와 Flohmarkt는 본문에 나오는 단어지만 위치 관계가 반대예요."
     },
     {
       "type": "mc",

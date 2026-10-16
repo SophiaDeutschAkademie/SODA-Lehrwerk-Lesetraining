@@ -22,8 +22,8 @@
       "ko": "12월의 어느 오후, 택배 기사가 우리 집 초인종을 눌렀어요. 린트너 씨 앞으로 온 소포가 있는데 위층에서 아무도 문을 열지 않는다고 했어요. 저는 소포를 대신 받았어요. 저녁에 소포를 들고 계단을 올라가 한참 문을 두드렸어요. 돌아서려던 참에야 문이 열렸어요. 제 앞에는 회색 머리의 자그마한 여자가 서서 놀란 눈으로 저를 바라보았어요. 저는 소포를 내밀며 제가 누구인지 말했어요. 그녀는 반응이 없었어요. 그러더니 자기 귀를 가리켰어요. “말씀하실 때는 저를 보셔야 해요. 저는 거의 들리지 않거든요.”"
     },
     {
-      "de": "Sie bat mich herein. In dem Zimmer, in das sie mich führte, stand ein schwarzes Klavier, auf dem Noten und Fotos lagen. Vierzig Jahre lang war sie Klavierlehrerin gewesen, erzählte sie, und seit einigen Jahren werde ihr Gehör immer schlechter. Die Musik höre sie inzwischen mehr mit den Fingern als mit den Ohren. „Deshalb spiele ich nur noch nachts“, sagte sie. „Da hört mir hoffentlich niemand zu.“ Ich dachte an den Studenten aus dem Erdgeschoss und an Herrn Kowalczyk, der nur den Kopf geschüttelt hatte, und schämte mich.",
-      "ko": "그녀는 저를 안으로 들어오라고 했어요. 그녀가 저를 데리고 간 방에는 검은 피아노가 있었고, 그 위에 악보와 사진이 놓여 있었어요. 자신은 40년 동안 피아노 교사로 일했고, 몇 년 전부터 청력이 점점 나빠지고 있다고 했어요. 이제 음악은 귀보다 손가락으로 듣는다고 했어요. “그래서 이제는 밤에만 쳐요. 그때는 아무도 안 듣기를 바라면서요.” 저는 1층 학생과 고개만 저었던 코발치크 씨를 떠올렸고, 부끄러웠어요."
+      "de": "Sie bat mich herein. In dem Zimmer, in das sie mich führte, stand ein schwarzes Klavier, auf dem Noten und Fotos lagen. Vierzig Jahre lang war sie Klavierlehrerin gewesen, erzählte sie. „Aber seit einigen Jahren wird mein Gehör immer schlechter. Die Musik höre ich inzwischen mehr mit den Fingern als mit den Ohren. Deshalb spiele ich nur noch nachts. Da hört mir hoffentlich niemand zu.“ Ich dachte an den Studenten aus dem Erdgeschoss und an Herrn Kowalczyk, der nur den Kopf geschüttelt hatte, und schämte mich.",
+      "ko": "그녀는 저를 안으로 들어오라고 했어요. 그녀가 저를 데리고 간 방에는 검은 피아노가 있었고, 그 위에 악보와 사진이 놓여 있었어요. 자신은 40년 동안 피아노 교사로 일했다고 했어요. “하지만 몇 년 전부터 청력이 점점 나빠지고 있어요. 이제 음악은 귀보다 손가락으로 들어요. 그래서 이제는 밤에만 쳐요. 그때는 아무도 안 듣기를 바라면서요.” 저는 1층 학생과 고개만 저었던 코발치크 씨를 떠올렸고, 부끄러웠어요."
     },
     {
       "de": "Frau Lindner hatte unsere Grüße nie gehört. Sie hatte nicht gewusst, dass jemand mit ihr sprach, und wir hatten nicht gefragt, warum sie schwieg. Seitdem grüße ich sie anders. Wenn ich ihr im Treppenhaus begegne, hebe ich die Hand und winke, bis sie mich sieht. Sie lächelt dann und winkt zurück. Und nachts lasse ich manchmal das Fenster offen, damit ich sie spielen hören kann.",
@@ -94,15 +94,15 @@
     {
       "type": "mc",
       "kind": "paraphrase",
-      "q": "Was will Frau Lindner mit dem Satz „Die Musik höre sie inzwischen mehr mit den Fingern als mit den Ohren“ sagen?",
+      "q": "Was will Frau Lindner mit dem Satz „Die Musik höre ich inzwischen mehr mit den Fingern als mit den Ohren“ sagen?",
       "options": [
         "Sie erlebt die Musik heute vor allem über das Spielen selbst, weil ihr Gehör nachgelassen hat.",
         "Sie kann die Musik nur noch mit den Fingern auf dem Klavier zählen.",
         "Sie hört Musik lieber über Kopfhörer als über Lautsprecher."
       ],
       "answer": 0,
-      "evidence": "seit einigen Jahren werde ihr Gehör immer schlechter",
-      "pairs": [["mehr mit den Fingern als mit den Ohren", "vor allem über das Spielen selbst"], ["ihr Gehör immer schlechter", "ihr Gehör nachgelassen hat"]],
+      "evidence": "Aber seit einigen Jahren wird mein Gehör immer schlechter.",
+      "pairs": [["mehr mit den Fingern als mit den Ohren", "vor allem über das Spielen selbst"], ["wird mein Gehör immer schlechter", "ihr Gehör nachgelassen hat"]],
       "explain": "청력이 점점 나빠져서 음악을 귀로 듣기보다는 피아노를 치는 손가락의 느낌으로 경험한다는 비유적인 표현이에요. 손가락으로 센다거나 헤드폰 이야기는 본문과 관계가 없어요."
     },
     {
@@ -115,7 +115,7 @@
         "Sie hofft, dass nachts endlich jemand ihre Musik hört."
       ],
       "answer": 1,
-      "evidence": "„Deshalb spiele ich nur noch nachts“, sagte sie.",
+      "evidence": "Deshalb spiele ich nur noch nachts.",
       "pairs": [["hört mir hoffentlich niemand zu", "dass sie dann niemanden stört"]],
       "explain": "그녀는 자기 연주를 아무도 듣지 않기를 바라면서 밤에만 쳐요. 즉 밤에는 아무도 방해받지 않을 거라고 생각하는 거예요. 세 번째 선택지는 hoffen, hören 같은 단어를 그대로 쓰지만 내용이 반대예요."
     },
@@ -221,7 +221,7 @@
           "parts": [["Im Oktober", "부사어(시간)"], ["zog", "동사"], ["ich", "주어"], ["in ein altes Mietshaus in der Nähe der Universität.", "부사어(장소)"]]
         }
       ],
-      "tip": "린트너 씨가 자기 이야기를 하는 부분(erzählte sie, … werde ihr Gehör immer schlechter / Die Musik höre sie …)은 접속법 1식으로 된 간접 화법이에요. B2에서 자세히 배워요."
+      "tip": "직접 화법 안의 말은 시제를 바꾸지 않아요. 이야기는 과거형이지만 린트너 씨의 말(„Aber seit einigen Jahren wird mein Gehör immer schlechter.“)은 현재형 그대로예요. „Vierzig Jahre lang war sie Klavierlehrerin gewesen“은 그녀가 이야기하는 시점보다 더 앞선 일이라 과거완료예요."
     }
   ],
   "vocab": [

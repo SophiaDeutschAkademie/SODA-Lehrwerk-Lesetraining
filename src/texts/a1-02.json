@@ -63,11 +63,11 @@
     {
       "type": "rf",
       "kind": "detail",
-      "q": "Max arbeitet in einem Restaurant in Österreich.",
+      "q": "Lenas Bruder arbeitet in einer Küche in Österreich.",
       "answer": 0,
-      "evidence": "Er ist Koch in Wien und hat nur zwei Tage frei.",
-      "pairs": [["Koch", "arbeitet in einem Restaurant"], ["in Wien", "in Österreich"]],
-      "explain": "막스는 빈(Wien)에서 요리사(Koch)로 일해요. 빈은 오스트리아의 도시이고, 요리사는 식당에서 일하니까 맞는 내용이에요."
+      "evidence": "Er ist Koch in Wien",
+      "pairs": [["Koch", "arbeitet in einer Küche"], ["in Wien", "in Österreich"], ["mein Bruder Max", "Lenas Bruder"]],
+      "explain": "막스는 빈(Wien)에서 요리사(Koch)로 일해요. 요리사는 주방(Küche)에서 일하는 사람이고, 빈은 오스트리아(Österreich)에 있는 도시니까 맞는 내용이에요. 'mein Bruder Max'를 'Lenas Bruder'로 바꿔 말했어요."
     },
     {
       "type": "mc",
