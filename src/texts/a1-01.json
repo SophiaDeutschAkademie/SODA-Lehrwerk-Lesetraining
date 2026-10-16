@@ -49,11 +49,11 @@
       "type": "mc",
       "kind": "detail",
       "q": "Wie lange lernt Jiwoo schon Deutsch?",
-      "options": ["ein halbes Jahr", "zwölf Monate", "zwei Jahre"],
+      "options": ["sechs Monate", "zwölf Monate", "zwei Jahre"],
       "answer": 1,
       "evidence": "Seit einem Jahr lerne ich Deutsch.",
-      "pairs": [["Seit einem Jahr", "zwölf Monate"]],
-      "explain": "본문에 'Seit einem Jahr lerne ich Deutsch.(1년 전부터 독일어를 배워요.)'라고 나와요. 1년은 12개월이에요. 'ein halbes Jahr(반년)'는 쾰른에 산 기간이라서 함정이에요."
+      "pairs": [["Seit einem Jahr", "zwölf Monate"], ["seit sechs Monaten", "sechs Monate"]],
+      "explain": "본문에 'Seit einem Jahr lerne ich Deutsch.(1년 전부터 독일어를 배워요.)'라고 나와요. 1년은 12개월이에요. 'sechs Monate(6개월)'는 본문에 그대로 나오는 말이지만 쾰른에 산 기간이라서 함정이에요."
     },
     {
       "type": "rf",

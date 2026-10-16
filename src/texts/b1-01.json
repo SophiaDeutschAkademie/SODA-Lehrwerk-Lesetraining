@@ -18,8 +18,8 @@
       "ko": "슈퍼마켓 폐점은 많은 사람에게 충격이었습니다. 특히 차가 없는 노인들은 갑자기 장을 볼 때마다 12킬로미터 떨어진 군청 소재지까지 가야 했습니다. “몇 주 안에 우리가 직접 뭔가 해야 한다는 게 분명해졌어요.” 지금 협동조합 회장을 맡고 있는 카린 포겔 씨는 이렇게 회상합니다. 주민 총회에서 이 아이디어가 소개되었고, 첫날 저녁에 벌써 100구좌가 넘는 지분이 팔렸습니다. 지분 한 구좌는 250유로입니다."
     },
     {
-      "de": "Geführt wird der Laden heute von zwei Angestellten und etwa 40 Ehrenamtlichen. Die Angestellten kümmern sich um Kasse, Bestellungen und Buchhaltung; die Freiwilligen helfen beim Einräumen der Regale, kochen Kaffee oder übernehmen am Samstag den Verkauf. Obst, Eier, Käse und Fleisch werden von Höfen aus der Region geliefert, meistens noch am selben Morgen. „Hier weiß man, woher die Kartoffeln kommen“, sagt Erich Sommer (78), der fast jeden Tag vorbeikommt.",
-      "ko": "현재 가게는 직원 두 명과 약 40명의 자원봉사자가 운영하고 있습니다. 직원들은 계산대와 주문, 회계를 맡고, 자원봉사자들은 진열대 정리를 돕거나 커피를 끓이거나 토요일에는 판매를 맡습니다. 과일, 달걀, 치즈, 고기는 이 지역 농장에서 공급하는데, 대부분 당일 아침에 들어옵니다. “여기서는 감자가 어디서 오는지 알 수 있어요.” 거의 매일 들르는 에리히 조머 씨(78)의 말입니다."
+      "de": "Geführt wird der Laden heute von zwei Angestellten und etwa 40 Ehrenamtlichen. Die Angestellten kümmern sich um Kasse, Bestellungen und Buchhaltung; die Freiwilligen helfen beim Einräumen der Regale, kochen Kaffee oder übernehmen am Samstag den Verkauf. Obst, Eier, Käse und Fleisch werden von Höfen aus der Region geliefert, meistens früh am Morgen. „Hier weiß man, woher die Kartoffeln kommen“, sagt Erich Sommer (78), der fast jeden Tag vorbeikommt.",
+      "ko": "현재 가게는 직원 두 명과 약 40명의 자원봉사자가 운영하고 있습니다. 직원들은 계산대와 주문, 회계를 맡고, 자원봉사자들은 진열대 정리를 돕거나 커피를 끓이거나 토요일에는 판매를 맡습니다. 과일, 달걀, 치즈, 고기는 이 지역 농장에서 공급하는데, 대부분 이른 아침에 들어옵니다. “여기서는 감자가 어디서 오는지 알 수 있어요.” 거의 매일 들르는 에리히 조머 씨(78)의 말입니다."
     },
     {
       "de": "Während des Umbaus wurde in einer Ecke des Ladens ein kleines Café eingerichtet. Mit vier Tischen und einer alten Kaffeemaschine ist es inzwischen zum Treffpunkt des Dorfes geworden. Vormittags sitzen hier Rentnerinnen und Rentner beim Kaffee, nachmittags machen Schulkinder ihre Hausaufgaben, und einmal im Monat wird ein Spieleabend organisiert.",
@@ -91,7 +91,7 @@
         "Die Kunden müssen die Kartoffeln selbst von den Höfen holen."
       ],
       "answer": 1,
-      "evidence": "Obst, Eier, Käse und Fleisch werden von Höfen aus der Region geliefert, meistens noch am selben Morgen.",
+      "evidence": "Obst, Eier, Käse und Fleisch werden von Höfen aus der Region geliefert, meistens früh am Morgen.",
       "pairs": [["woher die Kartoffeln kommen", "die Herkunft der Lebensmittel"], ["von Höfen aus der Region geliefert", "kennen die Herkunft"]],
       "explain": "물건이 이 지역 농장에서 바로 오기 때문에 손님들은 식료품이 어디에서 왔는지 알 수 있다는 뜻이에요. 감자는 하나의 예일 뿐이고, 가게에서 직접 재배한다거나 손님이 농장에 가서 가져온다는 말은 없어요."
     },
@@ -141,10 +141,10 @@
       "pattern": "주어 + werden(현재형) + … + 과거분사(문장 끝)",
       "examples": [
         {
-          "de": "Obst, Eier, Käse und Fleisch werden von Höfen aus der Region geliefert, meistens noch am selben Morgen.",
-          "ko": "과일, 달걀, 치즈, 고기는 이 지역 농장에서 공급하는데, 대부분 당일 아침에 들어옵니다.",
+          "de": "Obst, Eier, Käse und Fleisch werden von Höfen aus der Region geliefert, meistens früh am Morgen.",
+          "ko": "과일, 달걀, 치즈, 고기는 이 지역 농장에서 공급하는데, 대부분 이른 아침에 들어옵니다.",
           "mark": ["werden", "von Höfen aus der Region", "geliefert"],
-          "parts": [["Obst, Eier, Käse und Fleisch", "주어"], ["werden", "동사"], ["von Höfen aus der Region", "부사어"], ["geliefert,", "동사(끝)"], ["meistens noch am selben Morgen.", "부사어(시간)"]]
+          "parts": [["Obst, Eier, Käse und Fleisch", "주어"], ["werden", "동사"], ["von Höfen aus der Region", "부사어"], ["geliefert,", "동사(끝)"], ["meistens früh am Morgen.", "부사어(시간)"]]
         },
         {
           "de": "einmal im Monat wird ein Spieleabend organisiert.",

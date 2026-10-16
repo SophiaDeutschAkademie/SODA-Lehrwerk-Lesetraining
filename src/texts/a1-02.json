@@ -63,11 +63,11 @@
     {
       "type": "rf",
       "kind": "detail",
-      "q": "Lenas Bruder hat eine ganze Woche frei.",
-      "answer": 1,
-      "evidence": "Er ist Koch in Wien und hat nur zwei Tage frei.",
-      "pairs": [["nur zwei Tage frei", "eine ganze Woche frei"], ["mein Bruder Max", "Lenas Bruder"]],
-      "explain": "막스는 빈에서 요리사로 일하고 'nur zwei Tage frei(이틀만 쉰다)'라고 해요. 문제는 일주일 내내(eine ganze Woche) 쉰다고 했으니 틀려요. frei라는 단어가 본문에 그대로 나와서 맞는 것처럼 보이는 함정이에요."
+      "q": "Lenas Bruder arbeitet in Österreich.",
+      "answer": 0,
+      "evidence": "Er ist Koch in Wien",
+      "pairs": [["ist Koch", "arbeitet"], ["in Wien", "in Österreich"], ["mein Bruder Max", "Lenas Bruder"]],
+      "explain": "막스는 빈(Wien)에서 요리사(Koch)예요. 요리사라는 직업을 '일한다(arbeitet)'로, 도시 이름 빈을 나라 이름 오스트리아(Österreich)로 바꿔 말했어요. 빈은 오스트리아의 수도니까 맞는 내용이에요."
     },
     {
       "type": "mc",

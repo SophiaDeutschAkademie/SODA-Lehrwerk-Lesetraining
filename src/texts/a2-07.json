@@ -48,12 +48,12 @@
     {
       "type": "mc",
       "kind": "match",
-      "q": "Wer sagt, dass man in seiner Stadt nicht so viel Miete zahlen muss wie anderswo?",
+      "q": "Wer sagt, dass das Wohnen in seiner Stadt nicht so teuer ist wie in den beiden anderen Städten?",
       "options": ["Paul", "Sophie", "Jakob"],
       "answer": 0,
       "evidence": "Von den drei Städten hat Leipzig die günstigsten Mieten",
-      "pairs": [["die günstigsten Mieten", "nicht so viel Miete zahlen muss wie anderswo"]],
-      "explain": "파울은 세 도시 중 라이프치히의 집세가 가장 저렴하다고 해요. 최상급 die günstigsten Mieten을 '다른 곳만큼 집세를 많이 내지 않아도 된다'로 바꿔 말했어요. 야코프는 반대로 함부르크가 가장 비싸다고 해요."
+      "pairs": [["hat Leipzig die günstigsten Mieten", "das Wohnen in seiner Stadt nicht so teuer ist wie in den beiden anderen Städten"]],
+      "explain": "파울은 세 도시 중 라이프치히의 집세가 가장 저렴하다고 해요. 최상급 die günstigsten Mieten을 '다른 두 도시만큼 주거비가 비싸지 않다'로 바꿔 말했어요. teuer라는 단어는 야코프의 글에 나오지만, 야코프는 반대로 함부르크가 가장 비싸다고 해요."
     },
     {
       "type": "rf",
@@ -98,14 +98,14 @@
       "kind": "detail",
       "q": "Was sagt Jakob über das Wohnen in Hamburg?",
       "options": [
-        "Schon ein kleines Zimmer ist oft teurer als 500 Euro.",
+        "Auch für ein kleines Zimmer zahlt man oft mehr als 500 Euro.",
         "Für 500 Euro bekommt man ein großes Zimmer.",
         "Studierende finden hier leicht ein günstiges Zimmer."
       ],
       "answer": 0,
       "evidence": "ein kleines Zimmer kostet oft über 500 Euro",
-      "pairs": [["kostet oft über 500 Euro", "oft teurer als 500 Euro"]],
-      "explain": "야코프는 작은 방 하나가 500유로를 넘을 때가 많다고 해요. 'über 500 Euro kosten'을 'teurer als 500 Euro'로 바꿔 말했어요. 다른 선택지는 500 Euro, Zimmer, Studierende 같은 본문 단어를 쓰지만 내용은 반대예요."
+      "pairs": [["kostet oft über 500 Euro", "zahlt man oft mehr als 500 Euro"]],
+      "explain": "야코프는 작은 방 하나가 500유로를 넘을 때가 많다고 해요. 'kostet über 500 Euro(500유로 넘게 든다)'를 'zahlt man mehr als 500 Euro(500유로 넘게 낸다)'로 바꿔 말했어요. 다른 선택지는 500 Euro, Zimmer, Studierende 같은 본문 단어를 쓰지만 내용은 반대예요."
     }
   ],
   "grammar": [
