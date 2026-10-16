@@ -51,9 +51,9 @@
       "q": "Warum beginnt der Redner mit einer Aufzählung von Zahlen?",
       "options": [
         "um zu zeigen, dass die Amtszeit von Frau Engel länger war als die aller Vorgänger",
-        "um anschließend deutlich zu machen, dass Zahlen dem Wesentlichen nicht gerecht werden",
-        "um die Zuhörer mit genauen Statistiken über die Schule zu beeindrucken",
-        "um daran zu erinnern, dass es in 25 Jahren nur einen einzigen Notfall gab"
+        "um anschließend klarzumachen, dass Zahlen dem Wesentlichen nicht gerecht werden",
+        "um die Zuhörer mit genauen Statistiken zur Arbeit der Schulleitung zu beeindrucken",
+        "um daran zu erinnern, dass es in 25 Jahren nur einen einzigen echten Notfall gab"
       ],
       "answer": 1,
       "evidence": "Doch je länger ich rechnete, desto klarer wurde mir, dass sich diese Jahre nicht in Zahlen fassen lassen.",
@@ -93,8 +93,8 @@
       "q": "Wer hat sich laut Redner anfangs gegen den Schulgarten gesträubt?",
       "options": [
         "die Schülerinnen und Schüler der Klasse 7b",
-        "die Schulbehörde",
-        "der für das Gebäude zuständige Mitarbeiter",
+        "die Schulbehörde, der das Grundstück gehörte",
+        "der für Haus und Hof zuständige Mitarbeiter",
         "die Eltern, die das Brachland behalten wollten"
       ],
       "answer": 2,
@@ -102,31 +102,31 @@
       "pairs": [
         [
           "erheblichem Widerstand des Hausmeisters",
-          "der für das Gebäude zuständige Mitarbeiter"
+          "der für Haus und Hof zuständige Mitarbeiter"
         ],
         [
           "Widerstand",
           "gesträubt"
         ]
       ],
-      "explain": "Hausmeister(건물 관리인)의 상당한 반대가 있었다고 해요. 이를 '건물을 담당하는 직원'으로 풀어 썼어요. 7b반은 반대한 쪽이 아니라 함께 정원을 만든 쪽이고, 교육청은 은퇴 후의 소망을 말하는 부분에서 전화 이야기로만 나와요."
+      "explain": "Hausmeister(건물 관리인)의 상당한 반대가 있었다고 해요. 이를 '건물과 부지를 담당하는 직원'으로 풀어 썼어요. 7b반은 반대한 쪽이 아니라 함께 정원을 만든 쪽이고, 교육청은 은퇴 후의 소망을 말하는 부분에서 전화 이야기로만 나와요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was will der Redner mit dem Satz „Er war Ihr Beweis dafür, dass eine Schule mehr ist als ein Gebäude mit Stundenplan.“ sagen?",
       "options": [
-        "Der Garten hat gezeigt, dass die Schule zu wenig Unterrichtsräume hatte.",
-        "Frau Engel wollte beweisen, dass Gartenarbeit in den Stundenplan gehört.",
-        "Mit dem Garten hat Frau Engel ihre Überzeugung sichtbar gemacht, dass Schule über Unterricht und Räume hinausgeht.",
-        "Der Garten war wichtiger als das Schulgebäude selbst."
+        "Der Garten hat gezeigt, dass der Schule Unterrichtsräume für alle Klassen fehlten.",
+        "Frau Engel wollte beweisen, dass Gartenarbeit in jeden Stundenplan der Schule gehört.",
+        "Der Garten zeigt, dass Schule für Frau Engel über Unterricht und Räume hinausgeht.",
+        "Für Frau Engel war der Garten wichtiger als das Schulgebäude mit seinen Klassenräumen."
       ],
       "answer": 2,
       "evidence": "Er war Ihr Beweis dafür, dass eine Schule mehr ist als ein Gebäude mit Stundenplan.",
       "pairs": [
         [
-          "Ihr Beweis dafür",
-          "ihre Überzeugung sichtbar gemacht"
+          "Er war Ihr Beweis dafür",
+          "Der Garten zeigt"
         ],
         [
           "mehr ist als ein Gebäude mit Stundenplan",
@@ -158,10 +158,10 @@
       "kind": "detail",
       "q": "Was sagt der Redner über die Teilnehmer des Austauschs mit Busan?",
       "options": [
-        "Etwa gleich viele Jugendliche aus beiden Ländern haben am Austausch teilgenommen.",
-        "Nur die deutschen Schülerinnen und Schüler sind bisher gereist.",
+        "Etwa gleich viele Jugendliche aus beiden Ländern nahmen am Austausch teil.",
+        "Nur die deutschen Schülerinnen und Schüler sind bisher nach Busan gereist.",
         "Die koreanischen Gäste wohnten während ihres Aufenthalts im Schulgebäude.",
-        "Mehr als dreihundert Ehemalige sitzen heute im Saal."
+        "Mehr als dreihundert ehemalige Austauschschüler sind heute im Saal anwesend."
       ],
       "answer": 0,
       "evidence": "und ebenso viele koreanische Jugendliche haben in unseren Familien gewohnt",
@@ -182,9 +182,9 @@
       "kind": "meaning",
       "q": "Was bedeutet „Ihr Büro stand offen.“ im Zusammenhang der Rede?",
       "options": [
-        "Das Büro wurde aus Sicherheitsgründen nie abgeschlossen.",
-        "Frau Engel war für jeden mit einem Anliegen ansprechbar – nicht nur im übertragenen, sondern auch im wörtlichen Sinn.",
-        "Frau Engel arbeitete meist nicht in ihrem Büro, sondern im Garten.",
+        "Das Büro wurde aus Sicherheitsgründen nie abgeschlossen, damit im Notfall jeder hineinkann.",
+        "Frau Engel war für jeden mit einem Anliegen da, im übertragenen wie im wörtlichen Sinn.",
+        "Frau Engel arbeitete meist nicht in ihrem Büro, sondern bei den Beeten im Schulgarten.",
         "Das Büro der Schulleiterin war allen Kolleginnen und Kollegen als Arbeitsplatz zugänglich."
       ],
       "answer": 1,
@@ -192,11 +192,11 @@
       "pairs": [
         [
           "Nicht sinnbildlich – wirklich offen",
-          "nicht nur im übertragenen, sondern auch im wörtlichen Sinn"
+          "im übertragenen wie im wörtlichen Sinn"
         ],
         [
           "Wer hereinkam, wurde nicht gefragt, warum er störte, sondern was er brauchte.",
-          "für jeden mit einem Anliegen ansprechbar"
+          "für jeden mit einem Anliegen da"
         ]
       ],
       "explain": "'문이 열려 있다'는 보통 '누구든 찾아올 수 있다'는 비유로 쓰는 말인데, 연설자는 비유로만 하는 말이 아니라 실제로도 문이 날마다 열려 있었다고 강조해요(Nicht sinnbildlich – wirklich offen). 이어지는 문장들은 학생, 동료 교사, 학부모 누구든 찾아와 이야기할 수 있었다는 것을 보여 주므로 비유적인 뜻도 함께 담겨 있어요. 보안이나 작업 공간 이야기는 본문에 없어요."
@@ -220,10 +220,10 @@
       "kind": "intent",
       "q": "Welche Haltung drückt der Redner mit dem Wunsch aus, das Telefon möge „einmal nicht die Schulbehörde sein, sondern eine Freundin aus Busan“?",
       "options": [
-        "Er kritisiert, dass die Schulbehörde Frau Engel zu oft angerufen hat.",
-        "Er hofft, dass Frau Engel die Partnerschaft mit Busan auch im Ruhestand weiterführt.",
+        "Er kritisiert, dass die Schulbehörde Frau Engel ständig mit Anrufen belästigt hat.",
+        "Er hofft, dass Frau Engel die Partnerschaft mit Busan im Ruhestand weiterführt.",
         "Er wünscht ihr, dass an die Stelle dienstlicher Pflichten private Freuden treten.",
-        "Er bedauert, dass Frau Engel in Deutschland kaum Freunde hat."
+        "Er bedauert, dass Frau Engel in Deutschland kaum Freunde hat und oft allein ist."
       ],
       "answer": 2,
       "evidence": "Und möge das Telefon, wenn es klingelt, einmal nicht die Schulbehörde sein, sondern eine Freundin aus Busan.",
@@ -244,9 +244,9 @@
       "kind": "detail",
       "q": "Was verspricht der Redner Frau Engel für die Zeit nach ihrem Abschied?",
       "options": [
-        "Das Kollegium wird sie bei schwierigen Entscheidungen weiterhin um Rat fragen.",
+        "Das Kollegium wird sie bei schwierigen Entscheidungen weiter um Rat fragen.",
         "Der Schulgarten wird nach ihr benannt und die Partnerschule eingeladen.",
-        "Das Kollegium wird ihr regelmäßig Briefe nach Busan schreiben.",
+        "Das Kollegium wird ihr nach Busan regelmäßig Briefe über die Schule schreiben.",
         "Die Schule wird fortführen, was Frau Engel geschaffen und vorgelebt hat."
       ],
       "answer": 3,

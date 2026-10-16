@@ -9,123 +9,180 @@
   "intro": "네 사람이 각자 어떤 교통수단으로 출근하는지, 왜 그렇게 하는지 이야기해요.",
   "focus": ["이유 말하기: weil / denn / deshalb (어순 비교)", "비교급 + als / genauso … wie", "교통수단 전치사: mit dem … / zu Fuß"],
   "paragraphs": [
-    { "style": "meta", "de": "Vier Menschen, vier Wege. Wir haben gefragt: Wie kommen Sie jeden Morgen zur Arbeit – und warum gerade so?", "ko": "네 사람, 네 가지 길. 저희가 물어봤어요. 매일 아침 직장에는 어떻게 가세요? 그리고 왜 하필 그 방법인가요?" },
-    { "label": "Nurten Aksoy, 41, Krankenpflegerin",
+    {
+      "style": "meta",
+      "de": "Vier Menschen, vier Wege. Wir haben gefragt: Wie kommen Sie jeden Morgen zur Arbeit – und warum gerade so?",
+      "ko": "네 사람, 네 가지 길. 저희가 물어봤어요. 매일 아침 직장에는 어떻게 가세요? 그리고 왜 하필 그 방법인가요?"
+    },
+    {
+      "label": "Nurten Aksoy, 41, Krankenpflegerin",
       "de": "Ich fahre jeden Tag mit dem Fahrrad ins Krankenhaus, auch im Winter. Viele finden das verrückt, aber ich mag es, weil ich morgens an der frischen Luft wach werde. Mit dem Bus brauche ich fast genauso lange wie mit dem Rad, weil er oft im Stau steht.",
-      "ko": "저는 겨울에도 매일 자전거를 타고 병원에 가요. 많은 사람들이 그걸 미친 짓이라고 생각하지만, 저는 아침에 신선한 공기를 쐬면 잠이 깨기 때문에 좋아해요. 버스로도 자전거와 거의 똑같이 걸리는데, 버스가 자주 길이 막혀 서 있기 때문이에요." },
-    { "label": "Markus Feld, 35, Elektriker",
+      "ko": "저는 겨울에도 매일 자전거를 타고 병원에 가요. 많은 사람들이 그걸 미친 짓이라고 생각하지만, 저는 아침에 신선한 공기를 쐬면 잠이 깨기 때문에 좋아해요. 버스로도 자전거와 거의 똑같이 걸리는데, 버스가 자주 길이 막혀 서 있기 때문이에요."
+    },
+    {
+      "label": "Markus Feld, 35, Elektriker",
       "de": "Ich habe keine Wahl, ich muss mit dem Auto fahren, denn mein Werkzeug wiegt mehr als fünfzig Kilo. Außerdem arbeite ich jeden Tag bei einem anderen Kunden. Manchmal ist die Fahrt lang, denn meine Firma hat auch Kunden auf dem Land. Aber das Auto ist für mich mehr als nur ein Transportmittel, denn unterwegs telefoniere ich mit Kunden und plane den Tag.",
-      "ko": "저는 선택의 여지가 없어요. 차로 다녀야 해요. 제 공구가 50킬로가 넘거든요. 게다가 매일 다른 고객에게 가서 일해요. 가끔은 운전 시간이 길어요. 저희 회사는 시골에도 고객이 있기 때문이에요. 하지만 저에게 차는 단순한 이동 수단 이상이에요. 이동 중에 고객들과 통화하고 하루 일정을 짜거든요." },
-    { "label": "Claudia Roth-Weber, 48, Lehrerin",
+      "ko": "저는 선택의 여지가 없어요. 차로 다녀야 해요. 제 공구가 50킬로가 넘거든요. 게다가 매일 다른 고객에게 가서 일해요. 가끔은 운전 시간이 길어요. 저희 회사는 시골에도 고객이 있기 때문이에요. 하지만 저에게 차는 단순한 이동 수단 이상이에요. 이동 중에 고객들과 통화하고 하루 일정을 짜거든요."
+    },
+    {
+      "label": "Claudia Roth-Weber, 48, Lehrerin",
       "de": "Ich fahre mit der Straßenbahn, deshalb habe ich jeden Morgen eine halbe Stunde für mich. Ich muss nicht auf den Verkehr achten, deshalb kann ich unterwegs Hefte korrigieren oder einfach aus dem Fenster schauen. Früher bin ich mit dem Auto gefahren, aber da war ich morgens viel nervöser als heute. Deshalb steht unser Auto jetzt meistens in der Garage.",
-      "ko": "저는 트램을 타고 다녀요. 그래서 매일 아침 저만을 위한 30분이 있어요. 교통 상황에 신경 쓸 필요가 없어서 가는 동안 학생들 공책을 채점하거나 그냥 창밖을 내다볼 수 있어요. 예전에는 차로 다녔는데, 그때는 아침마다 지금보다 훨씬 더 예민했어요. 그래서 지금은 저희 차가 대부분 차고에 서 있어요." },
-    { "label": "Daniel Kim, 23, Student",
+      "ko": "저는 트램을 타고 다녀요. 그래서 매일 아침 저만을 위한 30분이 있어요. 교통 상황에 신경 쓸 필요가 없어서 가는 동안 학생들 공책을 채점하거나 그냥 창밖을 내다볼 수 있어요. 예전에는 차로 다녔는데, 그때는 아침마다 지금보다 훨씬 더 예민했어요. 그래서 지금은 저희 차가 대부분 차고에 서 있어요."
+    },
+    {
+      "label": "Daniel Kim, 23, Student",
       "de": "Ich gehe zu Fuß, weil meine Wohnung nur zehn Minuten von der Uni entfernt ist. Ein Semesterticket habe ich zwar, aber ich benutze es fast nie. Das ist gesünder als Busfahren, und ich bin morgens genauso schnell wie meine Freunde mit dem Bus. Außerdem spare ich Geld, weil ich kein Fitnessstudio brauche.",
-      "ko": "저는 걸어 다녀요. 제 집이 대학에서 10분밖에 안 떨어져 있거든요. 학기 교통권이 있긴 하지만 거의 쓰지 않아요. 걷는 게 버스를 타는 것보다 건강에 더 좋고, 아침에 버스를 타는 친구들만큼 빨리 도착해요. 게다가 헬스장이 필요 없어서 돈도 아껴요." }
+      "ko": "저는 걸어 다녀요. 제 집이 대학에서 10분밖에 안 떨어져 있거든요. 학기 교통권이 있긴 하지만 거의 쓰지 않아요. 걷는 게 버스를 타는 것보다 건강에 더 좋고, 아침에 버스를 타는 친구들만큼 빨리 도착해요. 게다가 헬스장이 필요 없어서 돈도 아껴요."
+    }
   ],
   "questions": [
-    { "type": "mc", "kind": "match",
+    {
+      "type": "mc",
+      "kind": "match",
       "q": "Wer ist morgens nach der Fahrt zur Arbeit nicht mehr müde?",
-      "options": ["Nurten", "Markus", "Claudia", "Daniel"],
+      "options": ["Nurten Aksoy", "Markus Feld", "Claudia Roth-Weber", "Daniel Kim"],
       "answer": 0,
       "evidence": "weil ich morgens an der frischen Luft wach werde",
       "pairs": [["wach werde", "nicht mehr müde"]],
-      "explain": "누르텐 악소이는 아침에 신선한 공기를 쐬면 잠이 깬다(wach werden)고 해요. '잠이 깬다'는 말을 반대말 müde(피곤한)를 부정하는 방식으로 '더 이상 피곤하지 않다'(nicht mehr müde)라고 바꿔 표현했어요." },
-    { "type": "mc", "kind": "match",
+      "explain": "누르텐 악소이는 아침에 신선한 공기를 쐬면 잠이 깬다(wach werden)고 해요. '잠이 깬다'는 말을 반대말 müde(피곤한)를 부정하는 방식으로 '더 이상 피곤하지 않다'(nicht mehr müde)라고 바꿔 표현했어요."
+    },
+    {
+      "type": "mc",
+      "kind": "match",
       "q": "Wer arbeitet nicht immer am gleichen Ort?",
-      "options": ["Nurten", "Markus", "Claudia", "Daniel"],
+      "options": ["Nurten Aksoy", "Markus Feld", "Claudia Roth-Weber", "Daniel Kim"],
       "answer": 1,
       "evidence": "Außerdem arbeite ich jeden Tag bei einem anderen Kunden.",
       "pairs": [["jeden Tag bei einem anderen Kunden", "nicht immer am gleichen Ort"]],
-      "explain": "마르쿠스 펠트는 매일 다른 고객에게 가서 일해요. 즉 일하는 장소가 날마다 달라요. 다른 세 사람은 병원, 학교, 대학처럼 매일 같은 곳으로 가요." },
-    { "type": "mc", "kind": "match",
+      "explain": "마르쿠스 펠트는 매일 다른 고객에게 가서 일해요. 즉 일하는 장소가 날마다 달라요. 다른 세 사람은 병원, 학교, 대학처럼 매일 같은 곳으로 가요."
+    },
+    {
+      "type": "mc",
+      "kind": "match",
       "q": "Wer ist auf dem Weg zur Arbeit heute ruhiger als früher?",
-      "options": ["Nurten", "Markus", "Claudia", "Daniel"],
+      "options": ["Nurten Aksoy", "Markus Feld", "Claudia Roth-Weber", "Daniel Kim"],
       "answer": 2,
       "evidence": "aber da war ich morgens viel nervöser als heute",
       "pairs": [["viel nervöser als heute", "heute ruhiger als früher"]],
-      "explain": "'예전에는 지금보다 훨씬 더 예민했다'(früher viel nervöser als heute)는 말은 반대로 하면 '지금은 예전보다 더 차분하다'(heute ruhiger als früher)는 뜻이에요. 비교의 방향을 바꾼 표현이에요." },
-    { "type": "mc", "kind": "match",
+      "explain": "'예전에는 지금보다 훨씬 더 예민했다'(früher viel nervöser als heute)는 말은 반대로 하면 '지금은 예전보다 더 차분하다'(heute ruhiger als früher)는 뜻이에요. 비교의 방향을 바꾼 표현이에요."
+    },
+    {
+      "type": "mc",
+      "kind": "match",
       "q": "Wer hat eine Fahrkarte, benutzt sie aber kaum?",
-      "options": ["Nurten", "Markus", "Claudia", "Daniel"],
+      "options": ["Nurten Aksoy", "Markus Feld", "Claudia Roth-Weber", "Daniel Kim"],
       "answer": 3,
       "evidence": "Ein Semesterticket habe ich zwar, aber ich benutze es fast nie.",
       "pairs": [["Semesterticket", "Fahrkarte"], ["fast nie", "kaum"]],
-      "explain": "다니엘 김은 학기 교통권(Semesterticket)이 있지만 거의 쓰지 않아요(fast nie). 문제에서는 Semesterticket을 Fahrkarte(승차권)로, fast nie를 kaum(거의 ~않다)으로 바꿨어요." },
-    { "type": "mc", "kind": "match",
+      "explain": "다니엘 김은 학기 교통권(Semesterticket)이 있지만 거의 쓰지 않아요(fast nie). 문제에서는 Semesterticket을 Fahrkarte(승차권)로, fast nie를 kaum(거의 ~않다)으로 바꿨어요."
+    },
+    {
+      "type": "mc",
+      "kind": "match",
       "q": "Wer muss schwere Sachen zur Arbeit mitnehmen?",
-      "options": ["Nurten", "Markus", "Claudia", "Daniel"],
+      "options": ["Nurten Aksoy", "Markus Feld", "Claudia Roth-Weber", "Daniel Kim"],
       "answer": 1,
       "evidence": "denn mein Werkzeug wiegt mehr als fünfzig Kilo",
       "pairs": [["mein Werkzeug wiegt mehr als fünfzig Kilo", "schwere Sachen"]],
-      "explain": "마르쿠스 펠트의 공구는 50킬로가 넘어요. 본문의 Werkzeug(공구)와 무게 표현을 '무거운 물건'(schwere Sachen)이라는 더 일반적인 말로 바꿨어요. 클라우디아 로트베버가 가지고 다니는 공책(Hefte)은 무겁다는 말이 없어요." },
-    { "type": "rf", "kind": "detail",
+      "explain": "마르쿠스 펠트의 공구는 50킬로가 넘어요. 본문의 Werkzeug(공구)와 무게 표현을 '무거운 물건'(schwere Sachen)이라는 더 일반적인 말로 바꿨어요. 클라우디아 로트베버가 가지고 다니는 공책(Hefte)은 무겁다는 말이 없어요."
+    },
+    {
+      "type": "rf",
+      "kind": "detail",
       "q": "Claudia Roth-Weber benutzt ihr Auto heute nur noch selten.",
       "answer": 0,
       "evidence": "Deshalb steht unser Auto jetzt meistens in der Garage.",
       "pairs": [["steht unser Auto jetzt meistens in der Garage", "benutzt ihr Auto heute nur noch selten"]],
-      "explain": "차가 지금은 대부분 차고에 서 있다(steht meistens in der Garage)는 말은 차를 거의 쓰지 않는다는 뜻이에요. 상태를 말한 문장을 '이제는 드물게만 쓴다'(nur noch selten benutzt)는 행동 표현으로 바꿨어요." },
-    { "type": "rf", "kind": "detail",
+      "explain": "차가 지금은 대부분 차고에 서 있다(steht meistens in der Garage)는 말은 차를 거의 쓰지 않는다는 뜻이에요. 상태를 말한 문장을 '이제는 드물게만 쓴다'(nur noch selten benutzt)는 행동 표현으로 바꿨어요."
+    },
+    {
+      "type": "rf",
+      "kind": "detail",
       "q": "Daniel Kim ist morgens langsamer als seine Freunde mit dem Bus.",
       "answer": 1,
       "evidence": "ich bin morgens genauso schnell wie meine Freunde mit dem Bus",
       "pairs": [["genauso schnell wie", "langsamer als"]],
-      "explain": "다니엘 김은 버스를 타는 친구들만큼 빨리(genauso schnell wie) 도착한다고 해요. 즉 둘은 같은 속도예요. '더 느리다'(langsamer als)는 말은 본문과 달라요. Freunde, Bus 같은 단어가 같아도 비교 내용이 다르다는 점에 주의하세요." }
+      "explain": "다니엘 김은 버스를 타는 친구들만큼 빨리(genauso schnell wie) 도착한다고 해요. 즉 둘은 같은 속도예요. '더 느리다'(langsamer als)는 말은 본문과 달라요. Freunde, Bus 같은 단어가 같아도 비교 내용이 다르다는 점에 주의하세요."
+    }
   ],
   "grammar": [
-    { "title": "이유 말하기: weil · denn · deshalb의 어순 차이",
+    {
+      "title": "이유 말하기: weil · denn · deshalb의 어순 차이",
       "term": "Kausalsätze: weil / denn / deshalb",
       "explain": "세 단어 모두 이유와 관계가 있지만 어순이 달라요. weil은 종속접속사예요. weil 뒤에 이유가 오고, 동사는 종속절의 끝으로 가요. denn은 등위접속사예요. denn 뒤에도 이유가 오지만, denn은 문장의 자리를 차지하지 않아요(0번 자리). 그래서 어순이 보통 문장과 같고 동사가 2번 자리에 그대로 있어요. deshalb는 접속부사예요. deshalb 뒤에는 이유가 아니라 결과가 와요. deshalb가 1번 자리를 차지하므로 바로 뒤에 동사가 오고 그다음에 주어가 와요.",
       "pattern": "…, weil + 주어 + … + 동사(끝) / …, denn + 주어 + 동사 + … / 이유, deshalb + 동사 + 주어 + …",
       "examples": [
-        { "de": "Ich gehe zu Fuß, weil meine Wohnung nur zehn Minuten von der Uni entfernt ist.",
+        {
+          "de": "Ich gehe zu Fuß, weil meine Wohnung nur zehn Minuten von der Uni entfernt ist.",
           "ko": "저는 걸어 다녀요. 제 집이 대학에서 10분밖에 안 떨어져 있거든요.",
           "mark": ["weil", "ist."],
-          "parts": [["Ich", "주어"], ["gehe", "동사"], ["zu Fuß,", "부사어(방법)"], ["weil", "접속사"], ["meine Wohnung", "주어"], ["nur zehn Minuten von der Uni entfernt", "보어"], ["ist.", "동사(끝)"]] },
-        { "de": "Manchmal ist die Fahrt lang, denn meine Firma hat auch Kunden auf dem Land.",
+          "parts": [["Ich", "주어"], ["gehe", "동사"], ["zu Fuß,", "부사어(방법)"], ["weil", "접속사"], ["meine Wohnung", "주어"], ["nur zehn Minuten von der Uni entfernt", "보어"], ["ist.", "동사(끝)"]]
+        },
+        {
+          "de": "Manchmal ist die Fahrt lang, denn meine Firma hat auch Kunden auf dem Land.",
           "ko": "가끔은 운전 시간이 길어요. 저희 회사는 시골에도 고객이 있기 때문이에요.",
           "mark": ["denn", "hat"],
-          "parts": [["Manchmal", "부사어(빈도)"], ["ist", "동사"], ["die Fahrt", "주어"], ["lang,", "보어"], ["denn", "접속사"], ["meine Firma", "주어"], ["hat", "동사"], ["auch", "부사어"], ["Kunden", "4격 목적어"], ["auf dem Land.", "부사어(장소)"]] },
-        { "de": "Ich fahre mit der Straßenbahn, deshalb habe ich jeden Morgen eine halbe Stunde für mich.",
+          "parts": [["Manchmal", "부사어(빈도)"], ["ist", "동사"], ["die Fahrt", "주어"], ["lang,", "보어"], ["denn", "접속사"], ["meine Firma", "주어"], ["hat", "동사"], ["auch", "부사어"], ["Kunden", "4격 목적어"], ["auf dem Land.", "부사어(장소)"]]
+        },
+        {
+          "de": "Ich fahre mit der Straßenbahn, deshalb habe ich jeden Morgen eine halbe Stunde für mich.",
           "ko": "저는 트램을 타고 다녀요. 그래서 매일 아침 저만을 위한 30분이 있어요.",
           "mark": ["deshalb", "habe ich"],
-          "parts": [["Ich", "주어"], ["fahre", "동사"], ["mit der Straßenbahn,", "부사어(방법)"], ["deshalb", "접속부사"], ["habe", "동사"], ["ich", "주어"], ["jeden Morgen", "부사어(시간)"], ["eine halbe Stunde für mich.", "4격 목적어"]] }
+          "parts": [["Ich", "주어"], ["fahre", "동사"], ["mit der Straßenbahn,", "부사어(방법)"], ["deshalb", "접속부사"], ["habe", "동사"], ["ich", "주어"], ["jeden Morgen", "부사어(시간)"], ["eine halbe Stunde für mich.", "4격 목적어"]]
+        }
       ],
-      "tip": "weil과 denn 뒤에는 이유가 오지만, deshalb 뒤에는 결과가 와요. 'Ich fahre Rad, deshalb bin ich wach.'(자전거를 타요. 그래서 잠이 깨요.)와 'Ich fahre Rad, weil ich dabei wach werde.'(타면서 잠이 깨기 때문에 자전거를 타요.)의 차이를 비교해 보세요. denn 뒤에 주어가 아닌 다른 말이 1번 자리에 오면 주어는 동사 뒤로 가요: …, denn unterwegs telefoniere ich mit Kunden." },
-    { "title": "비교급 + als / genauso … wie",
+      "tip": "weil과 denn 뒤에는 이유가 오지만, deshalb 뒤에는 결과가 와요. 'Ich fahre Rad, deshalb bin ich wach.'(자전거를 타요. 그래서 잠이 깨요.)와 'Ich fahre Rad, weil ich dabei wach werde.'(타면서 잠이 깨기 때문에 자전거를 타요.)의 차이를 비교해 보세요. denn 뒤에 주어가 아닌 다른 말이 1번 자리에 오면 주어는 동사 뒤로 가요: …, denn unterwegs telefoniere ich mit Kunden."
+    },
+    {
+      "title": "비교급 + als / genauso … wie",
       "term": "Komparativ mit als / so … wie",
       "explain": "두 가지를 비교해서 '더 ~하다'라고 말할 때는 형용사에 -er을 붙이고 als를 써요: gesünder als Busfahren(버스 타기보다 더 건강한), nervöser als heute(지금보다 더 예민한). a, o, u가 있는 형용사 중에는 움라우트가 붙는 것도 있어요: lang → länger, gesund → gesünder. '똑같이 ~하다'라고 말할 때는 비교급을 쓰지 않고 (genau)so + 형용사·부사 원형 + wie를 써요: genauso lange wie mit dem Rad(자전거만큼 오래), genauso schnell wie meine Freunde(친구들만큼 빠른). mehr als(~보다 많이)도 자주 쓰는 비교 표현이에요. mehr는 viel의 비교급이에요.",
       "pattern": "형용사 + -er + als … / (genau)so + 형용사 + wie …",
       "examples": [
-        { "de": "Das ist gesünder als Busfahren, und ich bin morgens genauso schnell wie meine Freunde mit dem Bus.",
+        {
+          "de": "Das ist gesünder als Busfahren, und ich bin morgens genauso schnell wie meine Freunde mit dem Bus.",
           "ko": "걷는 게 버스를 타는 것보다 건강에 더 좋고, 아침에 버스를 타는 친구들만큼 빨리 도착해요.",
           "mark": ["gesünder als", "genauso schnell wie"],
-          "parts": [["Das", "주어"], ["ist", "동사"], ["gesünder als Busfahren,", "보어"], ["und", "접속사"], ["ich", "주어"], ["bin", "동사"], ["morgens", "부사어(시간)"], ["genauso schnell wie meine Freunde mit dem Bus.", "보어"]] },
-        { "de": "Früher bin ich mit dem Auto gefahren, aber da war ich morgens viel nervöser als heute.",
+          "parts": [["Das", "주어"], ["ist", "동사"], ["gesünder als Busfahren,", "보어"], ["und", "접속사"], ["ich", "주어"], ["bin", "동사"], ["morgens", "부사어(시간)"], ["genauso schnell wie meine Freunde mit dem Bus.", "보어"]]
+        },
+        {
+          "de": "Früher bin ich mit dem Auto gefahren, aber da war ich morgens viel nervöser als heute.",
           "ko": "예전에는 차로 다녔는데, 그때는 아침마다 지금보다 훨씬 더 예민했어요.",
-          "mark": ["nervöser als"] },
-        { "de": "Mit dem Bus brauche ich fast genauso lange wie mit dem Rad, weil er oft im Stau steht.",
+          "mark": ["nervöser als"]
+        },
+        {
+          "de": "Mit dem Bus brauche ich fast genauso lange wie mit dem Rad, weil er oft im Stau steht.",
           "ko": "버스로도 자전거와 거의 똑같이 걸리는데, 버스가 자주 길이 막혀 서 있기 때문이에요.",
-          "mark": ["genauso lange wie"] }
+          "mark": ["genauso lange wie"]
+        }
       ],
-      "tip": "als와 wie를 바꿔 쓰지 않도록 주의하세요. 비교급 뒤에는 항상 als, so/genauso 뒤에는 항상 wie가 와요. 비교급을 강조하려면 viel을 앞에 붙여요: viel nervöser." },
-    { "title": "교통수단과 목적지 말하기: mit dem … / zu Fuß / zur … / ins …",
+      "tip": "als와 wie를 바꿔 쓰지 않도록 주의하세요. 비교급 뒤에는 항상 als, so/genauso 뒤에는 항상 wie가 와요. 비교급을 강조하려면 viel을 앞에 붙여요: viel nervöser."
+    },
+    {
+      "title": "교통수단과 목적지 말하기: mit dem … / zu Fuß / zur … / ins …",
       "term": "Präpositionen: mit + Dativ, zu Fuß, zu / in + Ziel",
       "explain": "교통수단은 mit + 3격으로 말해요: mit dem Fahrrad, mit dem Bus, mit der Straßenbahn, mit dem Auto. 걸어서 간다고 할 때만 전치사가 달라서 zu Fuß라고 해요. 목적지는 zu + 3격이나 in + 4격으로 말해요: zur Arbeit(zu der Arbeit), ins Krankenhaus(in das Krankenhaus). 건물 안으로 들어간다는 뜻이 강할 때 in을 쓰고, 사람이나 장소로 갈 때는 보통 zu를 써요. 도시와 대부분의 나라 이름 앞에는 zu가 아니라 nach를 써요: nach Berlin, nach Korea.",
       "pattern": "mit + dem/der + 교통수단 / zu Fuß / zur + 여성 명사 · zum + 남성·중성 명사 / ins + 중성 명사",
       "examples": [
-        { "de": "Ich fahre jeden Tag mit dem Fahrrad ins Krankenhaus, auch im Winter.",
+        {
+          "de": "Ich fahre jeden Tag mit dem Fahrrad ins Krankenhaus, auch im Winter.",
           "ko": "저는 겨울에도 매일 자전거를 타고 병원에 가요.",
           "mark": ["mit dem Fahrrad", "ins Krankenhaus"],
-          "parts": [["Ich", "주어"], ["fahre", "동사"], ["jeden Tag", "부사어(시간)"], ["mit dem Fahrrad", "부사어(방법)"], ["ins Krankenhaus,", "부사어(장소)"], ["auch im Winter.", "부사어(시간)"]] },
-        { "de": "Wie kommen Sie jeden Morgen zur Arbeit – und warum gerade so?",
+          "parts": [["Ich", "주어"], ["fahre", "동사"], ["jeden Tag", "부사어(시간)"], ["mit dem Fahrrad", "부사어(방법)"], ["ins Krankenhaus,", "부사어(장소)"], ["auch im Winter.", "부사어(시간)"]]
+        },
+        {
+          "de": "Wie kommen Sie jeden Morgen zur Arbeit – und warum gerade so?",
           "ko": "매일 아침 직장에는 어떻게 가세요? 그리고 왜 하필 그 방법인가요?",
-          "mark": ["zur Arbeit"] },
-        { "de": "Ich gehe zu Fuß, weil meine Wohnung nur zehn Minuten von der Uni entfernt ist.",
+          "mark": ["zur Arbeit"]
+        },
+        {
+          "de": "Ich gehe zu Fuß, weil meine Wohnung nur zehn Minuten von der Uni entfernt ist.",
           "ko": "저는 걸어 다녀요. 제 집이 대학에서 10분밖에 안 떨어져 있거든요.",
-          "mark": ["zu Fuß"] }
+          "mark": ["zu Fuß"]
+        }
       ],
-      "tip": "mit dem Fuß라고 하지 않아요. 걸어서 가는 것은 항상 zu Fuß gehen이에요. 반대로 탈것을 말할 때는 fahren을 써요: mit dem Bus fahren." }
+      "tip": "mit dem Fuß라고 하지 않아요. 걸어서 가는 것은 항상 zu Fuß gehen이에요. 반대로 탈것을 말할 때는 fahren을 써요: mit dem Bus fahren."
+    }
   ],
   "vocab": [
     { "de": "die Krankenpflegerin, -nen", "ko": "간호사(여성)" },
@@ -144,13 +201,29 @@
     { "de": "sparen", "ko": "아끼다, 절약하다" }
   ],
   "phrases": [
-    { "de": "im Stau stehen", "ko": "길이 막혀 서 있다, 교통 체증에 걸리다",
-      "ex": "weil er oft im Stau steht", "exko": "버스가 자주 길이 막혀 서 있기 때문에" },
-    { "de": "keine Wahl haben", "ko": "선택의 여지가 없다",
-      "ex": "Ich habe keine Wahl, ich muss mit dem Auto fahren", "exko": "저는 선택의 여지가 없어요. 차로 다녀야 해요." },
-    { "de": "Zeit für sich haben", "ko": "자기만의 시간을 갖다",
-      "ex": "deshalb habe ich jeden Morgen eine halbe Stunde für mich", "exko": "그래서 매일 아침 저만을 위한 30분이 있어요" },
-    { "de": "auf etwas achten (+ Akk.)", "ko": "~에 주의하다, ~에 신경 쓰다",
-      "ex": "Ich muss nicht auf den Verkehr achten", "exko": "교통 상황에 신경 쓸 필요가 없어요" }
+    {
+      "de": "im Stau stehen",
+      "ko": "길이 막혀 서 있다, 교통 체증에 걸리다",
+      "ex": "weil er oft im Stau steht",
+      "exko": "버스가 자주 길이 막혀 서 있기 때문에"
+    },
+    {
+      "de": "keine Wahl haben",
+      "ko": "선택의 여지가 없다",
+      "ex": "Ich habe keine Wahl, ich muss mit dem Auto fahren",
+      "exko": "저는 선택의 여지가 없어요. 차로 다녀야 해요."
+    },
+    {
+      "de": "Zeit für sich haben",
+      "ko": "자기만의 시간을 갖다",
+      "ex": "deshalb habe ich jeden Morgen eine halbe Stunde für mich",
+      "exko": "그래서 매일 아침 저만을 위한 30분이 있어요"
+    },
+    {
+      "de": "auf etwas achten (+ Akk.)",
+      "ko": "~에 주의하다, ~에 신경 쓰다",
+      "ex": "Ich muss nicht auf den Verkehr achten",
+      "exko": "교통 상황에 신경 쓸 필요가 없어요"
+    }
   ]
 }

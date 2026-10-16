@@ -211,7 +211,7 @@ def validate_file(path):
     if len(qs) != cfg["questions"]:
         rep.err(f"{len(qs)} Fragen, erwartet {cfg['questions']}")
     tf_answers, mc_answers, longest_hits = [], [], []
-    mc_total = sum(1 for q in qs if q.get("type") == "mc")
+    mc_total = sum(1 for q in qs if q.get("type") == "mc" and q.get("kind") != "match")
     for i, q in enumerate(qs, 1):
         where = f"Frage {i}"
         t = q.get("type")
@@ -245,12 +245,14 @@ def validate_file(path):
                 continue
             if kind != "match":
                 mc_answers.append(ans)
-            problem = option_length_problem(opts, ans)
-            if problem:
-                rep.err(f"{where}: {problem}")
-            lens = [len(o) for o in opts]
-            if lens.count(max(lens)) == 1 and lens[ans] == max(lens):
-                longest_hits.append(i)
+            # match-Fragen teilen sich einen Optionspool (jede Option ist irgendwo richtig) – Länge verrät nichts
+            if kind != "match":
+                problem = option_length_problem(opts, ans)
+                if problem:
+                    rep.err(f"{where}: {problem}")
+                lens = [len(o) for o in opts]
+                if lens.count(max(lens)) == 1 and lens[ans] == max(lens):
+                    longest_hits.append(i)
             correct_text = opts[ans]
         else:
             if q.get("options"):
