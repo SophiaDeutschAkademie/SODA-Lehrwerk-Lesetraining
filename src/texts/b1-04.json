@@ -91,15 +91,15 @@
     {
       "type": "mc",
       "kind": "paraphrase",
-      "q": "Was bedeutet der Satz „Drehen Sie die Heizkörper herunter, bevor Sie die Fenster öffnen, damit die warme Luft nicht direkt nach draußen heizt“?",
+      "q": "Was bedeutet der Satz „Drehen Sie die Heizkörper herunter, bevor Sie die Fenster öffnen, damit die Wärme nicht direkt nach draußen entweicht“?",
       "options": [
         "Man soll die Heizung ausschalten und erst am nächsten Tag wieder einschalten.",
-        "Bei offenem Fenster soll die Heizung niedrig stehen, sonst geht die Heizenergie verloren.",
-        "Man soll die Fenster nur öffnen, wenn die Heizung schon kalt ist."
+        "Bei offenem Fenster soll die Heizung niedrig stehen, sonst heizt man für die Straße.",
+        "Man soll die Fenster nur öffnen, wenn die Heizkörper schon kalt sind."
       ],
       "answer": 1,
       "evidence": "Ein kurz gelüfteter Raum ist nämlich schnell wieder warm, weil die Wände ihre Wärme behalten haben.",
-      "pairs": [["die Heizkörper herunter", "die Heizung niedrig"], ["die warme Luft nicht direkt nach draußen heizt", "sonst geht die Heizenergie verloren"]],
+      "pairs": [["die Heizkörper herunter", "die Heizung niedrig"], ["damit die Wärme nicht direkt nach draußen entweicht", "sonst heizt man für die Straße"]],
       "explain": "창문이 열려 있는 동안 난방을 줄이라는 뜻이에요. 그렇지 않으면 난방 에너지가 바깥으로 빠져나가 버려요. 다음 날까지 끄라는 것은 '환기 뒤 바로 다시 켜라'는 본문과 맞지 않고, 라디에이터가 완전히 식은 뒤에만 창문을 열라는 말도 없어요."
     },
     {

@@ -207,7 +207,7 @@
       "examples": [
         {
           "de": "Als ihre Tante stirbt, erbt sie deren Haus in einem kleinen Dorf an der Ostsee – jenem Dorf, aus dem sie einst fluchtartig weggegangen ist.",
-          "ko": "이모가 세상을 떠나자 그는 발트해 연안의 작은 마을에 있는 이모의 집을 물려받습니다. 한때 도망치듯 떠나온 바로 그 마을입니다.",
+          "ko": "이모가 세상을 떠나자 한나는 발트해 연안의 작은 마을에 있는 이모의 집을 물려받습니다. 한때 도망치듯 떠나온 바로 그 마을입니다.",
           "mark": ["stirbt", "erbt", "weggegangen ist"]
         },
         {
@@ -227,7 +227,7 @@
       "examples": [
         {
           "de": "Als ihre Tante stirbt, erbt sie deren Haus in einem kleinen Dorf an der Ostsee – jenem Dorf, aus dem sie einst fluchtartig weggegangen ist.",
-          "ko": "이모가 세상을 떠나자 그는 발트해 연안의 작은 마을에 있는 이모의 집을 물려받습니다. 한때 도망치듯 떠나온 바로 그 마을입니다.",
+          "ko": "이모가 세상을 떠나자 한나는 발트해 연안의 작은 마을에 있는 이모의 집을 물려받습니다. 한때 도망치듯 떠나온 바로 그 마을입니다.",
           "mark": ["deren Haus", "jenem Dorf"]
         }
       ],
