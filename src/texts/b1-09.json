@@ -75,23 +75,23 @@
       "kind": "detail",
       "q": "Was sagt der Text über die Erklärung mit dem Sauerstoff?",
       "options": [
-        "Sie wurde durch Untersuchungen bestätigt.",
+        "Sie wurde durch Experimente bestätigt.",
         "Sie gilt heute als die wichtigste Erklärung für das Gähnen.",
-        "Sie ließ sich in Experimenten nicht nachweisen."
+        "Sie ließ sich in Untersuchungen nicht nachweisen."
       ],
       "answer": 2,
       "evidence": "Diese Erklärung klingt logisch, aber Studien konnten sie nicht bestätigen.",
       "pairs": [
         [
           "Studien konnten sie nicht bestätigen",
-          "ließ sich in Experimenten nicht nachweisen"
+          "ließ sich in Untersuchungen nicht nachweisen"
         ],
         [
           "Lange Zeit glaubte man",
           "gilt heute als die wichtigste Erklärung"
         ]
       ],
-      "explain": "'연구들이 확인하지 못했다(konnten nicht bestätigen)'를 '실험에서 입증되지 않았다(ließ sich nicht nachweisen)'로 바꿔 말했어요. 산소 부족 설명은 예전에 믿던 것이고, 오늘날에는 뇌를 식힌다는 추측이 더 많이 이야기돼요. bestätigen이라는 단어가 본문에 있어서 첫 번째 선택지가 함정이에요."
+      "explain": "'연구들이 확인하지 못했다(Studien konnten sie nicht bestätigen)'를 '조사에서 입증할 수 없었다(ließ sich in Untersuchungen nicht nachweisen)'로 바꿔 말했어요. 산소 부족 설명은 예전에 믿던 것이고, 오늘날에는 뇌를 식힌다는 추측이 더 많이 이야기돼요. bestätigen이라는 단어가 본문에 있어서 첫 번째 선택지가 함정이에요."
     },
     {
       "type": "mc",
@@ -99,7 +99,7 @@
       "q": "Was will der Text mit dem Satz „Sicher ist das jedoch nicht, und vermutlich gibt es nicht nur einen Grund.“ sagen?",
       "options": [
         "Die Kühlung des Gehirns ist inzwischen bewiesen, aber es gibt noch weitere Gründe.",
-        "Die Kühlungs-Erklärung ist eine Vermutung, und wahrscheinlich spielen mehrere Ursachen zusammen.",
+        "Die Erklärung mit der Kühlung ist nur eine Vermutung, und wahrscheinlich spielen mehrere Ursachen zusammen.",
         "Niemand weiß, warum wir gähnen, deshalb gibt es keine Erklärung."
       ],
       "answer": 1,
@@ -107,7 +107,7 @@
       "pairs": [
         [
           "Sicher ist das jedoch nicht",
-          "ist eine Vermutung"
+          "ist nur eine Vermutung"
         ],
         [
           "nicht nur einen Grund",
@@ -119,20 +119,20 @@
     {
       "type": "rf",
       "kind": "detail",
-      "q": "Um sich anstecken zu lassen, muss man die gähnende Person direkt vor sich sehen.",
+      "q": "Man gähnt nur dann mit, wenn man die gähnende Person direkt vor sich sieht.",
       "answer": 1,
       "evidence": "Es genügt, jemanden gähnen zu sehen oder zu hören.",
       "pairs": [
         [
-          "zu sehen oder zu hören",
-          "direkt vor sich sehen"
+          "Es genügt, jemanden gähnen zu sehen oder zu hören",
+          "nur dann mit, wenn man die gähnende Person direkt vor sich sieht"
         ],
         [
           "schon beim Lesen dieses Textes",
-          "muss man die gähnende Person"
+          "direkt vor sich sieht"
         ]
       ],
-      "explain": "보거나 듣기만 해도 충분하다고 했고, 어떤 사람들은 글을 읽기만 해도 하품을 한다고 해요. 그러니 반드시 눈앞에서 봐야 한다는 말은 틀려요. sehen이라는 단어가 본문에 나오지만 '반드시'라는 조건이 틀렸어요."
+      "explain": "보거나 듣기만 해도 충분하다고 했고, 어떤 사람들은 글을 읽기만 해도 하품을 한다고 해요. 그러니 눈앞에서 직접 봐야만 따라 한다는 말은 틀려요. sehen이라는 단어는 본문에 나오지만 'nur dann … wenn'(~할 때만)이라는 조건이 틀렸어요."
     },
     {
       "type": "mc",
@@ -204,26 +204,22 @@
       "q": "Was steht im Text über Hunde?",
       "options": [
         "Sie gähnen aus Mitgefühl mit ihren Besitzerinnen und Besitzern.",
-        "Sie gähnen gelegentlich, wenn ihre Halterinnen oder Halter gähnen.",
+        "Sie lassen sich hin und wieder von ihren Halterinnen und Haltern anstecken.",
         "Sie gähnen häufiger als kleine Kinder."
       ],
       "answer": 1,
       "evidence": "Auch Hunde gähnen manchmal mit, wenn ihre Besitzerinnen und Besitzer gähnen.",
       "pairs": [
         [
-          "gähnen manchmal mit",
-          "gähnen gelegentlich"
-        ],
-        [
-          "Besitzerinnen und Besitzer",
-          "Halterinnen oder Halter"
+          "gähnen manchmal mit, wenn ihre Besitzerinnen und Besitzer gähnen",
+          "lassen sich hin und wieder von ihren Halterinnen und Haltern anstecken"
         ],
         [
           "Ob das wirklich Mitgefühl ist, weiß niemand genau",
           "aus Mitgefühl"
         ]
       ],
-      "explain": "manchmal(가끔)을 gelegentlich(이따금)로, Besitzer(주인)를 Halter(사육자, 주인)로 바꿔 말했어요. 공감 때문이라고 단정하는 것은 틀려요. 그것이 정말 공감인지는 아무도 모른다고 했어요. 아이들과 개의 빈도를 비교하는 내용도 없어요."
+      "explain": "'주인이 하품하면 가끔 따라서 하품한다'를 '이따금 주인에게서 하품이 옮는다'로 바꿔 말했어요. manchmal은 hin und wieder로, Besitzer(주인)는 Halter(동물을 기르는 사람)로 바뀌었어요. 공감 때문이라고 단정하는 것은 틀려요. 정말 공감인지는 아무도 모른다고 했고, 아이들과 개의 빈도를 비교하는 내용도 없어요."
     }
   ],
   "grammar": [

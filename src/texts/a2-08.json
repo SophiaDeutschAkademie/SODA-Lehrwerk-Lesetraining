@@ -71,10 +71,10 @@
     {
       "type": "rf",
       "kind": "detail",
-      "q": "Wer etwas vermisst, muss persönlich zum Fundbüro kommen und fragen.",
+      "q": "Wer etwas verloren hat, muss persönlich zum Fundbüro kommen und fragen.",
       "answer": 1,
       "evidence": "Wer etwas verliert, kann im Fundbüro anrufen oder online nachfragen.",
-      "pairs": [["anrufen oder online nachfragen", "persönlich zum Fundbüro kommen"], ["verliert", "vermisst"]],
+      "pairs": [["kann im Fundbüro anrufen oder online nachfragen", "muss persönlich zum Fundbüro kommen und fragen"]],
       "explain": "본문은 물건을 잃어버린 사람이 전화하거나 온라인으로 문의할 수 있다고 해요. 직접 찾아가야 한다는 말은 없고, 오히려 그러지 않아도 되는 방법을 알려 주고 있어요. 그래서 틀렸어요."
     },
     {

@@ -68,7 +68,7 @@
   ],
   "grammar": [
     { "title": "Sie에게 쓰는 명령형", "term": "Imperativ (Sie-Form)",
-      "explain": "Sie에게 부탁하거나 지시할 때는 동사원형을 1번 자리에 두고 바로 뒤에 Sie를 써요. 동사 모양은 현재형의 Sie 형태와 같아요. 분리동사는 앞부분(mit, zurück)이 문장 끝으로 가요. bitte를 넣으면 더 정중해요.",
+      "explain": "Sie에게 부탁하거나 지시할 때는 동사원형을 1번 자리에 두고 바로 뒤에 Sie를 써요. 동사 모양은 현재형의 Sie 형태와 같아요. 분리동사는 앞부분(mit, zurück)이 문장 끝으로 가요. bitte를 넣으면 더 정중해요. bitte는 Sie 뒤에 와도 되고 문장 맨 앞에 와도 돼요(Bitte essen Sie …).",
       "pattern": "동사원형 + Sie (+ bitte) + … (+ 분리 전철)",
       "examples": [
         { "de": "Bringen Sie bitte Ihren Personalausweis mit.", "ko": "신분증을 가져오시기 바랍니다.",
@@ -78,9 +78,9 @@
           "mark": ["essen Sie nicht"],
           "parts": [["Bitte", "기타"], ["essen", "동사"], ["Sie", "주어"], ["nicht", "부정어"], ["in der Bibliothek.", "부사어(장소)"]] }
       ],
-      "tip": "명령형이라도 Sie는 꼭 써야 해요. Sie를 빼면 틀린 문장이에요. 금지는 nicht를 붙여서 말해요(Essen Sie nicht …)." },
+      "tip": "Sie 명령형에서는 Sie를 꼭 써야 해요. Sie를 빼면 틀린 문장이에요. 금지는 nicht를 붙여서 말해요(Essen Sie nicht …)." },
     { "title": "man + 화법조동사", "term": "man + Modalverb",
-      "explain": "man은 '사람들은, 누구나'라는 뜻의 주어예요. 특정한 사람이 아니라 일반적인 규칙을 말할 때 써요. 동사는 er/sie/es와 같은 형태예요. 화법조동사는 2번 자리에 오고, 동사원형은 문장 끝에 와요(틀 구조).",
+      "explain": "man은 '사람들은, 누구나'라는 뜻의 주어예요. 특정한 사람이 아니라 일반적인 규칙을 말할 때 써요. 동사는 er/sie/es와 같은 형태예요. 화법조동사는 2번 자리에 오고, 동사원형은 문장 끝에 와요(틀 구조). 동사원형을 강조할 때는 문장 맨 앞 1번 자리에 둘 수도 있어요(Trinken darf man nur am Eingang).",
       "pattern": "man + kann / darf / muss + … + 동사원형(문장 끝)",
       "examples": [
         { "de": "Bücher kann man vier Wochen behalten, DVDs nur eine Woche.", "ko": "책은 4주 동안, DVD는 1주일 동안만 빌릴 수 있습니다.",
@@ -90,7 +90,7 @@
           "mark": ["Man muss", "zurückgeben"],
           "parts": [["Man", "주어"], ["muss", "동사"], ["alles", "4격 목적어"], ["pünktlich", "부사어(방법)"], ["zurückgeben.", "동사(끝)"]] },
         { "de": "Trinken darf man nur am Eingang.", "ko": "음료는 입구에서만 마실 수 있습니다.",
-          "mark": ["darf man"] }
+          "mark": ["Trinken", "darf man"] }
       ],
       "tip": "man(사람들)과 Mann(남자)은 다른 단어예요. man은 소문자로 쓰고 n이 하나예요. man darf nicht는 '~하면 안 돼요'(금지), man muss nicht는 '~할 필요가 없어요'라는 뜻이에요." },
     { "title": "시간 표현: von … bis, am, pro", "term": "Zeitangaben: von … bis, am, pro",

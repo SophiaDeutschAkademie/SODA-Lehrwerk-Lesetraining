@@ -127,25 +127,25 @@
     {
       "type": "mc",
       "kind": "detail",
-      "q": "Was hat Frau Haas gemacht, bevor sie sich an der Universität angemeldet hat?",
+      "q": "Wann hat sich Frau Haas an die Studienberatung gewandt?",
       "options": [
-        "Sie hat noch ein Semester lang in der Bank weitergearbeitet.",
-        "Sie hat ein halbes Jahr lang Veranstaltungen besucht, ohne eingeschrieben zu sein.",
-        "Sie hat bei der Studienberatung einen Test gemacht."
+        "bevor sie zum ersten Mal eine Vorlesung besucht hat",
+        "erst nachdem sie festgestellt hatte, dass ihr das Studieren gefällt",
+        "als sie mit der Lernplattform nicht zurechtkam"
       ],
       "answer": 1,
-      "evidence": "Ich habe erst einmal ein Semester lang als Gasthörerin Vorlesungen besucht, bevor ich mich richtig eingeschrieben habe.",
+      "evidence": "Erst als ich gemerkt habe, dass es mir Freude macht, habe ich Kontakt mit der Studienberatung aufgenommen.",
       "pairs": [
         [
-          "ein Semester lang",
-          "ein halbes Jahr lang"
+          "Erst als ich gemerkt habe, dass es mir Freude macht",
+          "erst nachdem sie festgestellt hatte, dass ihr das Studieren gefällt"
         ],
         [
-          "als Gasthörerin Vorlesungen besucht",
-          "Veranstaltungen besucht, ohne eingeschrieben zu sein"
+          "Kontakt mit der Studienberatung aufgenommen",
+          "an die Studienberatung gewandt"
         ]
       ],
-      "explain": "'한 학기 동안 청강생으로 강의를 들었다'를 '등록하지 않은 채 반년 동안 수업에 참석했다'로 바꿔 말했어요. 한 학기는 약 반년이에요. 은행에서 계속 일했다거나 상담실에서 시험을 봤다는 내용은 없어요."
+      "explain": "'재미있다는 걸 깨달은 뒤에야(erst als …)'를 '공부가 마음에 든다는 걸 확인한 뒤에야(erst nachdem …)'로, 'Kontakt aufnehmen mit'(~와 연락하다)을 'sich wenden an'(~에게 문의하다)으로 바꿔 말했어요. 상담실에 연락한 것은 청강 학기를 보낸 뒤의 일이니 첫 강의 전이라는 말은 틀리고, 학습 플랫폼 문제는 등록한 뒤에 겪은 일이에요."
     },
     {
       "type": "mc",
@@ -218,14 +218,14 @@
       "options": [
         "Sie sollten sich sofort einschreiben, damit sie keine Zeit verlieren.",
         "Sie sollten zuerst eine Prüfung ablegen, um ihr Wissen zu testen.",
-        "Sie sollten die Entscheidung nicht ewig hinauszögern und bei Unklarheiten nachfragen."
+        "Sie sollten nicht ewig zögern und bei Unklarheiten nachfragen."
       ],
       "answer": 2,
       "evidence": "Nicht zu lange überlegen. Man muss sich nicht gleich einschreiben, sondern kann erst einmal nur zuhören. Und wenn man etwas nicht versteht, sollte man fragen.",
       "pairs": [
         [
           "Nicht zu lange überlegen",
-          "nicht ewig hinauszögern"
+          "nicht ewig zögern"
         ],
         [
           "sollte man fragen",
@@ -236,7 +236,7 @@
           "sofort einschreiben"
         ]
       ],
-      "explain": "'너무 오래 고민하지 말 것'과 '이해가 안 되면 물어볼 것'을 '결정을 미루지 말고 모르면 질문하라'로 요약했어요. 바로 등록하라는 말은 본문과 반대예요. 본문은 바로 등록할 필요가 없다고 해요."
+      "explain": "'너무 오래 고민하지 말 것'과 '이해가 안 되면 물어볼 것'을 '망설이지 말고 모르면 질문하라'로 요약했어요. 바로 등록하라는 말은 본문과 반대예요. 본문은 바로 등록할 필요가 없다고 해요."
     }
   ],
   "grammar": [

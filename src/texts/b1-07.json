@@ -122,14 +122,14 @@
           "vor zwei Jahren gemacht haben"
         ]
       ],
-      "explain": "면허를 취득한 지 최소 1년이 되어야 해요. 그러니 몇 달 전에 면허를 딴 사람은 이용할 수 없어요. 2년 전에 면허를 딴 사람은 조건을 충족해요. 나이 조건은 21세 이상이니 22세인 사람은 이용할 수 있어요."
+      "explain": "면허를 취득한 지 최소 1년이 되어야 해요. 그러니 몇 달 전에 면허를 딴 사람은 이용할 수 없어요. 2년 전에 면허를 딴 사람은 이 조건을 충족해요. 나이 조건은 21세 이상이니 22세라는 나이는 문제가 되지 않아요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Sie bezahlen entweder pro Minute oder pro Stunde – je nachdem, was für Sie günstiger ist.“?",
       "options": [
-        "Die Kundin oder der Kunde muss vor der Fahrt wählen, ob sie oder er nach Minuten oder nach Stunden bezahlen will.",
+        "Kundinnen und Kunden müssen vor der Fahrt wählen, ob sie nach Minuten oder nach Stunden bezahlen wollen.",
         "Für jede Fahrt gilt die Abrechnungsart, die am wenigsten kostet.",
         "Der Preis pro Minute ist je nach Tageszeit unterschiedlich."
       ],
@@ -150,16 +150,20 @@
     {
       "type": "rf",
       "kind": "detail",
-      "q": "Im Basistarif muss man eine monatliche Gebühr und eine Kaution bezahlen.",
+      "q": "Wer den Basistarif wählt, zahlt jeden Monat einen festen Betrag.",
       "answer": 1,
       "evidence": "Im Basistarif gibt es weder eine monatliche Grundgebühr noch eine Kaution.",
       "pairs": [
         [
           "weder eine monatliche Grundgebühr noch eine Kaution",
-          "eine monatliche Gebühr und eine Kaution"
+          "zahlt jeden Monat einen festen Betrag"
+        ],
+        [
+          "Er kostet zwar 9 Euro im Monat",
+          "jeden Monat"
         ]
       ],
-      "explain": "weder … noch는 '~도 ~도 아니다'라는 뜻이에요. 기본 요금제에는 월 기본료도 보증금도 없다고 했으니 문장은 틀려요. 월 9유로는 다빈도 요금제의 요금이에요."
+      "explain": "weder … noch는 '~도 ~도 아니다'라는 뜻이에요. 기본 요금제에는 월 기본료(monatliche Grundgebühr)가 없으니 '매달 고정 금액을 낸다'는 말은 틀려요. 월 9유로가 드는 것은 다빈도 요금제(Vielfahrertarif)예요."
     },
     {
       "type": "mc",
@@ -208,7 +212,7 @@
       "q": "Was bedeutet der Satz „Außerhalb einer Zone können Sie die Fahrt nicht beenden.“?",
       "options": [
         "Wer eine Zone verlässt, muss sofort umkehren.",
-        "Die Fahrt lässt sich nur abschließen, wenn das Auto in einem der markierten Gebiete steht.",
+        "Die Fahrt läuft weiter, bis das Auto wieder in einem der markierten Gebiete steht.",
         "Außerhalb der Zonen fährt das Auto nicht mehr."
       ],
       "answer": 1,
@@ -216,21 +220,21 @@
       "pairs": [
         [
           "die Fahrt nicht beenden",
-          "Die Fahrt lässt sich nur abschließen"
+          "Die Fahrt läuft weiter"
         ],
         [
           "Außerhalb einer Zone",
           "in einem der markierten Gebiete"
         ]
       ],
-      "explain": "구역 밖에서는 운행을 종료할 수 없다는 말은, 앱에 표시된 구역 안에 차를 세워야만 운행을 끝낼 수 있다는 뜻이에요. 구역 밖으로 나가면 안 된다거나 차가 멈춘다는 뜻은 아니에요. 공항까지 가는 운행도 가능하다고 했어요."
+      "explain": "구역 밖에서는 운행을 종료할 수 없다는 말은, 차가 다시 구역 안에 설 때까지 운행이 계속된다는 뜻이에요. 구역 밖으로 나가면 안 된다거나 차가 멈춘다는 뜻은 아니에요. 공항까지 가는 운행도 가능하다고 했어요."
     },
     {
       "type": "mc",
       "kind": "detail",
       "q": "Was passiert, wenn jemand einen Kratzer am Auto nicht meldet?",
       "options": [
-        "Die Person, die vorher gefahren ist, bekommt die Kosten.",
+        "Die Person, die vorher gefahren ist, bekommt die Rechnung.",
         "Der Schaden wird kostenlos repariert, weil er klein ist.",
         "Die Person, die zuletzt gefahren ist, muss für den Schaden zahlen."
       ],

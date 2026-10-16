@@ -109,7 +109,7 @@
       ],
       "answer": 1,
       "evidence": "Dass die zu entsorgenden Waren häufig noch einwandfrei sind, ändert daran nichts.",
-      "pairs": [["zu entsorgenden Waren", "werden sie trotzdem weggeworfen"], ["noch einwandfrei", "noch in Ordnung"]],
+      "pairs": [["zu entsorgenden Waren", "werden sie weggeworfen"], ["häufig noch einwandfrei", "oft noch in Ordnung"]],
       "explain": "'daran'은 앞 문장, 즉 저녁에 남은 것이 폐기된다는 사실을 가리켜요. 상품이 아직 멀쩡하다는 점도 그 사실을 바꾸지 못한다는 뜻이므로 '멀쩡한데도 버려진다'가 맞아요."
     },
     {

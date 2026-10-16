@@ -93,11 +93,11 @@
     {
       "type": "rf",
       "kind": "detail",
-      "q": "Der Film läuft am Samstag nur einmal.",
+      "q": "Man kann den Film am Samstag nur einmal sehen.",
       "answer": 1,
       "evidence": "Um halb sechs und um Viertel nach acht.",
       "pairs": [["Um halb sechs und um Viertel nach acht", "nur einmal"]],
-      "explain": "벤은 영화 시작 시간을 두 개 말해요. 5시 반과 8시 15분이에요. 그러니까 영화는 두 번 상영되고, '한 번만(nur einmal)'은 틀린 내용이에요."
+      "explain": "'Wann beginnt der Film?'이라는 질문에 벤은 시작 시간을 두 개 말해요. 5시 반과 8시 15분이에요. 그러니까 영화는 두 번 상영되고, '한 번만(nur einmal)' 볼 수 있다는 말은 틀린 내용이에요."
     },
     {
       "type": "mc",
