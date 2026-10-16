@@ -75,7 +75,7 @@
       "q": "Wo steigt Dana aus?",
       "options": [
         "an der Kirche",
-        "direkt am Flohmarkt",
+        "direkt am Flohmarkt im Stadtpark",
         "an der Station „Stadtpark“"
       ],
       "answer": 2,
@@ -86,7 +86,7 @@
           "an der Station „Stadtpark“"
         ]
       ],
-      "explain": "다나는 ‘슈타트파크’ 역(Haltestelle)에서 내려요. 문제에서는 Haltestelle 대신 같은 뜻의 Station을 썼어요. 교회는 내린 뒤에 걸어가다가 보이는 곳이고, 벼룩시장까지는 더 걸어가야 해요."
+      "explain": "다나는 ‘슈타트파크’ 역(Haltestelle)에서 내려요. 문제에서는 Haltestelle 대신 같은 뜻의 Station을 썼어요. Stadtpark는 벼룩시장이 열리는 공원 이름이기도 하지만, 역에서 내린 뒤 교회와 다리를 지나 더 걸어가야 벼룩시장이 나와요."
     },
     {
       "type": "rf",

@@ -18,12 +18,12 @@
       "ko": "1888년 8월, 그녀는 용감한 결심을 했습니다. 이 차를 타고 만하임에서 포르츠하임까지 약 100킬로미터를 달리기로 한 것입니다. 출발하기 전에 남편에게는 이 계획을 전혀 말하지 않았습니다. 당시 아직 청소년이던 두 아들만 데리고 갔습니다. 세 사람이 만하임을 떠난 뒤, 이 여행이 가벼운 소풍이 아니라는 것이 금세 드러났습니다."
     },
     {
-      "de": "Als der Kraftstoff zu Ende ging, kaufte Bertha Benz in einer Apotheke in Wiesloch Ligroin, ein Reinigungsmittel, das damals als Treibstoff diente. Die Apotheke wird deshalb heute oft als erste Tankstelle der Welt bezeichnet. Als später die Kraftstoffleitung verstopft war, reinigte sie das Rohr mit ihrer Hutnadel. Ein beschädigtes Kabel isolierte sie mit einem Strumpfband. Nachdem die Bremsen bergab zu heiß geworden waren, bat sie einen Schuster, Leder daran zu befestigen. Bergauf dagegen reichte die Kraft des Motors nicht aus. Dann mussten die Söhne schieben, während ihre Mutter lenkte.",
-      "ko": "연료가 떨어지자 베르타 벤츠는 비스로흐의 한 약국에서 리그로인을 샀습니다. 당시 연료로 쓰이던 세정제였습니다. 그래서 이 약국은 오늘날 흔히 세계 최초의 주유소라고 불립니다. 나중에 연료관이 막혔을 때는 모자 핀으로 관을 청소했습니다. 손상된 전선은 스타킹 고정용 밴드로 감아 절연했습니다. 내리막에서 브레이크가 너무 뜨거워진 뒤에는 구두 수선공에게 브레이크에 가죽을 덧대 달라고 부탁했습니다. 반대로 오르막에서는 엔진의 힘이 모자랐습니다. 그럴 때는 어머니가 핸들을 잡는 동안 아들들이 차를 밀어야 했습니다."
+      "de": "Als der Kraftstoff zu Ende ging, kaufte Bertha Benz in einer Apotheke in Wiesloch Ligroin, ein Reinigungsmittel, das damals als Treibstoff diente. Die Apotheke wird deshalb heute oft als erste Tankstelle der Welt bezeichnet. Als später die Kraftstoffleitung verstopft war, reinigte sie das Rohr mit ihrer Hutnadel. Ein beschädigtes Kabel isolierte sie mit einem Strumpfband. Nachdem sich die Bremsen bergab stark abgenutzt hatten, bat sie einen Schuster, Leder daran zu befestigen. Bergauf dagegen reichte die Kraft des Motors nicht aus. Dann mussten die Söhne schieben, während ihre Mutter lenkte.",
+      "ko": "연료가 떨어지자 베르타 벤츠는 비스로흐의 한 약국에서 리그로인을 샀습니다. 당시 연료로 쓰이던 세정제였습니다. 그래서 이 약국은 오늘날 흔히 세계 최초의 주유소라고 불립니다. 나중에 연료관이 막혔을 때는 모자 핀으로 관을 청소했습니다. 손상된 전선은 스타킹 고정용 밴드로 감아 절연했습니다. 내리막에서 브레이크가 심하게 닳은 뒤에는 구두 수선공에게 브레이크에 가죽을 덧대 달라고 부탁했습니다. 반대로 오르막에서는 엔진의 힘이 모자랐습니다. 그럴 때는 어머니가 핸들을 잡는 동안 아들들이 차를 밀어야 했습니다."
     },
     {
-      "de": "Kurz bevor es dunkel wurde, erreichten die drei Pforzheim – müde, schmutzig, aber stolz. Noch am selben Abend schickte Bertha Benz ihrem Mann ein Telegramm: Sie waren gut angekommen.",
-      "ko": "어두워지기 직전에 세 사람은 포르츠하임에 도착했습니다. 지치고 더러워졌지만 자랑스러웠습니다. 바로 그날 저녁 베르타 벤츠는 남편에게 전보를 보냈습니다. 무사히 도착했다는 내용이었습니다."
+      "de": "Als es dunkel wurde, erreichten die drei Pforzheim – müde, schmutzig, aber stolz. Noch am selben Abend schickte Bertha Benz ihrem Mann ein Telegramm: Sie waren gut angekommen.",
+      "ko": "어두워질 무렵 세 사람은 포르츠하임에 도착했습니다. 지치고 더러워졌지만 자랑스러웠습니다. 바로 그날 저녁 베르타 벤츠는 남편에게 전보를 보냈습니다. 무사히 도착했다는 내용이었습니다."
     },
     {
       "de": "Die Fahrt hatte Folgen. Unterwegs hatte Bertha Benz genau beobachtet, was an dem Fahrzeug noch nicht funktionierte. Nachdem sie nach Mannheim zurückgekehrt war, schlug sie ihrem Mann deshalb einen zusätzlichen Gang für Steigungen vor. Vor allem aber hatte sie bewiesen, dass das Automobil mehr war als ein teures Spielzeug: Man konnte damit wirklich reisen. Die Nachricht von der Fahrt verbreitete sich schnell, und das Interesse an dem Motorwagen wuchs. Heute gilt Bertha Benz als Pionierin des Automobils und ihre Reise als die erste Fernfahrt der Autogeschichte.",
@@ -89,7 +89,7 @@
       "answer": 0,
       "evidence": "bat sie einen Schuster, Leder daran zu befestigen",
       "pairs": [["einen Schuster", "einem Handwerker"], ["bat sie einen Schuster, Leder daran zu befestigen", "bekam Bertha Benz Hilfe"]],
-      "explain": "브레이크가 뜨거워진 뒤 구두 수선공에게 가죽을 덧대 달라고 부탁했어요. Schuster(구두 수선공)를 상위 개념인 Handwerker(수공업자, 기술자)로 바꿔 표현했어요."
+      "explain": "브레이크가 닳은 뒤 구두 수선공에게 가죽을 덧대 달라고 부탁했어요. Schuster(구두 수선공)를 상위 개념인 Handwerker(수공업자, 기술자)로 바꿔 표현했어요."
     },
     {
       "type": "mc",

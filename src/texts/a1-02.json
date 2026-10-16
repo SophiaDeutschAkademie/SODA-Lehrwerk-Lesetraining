@@ -44,11 +44,11 @@
     {
       "type": "rf",
       "kind": "detail",
-      "q": "Die Großmutter feiert ihren Geburtstag im Haus.",
-      "answer": 1,
+      "q": "Auf dem Foto ist die Familie draußen.",
+      "answer": 0,
       "evidence": "Das Foto ist von heute Nachmittag im Garten.",
-      "pairs": [["im Garten", "im Haus"], ["Oma", "Großmutter"]],
-      "explain": "생일 사진은 정원(im Garten)에서 찍었다고 해요. 그러니까 파티도 정원에서 하는 거예요. 문제는 집 안(im Haus)이라고 했으니 틀려요. Oma와 Großmutter는 같은 사람이에요."
+      "pairs": [["im Garten", "draußen"]],
+      "explain": "본문에 'Das Foto ist von heute Nachmittag im Garten.(이 사진은 오늘 오후에 정원에서 찍은 거예요.)'라고 나와요. 정원(Garten)은 집 밖이니까 가족은 바깥(draußen)에 있는 거예요. 맞는 내용이에요."
     },
     {
       "type": "mc",

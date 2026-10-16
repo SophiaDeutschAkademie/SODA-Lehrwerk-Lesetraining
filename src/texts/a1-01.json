@@ -77,11 +77,11 @@
     {
       "type": "rf",
       "kind": "detail",
-      "q": "Jiwoo hat vormittags am meisten Zeit.",
+      "q": "Jiwoo hat meistens am Vormittag Zeit.",
       "answer": 1,
       "evidence": "Nachmittags habe ich meistens Zeit.",
-      "pairs": [["Nachmittags", "vormittags"], ["meistens", "am meisten"]],
-      "explain": "본문에서는 'Nachmittags habe ich meistens Zeit.(오후에는 대체로 시간이 있어요.)'라고 해요. 문제는 오전(vormittags)이라고 했으니 틀려요. meistens(대체로)와 am meisten(가장 많이)은 모양이 비슷하지만 뜻이 달라요."
+      "pairs": [["Nachmittags", "am Vormittag"]],
+      "explain": "본문에서는 'Nachmittags habe ich meistens Zeit.(오후에는 대체로 시간이 있어요.)'라고 해요. 문제는 오전(am Vormittag)이라고 했으니 틀려요. meistens와 Zeit는 본문에 그대로 나오지만, 시간대가 nachmittags에서 am Vormittag로 바뀐 함정이에요."
     },
     {
       "type": "rf",
