@@ -99,7 +99,7 @@
     {
       "type": "mc",
       "kind": "paraphrase",
-      "q": "Was bedeutet der Satz „Was die ersten Tage übersteht, bleibt vergleichsweise stabil.“?",
+      "q": "Was bedeutet der Satz „Was die ersten Tage übersteht, bleibt vergleichsweise stabil“?",
       "options": [
         "In den ersten Tagen nach dem Lernen bleibt das Gelernte noch vollständig erhalten.",
         "Informationen, die man nach einigen Tagen noch weiß, vergisst man danach nur noch langsam.",
@@ -156,28 +156,32 @@
       "kind": "detail",
       "q": "Was geschieht laut Text mit den meisten Eindrücken des Alltags?",
       "options": [
-        "Sie gelangen erst gar nicht ins Langzeitgedächtnis.",
+        "Sie gelangen von vornherein nicht ins Langzeitgedächtnis.",
         "Sie werden im Gehirn wie in einem Archiv für immer abgelegt.",
         "Sie werden nachts noch einmal durchgespielt und dadurch dauerhaft gespeichert."
       ],
       "answer": 0,
-      "evidence": "werden größtenteils gar nicht erst dauerhaft gespeichert.",
+      "evidence": "Die ständig eintreffenden Reize – Gesichter in der U-Bahn, Werbeslogans, das Wetter von vorletzter Woche – werden größtenteils gar nicht erst dauerhaft gespeichert.",
       "pairs": [
         [
+          "Die ständig eintreffenden Reize",
+          "Eindrücken des Alltags"
+        ],
+        [
           "größtenteils",
-          "den meisten Eindrücken"
+          "den meisten"
         ],
         [
           "gar nicht erst dauerhaft gespeichert",
-          "gelangen erst gar nicht ins Langzeitgedächtnis"
+          "von vornherein nicht ins Langzeitgedächtnis"
         ]
       ],
-      "explain": "끊임없이 밀려드는 자극들은 대부분 애초에 오래 저장되지 않는다고 해요. 즉 장기 기억에 들어가지도 않는다는 뜻이에요. 본문은 뇌가 기록 보관소가 아니라고 말하므로 두 번째 선택지는 반대이고, 세 번째 선택지는 '오래 저장되지 않는다'는 본문 내용과 정반대예요."
+      "explain": "끊임없이 밀려드는 자극, 즉 일상의 인상들은 대부분 애초에 오래 저장되지 않는다고 해요. 이것을 '처음부터 장기 기억에 들어가지 않는다'로 바꿔 말했어요. 뇌는 기록 보관소가 아니라고 했으므로 두 번째 선택지는 틀리고, 세 번째 선택지의 durchgespielt(다시 재생된다)는 잠에 관한 단락에서 가져온 함정이에요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
-      "q": "Was will der Autor mit dem Satz „Wer also vor einer Prüfung die Nacht durcharbeitet, nimmt dem Gehirn genau die Zeit, die es für diese Arbeit braucht.“ sagen?",
+      "q": "Was will der Autor mit dem Satz „Wer also vor einer Prüfung die Nacht durcharbeitet, nimmt dem Gehirn genau die Zeit, die es für diese Arbeit braucht“ sagen?",
       "options": [
         "Wer nachts arbeitet, braucht für dieselbe Aufgabe mehr Zeit als am Tag.",
         "Wer vor einer Prüfung zu wenig schläft, kann sich am nächsten Tag schlecht konzentrieren.",

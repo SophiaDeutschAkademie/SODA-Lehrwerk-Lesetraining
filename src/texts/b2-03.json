@@ -57,16 +57,16 @@
     {
       "type": "mc",
       "kind": "paraphrase",
-      "q": "Was meint der Autor mit dem Satz „Mir ist das alles leider zu spät eingefallen.“?",
+      "q": "Was meint der Autor mit dem Satz „Mir ist das alles leider zu spät eingefallen“?",
       "options": [
         "Er hat die Wartezeit nicht so genutzt, wie er es im Nachhinein gern getan hätte.",
         "Er ist zu spät an der Haltestelle angekommen und hat deshalb den Bus verpasst.",
-        "Die guten Ideen sind ihm erst eingefallen, als der Bus schon abgefahren war."
+        "Er hatte an der Haltestelle einen guten Einfall, den er inzwischen wieder vergessen hat."
       ],
       "answer": 0,
       "evidence": "Mir ist das alles leider zu spät eingefallen.",
       "pairs": [["zu spät eingefallen", "im Nachhinein"]],
-      "explain": "'이 모든 것'은 앞 단락에서 말한, 지루함이 좋은 생각을 낳는다는 깨달음이에요. 그것이 너무 늦게 떠올랐다는 말은 정류장에서는 그렇게 행동하지 못했고 나중에야 아쉬워한다는 뜻이에요. 버스를 놓쳤다거나 아이디어가 떠올랐다는 내용은 본문에 없어요."
+      "explain": "'이 모든 것'은 지루함이 좋은 생각을 낳는다는 앞 단락의 내용이에요. 그것이 너무 늦게 떠올랐다는 말은, 정류장에서는 기다리는 시간을 그렇게 쓰지 못했고 나중에야 그것을 아쉬워한다는 뜻이에요. 버스를 놓쳤다는 말은 없고, 정류장에서 글쓴이는 좋은 생각을 떠올린 것이 아니라 아침 식사 사진을 보고 있었어요."
     },
     {
       "type": "rfn",
@@ -83,7 +83,7 @@
       "q": "Dem Autor selbst ist schon einmal unter der Dusche eine gute Idee gekommen.",
       "answer": 2,
       "evidence": null,
-      "pairs": [["Unter der Dusche", "unter der Dusche"]],
+      "pairs": [["Dort sind angeblich mehr gute Ideen entstanden", "Dem Autor selbst ist schon einmal unter der Dusche eine gute Idee gekommen"]],
       "explain": "샤워는 좋은 아이디어가 떠오른다고 하는 장소의 예로 나오지만, 글쓴이 자신이 그런 경험을 했는지는 본문에 전혀 나오지 않아요."
     },
     {
@@ -112,12 +112,12 @@
       "answer": 2,
       "evidence": "Ab sofort bleibt das Handy in der Tasche, wenn ich irgendwo warten muss.",
       "pairs": [["bleibt das Handy in der Tasche", "auf das Handy zu verzichten"], ["wenn ich irgendwo warten muss", "In Wartesituationen"]],
-      "explain": "'휴대폰은 주머니에 넣어 둔다'를 '휴대폰 사용을 포기한다'로 바꿔 말했어요. 아이디어는 오히려 곧바로 휴대폰에 입력하겠다고 하고, 남자에게 질문하겠다는 말은 없어요."
+      "explain": "'휴대폰은 주머니에 넣어 둔다'를 '휴대폰 사용을 포기한다'로 바꿔 말했어요. 맞은편 남자에게 직접 묻겠다는 것이 아니라, 왜 목도리를 둘렀는지 혼자 궁금해하겠다(sich fragen)는 거예요. 아이디어는 오히려 곧바로 휴대폰에 입력하겠다고 해요."
     },
     {
       "type": "mc",
       "kind": "intent",
-      "q": "Welche Wirkung hat der letzte Satz „Man will ja schließlich nichts vergessen.“?",
+      "q": "Welche Wirkung hat der letzte Satz „Man will ja schließlich nichts vergessen“?",
       "options": [
         "Der Autor nimmt sich selbst auf den Arm, weil er seinen guten Vorsatz sofort wieder einschränkt.",
         "Der Autor gibt den Lesern den ernst gemeinten Rat, Ideen immer sofort zu notieren.",

@@ -86,7 +86,7 @@
     {
       "type": "mc",
       "kind": "paraphrase",
-      "q": "Was bedeutet der Satz „Alles, was wir hinzufügen, muss jederzeit rückgängig zu machen sein.“?",
+      "q": "Was bedeutet der Satz „Alles, was wir hinzufügen, muss jederzeit rückgängig zu machen sein“?",
       "options": [
         "Jede Ergänzung muss sich später wieder entfernen lassen.",
         "Jede Ergänzung muss sofort dokumentiert werden.",
@@ -100,11 +100,11 @@
     {
       "type": "rfn",
       "kind": "detail",
-      "q": "Die Restauratorin rechnet damit, dass ihre eigene Arbeit eines Tages von anderen verändert wird.",
+      "q": "Der Restauratorin ist wichtig, dass ihre eigene Arbeit später von anderen verändert werden kann.",
       "answer": 0,
       "evidence": "Die nächste Generation wird andere Methoden zur Verfügung haben, und sie soll unsere Entscheidungen korrigieren können.",
-      "pairs": [["Die nächste Generation", "eines Tages von anderen"], ["unsere Entscheidungen korrigieren", "ihre eigene Arbeit eines Tages von anderen verändert wird"]],
-      "explain": "포크트는 다음 세대가 다른 방법을 쓰게 될 것이고 지금의 결정을 바로잡을 수 있어야 한다고 말해요. 즉 자신의 작업이 나중에 다른 사람들에 의해 바뀔 것을 예상하고 오히려 바라고 있어요. '다음 세대'를 '언젠가 다른 사람들'로, '결정을 바로잡다'를 '작업을 바꾸다'로 바꿔 말했어요."
+      "pairs": [["Die nächste Generation", "später von anderen"], ["soll unsere Entscheidungen korrigieren können", "verändert werden kann"]],
+      "explain": "포크트는 다음 세대가 다른 방법을 쓸 수 있게 될 것이고, 지금의 결정을 바로잡을 수 있어야 한다고 말해요. 즉 자신의 작업을 나중에 다른 사람이 바꿀 수 있어야 한다는 것이 포크트의 원칙이에요. '다음 세대'를 '나중에 다른 사람들'로, '바로잡을 수 있어야 한다(korrigieren können)'를 '바뀔 수 있다(verändert werden kann)'로 바꿔 말했어요."
     },
     {
       "type": "mc",
@@ -137,16 +137,16 @@
     {
       "type": "rfn",
       "kind": "detail",
-      "q": "Frau Vogt hat schon einmal ein Bild eines unbekannten Malers verbessert.",
+      "q": "Frau Vogt restauriert besonders gern Werke unbekannter Maler.",
       "answer": 2,
       "evidence": null,
-      "pairs": [["Die Versuchung gibt es", "hat schon einmal ein Bild eines unbekannten Malers verbessert"]],
-      "explain": "포크트는 무명 화가의 작품에서 그런 유혹이 있다고 인정하지만, 자신이 실제로 그렇게 한 적이 있는지는 말하지 않아요. 원칙상 해서는 안 된다고만 하므로 본문만으로는 판단할 수 없어요."
+      "pairs": [["gerade bei Werken unbekannter Maler", "besonders gern Werke unbekannter Maler"]],
+      "explain": "포크트는 무명 화가의 작품에서 특히(gerade) 그림을 더 낫게 고치고 싶은 유혹이 생긴다고 말할 뿐이에요. 그런 작품을 특히 즐겨(besonders gern) 복원하는지는 본문에 나오지 않아요. gerade와 besonders가 비슷해 보이지만 유혹을 느낀다는 것과 즐겨 한다는 것은 다른 말이므로, 맞다고도 틀리다고도 할 수 없어요."
     },
     {
       "type": "mc",
       "kind": "paraphrase",
-      "q": "Was will Frau Vogt mit dem Satz „Wo der Maler eine ungeschickte Hand gemalt hat, bleibt die Hand ungeschickt.“ sagen?",
+      "q": "Was will Frau Vogt mit dem Satz „Wo der Maler eine ungeschickte Hand gemalt hat, bleibt die Hand ungeschickt“ sagen?",
       "options": [
         "Fehler des Künstlers werden bewusst nicht korrigiert.",
         "Unerfahrene Restauratoren verschlechtern ein Bild oft.",
@@ -160,7 +160,7 @@
     {
       "type": "mc",
       "kind": "detail",
-      "q": "Welche Eigenschaft hält die Restauratorin für am schwersten zu erwerben?",
+      "q": "Was ist nach Ansicht der Restauratorin am schwersten zu erwerben?",
       "options": [
         "die Fähigkeit, lange ohne sichtbaren Fortschritt weiterzuarbeiten",
         "das Wissen über chemische Lösungsmittel",

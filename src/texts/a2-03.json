@@ -7,7 +7,7 @@
   "type": "Tagebucheintrag",
   "typeKo": "일기",
   "intro": "열여섯 살 엘리프가 동물병원에서 학교 실습을 한 첫날을 일기에 적었어요.",
-  "focus": ["화법조동사의 과거형 (musste, durfte, sollte, konnte, wollte)", "war/hatte + 현재완료로 일상 이야기하기", "재귀동사 (sich freuen auf/über, sich ärgern über, sich gewöhnen an)"],
+  "focus": ["화법조동사의 과거형 (musste, durfte, sollte, konnte, wollte)", "war/hatte와 현재완료로 일상 이야기하기", "재귀동사 (sich freuen auf/über, sich ärgern über, sich gewöhnen an)"],
   "paragraphs": [
     { "style": "meta", "de": "Montag, 3. März", "ko": "3월 3일 월요일" },
     { "de": "Liebes Tagebuch, ich bin total müde, aber ich muss den Tag noch aufschreiben. Heute war mein erster Tag in der Tierarztpraxis Dr. Sommer. Schon um 7 Uhr musste ich da sein, deshalb hatte ich kaum Zeit zum Frühstücken. An das frühe Aufstehen muss ich mich erst noch gewöhnen!",
@@ -87,11 +87,11 @@
           "mark": ["konnte", "zusehen"],
           "parts": [["Nach der Mittagspause", "부사어(시간)"], ["konnte", "동사"], ["ich", "주어"], ["sogar", "부사어"], ["bei einer Operation", "전치사 목적어"], ["zusehen.", "동사(끝)"]] }
       ],
-      "tip": "sollte는 '~하기로 되어 있었다, ~하라는 지시를 받았다'는 뜻이에요. 본문에서 엘리프가 sollte를 쓴 것은 박사님이 그 일을 맡겼기 때문이에요. 일상 대화에서 'Ich habe … gemusst' 같은 현재완료형은 거의 쓰지 않아요." },
-    { "title": "war / hatte + 현재완료로 지난 일 이야기하기",
-      "term": "Präteritum von sein/haben + Perfekt",
+      "tip": "sollte는 '~하기로 되어 있었다, ~하라는 지시를 받았다'는 뜻이에요. 본문에서 엘리프가 sollte를 쓴 것은 박사님이 그 일을 맡겼기 때문이에요. 화법조동사를 현재완료로 쓰면 Ich habe früh aufstehen müssen처럼 과거분사(gemusst) 대신 동사원형 müssen이 오고, 문장 끝에 동사원형이 두 개 와요. 이렇게 복잡해서 말할 때도 보통 과거형 musste를 써요." },
+    { "title": "war / hatte와 현재완료로 지난 일 이야기하기",
+      "term": "Präteritum von sein/haben und Perfekt",
       "explain": "일상에서 지난 일을 말할 때 대부분의 동사는 현재완료(haben/sein + 과거분사)를 써요: hat gezittert, habe gemacht, ist weggelaufen. 하지만 sein과 haben은 현재완료 대신 과거형 war와 hatte를 쓰는 것이 훨씬 자연스러워요: Heute war mein erster Tag, Am Anfang hatte ich Angst. 그래서 하나의 이야기 안에 war/hatte와 현재완료가 섞여 나와요. 이것이 독일어 일상 이야기의 기본 형태예요.",
-      "pattern": "war / hatte (sein, haben의 과거형) + 나머지 동사는 haben/sein + 과거분사",
+      "pattern": "sein, haben → 과거형 war, hatte / 다른 동사 → 현재완료 (haben/sein + 과거분사)",
       "examples": [
         { "de": "Am Anfang hatte ich ein bisschen Angst.",
           "ko": "처음에는 조금 무서웠어요.",
@@ -105,7 +105,7 @@
           "ko": "병원은 붐볐고, 아는 사람은 아무도 없었어요.",
           "mark": ["war", "kannte"] }
       ],
-      "tip": "'Ich bin müde gewesen'이나 'Ich habe Angst gehabt'은 문법적으로 맞지만 어색해요. sein과 haben은 war, hatte로 말하세요. kennen도 kannte처럼 과거형을 자주 써요." },
+      "tip": "'Ich bin müde gewesen'이나 'Ich habe Angst gehabt'도 틀린 문장은 아니고, 남부 독일에서는 말할 때 자주 써요. 하지만 보통은 war, hatte가 더 자연스러워요. kennen도 kannte처럼 과거형을 자주 써요. 주의: war/hatte 뒤에 과거분사가 오면(hatte gemacht) 과거완료라는 다른 시제가 돼요." },
     { "title": "재귀동사와 전치사: sich freuen auf/über, sich ärgern über, sich gewöhnen an",
       "term": "Reflexive Verben mit Präposition",
       "explain": "재귀동사는 주어와 같은 사람을 가리키는 재귀대명사(mich, dich, sich, uns, euch, sich)와 함께 써요. 이 동사들은 정해진 전치사와 함께 쓰여요. sich freuen auf + 4격은 앞으로 올 일이 '기다려지다', sich freuen über + 4격은 이미 있는 일이 '기쁘다'예요. sich ärgern über + 4격은 '~때문에 화가 나다', sich gewöhnen an + 4격은 '~에 익숙해지다'예요. 앞 문장의 내용을 가리킬 때는 전치사 앞에 da(r)-를 붙여요: Darüber habe ich mich gefreut.",

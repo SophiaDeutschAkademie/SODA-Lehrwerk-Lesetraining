@@ -157,7 +157,7 @@
     {
       "title": "문장 앞의 wenn절 – 동사, 동사",
       "term": "Konditionalsatz mit wenn im Vorfeld",
-      "explain": "wenn은 '~하면, ~할 때'라는 뜻의 종속접속사예요. wenn절에서는 동사가 절의 끝에 와요. wenn절이 문장 맨 앞에 오면 그 절 전체가 1번 자리를 차지해요. 그래서 쉼표 바로 뒤에 주절의 동사가 오고, 주어는 그 동사 뒤로 가요. 결국 쉼표를 사이에 두고 동사 두 개가 나란히 서게 돼요.",
+      "explain": "wenn은 '~하면, ~할 때'라는 뜻의 종속접속사예요. wenn절에서는 인칭변화한 동사가 절의 맨 끝에 와요(erklären kannst). wenn절이 문장 맨 앞에 오면 그 절 전체가 1번 자리를 차지해요. 그래서 쉼표 바로 뒤에 주절의 동사가 오고, 주어는 그 동사 뒤로 가요. 결국 쉼표를 사이에 두고 동사 두 개가 나란히 서게 돼요.",
       "pattern": "Wenn + 주어 + … + 동사(끝), + 동사 + 주어 + …",
       "examples": [
         {
@@ -178,8 +178,8 @@
     {
       "title": "sollte(st) – 부드러운 조언",
       "term": "sollte (Konjunktiv II von sollen) für Ratschläge",
-      "explain": "sollte는 화법조동사 sollen의 접속법 2식 형태예요. '~하는 게 좋아요'라는 부드러운 조언을 할 때 써요. 현재형 sollst(~해야 해, 남의 지시)보다 훨씬 부드러워요. 다른 화법조동사처럼 sollte가 2번 자리에 오고 동사원형이 문장 끝에 와서 틀 구조를 만들어요. 형태는 ich sollte, du solltest, er/sie sollte, wir sollten, ihr solltet, sie sollten이에요.",
-      "pattern": "주어 + sollte(st) + … + 동사원형(문장 끝)",
+      "explain": "sollte는 화법조동사 sollen의 접속법 2식 형태예요. '~하는 게 좋아요'라는 부드러운 조언을 할 때 써요. 현재형 du sollst는 다른 사람이 시킨 일이나 정해진 규칙을 전할 때 써서, sollte보다 훨씬 강하게 들려요. 다른 화법조동사처럼 sollte가 2번 자리에 오고 동사원형이 문장 끝에 와서 틀 구조를 만들어요. 형태는 ich sollte, du solltest, er/sie sollte, wir sollten, ihr solltet, sie sollten이에요.",
+      "pattern": "1번 자리(주어 · 의문사 · wenn절 …) + sollte(st) + … + 동사원형(문장 끝)",
       "examples": [
         {
           "de": "Wann solltest du dir Hilfe holen?",
@@ -191,15 +191,15 @@
           "de": "Du solltest deshalb mindestens sieben Stunden schlafen – auch vor der Prüfung!",
           "ko": "그래서 적어도 일곱 시간은 자는 게 좋아요. 시험 전날에도요!",
           "mark": ["solltest", "schlafen"],
-          "parts": [["Du", "주어"], ["solltest", "동사"], ["deshalb", "접속부사"], ["mindestens sieben Stunden", "부사어(시간)"], ["schlafen", "동사(끝)"], ["– auch vor der Prüfung!", "기타"]]
+          "parts": [["Du", "주어"], ["solltest", "동사"], ["deshalb", "접속부사"], ["mindestens sieben Stunden", "부사어(시간)"], ["schlafen", "동사(끝)"], ["– auch vor der Prüfung!", "부사어(시간)"]]
         }
       ],
-      "tip": "sollte는 과거형처럼 보이지만 과거의 뜻이 아니에요. 지금 하는 조언이에요."
+      "tip": "sollte는 sollen의 과거형과 모양이 같아요. 하지만 조언하는 sollte는 과거의 뜻이 아니라 지금이나 앞으로 할 일을 말해요."
     },
     {
       "title": "zu 부정사구",
       "term": "Infinitiv mit zu",
-      "explain": "동사원형 앞에 zu를 붙인 형태를 zu 부정사라고 해요. 'Es ist wichtig, … zu …', 'Versuch, … zu …', 'Vergiss nicht, … zu …'처럼 앞부분의 내용을 채워 줘요. zu + 동사원형은 구의 맨 끝에 오고, 앞에는 보통 쉼표를 찍어요. 분리동사는 접두사와 동사 사이에 zu가 들어가요: anfangen → anzufangen, einpacken → einzupacken.",
+      "explain": "동사원형 앞에 zu를 붙인 형태를 zu 부정사라고 해요. zu 부정사구는 주절에서 비어 있는 내용을 채워 줘요: 무엇이 중요한지(Es ist wichtig, … zu …), 무엇을 해 볼지(Versuch, … zu …), 무엇을 잊지 말지(Vergiss nicht, … zu …)를 말해요. Es ist wichtig, …의 es는 주어 자리를 미리 채우는 상관어이고, 실제 내용은 뒤의 zu 부정사구예요. zu + 동사원형은 구의 맨 끝에 오고, 주절과 zu 부정사구 사이에는 보통 쉼표를 찍어요. 분리동사는 접두사와 동사 사이에 zu가 들어가요: anfangen → anzufangen, einpacken → einzupacken.",
       "pattern": "주절, + (목적어·부사어) + zu + 동사원형",
       "examples": [
         {
@@ -219,7 +219,7 @@
           "mark": ["zu holen"]
         }
       ],
-      "tip": "화법조동사 뒤에는 zu를 쓰지 않아요: Du solltest schlafen. (zu schlafen이 아니에요.)"
+      "tip": "화법조동사 뒤에는 zu를 쓰지 않아요: Du solltest schlafen. (zu schlafen이 아니에요.) zu 부정사구에는 주어가 없어요. 그래서 재귀대명사는 그 일을 하는 사람에 맞춰요: du가 할 일이면 dich/dir(Versuch, dich … zu treffen), 누구에게나 해당하는 일이면 sich(sich Hilfe zu holen)를 써요."
     }
   ],
   "vocab": [

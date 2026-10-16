@@ -103,29 +103,35 @@
     {
       "title": "소유관사 mein/sein/ihr/unser",
       "term": "Possessivartikel",
-      "explain": "소유관사는 '나의, 그의, 그녀의, 우리의'처럼 누구의 것인지 말해 줘요. ich → mein, du → dein, er → sein, sie(그녀) → ihr, wir → unser예요. 소유관사는 뒤에 오는 명사에 따라 어미가 달라져요. 여성 명사와 복수 앞에서는 -e를 붙이고(meine Oma, meine Eltern), 남성·중성 명사 앞에서는 1격에서 어미가 없어요(mein Vater, ihr Baby).",
-      "pattern": "mein Vater (남성) · ihr Baby (중성) · meine Oma (여성) · meine Eltern (복수)",
+      "explain": "소유관사는 '나의, 그의, 그녀의, 우리의'처럼 누구의 것인지 말해 줘요. ich → mein, du → dein, er/es → sein, sie(그녀) → ihr, wir → unser, ihr(너희) → euer, sie(그들) → ihr, Sie(존칭) → Ihr예요. 단수에서는 부정관사 ein과 같은 어미가 붙어요. 1격에서는 여성 명사와 복수 앞에 -e를 붙이고(meine Oma, meine Eltern), 남성·중성 명사 앞에는 어미가 없어요(mein Vater, ihr Baby). 4격에서는 남성 명사 앞에서만 모양이 바뀌고(meinen Vater), 3격에서는 여성 명사 앞에 -er, 남성·중성 명사 앞에 -em이 붙어요(hinter meiner Oma, mit ihrem Mann).",
+      "pattern": "1격: mein Vater (남성) · ihr Baby (중성) · meine Oma (여성) · meine Eltern (복수)",
       "examples": [
         {
-          "de": "Hinter meiner Oma steht mein Bruder Max.",
-          "ko": "할머니 뒤에는 제 남동생 막스가 서 있어요.",
-          "mark": ["meiner", "mein"],
-          "parts": [["Hinter meiner Oma", "부사어(장소)"], ["steht", "동사"], ["mein Bruder Max.", "주어"]]
+          "de": "Mein Vater lacht, meine Mutter hält den Kuchen.",
+          "ko": "아버지는 웃고 계시고, 어머니는 케이크를 들고 계세요.",
+          "mark": ["Mein", "meine"],
+          "parts": [["Mein Vater", "주어"], ["lacht,", "동사"], ["meine Mutter", "주어"], ["hält", "동사"], ["den Kuchen.", "4격 목적어"]]
         },
         {
           "de": "Ihr Baby heißt Emil und ist erst drei Monate alt.",
           "ko": "언니의 아기는 이름이 에밀이고 이제 겨우 3개월이에요.",
           "mark": ["Ihr"],
           "parts": [["Ihr Baby", "주어"], ["heißt", "동사"], ["Emil", "보어"], ["und", "접속사"], ["ist", "동사"], ["erst drei Monate alt.", "보어"]]
+        },
+        {
+          "de": "Hinter meiner Oma steht mein Bruder Max.",
+          "ko": "할머니 뒤에는 제 남동생 막스가 서 있어요.",
+          "mark": ["meiner", "mein"],
+          "parts": [["Hinter meiner Oma", "부사어(장소)"], ["steht", "동사"], ["mein Bruder Max.", "주어"]]
         }
       ],
-      "tip": "sein은 '그의', ihr는 '그녀의'예요. 'Seine Kinder'는 삼촌(er)의 아이들, 'Ihr Baby'는 파울라(sie)의 아기예요. 소유관사는 가진 사람에 따라 고르고, 어미는 뒤에 오는 명사에 따라 붙여요."
+      "tip": "sein은 '그의', ihr는 '그녀의'예요. 'Seine Kinder'는 삼촌(er)의 아이들, 'Ihr Baby'는 파울라(sie)의 아기예요. 소유관사는 가진 사람에 따라 고르고, 어미는 뒤에 오는 명사의 성·수와 격에 따라 붙여요. 'Hier seht ihr unsere Familie.'의 ihr는 소유관사가 아니라 '너희'라는 뜻의 인칭대명사예요. unser의 -er는 어미가 아니라 단어의 일부예요: unser Onkel(어미 없음), unsere Familie(-e)."
     },
     {
       "title": "명사의 복수형",
       "term": "Plural der Nomen",
-      "explain": "독일어 명사의 복수형은 여러 가지 모양이에요. -e(der Hund → die Hunde), -n/-en(die Blume → die Blumen, die Katze → die Katzen), -er(das Kind → die Kinder), -s(das Foto → die Fotos), 그리고 모양이 바뀌지 않는 경우(der Lehrer → die Lehrer)가 있어요. 복수의 정관사는 성에 상관없이 항상 die예요. 새 단어는 복수형과 함께 외우는 것이 좋아요.",
-      "pattern": "der Hund → die Hunde · das Kind → die Kinder · die Blume → die Blumen · das Foto → die Fotos",
+      "explain": "독일어 명사의 복수형은 여러 가지 모양이에요. -e(der Hund → die Hunde), -n/-en(die Blume → die Blumen, die Katze → die Katzen), -er(das Kind → die Kinder), -s(das Foto → die Fotos), 그리고 모양이 바뀌지 않는 경우(der Lehrer → die Lehrer)가 있어요. 모음 a, o, u가 ä, ö, ü로 바뀌기도 해요(der Vater → die Väter, der Koch → die Köche). 복수의 정관사는 1격과 4격에서 성에 상관없이 die예요. 새 단어는 복수형과 함께 외우는 것이 좋아요.",
+      "pattern": "der Hund → die Hunde · das Kind → die Kinder · die Blume → die Blumen · das Foto → die Fotos · der Vater → die Väter",
       "examples": [
         {
           "de": "Vorne sitzen zwei Hunde und eine Katze.",
@@ -140,7 +146,7 @@
           "parts": [["Seine Kinder", "주어"], ["sind", "동사"], ["nicht", "부정어"], ["auf dem Foto,", "부사어(장소)"], ["sie", "주어"], ["sind", "동사"], ["in der Schule.", "부사어(장소)"]]
         }
       ],
-      "tip": "Eltern(부모님)은 복수형으로만 써요. 그래서 동사도 복수형이에요: Links stehen meine Eltern. 아빠 한 명은 der Vater, 엄마 한 명은 die Mutter예요."
+      "tip": "주어가 복수이면 동사도 복수형이에요: Seine Kinder sind …, Links stehen meine Eltern. Eltern(부모님)은 복수형으로만 써요. 부모 중 한 사람은 der Vater(아버지), die Mutter(어머니)라고 해요. 단어장의 '-¨e'는 모음이 바뀌고 -e가 붙는다는 표시예요: der Koch, -¨e → die Köche."
     },
     {
       "title": "stehen/sitzen + 장소",
@@ -151,17 +157,17 @@
         {
           "de": "In der Mitte sitzt meine Oma.",
           "ko": "가운데에는 우리 할머니가 앉아 계세요.",
-          "mark": ["sitzt"],
+          "mark": ["In der Mitte", "sitzt"],
           "parts": [["In der Mitte", "부사어(장소)"], ["sitzt", "동사"], ["meine Oma.", "주어"]]
         },
         {
           "de": "Neben ihm steht unser Onkel.",
           "ko": "막스 옆에는 우리 삼촌이 서 계세요.",
-          "mark": ["steht"],
+          "mark": ["Neben ihm", "steht"],
           "parts": [["Neben ihm", "부사어(장소)"], ["steht", "동사"], ["unser Onkel.", "주어"]]
         }
       ],
-      "tip": "stehen과 sitzen 뒤에서 'Wo?'에 답하는 장소 표현은 3격이에요: in der Mitte, hinter meiner Oma, neben ihm."
+      "tip": "in, hinter, neben 같은 3·4격 지배 전치사는 'Wo?(어디에?)'라는 질문에 답할 때 3격과 함께 써요: in der Mitte, hinter meiner Oma, neben ihm(er → ihm). links, rechts, vorne는 부사라서 모양이 바뀌지 않아요."
     }
   ],
   "vocab": [

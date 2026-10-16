@@ -97,8 +97,8 @@
     {
       "title": "규칙 동사의 현재형",
       "term": "Präsens regelmäßiger Verben",
-      "explain": "wohnen, lernen, kochen, spielen, suchen 같은 규칙 동사는 어간에 인칭어미를 붙여서 현재형을 만들어요. ich는 -e, du는 -st, er/sie/es는 -t, wir와 sie(그들)는 -en을 붙여요. 규칙 동사는 어간이 바뀌지 않아요.",
-      "pattern": "ich wohn-e · du wohn-st · er/sie wohn-t · wir wohn-en",
+      "explain": "wohnen, lernen, kochen, spielen, suchen 같은 규칙 동사는 어간에 인칭어미를 붙여서 현재형을 만들어요. 어간은 동사원형에서 -en을 뺀 부분이에요(wohnen → wohn-). ich는 -e, du는 -st, er/sie/es는 -t, wir는 -en, ihr는 -t, sie(그들)와 Sie(존칭)는 -en을 붙여요. 규칙 동사는 어간이 바뀌지 않아요.",
+      "pattern": "ich wohn-e · du wohn-st · er/sie/es wohn-t · wir wohn-en · ihr wohn-t · sie/Sie wohn-en",
       "examples": [
         {
           "de": "In Köln wohne ich seit sechs Monaten.",
@@ -113,13 +113,13 @@
           "parts": [["Lernst", "동사"], ["du", "주어"], ["Koreanisch?", "4격 목적어"]]
         }
       ],
-      "tip": "du 뒤에서는 어미가 -st예요: du lernst, du wohnst. ich 뒤에서는 -e예요: ich lerne, ich wohne."
+      "tip": "어간이 -t나 -d로 끝나는 동사는 du, er/sie/es, ihr 형태에서 어미 앞에 -e-를 넣어요: du arbeitest, er arbeitet, ihr arbeitet, du redest. 어간이 -s, -ß, -z로 끝나는 동사는 du 형태에서 -st 대신 -t만 붙여요: heißen → du heißt, tanzen → du tanzt."
     },
     {
       "title": "sein과 haben",
       "term": "sein und haben (Präsens)",
-      "explain": "sein은 '~이다', haben은 '~을 가지고 있다'라는 뜻이에요. 두 동사는 불규칙하게 변해요. sein: ich bin, du bist, er/sie ist, wir sind. haben: ich habe, du hast, er/sie hat, wir haben. 나이, 국적, 직업을 말할 때는 sein을 쓰고, 취미나 시간, 하고 싶은 마음(Lust)을 말할 때는 haben을 써요.",
-      "pattern": "ich bin · du bist · er/sie ist · wir sind / ich habe · du hast · er/sie hat · wir haben",
+      "explain": "sein은 '~이다', haben은 '~을 가지고 있다'라는 뜻이에요. 두 동사는 불규칙하게 변해요. sein: ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind. haben: ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie/Sie haben. 나이, 국적, 직업을 말할 때는 sein을 쓰고, 취미나 시간, 하고 싶은 마음(Lust)을 말할 때는 haben을 써요.",
+      "pattern": "ich bin · du bist · er/sie/es ist · wir sind · ihr seid · sie/Sie sind / ich habe · du hast · er/sie/es hat · wir haben · ihr habt · sie/Sie haben",
       "examples": [
         {
           "de": "Ich bin Koreanerin und komme aus Busan.",
@@ -131,15 +131,15 @@
           "de": "Hast du Lust auf ein Tandem?",
           "ko": "탄뎀을 하고 싶으세요?",
           "mark": ["Hast"],
-          "parts": [["Hast", "동사"], ["du", "주어"], ["Lust", "4격 목적어"], ["auf ein Tandem?", "전치사 목적어"]]
+          "parts": [["Hast", "동사"], ["du", "주어"], ["Lust auf ein Tandem?", "4격 목적어"]]
         }
       ],
-      "tip": "주어가 du일 때 sein은 bist, haben은 hast예요: Bist du Student? Hast du Zeit?"
+      "tip": "주어가 du일 때 sein은 bist, haben은 hast예요: Bist du Student? Hast du Zeit? 'Lust auf ein Tandem'에서 auf ein Tandem은 Lust에 붙어서 무엇을 하고 싶은지 말해 줘요(Lust auf + 4격). 그래서 'Lust auf ein Tandem' 전체가 haben의 4격 목적어예요."
     },
     {
       "title": "동사 2번 자리와 판정 의문문",
       "term": "Verb an Position 2 / Ja-Nein-Frage",
-      "explain": "평서문에서 동사는 항상 2번 자리에 와요. 1번 자리에는 주어가 올 수도 있고(Ich wohne in Köln.), 시간이나 장소 표현이 올 수도 있어요(In Köln wohne ich …). 주어가 아닌 것이 1번 자리에 오면 주어는 동사 뒤로 가요. 반대로 '네/아니요'로 대답하는 판정 의문문에서는 동사가 1번 자리에 오고 주어가 바로 뒤에 와요.",
+      "explain": "평서문에서 동사는 항상 2번 자리에 와요. 1번 자리에는 주어가 올 수도 있고(Ich wohne in Köln.), 시간이나 장소 표현(In Köln wohne ich …)이나 목적어(Englisch spreche ich auch gut.)가 올 수도 있어요. 주어가 아닌 것이 1번 자리에 오면 주어는 동사 뒤로 가요. 반대로 '네/아니요'로 대답하는 판정 의문문에서는 동사가 1번 자리에 오고 주어가 바로 뒤에 와요.",
       "pattern": "평서문: 1번 자리 + 동사 + … / 판정 의문문: 동사 + 주어 + …?",
       "examples": [
         {

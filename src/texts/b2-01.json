@@ -50,8 +50,8 @@
       "q": "Laut Bürgermeisterin interessieren sich seit der Umstellung deutlich mehr Menschen für eine Stelle bei der Stadt.",
       "answer": 0,
       "evidence": "Zudem habe die Stadt in den vergangenen drei Monaten mehr Bewerbungen erhalten als im gesamten Jahr zuvor.",
-      "pairs": [["mehr Bewerbungen erhalten", "interessieren sich seit der Umstellung deutlich mehr Menschen für eine Stelle"]],
-      "explain": "시장에 따르면 시는 지난 석 달 동안 그 전 한 해 전체보다 더 많은 입사 지원서를 받았어요. '지원서가 더 많이 들어왔다'를 '더 많은 사람이 일자리에 관심을 보인다'로 바꿔 말한 거예요."
+      "pairs": [["in den vergangenen drei Monaten", "seit der Umstellung"], ["mehr Bewerbungen erhalten als im gesamten Jahr zuvor", "deutlich mehr Menschen für eine Stelle"]],
+      "explain": "시장에 따르면 시는 지난 석 달 동안 그 전 한 해 전체보다 더 많은 입사 지원서를 받았어요. 6개월 시험 기간의 절반이 지난 시점이므로 '지난 석 달'은 곧 새 근무제를 시작한 뒤(seit der Umstellung)의 기간이에요. '지원서가 훨씬 많이 들어왔다'를 '훨씬 많은 사람이 시의 일자리에 관심을 보인다'로 바꿔 말했어요."
     },
     {
       "type": "mc",
@@ -70,7 +70,7 @@
     {
       "type": "mc",
       "kind": "paraphrase",
-      "q": "Was ist mit dem Satz „Daran werde man arbeiten.“ gemeint?",
+      "q": "Was ist mit dem Satz „Daran werde man arbeiten“ gemeint?",
       "options": [
         "Die Beschäftigten sollen an den betroffenen Tagen zusätzlich arbeiten.",
         "Die Stadt will die Zahl der Krankmeldungen weiter untersuchen.",
@@ -79,7 +79,7 @@
       "answer": 2,
       "evidence": "Sie räumte allerdings ein, dass es an einzelnen Tagen zu Engpässen bei der Terminvergabe gekommen sei.",
       "pairs": [["Engpässen bei der Terminvergabe", "Problem mit den Terminen"], ["Daran werde man arbeiten", "in den Griff bekommen"]],
-      "explain": "바로 앞 문장에서 시장은 예약 배정에 병목 현상이 생겼다고 인정했어요. Daran(그것에 대해)은 이 문제를 가리키므로, 시가 예약 문제를 해결하겠다는 뜻이에요. arbeiten이라는 단어 때문에 직원이 더 일한다는 뜻으로 읽으면 안 돼요."
+      "explain": "바로 앞 문장에서 시장은 예약 배정에 병목 현상이 생겼다고 인정했어요. Daran은 바로 이 문제를 가리키고, an etwas arbeiten은 '~을 개선하려고 애쓰다'라는 뜻이에요. 그러니 시가 예약 문제를 해결하겠다(in den Griff bekommen)는 말이고, arbeiten만 보고 직원이 더 일한다는 뜻으로 읽으면 안 돼요."
     },
     {
       "type": "mc",
@@ -87,13 +87,13 @@
       "q": "Womit erklärt der Personalrat, dass die Arbeit trotz des freien Tages geschafft wird?",
       "options": [
         "Die Beschäftigten arbeiten an den übrigen vier Tagen entsprechend länger.",
-        "Abläufe wurden vereinfacht und ein Teil der Anliegen wird digital erledigt.",
+        "Die Arbeit wurde effizienter organisiert, und ein Teil der Anliegen wird digital erledigt.",
         "Die Stadt hat zusätzliches Personal für das Bürgerbüro eingestellt."
       ],
       "answer": 1,
       "evidence": "vielmehr habe man die Abläufe gestrafft: Besprechungen seien kürzer geworden, und viele Anträge könnten die Bürger inzwischen online stellen.",
-      "pairs": [["die Abläufe gestrafft", "Abläufe wurden vereinfacht"], ["online stellen", "digital erledigt"]],
-      "explain": "직원 협의회장은 업무 절차를 간소화했고(Abläufe gestrafft), 회의가 짧아졌으며, 많은 신청을 온라인으로 할 수 있게 되었다고 설명해요. 직원이 더 길게 일한다거나 사람을 새로 뽑았다는 말은 본문에 없어요."
+      "pairs": [["die Abläufe gestrafft", "effizienter organisiert"], ["viele Anträge könnten die Bürger inzwischen online stellen", "ein Teil der Anliegen wird digital erledigt"]],
+      "explain": "직원 협의회장은 쉬는 날이 그냥 주어지는 것이 아니라 업무 절차를 간소화했다고(die Abläufe gestrafft) 설명하면서, 짧아진 회의와 온라인 신청을 예로 들어요. 이것을 '업무를 더 효율적으로 조직했고 일부 용무는 디지털로 처리한다'로 바꿔 말했어요. 남은 나흘 동안 더 오래 일한다거나 사람을 새로 뽑았다는 설명은 하지 않아요."
     },
     {
       "type": "mc",
@@ -115,7 +115,7 @@
       "q": "Die Wissenschaftlerin Lea Brandner hat bereits ähnliche Versuche in anderen Städten begleitet.",
       "answer": 2,
       "evidence": null,
-      "pairs": [["Wissenschaftlich begleitet wird der Versuch", "ähnliche Versuche in anderen Städten begleitet"]],
+      "pairs": [["Wissenschaftlich begleitet wird der Versuch", "ähnliche Versuche in anderen Städten begleitet"], ["in anderen Kommunen", "in anderen Städten"]],
       "explain": "브란트너가 이 실험을 학술적으로 함께 살펴본다는 것과 다른 지자체들이 관심 있게 지켜본다는 것은 나오지만, 브란트너가 전에 비슷한 실험을 맡은 적이 있는지는 본문에 전혀 나오지 않아요."
     },
     {
@@ -123,14 +123,14 @@
       "kind": "detail",
       "q": "Welche Einschränkung macht die Wissenschaftlerin Lea Brandner?",
       "options": [
-        "Der Versuch ist schlecht geplant und findet kaum Beachtung.",
+        "Die positiven Effekte werden nach einem Jahr wieder verschwinden.",
         "Die Beschäftigten im Bürgerbüro waren von Anfang an wenig motiviert.",
         "Die Ergebnisse lassen sich nicht auf alle Arbeitsbereiche übertragen."
       ],
       "answer": 2,
       "evidence": "Außerdem gebe es Bereiche, in denen das Modell kaum funktionieren würde – etwa dort, wo rund um die Uhr Personal gebraucht werde.",
       "pairs": [["Bereiche, in denen das Modell kaum funktionieren würde", "nicht auf alle Arbeitsbereiche übertragen"]],
-      "explain": "브란트너는 이 모델이 거의 작동하기 어려운 분야, 예컨대 24시간 인력이 필요한 곳이 있다고 말해요. 즉 결과를 모든 업무 분야에 그대로 적용할 수는 없다는 제한을 두는 거예요. 다른 두 선택지는 본문 내용과 반대예요."
+      "explain": "브란트너는 이 모델이 거의 작동하기 어려운 분야, 예컨대 24시간 인력이 필요한 곳이 있다고 말해요. 즉 결과를 모든 업무 분야에 그대로 옮길 수는 없다는 제한이에요. 효과가 지속될지는 1년이 지나야 알 수 있다고 했을 뿐 사라질 거라고 단정하지 않았고, 시범 사업 참여자는 대개 오히려 특별히 의욕이 높다고 했어요."
     },
     {
       "type": "mc",
@@ -138,12 +138,12 @@
       "q": "Welche Absicht verfolgt der Bericht?",
       "options": [
         "Er will die Leserinnen und Leser von den Vorteilen der Vier-Tage-Woche überzeugen.",
-        "Er will die Zwischenbilanz des Versuchs mit verschiedenen Stimmen ausgewogen darstellen.",
+        "Er will die bisherigen Erfahrungen aus verschiedenen Blickwinkeln ausgewogen darstellen.",
         "Er will die Bürgermeisterin für die Probleme bei der Terminvergabe kritisieren."
       ],
       "answer": 1,
       "evidence": "Zur Halbzeit des Versuchs hat die Stadt nun eine erste Zwischenbilanz vorgelegt.",
-      "pairs": [],
+      "pairs": [["eine erste Zwischenbilanz", "die bisherigen Erfahrungen"]],
       "explain": "기사는 시장, 직원 협의회, 시민, 학자의 입장을 차례로 전하고 장점과 문제점을 모두 다뤄요. 어느 한쪽을 설득하거나 비판하려는 글이 아니라 중간 결과를 균형 있게 전달하는 보도예요."
     }
   ],
