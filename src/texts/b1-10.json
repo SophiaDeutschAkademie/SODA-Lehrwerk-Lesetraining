@@ -85,7 +85,7 @@
       "kind": "detail",
       "q": "Warum hat die Autorin das Experiment gemacht?",
       "options": [
-        "Ihre Mitbewohnerin hatte sie dazu überredet.",
+        "Ihre Mitbewohnerin hatte sie zu dem Experiment überredet.",
         "Sie wollte herausfinden, wie sehr sie ihr Handy braucht.",
         "Sie wollte in dieser Woche endlich ein Buch zu Ende lesen."
       ],
@@ -108,9 +108,9 @@
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Wäre die Bahn pünktlich gewesen, hätte ich meinen Termin um neun verpasst.“?",
       "options": [
-        "Die Bahn kam zu spät, und deshalb hat die Autorin ihren Termin verpasst.",
-        "Die Bahn kam pünktlich, aber die Autorin hat den Termin trotzdem geschafft.",
-        "Die Bahn kam zu spät, und genau deshalb hat die Autorin ihren Termin noch geschafft."
+        "Die Bahn kam zu spät, und deshalb hat die Autorin ihren Termin um neun verpasst.",
+        "Die Bahn kam pünktlich, aber die Autorin hat ihren Termin trotzdem geschafft.",
+        "Die Bahn kam zu spät, und deshalb hat die Autorin ihren Termin noch geschafft."
       ],
       "answer": 2,
       "evidence": "Wäre die Bahn pünktlich gewesen, hätte ich meinen Termin um neun verpasst.",
@@ -131,7 +131,7 @@
       "kind": "detail",
       "q": "Wie hat die Autorin am zweiten Tag das Café schließlich gefunden?",
       "options": [
-        "Eine fremde Frau hat ihr geholfen.",
+        "Eine fremde Frau hat ihr bei der Suche geholfen.",
         "Sie hat den gefalteten Stadtplan richtig gelesen.",
         "Ihre Freundin hat sie an der Kreuzung abgeholt."
       ],
@@ -140,7 +140,7 @@
       "pairs": [
         [
           "Ohne die Hilfe einer älteren Dame",
-          "Eine fremde Frau hat ihr geholfen"
+          "Eine fremde Frau hat ihr bei der Suche geholfen"
         ],
         [
           "Mit einem gefalteten Stadtplan in der Hand",
@@ -168,16 +168,16 @@
       "kind": "paraphrase",
       "q": "Was will die Autorin mit dem Satz „Früher hätte ich in solchen Momenten einfach irgendetwas auf dem Bildschirm gelesen.“ sagen?",
       "options": [
-        "Vor dem Experiment hat sie sich in langweiligen Situationen meistens mit dem Handy beschäftigt.",
-        "Früher hat sie auf dem Handy nur wichtige Texte gelesen.",
-        "Sie hätte in dieser Woche gern etwas auf dem Handy gelesen, aber es war nicht erlaubt."
+        "Vor dem Experiment hat sie sich bei Langeweile oft mit dem Handy beschäftigt.",
+        "Früher hat sie auf dem Handy nur wichtige Texte für ihre Arbeit gelesen.",
+        "Sie hätte in dieser Woche gern etwas auf dem Handy gelesen, durfte aber nicht."
       ],
       "answer": 0,
       "evidence": "Früher hätte ich in solchen Momenten einfach irgendetwas auf dem Bildschirm gelesen.",
       "pairs": [
         [
           "in solchen Momenten",
-          "in langweiligen Situationen"
+          "bei Langeweile"
         ],
         [
           "einfach irgendetwas auf dem Bildschirm gelesen",

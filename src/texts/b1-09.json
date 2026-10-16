@@ -75,23 +75,23 @@
       "kind": "detail",
       "q": "Was sagt der Text über die Erklärung mit dem Sauerstoff?",
       "options": [
-        "Sie wurde durch Experimente bestätigt.",
-        "Sie gilt heute als die wichtigste Erklärung für das Gähnen.",
-        "Sie ließ sich in Untersuchungen nicht nachweisen."
+        "Sie wurde durch viele Experimente im Labor bestätigt.",
+        "Sie ist heute die wichtigste Erklärung für das Gähnen.",
+        "Sie ließ sich in den Untersuchungen nicht nachweisen."
       ],
       "answer": 2,
       "evidence": "Diese Erklärung klingt logisch, aber Studien konnten sie nicht bestätigen.",
       "pairs": [
         [
           "Studien konnten sie nicht bestätigen",
-          "ließ sich in Untersuchungen nicht nachweisen"
+          "ließ sich in den Untersuchungen nicht nachweisen"
         ],
         [
           "Lange Zeit glaubte man",
-          "gilt heute als die wichtigste Erklärung"
+          "ist heute die wichtigste Erklärung"
         ]
       ],
-      "explain": "'연구들이 확인하지 못했다(Studien konnten sie nicht bestätigen)'를 '조사에서 입증할 수 없었다(ließ sich in Untersuchungen nicht nachweisen)'로 바꿔 말했어요. 산소 부족 설명은 예전에 믿던 것이고, 오늘날에는 뇌를 식힌다는 추측이 더 많이 이야기돼요. bestätigen이라는 단어가 본문에 있어서 첫 번째 선택지가 함정이에요."
+      "explain": "'연구들이 확인하지 못했다(Studien konnten sie nicht bestätigen)'를 '조사에서 입증할 수 없었다(ließ sich in den Untersuchungen nicht nachweisen)'로 바꿔 말했어요. 산소 부족 설명은 예전에 믿던 것이고, 오늘날에는 뇌를 식힌다는 추측이 더 많이 이야기돼요. bestätigen이라는 단어가 본문에 있어서 첫 번째 선택지가 함정이에요."
     },
     {
       "type": "mc",
@@ -99,8 +99,8 @@
       "q": "Was will der Text mit dem Satz „Sicher ist das jedoch nicht, und vermutlich gibt es nicht nur einen Grund.“ sagen?",
       "options": [
         "Die Kühlung des Gehirns ist inzwischen bewiesen, aber es gibt noch weitere Gründe.",
-        "Die Erklärung mit der Kühlung ist nur eine Vermutung, und wahrscheinlich spielen mehrere Ursachen zusammen.",
-        "Niemand weiß, warum wir gähnen, deshalb gibt es keine Erklärung."
+        "Die Kühlung ist nur eine Vermutung, wahrscheinlich wirken mehrere Ursachen zusammen.",
+        "Niemand kennt die Gründe für das Gähnen, deshalb gibt es bis heute keine Erklärung."
       ],
       "answer": 1,
       "evidence": "Sicher ist das jedoch nicht, und vermutlich gibt es nicht nur einen Grund.",
@@ -139,16 +139,16 @@
       "kind": "detail",
       "q": "Bei wem gähnen wir am ehesten mit?",
       "options": [
-        "bei Menschen, die uns nahestehen",
+        "bei Menschen, die uns emotional nahestehen",
         "bei Fremden, die wir zum ersten Mal sehen",
-        "bei Personen, die besonders müde sind"
+        "bei Leuten, die gerade besonders müde sind"
       ],
       "answer": 0,
       "evidence": "Je enger die Beziehung zu einer Person ist, desto eher gähnen wir mit.",
       "pairs": [
         [
           "Je enger die Beziehung zu einer Person ist",
-          "Menschen, die uns nahestehen"
+          "Menschen, die uns emotional nahestehen"
         ],
         [
           "bei Fremden",
@@ -164,7 +164,7 @@
       "options": [
         "Kleine Kinder gähnen fast nie mit, wenn andere gähnen.",
         "Kleine Kinder wehren sich dagegen, wenn andere gähnen.",
-        "Kleine Kinder gähnen seltener als Erwachsene, weil sie weniger müde sind."
+        "Kleine Kinder gähnen seltener, weil sie weniger müde sind."
       ],
       "answer": 0,
       "evidence": "Kleine Kinder lassen sich dagegen kaum anstecken.",
@@ -203,23 +203,23 @@
       "kind": "detail",
       "q": "Was steht im Text über Hunde?",
       "options": [
-        "Sie gähnen aus Mitgefühl mit ihren Besitzerinnen und Besitzern.",
-        "Sie lassen sich hin und wieder von ihren Halterinnen und Haltern anstecken.",
-        "Sie gähnen häufiger als kleine Kinder."
+        "Sie gähnen nur aus Mitgefühl mit ihren Besitzerinnen und Besitzern.",
+        "Sie lassen sich ab und zu von ihren Halterinnen und Haltern anstecken.",
+        "Sie gähnen immer mit, wenn ihre Besitzerinnen und Besitzer gähnen."
       ],
       "answer": 1,
       "evidence": "Auch Hunde gähnen manchmal mit, wenn ihre Besitzerinnen und Besitzer gähnen.",
       "pairs": [
         [
           "gähnen manchmal mit, wenn ihre Besitzerinnen und Besitzer gähnen",
-          "lassen sich hin und wieder von ihren Halterinnen und Haltern anstecken"
+          "lassen sich ab und zu von ihren Halterinnen und Haltern anstecken"
         ],
         [
           "Ob das wirklich Mitgefühl ist, weiß niemand genau",
           "aus Mitgefühl"
         ]
       ],
-      "explain": "'주인이 하품하면 가끔 따라서 하품한다'를 '이따금 주인에게서 하품이 옮는다'로 바꿔 말했어요. manchmal은 hin und wieder로, Besitzer(주인)는 Halter(동물을 기르는 사람)로 바뀌었어요. 공감 때문이라고 단정하는 것은 틀려요. 정말 공감인지는 아무도 모른다고 했고, 아이들과 개의 빈도를 비교하는 내용도 없어요."
+      "explain": "'주인이 하품하면 가끔 따라서 하품한다'를 '이따금 주인에게서 하품이 옮는다'로 바꿔 말했어요. manchmal은 ab und zu로, Besitzer(주인)는 Halter(동물을 기르는 사람)로 바뀌었어요. 공감 때문이라고 단정하는 것과 '항상(immer)' 따라 한다는 것은 틀려요. 정말 공감인지는 아무도 모르고, 개는 '가끔'만 따라 해요."
     }
   ],
   "grammar": [

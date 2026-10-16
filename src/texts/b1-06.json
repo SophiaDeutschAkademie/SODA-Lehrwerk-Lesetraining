@@ -107,15 +107,15 @@
       "q": "Was meint Frau Haas mit dem Satz „Nein, so mutig war ich nicht.“?",
       "options": [
         "Sie hatte Angst vor den vielen jungen Studierenden.",
-        "Sie fand die Einschreibung zu kompliziert.",
-        "Sie hat sich nicht getraut, sich gleich fest anzumelden."
+        "Sie fand die Einschreibung an der Uni zu kompliziert.",
+        "Sie traute sich nicht, sich gleich fest anzumelden."
       ],
       "answer": 2,
       "evidence": "Nein, so mutig war ich nicht. Ich habe erst einmal ein Semester lang als Gasthörerin Vorlesungen besucht, bevor ich mich richtig eingeschrieben habe.",
       "pairs": [
         [
           "so mutig war ich nicht",
-          "hat sich nicht getraut"
+          "traute sich nicht"
         ],
         [
           "sofort eingeschrieben",
@@ -129,23 +129,23 @@
       "kind": "detail",
       "q": "Wann hat sich Frau Haas an die Studienberatung gewandt?",
       "options": [
-        "bevor sie zum ersten Mal eine Vorlesung besucht hat",
-        "erst nachdem sie festgestellt hatte, dass ihr das Studieren gefällt",
-        "als sie mit der Lernplattform nicht zurechtkam"
+        "bevor sie zum ersten Mal an einer Vorlesung teilgenommen hat",
+        "erst nachdem sie erkannt hatte, dass ihr das Studieren gefällt",
+        "als sie mit der Lernplattform der Universität nicht zurechtkam"
       ],
       "answer": 1,
       "evidence": "Erst als ich gemerkt habe, dass es mir Freude macht, habe ich Kontakt mit der Studienberatung aufgenommen.",
       "pairs": [
         [
           "Erst als ich gemerkt habe, dass es mir Freude macht",
-          "erst nachdem sie festgestellt hatte, dass ihr das Studieren gefällt"
+          "erst nachdem sie erkannt hatte, dass ihr das Studieren gefällt"
         ],
         [
           "Kontakt mit der Studienberatung aufgenommen",
           "an die Studienberatung gewandt"
         ]
       ],
-      "explain": "'재미있다는 걸 깨달은 뒤에야(erst als …)'를 '공부가 마음에 든다는 걸 확인한 뒤에야(erst nachdem …)'로, 'Kontakt aufnehmen mit'(~와 연락하다)을 'sich wenden an'(~에게 문의하다)으로 바꿔 말했어요. 상담실에 연락한 것은 청강 학기를 보낸 뒤의 일이니 첫 강의 전이라는 말은 틀리고, 학습 플랫폼 문제는 등록한 뒤에 겪은 일이에요."
+      "explain": "'재미있다는 걸 깨달은 뒤에야(erst als …)'를 '공부가 마음에 든다는 걸 알아차린 뒤에야(erst nachdem …)'로, 'Kontakt aufnehmen mit'(~와 연락하다)을 'sich wenden an'(~에게 문의하다)으로 바꿔 말했어요. 상담실에 연락한 것은 청강 학기를 보낸 뒤의 일이니 첫 강의 전이라는 말은 틀리고, 학습 플랫폼 문제는 등록한 뒤에 겪은 일이에요."
     },
     {
       "type": "mc",
@@ -153,8 +153,8 @@
       "q": "Womit hatte Frau Haas im Studium besonders große Probleme?",
       "options": [
         "mit den digitalen Angeboten der Universität",
-        "mit dem Verhalten der jüngeren Studierenden in den Pausen",
-        "mit den Notizen aus den Vorlesungen"
+        "mit dem Verhalten der Jüngeren in den Pausen",
+        "mit den eigenen Notizen aus den Vorlesungen"
       ],
       "answer": 0,
       "evidence": "Richtig schwer war für mich die Technik. Mit der Lernplattform bin ich lange nicht zurechtgekommen",
@@ -175,9 +175,9 @@
       "kind": "paraphrase",
       "q": "Was bedeutet der Satz „Bis ich den Bachelor in der Tasche habe, dauert es noch ungefähr zwei Jahre.“?",
       "options": [
-        "Sie hat ihren Bachelor vor ungefähr zwei Jahren abgeschlossen.",
+        "Sie hat ihren Bachelor vor ungefähr zwei Jahren erfolgreich abgeschlossen.",
         "Sie wird ihren Abschluss voraussichtlich in etwa zwei Jahren erreichen.",
-        "Sie muss noch zwei Jahre warten, bevor sie mit dem Bachelorstudium beginnen kann."
+        "Sie muss noch zwei Jahre warten, bevor sie das Studium beginnen kann."
       ],
       "answer": 1,
       "evidence": "Bis ich den Bachelor in der Tasche habe, dauert es noch ungefähr zwei Jahre.",

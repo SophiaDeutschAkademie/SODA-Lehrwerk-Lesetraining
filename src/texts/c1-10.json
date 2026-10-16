@@ -50,7 +50,7 @@
       "q": "Was bedeutet der Satz „Vertrauen ist, so gesehen, kein Gefühl, das wir uns leisten, sondern eine Bedingung, ohne die wir nicht handeln könnten.“?",
       "options": [
         "Vertrauen ist ein Luxus, den sich nur Menschen in sicheren Verhältnissen erlauben können.",
-        "Vertrauen ist weniger eine Frage der Empfindung als eine praktische Notwendigkeit des täglichen Handelns.",
+        "Vertrauen ist weniger eine Empfindung als eine praktische Voraussetzung für das Handeln.",
         "Vertrauen ist ein Gefühl, das man sich durch sorgfältiges Prüfen erst verdienen muss.",
         "Vertrauen ist eine Bedingung, die wir anderen stellen, bevor wir mit ihnen handeln."
       ],
@@ -59,11 +59,11 @@
       "pairs": [
         [
           "kein Gefühl, das wir uns leisten",
-          "weniger eine Frage der Empfindung"
+          "weniger eine Empfindung"
         ],
         [
           "eine Bedingung, ohne die wir nicht handeln könnten",
-          "eine praktische Notwendigkeit des täglichen Handelns"
+          "eine praktische Voraussetzung für das Handeln"
         ]
       ],
       "explain": "'sich etwas leisten'은 여유가 있어서 누린다는 뜻인데, 글쓴이는 신뢰가 그런 감정이 아니라 행동의 전제 조건이라고 해요. 즉 감정의 문제라기보다 일상이 돌아가기 위한 필수 조건이라는 뜻이에요. '사치'라는 선택지는 글쓴이가 부정한 쪽을 그대로 택한 것이라 틀려요."
@@ -92,7 +92,7 @@
       "q": "Wie erklärt der Autor im Anschluss an Luhmann die Funktion des Vertrauens?",
       "options": [
         "Vertrauen hilft, die Zukunft genauer vorherzusagen, als es ohne Vertrauen möglich wäre.",
-        "Vertrauen blendet einen Teil der denkbaren Entwicklungen aus und macht dadurch Entscheidungen überhaupt erst möglich.",
+        "Vertrauen blendet manche Entwicklungen aus und macht so Entscheidungen erst möglich.",
         "Vertrauen erhöht die Zahl der Möglichkeiten, zwischen denen ein Einzelner wählen kann.",
         "Vertrauen ersetzt die Entscheidung durch eine sorgfältige Prüfung aller Möglichkeiten."
       ],
@@ -101,11 +101,11 @@
       "pairs": [
         [
           "schließt Möglichkeiten aus",
-          "blendet einen Teil der denkbaren Entwicklungen aus"
+          "blendet manche Entwicklungen aus"
         ],
         [
           "käme man zu keiner Entscheidung mehr",
-          "macht dadurch Entscheidungen überhaupt erst möglich"
+          "macht so Entscheidungen erst möglich"
         ]
       ],
       "explain": "신뢰는 가능성을 배제함으로써 결정을 가능하게 한다고 해요. 모든 가능성을 고려하면 어떤 결정에도 이르지 못한다는 앞 문장과 연결돼요. 미래를 더 정확히 예측하는 것이 아니라 미래가 덜 열려 있는 것처럼 행동하는 거예요."
@@ -115,17 +115,17 @@
       "kind": "meaning",
       "q": "Was bedeutet „Vorschuss“ im Satz „Vertrauen ist ein Vorschuss, der nicht gedeckt ist“?",
       "options": [
-        "eine Leistung, die man erbringt, bevor feststeht, ob sie erwidert wird",
-        "ein Vorteil, den man gegenüber anderen hat",
+        "eine Vorleistung, deren Erwiderung noch ungewiss ist",
+        "ein Vorteil, den man von Anfang an gegenüber anderen hat",
         "eine Sicherheit, die man vor einem Geschäft hinterlegt",
-        "ein Vorurteil, das man über andere Menschen hat"
+        "ein Vorurteil, das man gegenüber anderen Menschen hegt"
       ],
       "answer": 0,
       "evidence": "Vertrauen ist ein Vorschuss, der nicht gedeckt ist, eine Wette darauf, dass der andere sich so verhalten wird, wie man es erwartet.",
       "pairs": [
         [
           "Vorschuss, der nicht gedeckt ist",
-          "Leistung, die man erbringt, bevor feststeht, ob sie erwidert wird"
+          "Vorleistung, deren Erwiderung noch ungewiss ist"
         ]
       ],
       "explain": "Vorschuss는 원래 일을 하기 전에 미리 받는 돈(선지급)이에요. 여기서는 상대가 보답할지 모르는 상태에서 먼저 내주는 것이라는 비유로 쓰였고, 'nicht gedeckt'(담보가 없는)와 'Wette'(내기)가 그 뜻을 뒷받침해요."
@@ -135,17 +135,17 @@
       "kind": "detail",
       "q": "Wie steht der Autor zur Kontrolle?",
       "options": [
-        "Er lehnt sie ab, weil sie in allen Lebensbereichen mehr schadet als nützt.",
-        "Er hält sie für unverzichtbar, weil Vertrauen allein zu riskant ist.",
+        "Er lehnt sie ab, weil sie in allen Lebensbereichen mehr Schaden als Nutzen bringt.",
+        "Er hält sie für unverzichtbar, weil Vertrauen allein zu riskant und unsicher ist.",
         "Er sieht in ihr die einzige Möglichkeit, Verlässlichkeit dauerhaft zu sichern.",
-        "Er hält sie in bestimmten Bereichen für berechtigt, weist aber auf ihre verborgenen Kosten hin."
+        "Er hält sie in manchen Bereichen für sinnvoll, nennt aber ihre verborgenen Kosten."
       ],
       "answer": 3,
       "evidence": "Das ist nicht grundsätzlich verkehrt – niemand wünscht sich eine Luftfahrt, die auf Vertrauen statt auf Wartungsprotokollen beruht.",
       "pairs": [
         [
           "nicht grundsätzlich verkehrt",
-          "in bestimmten Bereichen für berechtigt"
+          "in manchen Bereichen für sinnvoll"
         ],
         [
           "einen höheren, als es auf den ersten Blick scheint",
@@ -159,9 +159,9 @@
       "kind": "paraphrase",
       "q": "Was ist mit dem Satz „So entsteht eine Verlässlichkeit, die genauso weit reicht wie der Blick des Kontrolleurs – und keinen Schritt weiter.“ gemeint?",
       "options": [
-        "Kontrolleure sollten ihren Blick erweitern, damit die Verlässlichkeit zunimmt.",
-        "Durch Überwachung entsteht ein Verhalten, auf das man sich nur dort verlassen kann, wo tatsächlich hingesehen wird.",
-        "Kontrolle schafft eine Verlässlichkeit, die auch dann bestehen bleibt, wenn niemand mehr hinsieht.",
+        "Kontrolleure sollten ihren Blick erweitern, damit die Verlässlichkeit deutlich zunimmt.",
+        "Überwachung erzeugt ein Verhalten, das nur dort verlässlich bleibt, wo jemand hinsieht.",
+        "Kontrolle schafft eine Verlässlichkeit, die auch bestehen bleibt, wenn niemand hinsieht.",
         "Je weiter der Kontrolleur blickt, desto weniger verlässlich werden die Kontrollierten."
       ],
       "answer": 1,
@@ -169,7 +169,7 @@
       "pairs": [
         [
           "genauso weit reicht wie der Blick des Kontrolleurs",
-          "nur dort verlassen kann, wo tatsächlich hingesehen wird"
+          "nur dort verlässlich bleibt, wo jemand hinsieht"
         ],
         [
           "keinen Schritt weiter",
@@ -201,9 +201,9 @@
       "kind": "detail",
       "q": "Warum ist eine Beziehung, in der sich beide Seiten vollständig absichern, laut Text keine Beziehung mehr?",
       "options": [
-        "Weil Verträge grundsätzlich schädlich für persönliche Beziehungen sind.",
+        "Weil Verträge in persönlichen Beziehungen grundsätzlich schädlich und unnötig sind.",
         "Weil vollständige Absicherung in der Praxis zu teuer ist, um sie durchzuhalten.",
-        "Weil zu einer Beziehung notwendig gehört, dass man sich dem anderen ungeschützt aussetzt.",
+        "Weil zu einer Beziehung notwendig gehört, sich dem anderen ungeschützt auszusetzen.",
         "Weil beide Seiten dann nicht mehr vorhersehen können, was der andere tun wird."
       ],
       "answer": 2,
@@ -211,7 +211,7 @@
       "pairs": [
         [
           "verletzlich macht",
-          "sich dem anderen ungeschützt aussetzt"
+          "sich dem anderen ungeschützt auszusetzen"
         ],
         [
           "kein Nebeneffekt, sondern sein Wesen",
@@ -239,21 +239,21 @@
       "kind": "gist",
       "q": "Welche Aussage gibt den Gedankengang des Essays am besten wieder?",
       "options": [
-        "Vertrauen ist zwar riskant, aber als Grundlage des Handelns unverzichtbar – Kontrolle und Misstrauen können es nur teuer und unvollständig ersetzen.",
+        "Vertrauen ist riskant, aber notwendig – Kontrolle und Misstrauen ersetzen es nur teuer und lückenhaft.",
         "Vertrauen sollte durch Verträge und Kontrolle ersetzt werden, weil es den Menschen verletzlich macht.",
         "Wer anderen vertraut, wird enttäuscht; deshalb ist Misstrauen auf lange Sicht die sicherere Haltung.",
-        "Luhmann hat gezeigt, dass Vertrauen vor allem in der Wirtschaft eine Rolle spielt."
+        "Luhmann hat gezeigt, dass Vertrauen vor allem im Wirtschaftsleben und in der Politik eine Rolle spielt."
       ],
       "answer": 0,
       "evidence": "Dass es ohne ihn nicht geht, weiß jeder, der morgens das Haus verlässt.",
       "pairs": [
         [
           "Dass es ohne ihn nicht geht",
-          "als Grundlage des Handelns unverzichtbar"
+          "aber notwendig"
         ],
         [
           "Misstrauen erscheint demgegenüber als die sicherere Haltung. Es ist jedoch die teurere.",
-          "Kontrolle und Misstrauen können es nur teuer und unvollständig ersetzen"
+          "Kontrolle und Misstrauen ersetzen es nur teuer und lückenhaft"
         ]
       ],
       "explain": "글은 신뢰가 담보 없는 선지급이라 위험하지만 행동의 전제라고 보고, 통제는 시선이 닿는 곳까지만 효과가 있으며 불신은 사회를 마비시킨다고 논증해요. 불신이 더 안전하다는 것은 글쓴이가 반박하는 입장이에요."
